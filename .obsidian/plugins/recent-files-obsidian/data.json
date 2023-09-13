@@ -9,6 +9,14 @@
       "path": "_english.md"
     },
     {
+      "basename": "Analyzing literary and non-literary texts",
+      "path": "Analyzing literary and non-literary texts.md"
+    },
+    {
+      "basename": "Yellow wallpaper work",
+      "path": "Yellow wallpaper work.md"
+    },
+    {
       "basename": "Inflation et ses causes",
       "path": "Inflation et ses causes.md"
     },
@@ -43,10 +51,6 @@
     {
       "basename": "_CAS",
       "path": "_CAS.md"
-    },
-    {
-      "basename": "Analyzing literary and non-literary texts",
-      "path": "Analyzing literary and non-literary texts.md"
     },
     {
       "basename": "Analyse",
@@ -195,10 +199,6 @@
     {
       "basename": "Demande",
       "path": "Demande.md"
-    },
-    {
-      "basename": "physics template",
-      "path": "template/physics template.md"
     }
   ],
   "omittedPaths": [],

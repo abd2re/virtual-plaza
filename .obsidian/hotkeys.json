@@ -109,5 +109,23 @@
       ],
       "key": "S"
     }
+  ],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }

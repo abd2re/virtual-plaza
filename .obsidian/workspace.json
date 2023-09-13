@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd65805b8b7ce718",
+            "id": "11237c216c20667d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -21,31 +21,7 @@
                   "title": "_english",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":9.148148148148149}"
-                },
-                {
-                  "title": "Inflation et ses causes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inflation et ses causes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Chapitre 3 -  Objectifs macro-économiques",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 3 -  Objectifs macro-économiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":11.645339652448657}"
-                },
-                {
-                  "title": "ethical issues",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ethical issues.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                  "eState": "{}"
                 }
               ]
             },
@@ -53,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Textual analysis.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -419,10 +395,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cd65805b8b7ce718",
+  "active": "11237c216c20667d",
   "lastOpenFiles": [
     "_english.md",
+    "Analyzing literary and non-literary texts.md",
+    "Yellow wallpaper work.md",
     "Textual analysis.md",
+    "Content.md",
+    "Analyzing speeches.md",
+    "Présentation d'un document iconographique.md",
     "Inflation et ses causes.md",
     "Chapitre 3 -  Objectifs macro-économiques.md",
     "Causes du chômage, coûts et solutions.md",
@@ -438,18 +419,13 @@
     "Chapitre 1 - La Demande.md",
     "ethical issues.md",
     "_CAS.md",
-    "Analyzing literary and non-literary texts.md",
     "Analyse.md",
     "Untitled.md",
-    "Analyzing speeches.md",
     "Key features of stories.md",
     "Conflicts.md",
     "Short stories or novels.md",
     "Peace act structure.md",
     "Images and Magazine covers.md",
-    "_physics.md",
-    "Theme 1-Mesures et incertitudes.md",
-    "Chapitre 2 - Incertitudes et erreurs.md",
     "assets/Travail d'une force constante/image-20230612165341015.png",
     "assets/Travail d'une force variable/image-20230908104112418.png",
     "assets/Grandeurs physiques fondamentales/image-20230908124602533.png",
