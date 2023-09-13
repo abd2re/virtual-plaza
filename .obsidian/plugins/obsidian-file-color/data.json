@@ -1,0 +1,77 @@
+{
+  "palette": [
+    {
+      "id": "E5LFEAM2fg7Cgetipe93m",
+      "name": "",
+      "value": "#00aaff"
+    },
+    {
+      "id": "v24QAzeJ-f2L6wRogIiRj",
+      "name": "",
+      "value": "#0dd9c1"
+    },
+    {
+      "id": "bkDGHDggr7S97up5EGI7S",
+      "name": "",
+      "value": "#7891f2"
+    },
+    {
+      "id": "vcC_FMbE1CG6UurgGR0Ry",
+      "name": "",
+      "value": "#34c587"
+    },
+    {
+      "id": "lxrmtJIPAky4Vmz6bNqKq",
+      "name": "",
+      "value": "#0c7cac"
+    },
+    {
+      "id": "r4yx0lMYAOD-DGCHQiv6l",
+      "name": "",
+      "value": "#8280ff"
+    },
+    {
+      "id": "aFDxg9uAMXCKbdZc-70qE",
+      "name": "",
+      "value": "#00ced1"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "exercises",
+      "color": "v24QAzeJ-f2L6wRogIiRj"
+    },
+    {
+      "path": "Excalidraw",
+      "color": "E5LFEAM2fg7Cgetipe93m"
+    },
+    {
+      "path": "_computer science.md",
+      "color": "E5LFEAM2fg7Cgetipe93m"
+    },
+    {
+      "path": "_economy.md",
+      "color": "E5LFEAM2fg7Cgetipe93m"
+    },
+    {
+      "path": "_english.md",
+      "color": "bkDGHDggr7S97up5EGI7S"
+    },
+    {
+      "path": "_french B.md",
+      "color": "vcC_FMbE1CG6UurgGR0Ry"
+    },
+    {
+      "path": "_math.md",
+      "color": "lxrmtJIPAky4Vmz6bNqKq"
+    },
+    {
+      "path": "_physics.md",
+      "color": "r4yx0lMYAOD-DGCHQiv6l"
+    },
+    {
+      "path": "_TOK.md",
+      "color": "aFDxg9uAMXCKbdZc-70qE"
+    }
+  ]
+}

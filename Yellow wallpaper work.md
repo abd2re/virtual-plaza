@@ -1,0 +1,10 @@
+- who are the characters ?
+	- The Narrator (Jane), John and Jennie
+- what is the plot ?
+	- Woman becomes insane slowly and slowly and starts seeing things on the yellow wallpaper in her room. She is seeing a woman asking to be free and getting out of the yellow wallpaper, so she ends up tearing the wallpaper down like a schmuck.
+- what is the theme ?
+	- The Subordination of Women in Marriage
+- what is the tone ?
+	- The narrator is in a state of anxiety for much of the story, with flashes of sarcasm, anger, and desperation—a tone Gilman wants the reader to share.
+- what is the authors purpose in writing this text
+	- To shed on light on the oppression of woman in marriage as a 2nd class citizen in the 19th century.

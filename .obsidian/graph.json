@@ -1,0 +1,114 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#M",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#MOC",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#math",
+      "color": {
+        "a": 1,
+        "rgb": 14240413
+      }
+    },
+    {
+      "query": "tag:#physics",
+      "color": {
+        "a": 1,
+        "rgb": 9914826
+      }
+    },
+    {
+      "query": "tag:#computer_science",
+      "color": {
+        "a": 1,
+        "rgb": 5431380
+      }
+    },
+    {
+      "query": "tag:#english",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#french_B",
+      "color": {
+        "a": 1,
+        "rgb": 2056677
+      }
+    },
+    {
+      "query": "tag:#economy",
+      "color": {
+        "a": 1,
+        "rgb": 15662853
+      }
+    },
+    {
+      "query": "tag:#TOK",
+      "color": {
+        "a": 1,
+        "rgb": 15441950
+      }
+    },
+    {
+      "query": "tag:#EE",
+      "color": {
+        "a": 1,
+        "rgb": 15050296
+      }
+    },
+    {
+      "query": "tag:#CAS",
+      "color": {
+        "a": 1,
+        "rgb": 8882055
+      }
+    },
+    {
+      "query": "tag:#concept",
+      "color": {
+        "a": 1,
+        "rgb": 13172480
+      }
+    },
+    {
+      "query": "-line:(tags)",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -2.2,
+  "nodeSizeMultiplier": 1.02219101123595,
+  "lineSizeMultiplier": 1.00887096774194,
+  "collapse-forces": false,
+  "centerStrength": 0.6171875,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.05478322379911477,
+  "close": false
+}

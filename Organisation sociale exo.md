@@ -1,0 +1,15 @@
+-   Quel est le thème principal de cette vidéo?  
+	- les inégalités sociales par rapport aux études supérieures
+-   Est-ce qu'on retrouve ce problème dans d'autres pays? Donnez des détails  
+	- On retrouve cela au Sénégal …
+-   Cette vidéo parle d'une sous représentation d'étudiants venant de milieux populaires. Expliquez en détails ce phénomène et donnez des exemples.  
+	- Economic inequality 
+-   Qu'est-ce qui peut expliquer cette sous représentation?
+-   Quel est l'objectif du "tutorat"?  
+	- systèmes de tutorat pour les lycéens issus de milieux défavorisés l'objectif c'est donc de mieux les informer sur leurs possibilités d'études mais aussi de leur faire prendre confiance en eux
+-   Que fait l'état à ce sujet?
+	- Emmanuel Macron
+-   Quelles sont les limites du projet gouvernemental?
+	- Ca exclu les les élevés de Bac pro et bac technologie
+-   Quelle est la solution proposée?
+

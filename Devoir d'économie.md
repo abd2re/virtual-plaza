@@ -1,0 +1,41 @@
+**Abdoul Wahab Touré - 1ere IB**
+***
+## Devoir d'économie
+
+**a.**
+- **PIB**: Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
+- **RNB**: Le RNB est la **valeur** des biens et services **produits** par les **nationaux** au cours d'une **période donnée**.
+- **L’offre agrégée de court terme**: L’offre agrégée de court terme est la **quantité totale** de biens et de services **produits** dans une **économie** (_PIB réel_) sur une **période donnée** à **différents niveaux de prix**.
+- **La demande agrégée**: La demande agrégée (DA) est la **demande totale** de biens et de services **produits** dans une économie a **différent niveaux de prix**.
+- **L’écart inflationniste**: C'est lorsque la production d'équilibre est supérieure a la production de plein emploi/potentielle (Demande globale se déplace vers la droite). Lorsqu'il y a un écart inflationniste, on parle de croissance économique.
+- **L’écart de récession ou déflationniste**: C'est lorsque la production d'équilibre est inférieure a la production de plein emploi/potentielle. (Demande globale se déplace vers la gauche). Lorsqu'il y a un écart déflationniste, on parle de récession.
+
+**b.**
+- Les trois méthodes de calculer le PIB sont la: 
+	- **Méthode de sortie** (production): Selon cette méthode de comptabilisation, les entreprises sont interrogées sur leur production au cours d' une période donnée. (somme des valeurs ajoutées)
+	- **Méthode du revenu**: Cette méthode de comptabilisation consiste à additionner tous les revenus gagnés par les groupes lorsque les facteurs de production sont vendus sur les marchés des ressources. 
+	- **Méthode des dépenses** (demande): Cette méthode de comptabilisation du revenu national consiste à additionner les recettes totales des ventes de biens et de services vendus dans l'économie. (Consommation + Investissement + Dépense + Exportations Nette)
+- Le **PIB nominal** est la mesure de la croissance du PIB aux prix **courants** et **sans tenir compte de l'inflation** alors que le **PIB réel** est la mesure la croissance du PIB aux prix **constants** et en **tenant compte de l'inflation**.
+
+**c.**
+Donnez 3 limites de mesure du PIB sont:
+- **La surestimation de la qualité de vie**: Le calcul du PIB englobe toutes les activités économiques, y compris celles qui devraient être internalisées ou qui réparent les dommages causés, comme le nettoyage de l'environnement, ce qui a conduit à des tentatives de correction des statistiques du PIB en cas de production économique négative.
+- **Le manque de pris en compte de la disparité dans la répartition des revenus**: Le PIB ne peut pas nous renseigner sur la répartition des revenus dans un pays. Le manque de mobilité sociale est un problème que connaissent la plupart des pays, avec de grandes concentrations de richesses réparties entre une très faible proportion de la population et transférées de génération en génération.
+- **Ses inexactitudes**: Il est très difficile de rassembler les gros volumes de données nécessaires pour calculer avec précision le PIB, donc il peut avoir des inexactitudes dans les chiffres et les statistiques utilisés
+
+**d.**
+Les fuites et les injections sont des termes utilisés en économie pour décrire les flux de revenus dans un système économique. Les fuites  se produisent lorsque l'argent quitte le système économique au lieu d'y être réinjecté comme les taxes (T), les épargnes (S), et les importations (M), de l'autre coté les injections se produisent lorsque de l'argent est ajouté au système économique comme les dépenses gouvernementales (G), les investissements (I), et les exportations(X).
+
+**e.**
+- Selon le nouveau modèle classique lorsqu'il y a un écart de récession à long terme, la production d'équilibre est inférieure a la production de plein emploi/potentielle (demande globale se déplace vers la gauche), il y a une déflation, une décroissance économique, et une augmentation du chômage, et est également représenté par la phase descendante du cycle économique. Dans le cas d'une récession, lorsque la demande globale chute, il en résulte une chute de la production de $Y_{fe}$ à $Y_{1}$ , et éventuellement une chute du niveau des prix de $P_{1}$ à $P_{2}$ (voir figure ci-dessous). Alors que les entreprises peinent à vendre leur production, elles cherchent des moyens de réduire leurs coûts. Ils peuvent le faire en mettant fin à l'emploi de certains travailleurs, mais cela nuira à leur capacité de production. Comme les prix baissent déjà dans l'économie, les entreprises pourraient plutôt réduire les salaires, conservant la capacité de produire mais à moindre coût.  Les salaires étant un coût de production, l'offre globale passe du $SRAS_{1}$ au $SRAS_{2}$ . Cette analyse appuie la vision du laissez-faire ou la main invisible adoptée par la nouvelle approche classique, selon laquelle l'économie se corrige d'elle-même en période de difficulté.
+![[image-20230611165457518.png|center]]
+- Selon le modèle keynésien lorsqu'il y a un écart de récession à long terme ($AD_{2}$  jusqu'à $AD_{1}$) l'économie pourrait s'ajuster, mais qu'à court terme, une action gouvernementale pourrait être nécessaire. Selon Keynes les prix des ressources ne chuteront pas dans un environnement déflationniste parce que les prix ne se corrigeaient pas toujours à la baisse en raison des contrats de travail, des lois sur le salaire minimum et des syndicats. Donc contrairement au modèle classique, il a fait valoir que les économies pourraient rester bloquées dans une position à court terme et ne reviendraient pas au niveau de production du plein emploi si le gouvernement n'intervient pas (voir la figure ci-dessous). 
+![[image-20230611165701975.png|center|550]]
+
+**f.**
+- Selon le nouveau modèle classique lorsqu'il y a une augmentation de la demande globale a cause d'un de ces déterminants, un écart inflationniste se produit donc  la production d'équilibre est supérieure a la production de plein emploi/potentielle (demande globale se déplace vers la droite), cela cause une inflation, une croissance économique et la diminution du chômage. L'augmentation de la demande globale exercera une pression à la hausse sur les salaires, car les travailleurs feront pression pour obtenir des salaires plus élevés pour faire face à une inflation accrue. Avec la croissance économique, il y aura plus d'emplois disponibles sur le marché du travail et la demande de main-d'œuvre augmentera. Les entreprises seront en concurrence pour les travailleurs restants et les travailleurs auront un pouvoir de négociation plus fort lors de la négociation des salaires. À long terme, l'offre globale à court terme passera du $SRAS_{1}$au $SRAS_{2}$ et reviendra au niveau de plein emploi. En tant que tel, il n'y a que des fluctuations à court terme de la production, mais l'économie reviendra au niveau de production du plein emploi à long terme et par conséquent, la nouvelle perspective classique préconise de se concentrer sur le potentiel à long terme de l'économie.
+![[image-20230611170401573.png|center]]
+
+- Selon le modèle keynésien lorsqu'il y a une augmentation de la demande globale a cause d'un de ces déterminants augmentera jusqu'à la section en pente ascendante  ($AD_{1}$  jusqu'à $AD_{2}$), où il y a une certaine capacité de réserve mais nous commençons à voir une certaine concurrence pour les ressources rares ou jusqu'à la section verticale  ($AD_{2}$  jusqu'à $AD_{3}$), où prix sont totalement flexibles et le plein emploi est atteint. Au long-terme l'effet de l'augmentation de la demande globale est approximent pareil pour ces deux écoles de pensées. Au fur et à mesure que les ressources sont mieux employées, ce n'est qu'en augmentant les prix que les ressources peuvent être redistribuées d'un usage à un autre. Par exemple payer des salaires plus élevés signifie que les entreprises devront augmenter le prix de vente des biens et des services, de sorte que le niveau moyen des prix augmente dans l'ensemble de l'économie. Selon les keynésien, c'est lorsque l'économie atteint ce point que le gouvernement doit se concentrer sur l'investissement dans le potentiel à long terme de l'économie.
+![[image-20230611171253097.png|center|550]]
+

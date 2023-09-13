@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 18,
+  "theme": "moonstone",
+  "accentColor": "#ffffff",
+  "enabledCssSnippets": [
+    "img"
+  ]
+}
