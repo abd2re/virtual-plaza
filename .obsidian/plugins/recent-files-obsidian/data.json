@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
       "basename": "Textual analysis",
       "path": "Textual analysis.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
+      "basename": "Structure",
+      "path": "Structure.md"
+    },
+    {
+      "basename": "Style",
+      "path": "Style.md"
+    },
+    {
+      "basename": "Context of interpretation~reception",
+      "path": "Context of interpretation~reception.md"
+    },
+    {
+      "basename": "Context of composition~production",
+      "path": "Context of composition~production.md"
+    },
+    {
+      "basename": "Content",
+      "path": "Content.md"
     },
     {
       "basename": "Analyzing literary and non-literary texts",
@@ -179,26 +199,6 @@
     {
       "basename": "Travail des force électriques",
       "path": "Travail des force électriques.md"
-    },
-    {
-      "basename": "Theme 2-Mécanique",
-      "path": "Theme 2-Mécanique.md"
-    },
-    {
-      "basename": "Theme 2-Macro-économie",
-      "path": "Theme 2-Macro-économie.md"
-    },
-    {
-      "basename": "Croissance économique a court et a long terme",
-      "path": "Croissance économique a court et a long terme.md"
-    },
-    {
-      "basename": "Chômage faible",
-      "path": "Chômage faible.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
     }
   ],
   "omittedPaths": [],
