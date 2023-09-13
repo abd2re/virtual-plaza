@@ -26,7 +26,7 @@ Analyzing texts: 5 keys considerations
 Key terms:
 ?
 - Stylistic
-- Devices:: tools that an author use to achieve an intended effect, for example, metaphor or rhetoric
+- Devices:: tools that an author use to achievcke an intended effect, for example, metaphor or rhetoric
 - Audience:: the intended readership of a text
 - Purpose:: what the text set out to achieve; why the text is created
 - Mood:: the feeling that is evoked in the reader (audience) which is  a result of the tone which is set.
