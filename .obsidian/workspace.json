@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_english",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":9.148148148148149}"
+                },
+                {
+                  "title": "Inflation et ses causes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inflation et ses causes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
                   "title": "Chapitre 3 -  Objectifs macro-économiques",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 3 -  Objectifs macro-économiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -40,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Textual analysis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Textual analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Textual analysis.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inflation et ses causes.md"
+                "file": "Textual analysis.md"
               }
             }
           },
@@ -287,7 +299,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Inflation et ses causes.md"
+                "file": "Textual analysis.md"
               }
             }
           },
@@ -340,7 +352,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Textual analysis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -407,10 +419,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2b10fd24a63350c0",
+  "active": "cd65805b8b7ce718",
   "lastOpenFiles": [
-    "Chapitre 3 -  Objectifs macro-économiques.md",
+    "_english.md",
+    "Textual analysis.md",
     "Inflation et ses causes.md",
+    "Chapitre 3 -  Objectifs macro-économiques.md",
     "Causes du chômage, coûts et solutions.md",
     "assets/Causes du chômage, coûts et solutions/image-20230913113530424.png",
     "Demande globale.md",
@@ -427,7 +441,6 @@
     "Analyzing literary and non-literary texts.md",
     "Analyse.md",
     "Untitled.md",
-    "_english.md",
     "Analyzing speeches.md",
     "Key features of stories.md",
     "Conflicts.md",
@@ -437,7 +450,6 @@
     "_physics.md",
     "Theme 1-Mesures et incertitudes.md",
     "Chapitre 2 - Incertitudes et erreurs.md",
-    "Comparaison of Houseboy and King Lear.md",
     "assets/Travail d'une force constante/image-20230612165341015.png",
     "assets/Travail d'une force variable/image-20230908104112418.png",
     "assets/Grandeurs physiques fondamentales/image-20230908124602533.png",

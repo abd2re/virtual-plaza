@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Textual analysis",
+      "path": "Textual analysis.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
       "basename": "Inflation et ses causes",
       "path": "Inflation et ses causes.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "Untitled",
       "path": "Untitled.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     },
     {
       "basename": "Key features of stories",
@@ -195,10 +199,6 @@
     {
       "basename": "physics template",
       "path": "template/physics template.md"
-    },
-    {
-      "basename": "economy template",
-      "path": "template/economy template.md"
     }
   ],
   "omittedPaths": [],

@@ -14,7 +14,7 @@ tags: [M]
 9. [[Undocumented immigration]]
 10. [[Key theories of language acquisition]]
 11. [[Analyzing literary and non-literary texts]]
-12. 
+12. [[Textual analysis]]
 
 ## Books
 1. The Scarlet Letter
@@ -44,4 +44,4 @@ tags: [M]
 
 ## [[HL essay]]
 
-[[Ora
+[[Oral 1]]
