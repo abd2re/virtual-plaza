@@ -144,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "exo informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "exo informatique.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -210,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "exo informatique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -263,9 +259,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "exo informatique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -326,7 +320,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "exo informatique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -392,10 +385,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2b10fd24a63350c0",
+  "active": "51dda0e5e23afe95",
   "lastOpenFiles": [
-    "Inflation et ses causes.md",
     "exo informatique.md",
+    "Inflation et ses causes.md",
     "assets/Storage Area Network (SAN)/image-20230225134427087.png",
     "Storage Area Network (SAN).md",
     "Réseaux.md",
