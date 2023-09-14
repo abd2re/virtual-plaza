@@ -61,7 +61,7 @@ Différence entre PIB et PNB:
 Formule du PNB:
 ?
 $$\large{\text{PNB = PIB + revenus entratns – revenus sortants}}$$
-<!--SR:!2023-09-14,101,241-->
+<!--SR:!2023-11-04,51,221-->
 
 ## Produit intérieur brut (PIB) nominal et revenu national brut (RNB) nominal
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb1c869cdcb236f8",
+        "id": "7ed74144b36b59da",
         "type": "tabs",
         "children": [
           {
-            "id": "11237c216c20667d",
+            "id": "07c3e01d65724959",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,23 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Textual analysis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -155,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Textual analysis.md",
+                "file": "exo informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Textual analysis.md",
+                "file": "exo informatique.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -222,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Textual analysis.md"
+                "file": "exo informatique.md"
               }
             }
           },
@@ -275,7 +264,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Textual analysis.md"
+                "file": "exo informatique.md"
               }
             }
           },
@@ -337,7 +326,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Textual analysis.md",
+                "file": "exo informatique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -396,7 +385,6 @@
       "templates:Insert template": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "mathpad:Open Mathpad": false,
@@ -404,46 +392,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "11237c216c20667d",
+  "active": "2b10fd24a63350c0",
   "lastOpenFiles": [
-    "_english.md",
-    "Textual analysis.md",
-    "Structure.md",
-    "Style.md",
-    "Context of interpretation~reception.md",
-    "Context of composition~production.md",
-    "Content.md",
-    "Analyzing literary and non-literary texts.md",
-    "Yellow wallpaper work.md",
-    "Analyzing speeches.md",
-    "Présentation d'un document iconographique.md",
     "Inflation et ses causes.md",
-    "Chapitre 3 -  Objectifs macro-économiques.md",
+    "exo informatique.md",
+    "assets/Storage Area Network (SAN)/image-20230225134427087.png",
+    "Storage Area Network (SAN).md",
+    "Réseaux.md",
+    "Virtual Private Network (VPN).md",
+    "Wireless Local Area Network (WLAN).md",
+    "Virtual Local Area Network (VLAN).md",
+    "Internet.md",
+    "Local Area Network (LAN).md",
+    "Personal Area Network (PAN).md",
+    "Wide Area Network (WAN).md",
+    "Advertisements.md",
+    "exo econ inflation.md",
+    "PIB.md",
+    "Chômage faible.md",
     "Causes du chômage, coûts et solutions.md",
+    "Equilibre à court terme.md",
+    "assets/Equilibre à court terme/image-20230515124321837.png",
+    "assets/Equilibre à court terme/image-20230515121945540.png",
+    "assets/Equilibre à court terme/image-20230515120553983.png",
+    "assets/Equilibre à court terme/image-20230515115646980.png",
     "assets/Causes du chômage, coûts et solutions/image-20230913113530424.png",
-    "Demande globale.md",
-    "_french B.md",
-    "assets/Causes du chômage, coûts et solutions/image-20230913103815676.png",
-    "assets/Causes du chômage, coûts et solutions/image-20230908090941045.png",
-    "_computer science.md",
-    "_economy.md",
     "Theme 2-Macro-économie.md",
-    "Chapitre 2 - L'approvisionnement (L'offre).md",
-    "Chapitre 1 - La Demande.md",
-    "ethical issues.md",
-    "_CAS.md",
-    "Analyse.md",
-    "Untitled.md",
-    "Key features of stories.md",
-    "assets/Travail d'une force constante/image-20230612165341015.png",
-    "assets/Travail d'une force variable/image-20230908104112418.png",
-    "assets/Grandeurs physiques fondamentales/image-20230908124602533.png",
-    "assets/Grandeurs physiques fondamentales",
-    "assets/Tension d'un ressort/image-20230604182649685.png",
+    "_economy.md",
+    "Chapitre 3 -  Objectifs macro-économiques.md",
+    "Theme 1-Micro-économie.md",
+    "Textual analysis.md",
+    "_english.md",
+    "Analyzing literary and non-literary texts.md",
+    "Chapitre 7 - Role du gouvernement en micro-économie.md",
+    "assets/Piles électriques/Piles électriques.png",
+    "assets/Activité économique/image-20230328180344539.png",
     "assets/Tension d'un ressort/image-20230908110437148.png",
+    "assets/Tension d'un ressort/image-20230604182649685.png",
+    "assets/Grandeurs physiques fondamentales",
     "assets/Travail d'une force variable",
-    "assets/Travail des force électriques/image-20230619093235708.png",
-    "assets/Causes du chômage, coûts et solutions/image-20230908092552939.png",
     "assets/Causes du chômage, coûts et solutions",
     "pdf/_Radioactiviteword.pdf",
     "assets/Travail des force électriques",

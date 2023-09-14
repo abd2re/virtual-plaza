@@ -23,7 +23,7 @@ Les facteurs de productions de l'OGLT sont (4):
 - Amélioration de la technologie
 - Augmentation de l'efficacité
 - [[Changement dans les institutions]]
-<!--SR:!2023-09-14,18,170-->
+<!--SR:!2023-10-19,35,170-->
 
 - Une augmentation de la quantité de **capital** implique:: une augmentation des machines, des routes, des ports, des outils, des équipements, etc.
 <!--SR:!2023-10-26,67,192-->

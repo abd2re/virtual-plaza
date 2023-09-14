@@ -22,7 +22,7 @@ How do we know ?
 ## Part 4: Assessments
 ### [[TOK Exhibition]]
 - 35 prompts (Core theme/Optional themes)
-### TOK Essay
+### [[TOK Essay]]
 - 1600 words
 - 6 prescribed essay titles
 ## Part 5: Framework

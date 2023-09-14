@@ -1,9 +1,11 @@
 {
   "cssTheme": "Catppuccin",
-  "baseFontSize": 18,
+  "baseFontSize": 21,
   "theme": "moonstone",
   "accentColor": "#ffffff",
   "enabledCssSnippets": [
     "img"
-  ]
+  ],
+  "interfaceFontFamily": "",
+  "textFontFamily": "CMU Serif"
 }

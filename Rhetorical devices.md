@@ -4,7 +4,7 @@ tags: [english]
 Created: 2022-10-17
 
  1. Anaphora :: is the repetition of words or phrases at the beginning of a sentence. Such as "I have dream" (Martin Luther King) 
-<!--SR:!2023-09-14,202,250-->
+<!--SR:!2023-12-24,101,230-->
  2. Diacope :: is the repetition of a phrase after an intervening word or phrase. Such as "free at last, free at last; thank God almighty, free at last"
 <!--SR:!2023-10-01,46,190-->
  3. Antithesis :: is when contrasting two opposing ideas in consecutive sentences. Such as "Many are called but few are chosen" (J.C) 

@@ -11,13 +11,13 @@ L'équilibre à court terme est déterminé par l'intersection de la demande glo
 **Un écart récessif ou déflationniste** (Définition et graphe)
 ?
 C'est lorsque a production d'équilibre est inférieure a la production de plein emploi/potentielle. (Demande globale se déplace vers la gauche)
-![[image-20230515120553983.png]] 
+![[image-20230515120553983.png|center]] 
 <!--SR:!2023-10-16,90,230-->
 
 **Un écart inflationniste** (Définition et graphe)
 ?
 C'est lorsque la production d'équilibre est supérieure a la production de plein emploi/potentielle. (Demande globale se déplace vers la droite)
-![[image-20230515121945540.png]]
+![[image-20230515121945540.png|center]]
 <!--SR:!2023-09-15,14,150-->
 
 - Lorsqu'il y a un écart déflationniste, on parle de:: récession.

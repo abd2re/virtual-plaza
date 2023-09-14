@@ -4,14 +4,14 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/Textual analysis",
+  "attachmentFolderPath": "./assets/exo informatique",
   "fileSortOrder": "alphabetical",
   "showInlineTitle": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 84
+    "downscalePercent": 75
   },
   "readableLineLength": true,
   "defaultViewMode": "preview",

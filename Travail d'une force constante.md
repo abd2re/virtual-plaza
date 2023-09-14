@@ -16,7 +16,7 @@ $$\Large{W_{A\rightarrow B}(\vec{F})=\vec{F}\cdot\vec{AB}=F\times AB\times \cos\
 <!--SR:!2023-10-18,74,230-->
 
 - Si $W>0$ alors le travail est:: un travail moteur.
-<!--SR:!2023-09-14,2,221-->
+<!--SR:!2023-09-18,4,221-->
 - Si $W<0$ alors le travail est un travail résistant.
 - Si $W=0$ alors forcément:: $F=0$ ou $\theta=90$
-<!--SR:!2023-09-14,1,221-->
+<!--SR:!2023-09-16,2,221-->

@@ -46,4 +46,4 @@ $$A=\lambda N$$
 - $A$ = Activité radioactive en Bq
 - $N$ = Nombre de noyaux/masse
 - $\lambda$ = Constante de désintégration d'un noyau,
-<!--SR:!2023-09-14,41,223-->
+<!--SR:!2023-12-14,91,223-->
