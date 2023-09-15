@@ -2,7 +2,7 @@
 tags: [MOC]
 ---
 
-# Chapitre 1 - Les systèmes dans les organisations
+## Chapitre 1 - Les systèmes dans les organisations
 1. C'est quoi un [[Système informatique|Système]] ?
 2. [[Conception d'un système]]
 3. [[Installation d'un système]]

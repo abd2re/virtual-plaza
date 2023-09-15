@@ -1,7 +1,7 @@
 ---
 tags: [MOC]
 ---
-## Chapitre 1 - Cinématique
+### Chapitre 1 - Cinématique
 ### 1. Notion de cinématique
 1. [[Déplacement et Distance parcouru]]
 2. [[Vitesse]]

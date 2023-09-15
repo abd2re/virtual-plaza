@@ -31,3 +31,4 @@ $$\Large{W_{A\rightarrow B}(\vec{T})=\frac{k}{2}(x^{2}_{a}-x^{2}_{b})}$$
 
 
 Relation entre $W_{A\rightarrow B}(\vec{T})$ et $W_{A\rightarrow B}(\vec{F})$::$$\Large{W_{A\rightarrow B}(\vec{F})=-W_{A\rightarrow B}(\vec{T})}$$
+<!--SR:!2023-09-17,2,241-->

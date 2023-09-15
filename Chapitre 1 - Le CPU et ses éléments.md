@@ -2,7 +2,7 @@
 tags: [MOC]
 ---
 
-# Chapitre 1 - Le CPU et ses éléments
+## Chapitre 1 - Le CPU et ses éléments
 1. Le [[Modèle de traitement des ordinateurs]], le [[CPU]]
 2. La [[Mémoire Primaire]]: [[RAM]], [[ROM]], [[Cache]]. [[Mémoire Secondaire]]
 3. Le [[Cycle Fetch-Execute]]

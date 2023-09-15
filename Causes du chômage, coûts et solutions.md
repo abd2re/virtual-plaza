@@ -10,7 +10,7 @@ Au total, il existe quatre types de chômage qui se répartissent en deux grande
 - **Chômage de déséquilibre** inclut:: le chômage cyclique (déficit de la demande) et le chômage réel.
 <!--SR:!2023-09-21,7,250-->
 - **Taux de chômage naturel** comprend:: le chômage frictionnel, saisonnier et structurel.
-<!--SR:!2023-09-15,2,210-->
+<!--SR:!2023-09-19,4,210-->
 
 ## Causes du chômage
 ### Cyclique (demande insuffisante)
@@ -52,18 +52,18 @@ Le chômage saisonnier se produit lorsque des personnes effectuent des types de 
 ### Structurel
 ?
 Le chômage structurel se produit lorsqu’il existe une inadéquation entre l’offre et la demande pour un ensemble particulier de compétences professionnelles.
-<!--SR:!2023-09-15,2,210-->
+<!--SR:!2023-09-19,4,210-->
 
 Il y a deux causes principales du chômage structurel:
 ?
 - Lorsqu’une **industrie déménage dans un pays ou dans un autre pays**, il est peu probable que les gens déménagent avec l’industrie.
 - Les **rigidités du marché du travail**, telles que la difficulté pour les gens de changer d'emploi et de type d'emploi, et la législation du travail qui empêche le licenciement facile des travailleurs inefficaces, réduiront l'offre de main-d'œuvre disponible
-<!--SR:!2023-09-15,1,222-->
+<!--SR:!2023-09-17,2,222-->
 
 3 étapes lorsqu'il y a un chômage structurel (graphiques):
 ?
 ![[image-20230913103815676.png|center|550]]
-<!--SR:!2023-09-15,1,222-->
+<!--SR:!2023-09-17,2,222-->
 
 ## Coûts du chômage
 
@@ -74,7 +74,7 @@ Quels sont les coûts économiques du chômage (5) ?:
 3. Augmentation du coût des allocations de chômage
 4. Perte de revenus pour les particuliers
 5. De plus grandes disparités dans la répartition des revenus
-<!--SR:!2023-09-15,1,222-->
+<!--SR:!2023-09-16,1,202-->
 
 Quels sont les coûts personnels du chômage (2) ?:
 ?
@@ -92,7 +92,7 @@ Quels sont les coûts sociaux du chômage (2) ?:
 Graphes des deux causes principales (avec leur noms):
 ?
 ![[image-20230913113530424.png]]
-<!--SR:!2023-09-15,1,222-->
+<!--SR:!2023-09-17,2,222-->
 
 
 
@@ -100,4 +100,4 @@ Graphes des deux causes principales (avec leur noms):
 - Pour chômage cyclique =>:: Le gouvernement devra s’attaquer directement à la baisse de la demande globale en stimulant la demande globale avec des politiques fiscales et monétaires.
 <!--SR:!2023-09-16,2,242-->
 - Pour chômage structurel =>:: Le chômage structurel peuvent être réduits grâce à des politiques qui améliorent la flexibilité de la main-d’œuvre (**Education**) 
-<!--SR:!2023-09-15,1,222-->
+<!--SR:!2023-09-17,2,222-->

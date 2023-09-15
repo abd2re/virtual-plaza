@@ -2,7 +2,7 @@
 tags: [MOC]
 ---
 
-# Chapitre 5 - Elasticités de la demande
+## Chapitre 5 - Elasticités de la demande
 
 1. [[Elasticité prix de la demande|Définition]] (EPD), [[Formule de l'élasticité prix demande]]
 2. [[Fourchette des valeurs de l'élasticité-prix de la demande]]

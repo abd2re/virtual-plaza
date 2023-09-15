@@ -9,7 +9,7 @@ Formule:
 ?
 $$\Large{P=\frac{|W_{A\rightarrow B}(\vec{F})|}{\Delta t}}$$
 - $P$ équivaut a:: travail par unité de temps
-<!--SR:!2023-09-15,7,130-->
+<!--SR:!2023-09-19,4,130-->
 - $\Delta t$ = durée du déplacement
 
 ## Puissance instantanée

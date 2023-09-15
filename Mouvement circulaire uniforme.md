@@ -6,7 +6,7 @@ Created: 2023-06-01
 # Mouvement circulaire uniforme
 ?
 On appelle mouvement circulaire uniforme un mouvement circulaire dont le module de la [[vitesse]] est constant.
-<!--SR:!2023-09-15,34,150-->
+<!--SR:!2023-11-02,48,150-->
 
 - Dans un mouvement circulaire uniforme, l'[[accélération]] est:: centripète et constante. (+perpendiculaire au vecteur vitesse)
 <!--SR:!2023-09-19,69,250-->

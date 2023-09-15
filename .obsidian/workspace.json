@@ -4,24 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "7ed74144b36b59da",
+        "id": "502485ab95bfe888",
         "type": "tabs",
         "children": [
           {
-            "id": "07c3e01d65724959",
+            "id": "dea6102548e47329",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "TOK exhib",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"TOK exhib.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 3 - Travail d'une force",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 3 - Travail d'une force.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":1.7830188679245282}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":7.7839285714285715}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":2.2819148936170213}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Energies potentielles.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -144,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Energies potentielles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,8 +205,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Energies potentielles.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -208,7 +245,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Energies potentielles.md"
+              }
             }
           },
           {
@@ -259,7 +298,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Energies potentielles.md"
+              }
             }
           },
           {
@@ -320,6 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Energies potentielles.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -385,39 +427,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "51dda0e5e23afe95",
+  "active": "dea6102548e47329",
   "lastOpenFiles": [
-    "exo informatique.md",
-    "Inflation et ses causes.md",
+    "TOK exhib.md",
+    "Energies potentielles.md",
+    "Force conservative.md",
+    "Chapitre 3 - Travail d'une force.md",
+    "Frottement.md",
+    "Travail d'une force constante.md",
+    "_physics.md",
+    "Theme 2-Mécanique.md",
+    "_economy.md",
+    "Theme 1-Micro-économie.md",
+    "Chapitre 1 - La Demande.md",
+    "Chapitre 2 - L'approvisionnement (L'offre).md",
+    "Demande.md",
+    "Loi de la demande.md",
+    "Biens publics.md",
+    "Chapitre 3 -  Objectifs macro-économiques.md",
+    "Theme 2-Macro-économie.md",
+    "Chapitre 9 - Défaillance du marché –  biens publics.md",
+    "Impôts indirects.md",
+    "Déterminants de l'élasticité-prix de la demande.md",
+    "Theme 1-Mesures et incertitudes.md",
+    "Chapitre 2 - Incertitudes et erreurs.md",
+    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
+    "_computer science.md",
+    "Chapitre 1 - Types de réseaux.md",
     "assets/Storage Area Network (SAN)/image-20230225134427087.png",
-    "Storage Area Network (SAN).md",
-    "Réseaux.md",
-    "Virtual Private Network (VPN).md",
-    "Wireless Local Area Network (WLAN).md",
-    "Virtual Local Area Network (VLAN).md",
-    "Internet.md",
-    "Local Area Network (LAN).md",
-    "Personal Area Network (PAN).md",
-    "Wide Area Network (WAN).md",
-    "Advertisements.md",
-    "exo econ inflation.md",
-    "PIB.md",
-    "Chômage faible.md",
-    "Causes du chômage, coûts et solutions.md",
-    "Equilibre à court terme.md",
     "assets/Equilibre à court terme/image-20230515124321837.png",
     "assets/Equilibre à court terme/image-20230515121945540.png",
     "assets/Equilibre à court terme/image-20230515120553983.png",
     "assets/Equilibre à court terme/image-20230515115646980.png",
     "assets/Causes du chômage, coûts et solutions/image-20230913113530424.png",
-    "Theme 2-Macro-économie.md",
-    "_economy.md",
-    "Chapitre 3 -  Objectifs macro-économiques.md",
-    "Theme 1-Micro-économie.md",
-    "Textual analysis.md",
-    "_english.md",
-    "Analyzing literary and non-literary texts.md",
-    "Chapitre 7 - Role du gouvernement en micro-économie.md",
     "assets/Piles électriques/Piles électriques.png",
     "assets/Activité économique/image-20230328180344539.png",
     "assets/Tension d'un ressort/image-20230908110437148.png",

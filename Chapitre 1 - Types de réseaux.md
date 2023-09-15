@@ -2,7 +2,7 @@
 tags: [MOC]
 ---
 
-# Chapitre 1 - Types de réseaux
+## Chapitre 1 - Types de réseaux
 
 1. [[Réseaux]]
 2. [[Fondamentaux des réseaux]]

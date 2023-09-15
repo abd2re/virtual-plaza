@@ -2,7 +2,7 @@
 tags: [MOC]
 ---
 
-# Chapitre 2 - L'approvisionnement (L'offre)
+## Chapitre 2 - L'approvisionnement (L'offre)
 
 1. [[Offre|Définition]]
 2. La [[Loi de l'offre]]
