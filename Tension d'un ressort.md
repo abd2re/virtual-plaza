@@ -12,7 +12,7 @@ Created: 2023-05-09
 
 Formule:
 ?
-$$\Large{T=-kx=-k|l_{0}-l|}$$
+$$\Large{T=kx=-k|l_{0}-l|}$$
 - $T$ = tension en Newton
 - $k$ = constante 
 - $l$ = longueur finale

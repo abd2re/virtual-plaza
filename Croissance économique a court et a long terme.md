@@ -13,7 +13,7 @@ Le CCP représente la taille de l'économie si toutes les ressources sont pleine
 Représentation du CPP avec noms:
 ?
 ![[image-20230614104233991.png|center|400]]
-<!--SR:!2023-09-16,58,250-->
+<!--SR:!2024-02-08,145,250-->
 
 Quel type de croissance économique est préférable?:: Croissance économique a long terme
 <!--SR:!2024-01-01,121,250-->
@@ -45,7 +45,7 @@ Quelques conséquences positives et négative de la croissance économique sont 
 - L'impact sur le niveau de vie
 - L'impact sur l'environment
 - L'impact sur la répartition des revenus
-<!--SR:!2023-09-16,4,191-->
+<!--SR:!2023-09-25,9,191-->
 
 ---
 - La richesse et le revenu ne sont pas des termes interchangeables. Le revenu est un flux et fait référence aux gains d'une semaine à l'autre ou d'un mois à l'autre. Alors que la richesse est:: un stock et se réfère à une accumulation d'argent et d'actifs. Les individus ayant des revenus élevés et des niveaux de consommation élevés ne disposent pas nécessairement d'un stock de richesse important !

@@ -11,3 +11,4 @@ tags: [MOC]
 6. [[Energie cinétique]]
 ### 2. Energies potentielles et énergie mécanique
 1. [[Energies potentielles]]
+2. [[Energie mécanique (énergie totale)]]

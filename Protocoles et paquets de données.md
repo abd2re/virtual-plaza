@@ -16,7 +16,7 @@ Définition de paquet de donnée:
 **Petite unité de données utilisée dans la communication en réseau.** Un paquet est une unité de base de la communication sur un réseau numérique. *Un paquet est également appelé datagramme, segment, bloc, cellule ou trame, selon le protocole utilisé pour la transmission des données.*
 - Un paquet est également appelé datagramme, segment, bloc, cellule ou trame, selon le protocole utilisé pour la transmission des données.
 - Lorsque des données doivent être transmises, elles sont décomposées en structures de données similaires avant la transmission (les paquets) qui sont réassemblées en morceaux de données d'origine une fois qu'elles atteignent leur destination.
-<!--SR:!2023-09-16,92,210-->
+<!--SR:!2024-03-27,193,210-->
 
 ## Composition d'un paquet de données
 Normalement, un paquet comporte un en-tête et une charge utile. La structure d'un paquet dépend du type de paquet et du protocole. 

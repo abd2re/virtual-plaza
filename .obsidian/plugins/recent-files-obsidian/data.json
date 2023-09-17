@@ -1,28 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "Work, Energy, and Power",
+      "path": "exercises/physics/theme 2/Work, Energy, and Power.md"
+    },
+    {
       "basename": "Energies potentielles",
       "path": "Energies potentielles.md"
     },
     {
-      "basename": "TOK exhib",
-      "path": "TOK exhib.md"
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
-      "basename": "Force conservative",
-      "path": "Force conservative.md"
+      "basename": "ethical issues",
+      "path": "ethical issues.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "Tension d'un ressort",
+      "path": "Tension d'un ressort.md"
+    },
+    {
+      "basename": "Forces",
+      "path": "exercises/physics/theme 2/Forces.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "Travail d'une force constante",
+      "path": "Travail d'une force constante.md"
     },
     {
       "basename": "Chapitre 3 - Travail d'une force",
       "path": "Chapitre 3 - Travail d'une force.md"
     },
     {
-      "basename": "Frottement",
-      "path": "Frottement.md"
+      "basename": "Energie cinétique",
+      "path": "Energie cinétique.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Tension d'un fil",
+      "path": "Tension d'un fil.md"
+    },
+    {
+      "basename": "Energie mécanique (énergie totale)",
+      "path": "Energie mécanique (énergie totale).md"
+    },
+    {
+      "basename": "Piles électriques",
+      "path": "Piles électriques.md"
+    },
+    {
+      "basename": "Theme 5-Electricité et Magnétisme",
+      "path": "Theme 5-Electricité et Magnétisme.md"
+    },
+    {
+      "basename": "Deuxième loi de Newton",
+      "path": "Deuxième loi de Newton.md"
+    },
+    {
+      "basename": "Force conservative",
+      "path": "Force conservative.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Motion",
+      "path": "exercises/physics/theme 2/Motion.md"
+    },
+    {
+      "basename": "Mouvement d'un projectile",
+      "path": "Mouvement d'un projectile.md"
+    },
+    {
+      "basename": "Mouvement rectiligne uniforme",
+      "path": "Mouvement rectiligne uniforme.md"
+    },
+    {
+      "basename": "TOK exhib",
+      "path": "TOK exhib.md"
+    },
+    {
+      "basename": "Frottement",
+      "path": "Frottement.md"
     },
     {
       "basename": "_economy",
@@ -49,28 +121,12 @@
       "path": "Theme 1-Mesures et incertitudes.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
       "basename": "__C++",
       "path": "__C++.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
       "basename": "Oral 1",
       "path": "Oral 1.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
     },
     {
       "basename": "_math",
@@ -143,62 +199,6 @@
     {
       "basename": "Personal Area Network (PAN)",
       "path": "Personal Area Network (PAN).md"
-    },
-    {
-      "basename": "Wide Area Network (WAN)",
-      "path": "Wide Area Network (WAN).md"
-    },
-    {
-      "basename": "exo econ inflation",
-      "path": "exo econ inflation.md"
-    },
-    {
-      "basename": "PIB",
-      "path": "PIB.md"
-    },
-    {
-      "basename": "Chômage faible",
-      "path": "Chômage faible.md"
-    },
-    {
-      "basename": "Causes du chômage, coûts et solutions",
-      "path": "Causes du chômage, coûts et solutions.md"
-    },
-    {
-      "basename": "Equilibre à court terme",
-      "path": "Equilibre à court terme.md"
-    },
-    {
-      "basename": "Textual analysis",
-      "path": "Textual analysis.md"
-    },
-    {
-      "basename": "Theme 2-Macro-économie",
-      "path": "Theme 2-Macro-économie.md"
-    },
-    {
-      "basename": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
-      "path": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md"
-    },
-    {
-      "basename": "Energie cinétique",
-      "path": "Energie cinétique.md"
-    },
-    {
-      "basename": "Forces",
-      "path": "exercises/physics/theme 2/Forces.md"
-    },
-    {
-      "basename": "Piles électriques",
-      "path": "Piles électriques.md"
-    },
-    {
-      "basename": "Theme 5-Electricité et Magnétisme",
-      "path": "Theme 5-Electricité et Magnétisme.md"
-    },
-    {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
     }
   ],
   "omittedPaths": [],

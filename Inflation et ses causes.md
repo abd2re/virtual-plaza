@@ -9,7 +9,7 @@ Created: 2023-09-13
 Définition de l'inflation:
 ?
 L'inflation est une augmentation durable du niveau des prix dans une économie.
-<!--SR:!2023-09-16,1,230-->
+<!--SR:!2023-09-17,1,210-->
 
 - Lorsque l'argent perd de la valeur, les prix:: augmentent en conséquence.
 <!--SR:!2023-09-18,3,250-->
@@ -20,7 +20,7 @@ Quel outil les gouvernements utilisent pour calculer l'inflation ?:: indice des 
 <!--SR:!2023-09-18,3,250-->
 
 Le calcul du IPC implique:: la sélection d'un panier de biens et services typiques achetés dans l'économie par la famille type (généralement deux adultes et deux enfants). 
-<!--SR:!2023-09-16,1,230-->
+<!--SR:!2023-09-17,1,210-->
 
 Formule IPC::$$\large{\text{IPC}_{n}=\frac{\text{valeur du panier de l'année }n}{\text{valeur de panier de l'année de base}}\times100}$$
 <!--SR:!2023-09-18,3,250-->
