@@ -18,7 +18,7 @@ Le frottement statique est toujours:: supérieur au frottement cinétique.
 <!--SR:!2023-09-22,10,143-->
 
 Représentation graphique de frottement statique et cinétique::![[image-20230525073043121.png]]
-<!--SR:!2023-09-18,70,243-->
+<!--SR:!2024-03-06,170,243-->
 
 
 

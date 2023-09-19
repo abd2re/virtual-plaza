@@ -14,7 +14,7 @@ $$EPC_{j/i}=\frac{\% \Delta Q_{j}}{\% \Delta P_{i}}$$
 <!--SR:!2023-10-11,191,250-->
 
 - L'EPC détermine les relations entre les biens a partir:: de son signe
-<!--SR:!2023-09-17,149,210-->
+<!--SR:!2024-07-25,312,210-->
 - Si EPC est négatif:: les biens sont complémentaires
 <!--SR:!2023-09-22,68,230-->
 - Si EPC est positif:: les biens sont substituables

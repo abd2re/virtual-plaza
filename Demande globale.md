@@ -25,13 +25,13 @@ Trois raisons expliquent la pente négative de la courbe de demande globale :
 - L'[[Effet richesse]]
 - L'[[Effet taux d'intérêt]]
 - L'[[Effet solde net]]
-<!--SR:!2023-09-18,10,150-->
+<!--SR:!2023-10-04,16,150-->
 
 ---
 - L'axe des ordonnées en macro-économies est appelée :: niveau général des prix (NGP).
 <!--SR:!2023-10-19,94,241-->
 - L'axe des abscisse en macro-économies est appelée :: PIB réel.
-<!--SR:!2023-09-19,76,241-->
+<!--SR:!2024-03-20,183,241-->
 
 Qu'est-ce qui déplace la courbe de demande globale (AD) ?
 ?

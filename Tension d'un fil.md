@@ -9,7 +9,7 @@ C'est la force que l'on exerce aux deux extrémités d'un fil.
 <!--SR:!2023-09-21,53,170-->
 
 Formule::$$\Large{\vec{T}=-\vec{P}}$$
-<!--SR:!2023-09-17,32,230-->
+<!--SR:!2023-12-02,75,230-->
 
 Représentation:
 ?

@@ -25,6 +25,6 @@ Le potentiel électrique en un point est:: égale a l'énergie potentiel électr
 
 ---
 - Un électronvolt est:: l'énergie cinétique acquise par un électron accéléré pas un potentiel de $1V$
-<!--SR:!2023-09-17,19,130-->
+<!--SR:!2023-10-14,26,130-->
 - eV =:: $1.6\cdot 10^{-19}$ J
 <!--SR:!2023-10-02,132,221-->

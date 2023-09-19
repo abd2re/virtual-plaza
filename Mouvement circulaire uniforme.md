@@ -9,7 +9,7 @@ On appelle mouvement circulaire uniforme un mouvement circulaire dont le module 
 <!--SR:!2023-11-02,48,150-->
 
 - Dans un mouvement circulaire uniforme, l'[[accélération]] est:: centripète et constante. (+perpendiculaire au vecteur vitesse)
-<!--SR:!2023-09-19,69,250-->
+<!--SR:!2024-03-09,172,250-->
 - Le mouvement circulaire uniforme est:: périodique.
 <!--SR:!2023-09-25,15,150-->
 

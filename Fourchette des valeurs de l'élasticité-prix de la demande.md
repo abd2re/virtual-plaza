@@ -18,7 +18,7 @@ Lorsque la valeur de l'élasticité-prix est comprise entre 0 et 1 (0 < PED < 1)
 ## Demande à élasticité unitaire
 ?
 Lorsque l'élasticité-prix de la demande est égale à 1 (PED = 1), on dit que la demande est élastique unitaire. Dans ce cas, une variation en pourcentage du prix d'un bien entraîne une variation égale en pourcentage de la quantité demandée.
-<!--SR:!2023-09-18,187,250-->
+<!--SR:!2024-12-28,467,250-->
 
 ## Demande parfaitement inélastique
 ?

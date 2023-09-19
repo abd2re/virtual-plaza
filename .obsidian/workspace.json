@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d3ff06c4adba767",
+        "id": "a93917884e04b8c2",
         "type": "tabs",
         "children": [
           {
-            "id": "5d83ee25f7569f9a",
+            "id": "407712db11f3b326",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,35 +16,32 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Pensée informatique, résolution de problèmes et programmation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":5.498327759197324}"
+                },
+                {
+                  "title": "Theme 3-Réseaux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 3-Réseaux.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "exercises/physics/theme 2/Work, Energy, and Power.md"
+                "file": "Nature des langages de programmation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
-          },
-          {
-            "id": "8773f2f058af4fc2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,12 +131,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "81af70492d6955ac",
@@ -164,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nature des langages de programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nature des langages de programmation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +227,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Nature des langages de programmation.md"
+              }
             }
           },
           {
@@ -279,7 +280,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Nature des langages de programmation.md"
+              }
             }
           },
           {
@@ -340,6 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Nature des langages de programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -377,7 +381,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.411361558491414,
+                  "scale": 0.39784867058179285,
                   "close": true
                 }
               }
@@ -387,8 +391,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -406,8 +409,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8773f2f058af4fc2",
+  "active": "2b10fd24a63350c0",
   "lastOpenFiles": [
+    "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
+    "Theme 3-Réseaux.md",
+    "Raisonnement abstrait.md",
+    "_english.md",
+    "Chapitre 2 - Pensée computationnelle.md",
+    "Chapitre 3 - Introduction a la programmation.md",
+    "Nature des langages de programmation.md",
+    "_math.md",
+    "CPU.md",
+    "assets/CPU/CPU-8.png",
+    "assets/CPU/CPU-7.png",
+    "Unité arithmétique et logique.md",
+    "Chapitre 1 - Notion de bases.md",
+    "_computer science.md",
+    "Context.md",
+    "Textual analysis.md",
+    "Yellow wallpaper work.md",
+    "Travel writing.md",
+    "Context of composition~production.md",
+    "Context of interpretation~reception.md",
+    "Structure.md",
+    "Content.md",
     "exercises/physics/theme 2/Work, Energy, and Power.md",
     "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230917190606_500.png",
     "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230917185901_491.png",
@@ -417,33 +442,12 @@
     "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230917182108_491.png",
     "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230917172859_822.png",
     "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230917171738_830.png",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230917165007_935.png",
     "Energies potentielles.md",
     "_physics.md",
     "Chapitre 3 - Travail d'une force.md",
     "Theme 2-Mécanique.md",
     "Chapitre 2 - Forces et lois de Newton.md",
-    "ethical issues.md",
-    "_french B.md",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230916204332_964.png",
-    "Tension d'un ressort.md",
-    "exercises/physics/theme 2/Forces.md",
-    "_TOK.md",
-    "Travail d'une force constante.md",
-    "Energie cinétique.md",
-    "Tension d'un fil.md",
-    "Energie mécanique (énergie totale).md",
-    "Piles électriques.md",
-    "Theme 5-Electricité et Magnétisme.md",
-    "Deuxième loi de Newton.md",
-    "Force conservative.md",
     "exercises/physics/theme 2/assets/Work, Energy, and Power",
-    "exercises/physics/theme 2/Untitled.md",
-    "_english.md",
-    "_computer science.md",
-    "exercises/physics/theme 2/Motion.md",
-    "Mouvement d'un projectile.md",
-    "Mouvement rectiligne uniforme.md",
     "assets/Grandeurs physiques fondamentales",
     "assets/Travail d'une force variable",
     "assets/Causes du chômage, coûts et solutions",

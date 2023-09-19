@@ -6,7 +6,7 @@ Created: 2023-03-28
 # Activité économique
 ?
 C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain d'un pays.
-<!--SR:!2023-09-18,59,150-->
+<!--SR:!2023-12-16,89,150-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
 <!--SR:!2023-12-08,132,230-->
@@ -18,7 +18,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 <!--SR:!2023-12-11,158,250-->
 
 - Autarcie =:: économie fermée
-<!--SR:!2023-09-19,119,290-->
+<!--SR:!2023-11-14,56,270-->
 
 ### Symboles en macro-économie
 - T =:: Taxes
@@ -38,7 +38,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
 <!--SR:!2023-11-01,80,230-->
 Injection =:: Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
-<!--SR:!2023-09-19,53,221-->
+<!--SR:!2024-01-14,117,221-->
 
 ### Fuites et injections
 - Si fuites = injections alors :: on est dans une économie équilibrée

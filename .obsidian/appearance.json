@@ -1,7 +1,7 @@
 {
   "cssTheme": "Catppuccin",
-  "baseFontSize": 23,
-  "theme": "obsidian",
+  "baseFontSize": 22,
+  "theme": "moonstone",
   "accentColor": "#ffffff",
   "enabledCssSnippets": [
     "img"

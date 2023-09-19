@@ -11,7 +11,7 @@ Le travail d'une force constante $\vec{F}$ dont le point d'application se dépla
 <!--SR:!2023-09-24,22,190-->
 
 - Le travail est un changement d::'énergie.
-<!--SR:!2023-09-18,2,238-->
+<!--SR:!2023-09-24,6,238-->
 
 Trois formules (vecteurs, normes et coordonnées):
 ?
@@ -19,7 +19,7 @@ $$\Large{W_{A\rightarrow B}(\vec{F})=\vec{F}\cdot\vec{AB}=F\times AB\times \cos\
 <!--SR:!2023-10-18,74,230-->
 
 - Si $W>0$ alors le travail est:: un travail moteur.
-<!--SR:!2023-09-18,4,221-->
+<!--SR:!2023-09-29,11,221-->
 - Si $W<0$ alors le travail est un travail résistant.
 - Si $W=0$ alors forcément:: $F=0$ ou $\theta=90$
 <!--SR:!2023-09-20,4,221-->
