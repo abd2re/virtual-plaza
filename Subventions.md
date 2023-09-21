@@ -22,7 +22,7 @@ Les objectifs des subventions pour le gouvernement sont généralement :
 (graphe)
 ?
 ![[image-20230124133701027.png]]
-<!--SR:!2023-09-20,145,250-->
+<!--SR:!2024-09-17,363,250-->
 
 ## Effet sur la société dans son ensemble
 ?

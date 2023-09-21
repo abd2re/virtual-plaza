@@ -8,5 +8,5 @@ Created: 2023-09-13
 Questions to ask yourself:
 ?
 - What are your circumstances (time and place) ?
-- Hoe does the factors influence your reading of the text ?
-<!--SR:!2023-09-20,2,190-->
+- How does the factors influence your reading of the text ?
+<!--SR:!2023-09-24,4,190-->

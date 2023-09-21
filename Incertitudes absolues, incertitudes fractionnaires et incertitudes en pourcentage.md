@@ -19,10 +19,10 @@ $$\large{\Delta x=\frac{x_{\text{max}}-x_{\text{min}}}{2}}$$
 ## Incertitudes fractionnaires
 ?
 l'incertitude d'une mesure en tant que fraction de la mesure.
-<!--SR:!2023-09-20,6,230-->
+<!--SR:!2023-10-04,14,230-->
 
 Formule::$$\large{\frac{\text{incertitude absolue}}{\text{mesure}}=\frac{\Delta x}{x}}$$
-<!--SR:!2023-09-20,6,230-->
+<!--SR:!2023-10-06,16,230-->
 
 ## Incertitude en pourcentage
 Formule::$$\large{\frac{\text{incertitude absolue}}{\text{mesure}}\times100=\frac{\Delta x}{x}\times100}$$

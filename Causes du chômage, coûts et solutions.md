@@ -42,7 +42,7 @@ Avec un salaire supérieur au salaire d’équilibre du marché, les entreprises
 ### Frictionnel
 ?
 Chômage frictionnel c'est quand les gens sont entre deux emplois. (Exemple: étudiants)
-<!--SR:!2023-09-20,6,230-->
+<!--SR:!2023-10-04,14,230-->
 
 ### Saisonnier
 ?
@@ -98,6 +98,6 @@ Graphes des deux causes principales (avec leur noms):
 
 
 - Pour chômage cyclique =>:: Le gouvernement devra s’attaquer directement à la baisse de la demande globale en stimulant la demande globale avec des politiques fiscales et monétaires.
-<!--SR:!2023-09-20,4,242-->
+<!--SR:!2023-09-30,10,242-->
 - Pour chômage structurel =>:: Le chômage structurel peuvent être réduits grâce à des politiques qui améliorent la flexibilité de la main-d’œuvre (**Education**) 
-<!--SR:!2023-09-20,2,202-->
+<!--SR:!2023-09-24,4,202-->

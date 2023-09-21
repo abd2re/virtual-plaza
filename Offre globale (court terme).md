@@ -6,7 +6,7 @@ Created: 2023-05-05
 # Offre globale (court terme)
 ?
 L'offre globale est la **quantité totale** de biens et de services **produits** dans une **économie** (*PIB réel*) sur une **période donnée** à **différents niveaux de prix**.
-<!--SR:!2023-09-20,33,230-->
+<!--SR:!2023-12-04,75,230-->
 
 - Le court terme en **macroéconomie** est considéré comme:: la durée pendant laquelle les **prix des ressources** restent relativement **constants**, en particulier les salaires.
 <!--SR:!2023-10-06,34,210-->

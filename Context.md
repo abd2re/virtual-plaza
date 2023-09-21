@@ -7,4 +7,4 @@ Created: 2023-09-18
 # Context
 ?
 Context refers to the circumstances that surround a text - all of the external factors which are needed to fully understand the text itself.
-<!--SR:!2023-09-20,1,210-->
+<!--SR:!2023-09-22,2,210-->

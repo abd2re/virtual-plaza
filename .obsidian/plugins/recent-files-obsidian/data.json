@@ -1,6 +1,114 @@
 {
   "recentFiles": [
     {
+      "basename": "Inflation et ses causes",
+      "path": "Inflation et ses causes.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "TOK ess",
+      "path": "TOK ess.md"
+    },
+    {
+      "basename": "Knowledge",
+      "path": "Knowledge.md"
+    },
+    {
+      "basename": "Structure",
+      "path": "Structure.md"
+    },
+    {
+      "basename": "Content",
+      "path": "Content.md"
+    },
+    {
+      "basename": "Analyzing literary and non-literary texts",
+      "path": "Analyzing literary and non-literary texts.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Textual analysis",
+      "path": "Textual analysis.md"
+    },
+    {
+      "basename": "Context of interpretation~reception",
+      "path": "Context of interpretation~reception.md"
+    },
+    {
+      "basename": "Context of composition~production",
+      "path": "Context of composition~production.md"
+    },
+    {
+      "basename": "Style",
+      "path": "Style.md"
+    },
+    {
+      "basename": "Chapitre 5 - Elasticités de la demande",
+      "path": "Chapitre 5 - Elasticités de la demande.md"
+    },
+    {
+      "basename": "Formule de l'élasticité prix demande",
+      "path": "Formule de l'élasticité prix demande.md"
+    },
+    {
+      "basename": "Revenu total des entreprises",
+      "path": "Revenu total des entreprises.md"
+    },
+    {
+      "basename": "Elasticité revenue de la demande",
+      "path": "Elasticité revenue de la demande.md"
+    },
+    {
+      "basename": "Déterminants de l'élasticité-prix de la demande",
+      "path": "Déterminants de l'élasticité-prix de la demande.md"
+    },
+    {
+      "basename": "Fourchette des valeurs de l'élasticité-prix de la demande",
+      "path": "Fourchette des valeurs de l'élasticité-prix de la demande.md"
+    },
+    {
+      "basename": "Elasticité prix de la demande",
+      "path": "Elasticité prix de la demande.md"
+    },
+    {
+      "basename": "Elasticité prix croisée",
+      "path": "Elasticité prix croisée.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Equilibre à court terme",
+      "path": "Equilibre à court terme.md"
+    },
+    {
+      "basename": "Néo-classique (monétariste)",
+      "path": "Néo-classique (monétariste).md"
+    },
+    {
+      "basename": "Keynésienne",
+      "path": "Keynésienne.md"
+    },
+    {
+      "basename": "Fonctions du mécanisme des prix",
+      "path": "Fonctions du mécanisme des prix.md"
+    },
+    {
+      "basename": "Changements de prix et boucles de rétroaction",
+      "path": "Changements de prix et boucles de rétroaction.md"
+    },
+    {
+      "basename": "Context",
+      "path": "Context.md"
+    },
+    {
       "basename": "Nature des langages de programmation",
       "path": "Nature des langages de programmation.md"
     },
@@ -37,14 +145,6 @@
       "path": "_computer science.md"
     },
     {
-      "basename": "Context",
-      "path": "Context.md"
-    },
-    {
-      "basename": "Textual analysis",
-      "path": "Textual analysis.md"
-    },
-    {
       "basename": "Yellow wallpaper work",
       "path": "Yellow wallpaper work.md"
     },
@@ -53,20 +153,8 @@
       "path": "Travel writing.md"
     },
     {
-      "basename": "Context of interpretation~reception",
-      "path": "Context of interpretation~reception.md"
-    },
-    {
-      "basename": "Context of composition~production",
-      "path": "Context of composition~production.md"
-    },
-    {
       "basename": "Work, Energy, and Power",
       "path": "exercises/physics/theme 2/Work, Energy, and Power.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
     },
     {
       "basename": "Energies potentielles",
@@ -93,10 +181,6 @@
       "path": "exercises/physics/theme 2/Forces.md"
     },
     {
-      "basename": "_TOK",
-      "path": "_TOK.md"
-    },
-    {
       "basename": "Travail d'une force constante",
       "path": "Travail d'une force constante.md"
     },
@@ -115,90 +199,6 @@
     {
       "basename": "Energie mécanique (énergie totale)",
       "path": "Energie mécanique (énergie totale).md"
-    },
-    {
-      "basename": "Piles électriques",
-      "path": "Piles électriques.md"
-    },
-    {
-      "basename": "Theme 5-Electricité et Magnétisme",
-      "path": "Theme 5-Electricité et Magnétisme.md"
-    },
-    {
-      "basename": "Deuxième loi de Newton",
-      "path": "Deuxième loi de Newton.md"
-    },
-    {
-      "basename": "Force conservative",
-      "path": "Force conservative.md"
-    },
-    {
-      "basename": "Motion",
-      "path": "exercises/physics/theme 2/Motion.md"
-    },
-    {
-      "basename": "Mouvement d'un projectile",
-      "path": "Mouvement d'un projectile.md"
-    },
-    {
-      "basename": "Mouvement rectiligne uniforme",
-      "path": "Mouvement rectiligne uniforme.md"
-    },
-    {
-      "basename": "TOK exhib",
-      "path": "TOK exhib.md"
-    },
-    {
-      "basename": "Frottement",
-      "path": "Frottement.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Theme 1-Micro-économie",
-      "path": "Theme 1-Micro-économie.md"
-    },
-    {
-      "basename": "Demande",
-      "path": "Demande.md"
-    },
-    {
-      "basename": "Loi de la demande",
-      "path": "Loi de la demande.md"
-    },
-    {
-      "basename": "Chapitre 1 - La Demande",
-      "path": "Chapitre 1 - La Demande.md"
-    },
-    {
-      "basename": "Theme 1-Mesures et incertitudes",
-      "path": "Theme 1-Mesures et incertitudes.md"
-    },
-    {
-      "basename": "__C++",
-      "path": "__C++.md"
-    },
-    {
-      "basename": "Oral 1",
-      "path": "Oral 1.md"
-    },
-    {
-      "basename": "History",
-      "path": "History.md"
-    },
-    {
-      "basename": "TOK idk",
-      "path": "TOK idk.md"
-    },
-    {
-      "basename": "Lois des sinus et cosinus",
-      "path": "Lois des sinus et cosinus.md"
-    },
-    {
-      "basename": "Théorème Binomial",
-      "path": "Théorème Binomial.md"
     }
   ],
   "omittedPaths": [],

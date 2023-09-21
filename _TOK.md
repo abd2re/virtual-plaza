@@ -44,3 +44,8 @@ Research following words:
 - knowledge claim 
 
 
+4 ways of knowing:
+- Emotion
+- Reason
+- Sense of perception
+- Language
