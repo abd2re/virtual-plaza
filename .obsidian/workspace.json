@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0061a3df3476900",
+            "id": "8cd360d05bdd81d9",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,40 +18,22 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "_computer science",
+                  "title": "Chapitre 3 - Introduction a la programmation",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":18.53948717948718}"
-                },
-                {
-                  "title": "Work, Energy, and Power",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 2/Work, Energy, and Power.md\"}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 3 - Introduction a la programmation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "_physics",
+                  "title": "_computer science",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":18.569614186436617}"
                 },
                 {
                   "title": "Inflation et ses causes",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inflation et ses causes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":85,\"ch\":47},\"to\":{\"line\":85,\"ch\":47}},\"scroll\":86.20549242424242}"
-                },
-                {
-                  "title": "Chapitre 3 -  Objectifs macro-économiques",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 3 -  Objectifs macro-économiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":11.398224043715848}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":98,\"ch\":0},\"to\":{\"line\":98,\"ch\":0}},\"scroll\":89.125}"
                 }
               ]
             },
@@ -59,28 +41,6 @@
               "type": "markdown",
               "state": {
                 "file": "Nature des langages de programmation.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21569ed708f800ae",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inflation et ses causes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -455,44 +415,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c0061a3df3476900",
+  "active": "8cd360d05bdd81d9",
   "lastOpenFiles": [
-    "Inflation et ses causes.md",
-    "assets/Inflation et ses causes/image-20230921081541285.png",
-    "Nature des langages de programmation.md",
+    "Chapitre 3 - Introduction a la programmation.md",
     "_computer science.md",
-    "exercises/physics/theme 2/Work, Energy, and Power.md",
-    "Computer Science IA.md",
-    "_physics.md",
+    "Chapitre 1 - Les systèmes dans les organisations.md",
+    "Theme 1-Notion fondamental sur les systèmes.md",
+    "Inflation et ses causes.md",
+    "exo econ.md",
+    "Déflation, désinflation et leurs coûts.md",
+    "_economy.md",
+    "Chapitre 1 - La Demande.md",
+    "Theme 1-Micro-économie.md",
+    "Untitled 1.md",
+    "Causes du chômage, coûts et solutions.md",
+    "assets/Causes du chômage, coûts et solutions/image-20230908090941045.png",
     "assets/Inflation et ses causes/image-20230921082320448.png",
+    "Offre globale (court terme).md",
+    "assets/Inflation et ses causes/image-20230921081541285.png",
+    "Energie mécanique (énergie totale).md",
+    "_physics.md",
+    "Chapitre 3 -  Objectifs macro-économiques.md",
+    "Loi des gaz parfait.md",
+    "Nature des langages de programmation.md",
+    "exercises/physics/theme 2/Work, Energy, and Power.md",
+    "Theme 2-Macro-économie.md",
+    "Chapitre 2 - L'approvisionnement (L'offre).md",
     "assets/Inflation et ses causes/image-20230921082031502.png",
+    "Theme 3-Physique thermique.md",
+    "Mole.md",
+    "Energie cinétique.md",
+    "Chapitre 3 - Travail d'une force.md",
+    "Chapitre 2 - Forces et lois de Newton.md",
     "assets/Inflation et ses causes/image-20230921081748401.png",
     "assets/Inflation et ses causes",
-    "_TOK.md",
-    "TOK ess.md",
-    "Knowledge.md",
-    "Structure.md",
-    "Content.md",
-    "Analyzing literary and non-literary texts.md",
-    "_english.md",
-    "Textual analysis.md",
-    "Context of interpretation~reception.md",
-    "Context of composition~production.md",
-    "Style.md",
-    "Chapitre 5 - Elasticités de la demande.md",
-    "Formule de l'élasticité prix demande.md",
-    "Revenu total des entreprises.md",
-    "Elasticité revenue de la demande.md",
-    "Déterminants de l'élasticité-prix de la demande.md",
-    "Fourchette des valeurs de l'élasticité-prix de la demande.md",
-    "Elasticité prix de la demande.md",
-    "Elasticité prix croisée.md",
     "assets/Equilibre à court terme/image-20230515120553983.png",
     "assets/Equilibre à court terme/image-20230515115646980.png",
     "assets/Keynésienne/image-20230505092514830.png",
     "assets/CPU/CPU-8.png",
     "assets/CPU/CPU-7.png",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230917190606_500.png",
     "exercises/physics/theme 2/assets/Work, Energy, and Power",
     "assets/Grandeurs physiques fondamentales",
     "assets/Travail d'une force variable",

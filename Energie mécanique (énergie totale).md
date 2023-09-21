@@ -19,3 +19,9 @@ L'énergie mécanique d'un solide soumis qu'a des [[Force conservative|forces co
 
 Formule::$$\large{\sum E_{M}=0\leftrightarrow{E_{M_{B}}=E_{M_{A}}}}$$
 <!--SR:!2023-09-27,8,250-->
+
+## Non-conservation de l'énergie mécanique
+?
+La variation d'énergie mécanique entre deux instants d'un solide soumis a des forces non-conservatives est égale a la somme des travaux des forces non-conservatives.
+
+Formule::$$\Large{\Delta E_{M}=E_{M_{2}}-E_{M_{1}}=\sum W_{1\rightarrow2}(\vec{f}_{\text{non-conservatives}})}$$

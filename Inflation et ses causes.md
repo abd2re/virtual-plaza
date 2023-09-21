@@ -45,7 +45,7 @@ Alors que l'IPC s'interesse au produits de la consummation, l'IPP:: s'interesse 
 ## Causes de l'inflation
 Les deux principaux types d’inflation sont:
 ?
-- Inflation attisée par la demande
+- Inflation attisée par la demande (augmentation)
 - Inflation par les coûts de production
 
 ### Inflation attisée par la demande
@@ -88,9 +88,11 @@ Graphique
 
 ## Coûts d’un taux d’inflation élevé
 Un taux d’inflation élevé crée un environnement incertain pour l’activité économique et érode la confiance de tous les acteurs de l’économie. Il existe six coûts principaux liés à un taux d’inflation élevé (6):
-- Plus grande incertitude pour les entreprises
+?
+- Plus grande incertitude (pour les entreprises)
 - Effets redistributifs (Impacte plus fort pour les ménages a faible revenu)
 - Effets sur l'épargne
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
+

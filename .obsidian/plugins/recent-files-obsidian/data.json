@@ -5,24 +5,96 @@
       "path": "Nature des langages de programmation.md"
     },
     {
-      "basename": "Inflation et ses causes",
-      "path": "Inflation et ses causes.md"
+      "basename": "Chapitre 3 - Introduction a la programmation",
+      "path": "Chapitre 3 - Introduction a la programmation.md"
     },
     {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
     {
+      "basename": "Chapitre 1 - Les systèmes dans les organisations",
+      "path": "Chapitre 1 - Les systèmes dans les organisations.md"
+    },
+    {
+      "basename": "Inflation et ses causes",
+      "path": "Inflation et ses causes.md"
+    },
+    {
+      "basename": "exo econ",
+      "path": "exo econ.md"
+    },
+    {
+      "basename": "Déflation, désinflation et leurs coûts",
+      "path": "Déflation, désinflation et leurs coûts.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "Causes du chômage, coûts et solutions",
+      "path": "Causes du chômage, coûts et solutions.md"
+    },
+    {
+      "basename": "Offre globale (court terme)",
+      "path": "Offre globale (court terme).md"
+    },
+    {
+      "basename": "Energie mécanique (énergie totale)",
+      "path": "Energie mécanique (énergie totale).md"
+    },
+    {
+      "basename": "Chapitre 3 -  Objectifs macro-économiques",
+      "path": "Chapitre 3 -  Objectifs macro-économiques.md"
+    },
+    {
+      "basename": "Loi des gaz parfait",
+      "path": "Loi des gaz parfait.md"
+    },
+    {
       "basename": "Work, Energy, and Power",
       "path": "exercises/physics/theme 2/Work, Energy, and Power.md"
     },
     {
-      "basename": "Computer Science IA",
-      "path": "Computer Science IA.md"
+      "basename": "Theme 3-Physique thermique",
+      "path": "Theme 3-Physique thermique.md"
+    },
+    {
+      "basename": "Mole",
+      "path": "Mole.md"
+    },
+    {
+      "basename": "Energie cinétique",
+      "path": "Energie cinétique.md"
+    },
+    {
+      "basename": "Chapitre 3 - Travail d'une force",
+      "path": "Chapitre 3 - Travail d'une force.md"
     },
     {
       "basename": "_physics",
       "path": "_physics.md"
+    },
+    {
+      "basename": "Chapitre 2 - Forces et lois de Newton",
+      "path": "Chapitre 2 - Forces et lois de Newton.md"
+    },
+    {
+      "basename": "Energie interne",
+      "path": "Energie interne.md"
+    },
+    {
+      "basename": "Theme 7-Physique nucléaire",
+      "path": "Theme 7-Physique nucléaire.md"
+    },
+    {
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
     },
     {
       "basename": "_TOK",
@@ -101,10 +173,6 @@
       "path": "Elasticité prix croisée.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "Equilibre à court terme",
       "path": "Equilibre à court terme.md"
     },
@@ -131,74 +199,6 @@
     {
       "basename": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
       "path": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
-    },
-    {
-      "basename": "Theme 3-Réseaux",
-      "path": "Theme 3-Réseaux.md"
-    },
-    {
-      "basename": "Raisonnement abstrait",
-      "path": "Raisonnement abstrait.md"
-    },
-    {
-      "basename": "Chapitre 3 - Introduction a la programmation",
-      "path": "Chapitre 3 - Introduction a la programmation.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "CPU",
-      "path": "CPU.md"
-    },
-    {
-      "basename": "Unité arithmétique et logique",
-      "path": "Unité arithmétique et logique.md"
-    },
-    {
-      "basename": "Yellow wallpaper work",
-      "path": "Yellow wallpaper work.md"
-    },
-    {
-      "basename": "Travel writing",
-      "path": "Travel writing.md"
-    },
-    {
-      "basename": "Energies potentielles",
-      "path": "Energies potentielles.md"
-    },
-    {
-      "basename": "ethical issues",
-      "path": "ethical issues.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "Tension d'un ressort",
-      "path": "Tension d'un ressort.md"
-    },
-    {
-      "basename": "Forces",
-      "path": "exercises/physics/theme 2/Forces.md"
-    },
-    {
-      "basename": "Travail d'une force constante",
-      "path": "Travail d'une force constante.md"
-    },
-    {
-      "basename": "Chapitre 3 - Travail d'une force",
-      "path": "Chapitre 3 - Travail d'une force.md"
-    },
-    {
-      "basename": "Energie cinétique",
-      "path": "Energie cinétique.md"
-    },
-    {
-      "basename": "Tension d'un fil",
-      "path": "Tension d'un fil.md"
     }
   ],
   "omittedPaths": [],
