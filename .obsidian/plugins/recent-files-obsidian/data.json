@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Nature des langages de programmation",
+      "path": "Nature des langages de programmation.md"
+    },
+    {
       "basename": "Inflation et ses causes",
       "path": "Inflation et ses causes.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Work, Energy, and Power",
+      "path": "exercises/physics/theme 2/Work, Energy, and Power.md"
+    },
+    {
+      "basename": "Computer Science IA",
+      "path": "Computer Science IA.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "_TOK",
@@ -109,10 +129,6 @@
       "path": "Context.md"
     },
     {
-      "basename": "Nature des langages de programmation",
-      "path": "Nature des langages de programmation.md"
-    },
-    {
       "basename": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
       "path": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
     },
@@ -141,10 +157,6 @@
       "path": "Unité arithmétique et logique.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "Yellow wallpaper work",
       "path": "Yellow wallpaper work.md"
     },
@@ -153,16 +165,8 @@
       "path": "Travel writing.md"
     },
     {
-      "basename": "Work, Energy, and Power",
-      "path": "exercises/physics/theme 2/Work, Energy, and Power.md"
-    },
-    {
       "basename": "Energies potentielles",
       "path": "Energies potentielles.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "ethical issues",
@@ -195,10 +199,6 @@
     {
       "basename": "Tension d'un fil",
       "path": "Tension d'un fil.md"
-    },
-    {
-      "basename": "Energie mécanique (énergie totale)",
-      "path": "Energie mécanique (énergie totale).md"
     }
   ],
   "omittedPaths": [],
