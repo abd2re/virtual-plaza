@@ -8,7 +8,7 @@ Created: 2023-09-08
 Au total, il existe quatre types de chômage qui se répartissent en deux grandes catégories. Ces deux catégories sont:
 ?
 - **Chômage de déséquilibre** inclut:: le chômage cyclique (déficit de la demande) et le chômage réel.
-<!--SR:!2023-09-21,7,250-->
+<!--SR:!2023-10-09,18,250-->
 - **Taux de chômage naturel** comprend:: le chômage frictionnel, saisonnier et structurel.
 <!--SR:!2023-09-29,10,210-->
 
@@ -58,12 +58,12 @@ Il y a deux causes principales du chômage structurel:
 ?
 - Lorsqu’une **industrie déménage dans un pays ou dans un autre pays**, il est peu probable que les gens déménagent avec l’industrie.
 - Les **rigidités du marché du travail**, telles que la difficulté pour les gens de changer d'emploi et de type d'emploi, et la législation du travail qui empêche le licenciement facile des travailleurs inefficaces, réduiront l'offre de main-d'œuvre disponible
-<!--SR:!2023-09-21,4,222-->
+<!--SR:!2023-10-01,10,222-->
 
 3 étapes lorsqu'il y a un chômage structurel (graphiques):
 ?
 ![[image-20230913103815676.png|center|550]]
-<!--SR:!2023-09-21,2,182-->
+<!--SR:!2023-09-22,1,162-->
 
 ## Coûts du chômage
 
@@ -80,7 +80,7 @@ Quels sont les coûts personnels du chômage (2) ?:
 ?
 1. Augmentation de l’endettement, du sans-abrisme et de l’éclatement des famille
 2. Niveaux de stress accrus
-<!--SR:!2023-09-21,5,242-->
+<!--SR:!2023-10-03,12,242-->
 
 Quels sont les coûts sociaux du chômage (2) ?:
 ?
@@ -92,7 +92,7 @@ Quels sont les coûts sociaux du chômage (2) ?:
 Graphes des deux causes principales (avec leur noms):
 ?
 ![[image-20230913113530424.png]]
-<!--SR:!2023-09-21,4,222-->
+<!--SR:!2023-09-30,9,222-->
 
 
 

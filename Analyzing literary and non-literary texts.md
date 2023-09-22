@@ -21,5 +21,5 @@ Steps (10):
 8. **Explore cultural norms and values**: Identify and analyze the cultural norms and values reflected in the text. Consider how the text promotes, reinforces, and challenges these norms.
 9. **Analyze the impact**: Consider the impact of the communication on the audience and the society. Reflect on how the text influences behavior, attitude, or perceptions related to culture. 
 10. **Draw conclusions**: To draw conclusions we generally talk about how the language and content of the non-literary text reflect and contribute to cultural norms an values. Reflect on how your cultural background and experiences may influence your interpretation of the text. Recognize potential biases and assumptions within the text.
-<!--SR:!2023-09-21,2,190-->
+<!--SR:!2023-09-26,5,210-->
 

@@ -8,7 +8,7 @@ Created: 2023-09-08
 ## Incertitudes absolues
 ?
 L'incertitude d'une mesure en valeur absolue ($\pm x\text{ ou }\Delta x$)
-<!--SR:!2023-09-21,7,250-->
+<!--SR:!2023-10-10,19,250-->
 
 Si on a $x_{\text{min}}$ et $x_{\text{max}}$ alors $x$ et $\Delta x$ sont égales a:
 ?
@@ -26,7 +26,7 @@ Formule::$$\large{\frac{\text{incertitude absolue}}{\text{mesure}}=\frac{\Delta 
 
 ## Incertitude en pourcentage
 Formule::$$\large{\frac{\text{incertitude absolue}}{\text{mesure}}\times100=\frac{\Delta x}{x}\times100}$$
-<!--SR:!2023-09-21,7,250-->
+<!--SR:!2023-10-09,18,250-->
 
 # Lois d'opérations
 - Addition ou soustraction:: Somme des incertitudes absolues $$\Large{\Delta y =\Delta a+\Delta b}$$

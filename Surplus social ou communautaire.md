@@ -27,5 +27,5 @@ Encore une fois, en l'absence de perturbations et d'effets externes, le bénéfi
 Graphe du surplus du consommateur et surplus du producteur
 ?
 ![[image-20221108155959360.png]]
-<!--SR:!2023-09-21,33,210-->
+<!--SR:!2023-11-29,69,210-->
 

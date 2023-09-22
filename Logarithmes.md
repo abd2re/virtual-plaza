@@ -13,5 +13,5 @@ Lois des logarithmes (addition, soustraction, multiplication)
 <!--SR:!2023-11-02,115,250-->
 
 - $e^{x\ln a}$=::$a^{x}$
-<!--SR:!2023-09-21,11,210-->
+<!--SR:!2023-10-16,25,210-->
 

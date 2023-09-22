@@ -5,12 +5,24 @@
       "path": "Nature des langages de programmation.md"
     },
     {
-      "basename": "Chapitre 3 - Introduction a la programmation",
-      "path": "Chapitre 3 - Introduction a la programmation.md"
-    },
-    {
       "basename": "_computer science",
       "path": "_computer science.md"
+    },
+    {
+      "basename": "Déflation, désinflation et leurs coûts",
+      "path": "Déflation, désinflation et leurs coûts.md"
+    },
+    {
+      "basename": "Chaleur latente",
+      "path": "Chaleur latente.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Chapitre 3 - Introduction a la programmation",
+      "path": "Chapitre 3 - Introduction a la programmation.md"
     },
     {
       "basename": "Chapitre 1 - Les systèmes dans les organisations",
@@ -23,14 +35,6 @@
     {
       "basename": "exo econ",
       "path": "exo econ.md"
-    },
-    {
-      "basename": "Déflation, désinflation et leurs coûts",
-      "path": "Déflation, désinflation et leurs coûts.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Untitled 1",
@@ -195,10 +199,6 @@
     {
       "basename": "Context",
       "path": "Context.md"
-    },
-    {
-      "basename": "Theme 4-Pensée informatique, résolution de problèmes et programmation",
-      "path": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
     }
   ],
   "omittedPaths": [],

@@ -51,7 +51,7 @@ Key terms:
 - Tone:: the attitude of the writer or speaker towards his or her subject
 <!--SR:!2023-09-22,2,190-->
 - Figurative language:: language that uses figures of speech, such as metaphors or symbols, to embellish meaning beyond the literal
-<!--SR:!2023-09-21,2,210-->
+<!--SR:!2023-09-25,4,210-->
 
 Four forms of literary works are:
 ?
