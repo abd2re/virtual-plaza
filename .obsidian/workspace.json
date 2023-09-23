@@ -11,11 +11,23 @@
             "id": "29dbb0fb7d9d34ec",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Vitesses",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vitesses.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Probabilité discrètes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Probabilité discrètes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":18.056640625}"
                 },
                 {
                   "title": "_math",
@@ -28,8 +40,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilité discrètes.md",
-                "mode": "source",
+                "file": "Vitesse.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "assets/Vitesse/image-20230923141334462.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "assets/Vitesse/image-20230923141334462.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "assets/Vitesse/image-20230923141334462.png"
               }
             }
           },
@@ -275,7 +287,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "assets/Vitesse/image-20230923141334462.png"
               }
             }
           },
@@ -337,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "assets/Vitesse/image-20230923141334462.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -403,10 +415,20 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "29dbb0fb7d9d34ec",
+  "active": "bc528c3565143fdc",
   "lastOpenFiles": [
-    "_math.md",
+    "Vitesse.md",
+    "assets/Vitesse/image-20230923141334462.png",
+    "assets/Vitesse",
+    "Vitesses.md",
     "Probabilité discrètes.md",
+    "Déplacement et Distance parcouru.md",
+    "_physics.md",
+    "Chapitre 1 - Cinématique.md",
+    "Accélération.md",
+    "Theme 2-Mécanique.md",
+    "Theme 1-Mesures et incertitudes.md",
+    "_math.md",
     "Mole.md",
     "_economy.md",
     "Loi des gaz parfait.md",
@@ -422,17 +444,8 @@
     "Chapitre 1 - La Demande.md",
     "Chaleur latente.md",
     "Température.md",
-    "Puissance d'une force.md",
-    "Mouvement rectiligne uniforme.md",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
-    "_french B.md",
-    "Déflation, désinflation et leurs coûts.md",
-    "Loi de décroissance radioactive.md",
-    "Theme 7-Physique nucléaire.md",
-    "Désintégration radioactive.md",
-    "Nature des langages de programmation.md",
     "exercises/physics/theme 2/assets/Forces/Pasted Image 20230603132351_374.png",
-    "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "assets/Causes du chômage, coûts et solutions/image-20230908090941045.png",
     "assets/Inflation et ses causes/image-20230921082320448.png",
     "assets/Inflation et ses causes/image-20230921081541285.png",
@@ -441,7 +454,6 @@
     "assets/Inflation et ses causes",
     "assets/Equilibre à court terme/image-20230515120553983.png",
     "assets/Equilibre à court terme/image-20230515115646980.png",
-    "assets/Keynésienne/image-20230505092514830.png",
     "exercises/physics/theme 2/assets/Work, Energy, and Power",
     "assets/Grandeurs physiques fondamentales",
     "assets/Travail d'une force variable",
@@ -449,7 +461,6 @@
     "pdf/_Radioactiviteword.pdf",
     "assets/Travail des force électriques",
     "assets/Mathematics IA",
-    "assets/Travail du poids d'un corps",
-    "econ_generate.py"
+    "assets/Travail du poids d'un corps"
   ]
 }

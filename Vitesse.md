@@ -29,3 +29,8 @@ Formule:
 ?
 $$\large{\vec{v}=\lim_{\Delta t\rightarrow0}\left(\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}\right)=d\frac{O\vec{M}}{dt}}$$
 <!--SR:!2023-11-05,135,250-->
+
+Vitesse moyenne et instantané dans un graphe déplacement/temps:
+?
+![[image-20230923141334462.png|center|470]]
+

@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Vitesse",
+      "path": "Vitesse.md"
+    },
+    {
       "basename": "Probabilité discrètes",
       "path": "Probabilité discrètes.md"
+    },
+    {
+      "basename": "Déplacement et Distance parcouru",
+      "path": "Déplacement et Distance parcouru.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "_math",
@@ -141,10 +153,6 @@
       "path": "Chapitre 3 - Travail d'une force.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "Chapitre 2 - Forces et lois de Newton",
       "path": "Chapitre 2 - Forces et lois de Newton.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "Context of interpretation~reception",
       "path": "Context of interpretation~reception.md"
-    },
-    {
-      "basename": "Context of composition~production",
-      "path": "Context of composition~production.md"
-    },
-    {
-      "basename": "Style",
-      "path": "Style.md"
-    },
-    {
-      "basename": "Chapitre 5 - Elasticités de la demande",
-      "path": "Chapitre 5 - Elasticités de la demande.md"
     }
   ],
   "omittedPaths": [],
