@@ -16,12 +16,23 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":6.399739583333333}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Probabilité discrètes.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -144,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Probabilité discrètes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Probabilité discrètes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +221,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Probabilité discrètes.md"
+              }
             }
           },
           {
@@ -259,7 +274,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Probabilité discrètes.md"
+              }
             }
           },
           {
@@ -320,6 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Probabilité discrètes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -387,6 +405,8 @@
   },
   "active": "29dbb0fb7d9d34ec",
   "lastOpenFiles": [
+    "_math.md",
+    "Probabilité discrètes.md",
     "Mole.md",
     "_economy.md",
     "Loi des gaz parfait.md",
@@ -406,7 +426,6 @@
     "Mouvement rectiligne uniforme.md",
     "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
     "_french B.md",
-    "_math.md",
     "Déflation, désinflation et leurs coûts.md",
     "Loi de décroissance radioactive.md",
     "Theme 7-Physique nucléaire.md",
@@ -414,7 +433,6 @@
     "Nature des langages de programmation.md",
     "exercises/physics/theme 2/assets/Forces/Pasted Image 20230603132351_374.png",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
-    "_computer science.md",
     "assets/Causes du chômage, coûts et solutions/image-20230908090941045.png",
     "assets/Inflation et ses causes/image-20230921082320448.png",
     "assets/Inflation et ses causes/image-20230921081541285.png",

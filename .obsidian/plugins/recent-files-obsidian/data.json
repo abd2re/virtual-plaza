@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Probabilité discrètes",
+      "path": "Probabilité discrètes.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
       "basename": "Mole",
       "path": "Mole.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "Mouvement rectiligne uniforme",
       "path": "Mouvement rectiligne uniforme.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "Déflation, désinflation et leurs coûts",
@@ -195,10 +199,6 @@
     {
       "basename": "Chapitre 5 - Elasticités de la demande",
       "path": "Chapitre 5 - Elasticités de la demande.md"
-    },
-    {
-      "basename": "Formule de l'élasticité prix demande",
-      "path": "Formule de l'élasticité prix demande.md"
     }
   ],
   "omittedPaths": [],
