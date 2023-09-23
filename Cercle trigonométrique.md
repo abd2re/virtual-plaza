@@ -24,7 +24,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\cos 0}=$::$\Large{1}$
 <!--SR:!2023-11-29,115,250-->
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
-<!--SR:!2023-09-22,77,250-->
+<!--SR:!2024-04-02,193,250-->
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
 <!--SR:!2024-03-13,180,250-->
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$

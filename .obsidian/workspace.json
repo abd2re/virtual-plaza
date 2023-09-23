@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9a2252d7e4aa8da",
+        "id": "3cfc50ef7a6cef3a",
         "type": "tabs",
         "children": [
           {
-            "id": "8cd360d05bdd81d9",
+            "id": "29dbb0fb7d9d34ec",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,79 +16,15 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":11.719550281074328}"
-                },
-                {
-                  "title": "Nature des langages de programmation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Nature des langages de programmation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 3 - Introduction a la programmation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 3 - Introduction a la programmation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":18.569614186436617}"
-                },
-                {
-                  "title": "Inflation et ses causes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Inflation et ses causes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":98,\"ch\":0},\"to\":{\"line\":98,\"ch\":0}},\"scroll\":89.125}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Déflation, désinflation et leurs coûts.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a502890c4c9b2e57",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_computer science",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_computer science.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":18.569614186436617}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nature des langages de programmation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nature des langages de programmation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nature des langages de programmation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -274,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Nature des langages de programmation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -327,9 +259,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Nature des langages de programmation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -390,7 +320,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Nature des langages de programmation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -456,45 +385,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a502890c4c9b2e57",
+  "active": "29dbb0fb7d9d34ec",
   "lastOpenFiles": [
+    "Mole.md",
+    "_economy.md",
+    "Loi des gaz parfait.md",
+    "TOK Exhibition.md",
+    "TOK exhib.md",
+    "TOK ess.md",
+    "TOK Essay.md",
+    "Théorie cinétique des gaz parfaits.md",
+    "Theme 3-Physique thermique.md",
+    "Theme 1-Micro-économie.md",
+    "Elasticité prix de la demande.md",
+    "Chapitre 5 - Elasticités de la demande.md",
+    "Chapitre 1 - La Demande.md",
+    "Chaleur latente.md",
+    "Température.md",
+    "Puissance d'une force.md",
+    "Mouvement rectiligne uniforme.md",
+    "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
+    "_french B.md",
+    "_math.md",
+    "Déflation, désinflation et leurs coûts.md",
+    "Loi de décroissance radioactive.md",
+    "Theme 7-Physique nucléaire.md",
+    "Désintégration radioactive.md",
+    "Nature des langages de programmation.md",
+    "exercises/physics/theme 2/assets/Forces/Pasted Image 20230603132351_374.png",
     "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "_computer science.md",
-    "Déflation, désinflation et leurs coûts.md",
-    "Chaleur latente.md",
-    "Chapitre 3 -  Objectifs macro-économiques.md",
-    "Theme 2-Macro-économie.md",
-    "_economy.md",
-    "Theme 1-Micro-économie.md",
-    "Chapitre 1 - La Demande.md",
-    "Nature des langages de programmation.md",
-    "Chapitre 3 - Introduction a la programmation.md",
-    "Chapitre 1 - Les systèmes dans les organisations.md",
-    "Theme 1-Notion fondamental sur les systèmes.md",
-    "Inflation et ses causes.md",
-    "exo econ.md",
-    "Untitled 1.md",
-    "Causes du chômage, coûts et solutions.md",
     "assets/Causes du chômage, coûts et solutions/image-20230908090941045.png",
     "assets/Inflation et ses causes/image-20230921082320448.png",
-    "Offre globale (court terme).md",
     "assets/Inflation et ses causes/image-20230921081541285.png",
-    "Energie mécanique (énergie totale).md",
-    "_physics.md",
-    "Loi des gaz parfait.md",
-    "exercises/physics/theme 2/Work, Energy, and Power.md",
-    "Chapitre 2 - L'approvisionnement (L'offre).md",
     "assets/Inflation et ses causes/image-20230921082031502.png",
-    "Theme 3-Physique thermique.md",
-    "Mole.md",
-    "Energie cinétique.md",
     "assets/Inflation et ses causes/image-20230921081748401.png",
     "assets/Inflation et ses causes",
     "assets/Equilibre à court terme/image-20230515120553983.png",
     "assets/Equilibre à court terme/image-20230515115646980.png",
     "assets/Keynésienne/image-20230505092514830.png",
-    "assets/CPU/CPU-8.png",
-    "assets/CPU/CPU-7.png",
     "exercises/physics/theme 2/assets/Work, Energy, and Power",
     "assets/Grandeurs physiques fondamentales",
     "assets/Travail d'une force variable",

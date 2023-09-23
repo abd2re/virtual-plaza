@@ -20,7 +20,7 @@ Elle est pour cause:: **l'opérateur**.
 <!--SR:!2023-09-23,9,250-->
 
 Pour le réduire:: on effectue de nombreuses mesures.
-<!--SR:!2023-09-22,8,250-->
+<!--SR:!2023-10-13,21,250-->
 
 ## Erreurs systématiques
 ?

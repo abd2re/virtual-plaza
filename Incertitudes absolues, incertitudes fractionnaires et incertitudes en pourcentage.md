@@ -30,8 +30,8 @@ Formule::$$\large{\frac{\text{incertitude absolue}}{\text{mesure}}\times100=\fra
 
 # Lois d'opérations
 - Addition ou soustraction:: Somme des incertitudes absolues $$\Large{\Delta y =\Delta a+\Delta b}$$
-<!--SR:!2023-09-22,8,250-->
+<!--SR:!2023-10-12,20,250-->
 - Multiplication ou division:: Somme des incertitudes fractionnaires $$\Large{\frac{\Delta y}{y} =\frac{\Delta a}{a}+\frac{\Delta b}{b}}$$
-<!--SR:!2023-09-22,8,250-->
+<!--SR:!2023-10-15,23,250-->
 - Exposant $y=a^{n}$:: Multiplier l'incertitude fractionnaire par $n$ $$\Large{\frac{\Delta y}{y} =\bigg|n\frac{\Delta a}{a}\bigg|}$$
 <!--SR:!2023-09-30,11,230-->

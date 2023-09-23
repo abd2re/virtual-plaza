@@ -5,7 +5,7 @@ Created: 2022-10-04
 
 # Température
 ?
-La température est une mesure de l'[[Energie cinétique]] moyenne des [[molécules]].
+La température est une mesure de l'[[Energie cinétique]] moyenne des molécules.
 <!--SR:!2023-11-20,98,230-->
 
 On rencontre les échelles suivantes de Températures suivantes:: Celsius ,Fahrenheit, Kelvin
