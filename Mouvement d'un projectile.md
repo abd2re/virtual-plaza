@@ -10,7 +10,7 @@ Si on néglige la résistance de l'air, le projectile n'est soumis qu'a son poid
 - Selon $o_{x}$ le mouvement est:: mouvement rectiligne uniforme (MRU)
 <!--SR:!2023-09-26,86,249-->
 - Selon $o_{y}$ le mouvement est:: mouvement rectiligne uniforme variée (MRUV)
-<!--SR:!2023-09-23,89,249-->
+<!--SR:!2024-05-01,221,249-->
 
 $a_{x}$=::0
 <!--SR:!2023-12-27,145,250-->

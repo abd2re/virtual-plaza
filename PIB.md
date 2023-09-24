@@ -6,7 +6,7 @@ Created: 2023-03-31
 # PIB
 ?
 Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
-<!--SR:!2023-09-23,15,130-->
+<!--SR:!2023-10-13,20,130-->
 
 Avantages du PIB (3):
 ?

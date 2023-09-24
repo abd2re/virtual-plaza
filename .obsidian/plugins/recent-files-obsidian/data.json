@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Vitesse",
-      "path": "Vitesse.md"
-    },
-    {
       "basename": "Probabilité discrètes",
       "path": "Probabilité discrètes.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Vitesse",
+      "path": "Vitesse.md"
     },
     {
       "basename": "Déplacement et Distance parcouru",
@@ -15,10 +23,6 @@
     {
       "basename": "_physics",
       "path": "_physics.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "Mole",
@@ -95,10 +99,6 @@
     {
       "basename": "Pasted Image 20230603132351_374",
       "path": "exercises/physics/theme 2/assets/Forces/Pasted Image 20230603132351_374.png"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Chaleur latente",

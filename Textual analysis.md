@@ -37,9 +37,9 @@ Key terms:
 - Devices:: tools that an author use to achieve an intended effect, for example, metaphor or rhetoric
 <!--SR:!2023-09-26,4,190-->
 - Audience:: the intended readership of a text
-<!--SR:!2023-09-23,4,210-->
+<!--SR:!2023-09-30,7,210-->
 - Purpose:: what the text set out to achieve; why the text is created
-<!--SR:!2023-09-23,5,230-->
+<!--SR:!2023-10-07,14,230-->
 - Mood:: the feeling that is evoked in the reader (audience) which is  a result of the tone which is set.
 <!--SR:!2023-09-26,4,190-->
 - Semantic fields:: A collection of words or phrases that are related to each other in meaning and connotation, for example, safety, welcome, support, shelter, structure and warmth would all be part of the same semantic field in relation to the word home

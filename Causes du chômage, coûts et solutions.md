@@ -19,7 +19,7 @@ Dans le cas d'une récession, une réduction de la [[demande globale]] entraîne
 <!--SR:!2023-09-29,11,230-->
 
 Les récessions peuvent également provoquer un [[choc d'offre]] lorsque l'[[offre]] globale diminue, entraînant une hausse des [[coûts de production]] et entraînant ce que l'on appelle:: une baisse de l'offre globale (stagflation).
-<!--SR:!2023-09-23,9,250-->
+<!--SR:!2023-10-18,25,250-->
 
 Graphique avec axes et explication du nombre de chômeurs
 ?
@@ -30,7 +30,7 @@ La demande totale de main-d'œuvre passe de AD L à AD L1 . Au taux de sala
 ### Chômage réel
 ?
 Un salaire minimum imposé par le gouvernement peut également accroître le chômage, c'est ce qu'on appelle chômage au salaire réel, où il existe un écart entre le nombre d'emplois disponibles et le nombre de personnes désireuses et capables de travailler au taux de salaire en vigueur.
-<!--SR:!2023-09-23,9,250-->
+<!--SR:!2023-10-17,24,250-->
 
 Graphique avec axes et explication du nombre de chômeurs
 ?
@@ -74,7 +74,7 @@ Quels sont les coûts économiques du chômage (5) ?:
 3. Augmentation du coût des allocations de chômage
 4. Perte de revenus pour les particuliers
 5. De plus grandes disparités dans la répartition des revenus
-<!--SR:!2023-09-23,4,182-->
+<!--SR:!2023-10-02,9,182-->
 
 Quels sont les coûts personnels du chômage (2) ?:
 ?

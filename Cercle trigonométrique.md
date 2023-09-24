@@ -42,7 +42,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(\pi+\theta)$=::$-\cos\theta$
 <!--SR:!2024-02-18,166,250-->
 - $\sin(\pi+\theta)$=::$-\sin\theta$
-<!--SR:!2023-09-23,77,250-->
+<!--SR:!2024-04-12,202,250-->
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 <!--SR:!2023-09-25,73,230-->
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
@@ -80,6 +80,6 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
 <!--SR:!2023-09-24,39,228-->
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
-<!--SR:!2023-09-23,36,228-->
+<!--SR:!2023-12-13,81,228-->
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$
 <!--SR:!2023-10-01,70,248-->

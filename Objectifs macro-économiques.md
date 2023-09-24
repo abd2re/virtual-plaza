@@ -20,4 +20,4 @@ Quatre composantes de la santé économique des pays soutiennent le concept de 
 <!--SR:!2023-10-08,38,170-->
 
 Quand le PIB augmente, on parle de:: croissance économique.
-<!--SR:!2023-09-23,63,250-->
+<!--SR:!2024-02-28,158,250-->

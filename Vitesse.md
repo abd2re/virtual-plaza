@@ -33,4 +33,5 @@ $$\large{\vec{v}=\lim_{\Delta t\rightarrow0}\left(\frac{\vec{M_{1}M_{2}}}{t_{2}-
 Vitesse moyenne et instantané dans un graphe déplacement/temps:
 ?
 ![[image-20230923141334462.png|center|470]]
+<!--SR:!2023-09-25,2,241-->
 

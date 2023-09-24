@@ -20,7 +20,7 @@ Quel outil les gouvernements utilisent pour calculer l'inflation ?:: indice des 
 <!--SR:!2023-09-26,8,250-->
 
 Le calcul du IPC implique:: la sélection d'un panier de biens et services typiques achetés dans l'économie par la famille type (généralement deux adultes et deux enfants). 
-<!--SR:!2023-09-23,4,210-->
+<!--SR:!2023-10-03,10,210-->
 
 Formule IPC::$$\large{\text{IPC}_{n}=\frac{\text{valeur du panier de l'année }n}{\text{valeur de panier de l'année de base}}\times100}$$
 <!--SR:!2023-09-27,9,250-->
@@ -35,16 +35,16 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2023-09-23,1,223-->
+<!--SR:!2023-09-25,2,223-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2023-09-24,2,243-->
 
 IPP veut dire:: Indice prix de la production
-<!--SR:!2023-09-23,1,223-->
+<!--SR:!2023-09-25,2,223-->
 
 Alors que l'IPC s'interesse au produits de la consummation, l'IPP:: s'interesse aux facteurs de production qui nous permet de prévoir une augmentation/baisse future de l'IPC.
-<!--SR:!2023-09-23,1,223-->
+<!--SR:!2023-09-24,1,203-->
 
 ## Causes de l'inflation
 Les deux principaux types d’inflation sont:
@@ -59,7 +59,7 @@ L’inflation tirée par la demande se produit lorsqu’il y a une augmentation 
 <!--SR:!2023-09-24,2,243-->
 
 - Selon la nouvelle théorie classique, l’augmentation de la demande globale est suivie:: d’une pression à la hausse sur les salaires, de sorte qu’il n’y aura pas d’augmentation de la production à long terme.![[image-20230921081541285.png]]
-<!--SR:!2023-09-23,1,223-->
+<!--SR:!2023-09-24,1,203-->
 - Selon la théorie keynésienne, toutes les augmentations de la demande globale ::n’entraînent pas une hausse des prix.![[image-20230921081748401.png]]
 <!--SR:!2023-09-24,2,243-->
 
@@ -81,7 +81,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 - les modifications des lois sur le salaire minimum
 - l'augmentation du coût des matières premières importées
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
-<!--SR:!2023-09-23,1,223-->
+<!--SR:!2023-09-25,2,223-->
 
 Graphique avec explications
 ?
@@ -100,7 +100,7 @@ Graphique
 <!--SR:!2023-09-24,2,243-->
 
 - Pour les nouveaux économistes classiques, toute tentative de stimuler la demande globale n’aboutira qu’à:: l'inflation sans aucune augmentation du revenu national.
-<!--SR:!2023-09-23,1,223-->
+<!--SR:!2023-09-24,1,203-->
 - Pour les économistes keynésiens une inflation excessive est une:: mauvaise chose lorsque la demande globale commence à augmenter le long de la partie verticale de la courbe AS.
 <!--SR:!2023-09-24,2,243-->
 
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2023-09-23,1,223-->
+<!--SR:!2023-09-24,1,203-->
 

@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3cfc50ef7a6cef3a",
+        "id": "8177f50a163f8d6d",
         "type": "tabs",
         "children": [
           {
-            "id": "29dbb0fb7d9d34ec",
+            "id": "e33e76ec71121e71",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Vitesses",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Vitesses.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Probabilité discrètes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Probabilité discrètes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":18.056640625}"
-                },
-                {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":6.399739583333333}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vitesse.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -167,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Vitesse/image-20230923141334462.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Vitesse/image-20230923141334462.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "assets/Vitesse/image-20230923141334462.png"
-              }
+              "state": {}
             }
           },
           {
@@ -286,9 +259,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "assets/Vitesse/image-20230923141334462.png"
-              }
+              "state": {}
             }
           },
           {
@@ -349,7 +320,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "assets/Vitesse/image-20230923141334462.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -415,20 +385,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bc528c3565143fdc",
+  "active": "e33e76ec71121e71",
   "lastOpenFiles": [
+    "Probabilité discrètes.md",
+    "_math.md",
+    "_computer science.md",
     "Vitesse.md",
     "assets/Vitesse/image-20230923141334462.png",
     "assets/Vitesse",
     "Vitesses.md",
-    "Probabilité discrètes.md",
     "Déplacement et Distance parcouru.md",
     "_physics.md",
     "Chapitre 1 - Cinématique.md",
     "Accélération.md",
     "Theme 2-Mécanique.md",
     "Theme 1-Mesures et incertitudes.md",
-    "_math.md",
     "Mole.md",
     "_economy.md",
     "Loi des gaz parfait.md",

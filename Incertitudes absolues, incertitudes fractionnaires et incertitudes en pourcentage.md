@@ -14,7 +14,7 @@ Si on a $x_{\text{min}}$ et $x_{\text{max}}$ alors $x$ et $\Delta x$ sont égale
 ?
 $$\large{x=\frac{x_{\text{max}}+x_{\text{min}}}{2}}$$
 $$\large{\Delta x=\frac{x_{\text{max}}-x_{\text{min}}}{2}}$$
-<!--SR:!2023-09-23,9,250-->
+<!--SR:!2023-10-19,26,250-->
 
 ## Incertitudes fractionnaires
 ?
