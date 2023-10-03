@@ -28,7 +28,7 @@ Les trois méthodes de calculer le PIB sont:
 - [[Méthode de sortie (production)]]
 - [[Méthode du revenu]]
 - [[Méthode des dépenses (demande)]]
-<!--SR:!2023-10-03,46,221-->
+<!--SR:!2024-01-16,105,221-->
 
 Les gouvernements peuvent comptabiliser le revenu national en additionnant toutes les catégories de revenus (loyers, salaires, intérêts et bénéfices), la valeur ajoutée de chaque catégorie de production (des industries primaires, secondaires et tertiaires) ou les catégories de dépenses d'une économie. En d'autres termes:
 ?
@@ -44,12 +44,12 @@ Revenu = Production = Dépenses
 - Le PIB nominal est aussi appelé (3) :: PIB non-déflaté, PIB a prix courant, PIB a $ courant
 <!--SR:!2024-05-06,237,241-->
 - Le PIB réel est aussi appelé (3) :: PIB déflaté, PIB a prix constant, PIB a $ constant
-<!--SR:!2023-09-24,97,221-->
+<!--SR:!2023-11-12,49,201-->
 
 ## PNB 
 ?
 Le PNB/RNB est la **valeur** des biens et services **produits** par les **nationaux** au cours d'une **période donnée**.
-<!--SR:!2023-09-30,42,221-->
+<!--SR:!2023-10-21,21,201-->
 
 Différence entre PIB et PNB:
 ?

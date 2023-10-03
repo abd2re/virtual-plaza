@@ -23,7 +23,7 @@ Scientific knowledge is based on observations and experimentation, along with th
 
 ### Key words
 - **Empirical**:: based on and verified by observation and experience
-<!--SR:!2023-09-24,149,250-->
+<!--SR:!2024-10-02,374,250-->
 - **Hypotheses** :: a provisional explanation based on limited evidence that provides a starting point for further investigation
 <!--SR:!2024-03-19,241,230-->
 - **Scientific methods**:: a method of procedure for the way scientifique investigation's are conducted 

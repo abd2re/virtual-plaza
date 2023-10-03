@@ -16,4 +16,4 @@ Avantages des prototypes au client:
 - Donne une idée du produit final
 - Aide à l'identification des problèmes d'efficacité ou de conception.
 - Augmente la vitesse de conception du système
-<!--SR:!2023-09-29,180,230-->
+<!--SR:!2024-11-16,414,230-->

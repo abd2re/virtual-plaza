@@ -22,7 +22,7 @@ $$\Large{\Delta E=\sum\limits E_{l(\text{produits})}-\sum\limits E_{l(\text{réa
 ## Energie de liaison
 ?
 L'énergie que doit fournir le milieu extérieur pour séparer ce noyau au repos en ses nucléons libres au repos.
-<!--SR:!2023-09-25,7,130-->
+<!--SR:!2023-10-06,11,130-->
 
 Lorsqu'on brise le noyau, sa masse augmente de $\Delta m$ et son énergie de $\Delta mc^{2}$. On en déduit que l'énergie de liaison d'un noyau a pour expression:
 ?
@@ -41,7 +41,7 @@ $$\large{E_{A}=\frac{E_{l}}{A}}$$
 <!--SR:!2023-12-20,168,250-->
 
 - L'énergie de liaison par nucléon permet de comparer la stabilité des noyaux entre eux. Les noyaux dont l'énergie de liaison par nucléon est la plus grande sont:: les plus stables.
-<!--SR:!2023-09-30,118,250-->
+<!--SR:!2024-07-22,296,250-->
 
 ##  Courbe d'Aston
 ?

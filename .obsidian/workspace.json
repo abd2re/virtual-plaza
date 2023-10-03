@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8177f50a163f8d6d",
+        "id": "21683c64e389da3f",
         "type": "tabs",
         "children": [
           {
-            "id": "e33e76ec71121e71",
+            "id": "fb7b70c2d68ea471",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "81af70492d6955ac",
@@ -357,7 +358,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.39784867058179285,
+                  "scale": 0.3816700585943752,
                   "close": true
                 }
               }
@@ -385,53 +386,56 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e33e76ec71121e71",
+  "active": "fb7b70c2d68ea471",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": true
+  },
   "lastOpenFiles": [
     "Probabilité discrètes.md",
     "_math.md",
+    "Excalidraw/Drawing 2023-10-03 13.34.15.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-03 13.34.19.excalidraw.md",
+    "Utilisation des langages de programmation.md",
+    "Chapitre 3 - Introduction a la programmation.md",
+    "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "_computer science.md",
-    "Vitesse.md",
-    "assets/Vitesse/image-20230923141334462.png",
-    "assets/Vitesse",
-    "Vitesses.md",
-    "Déplacement et Distance parcouru.md",
-    "_physics.md",
-    "Chapitre 1 - Cinématique.md",
-    "Accélération.md",
-    "Theme 2-Mécanique.md",
-    "Theme 1-Mesures et incertitudes.md",
-    "Mole.md",
-    "_economy.md",
-    "Loi des gaz parfait.md",
-    "TOK Exhibition.md",
-    "TOK exhib.md",
-    "TOK ess.md",
-    "TOK Essay.md",
-    "Théorie cinétique des gaz parfaits.md",
+    "exos francais.md",
+    "Excalidraw/Drawing 2023-10-02 20.27.48.excalidraw.md",
+    "Excalidraw/assets/Drawing 2023-10-02 20.27.48.excalidraw/Pasted Image 20231002202803_947.png",
+    "Excalidraw/assets/Drawing 2023-10-02 20.27.48.excalidraw",
+    "Excalidraw/Drawing 2023-10-02 20.27.16.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-02 20.27.18.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-02 20.27.21.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-02 20.27.24.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-02 20.27.30.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-02 20.27.31.excalidraw.md",
+    "Untitled 3.md",
+    "Excalidraw/Drawing 2023-10-02 20.27.19.excalidraw.md",
+    "Start with the source.md",
+    "Untitled 2.md",
+    "SPECS.md",
+    "_english.md",
     "Theme 3-Physique thermique.md",
-    "Theme 1-Micro-économie.md",
-    "Elasticité prix de la demande.md",
-    "Chapitre 5 - Elasticités de la demande.md",
-    "Chapitre 1 - La Demande.md",
-    "Chaleur latente.md",
+    "Chaleur.md",
     "Température.md",
-    "assets/Mouvement rectiligne uniforme/image-20230330161512194.png",
-    "exercises/physics/theme 2/assets/Forces/Pasted Image 20230603132351_374.png",
-    "assets/Causes du chômage, coûts et solutions/image-20230908090941045.png",
-    "assets/Inflation et ses causes/image-20230921082320448.png",
-    "assets/Inflation et ses causes/image-20230921081541285.png",
-    "assets/Inflation et ses causes/image-20230921082031502.png",
-    "assets/Inflation et ses causes/image-20230921081748401.png",
+    "Energie cinétique.md",
+    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928173544_314.png",
+    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928173257_011.png",
+    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928173125_314.png",
+    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928172937_323.png",
+    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928171740_173.png",
+    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928145826_382.png",
+    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928145640_932.png",
+    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928145122_335.png",
+    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928142157_309.png",
+    "exercises/math/theme 4/assets/Probability",
+    "exercises/math/theme 4/assets",
+    "exercises/math/theme 4",
+    "assets/Vitesse",
     "assets/Inflation et ses causes",
-    "assets/Equilibre à court terme/image-20230515120553983.png",
-    "assets/Equilibre à court terme/image-20230515115646980.png",
     "exercises/physics/theme 2/assets/Work, Energy, and Power",
     "assets/Grandeurs physiques fondamentales",
     "assets/Travail d'une force variable",
-    "assets/Causes du chômage, coûts et solutions",
-    "pdf/_Radioactiviteword.pdf",
-    "assets/Travail des force électriques",
-    "assets/Mathematics IA",
-    "assets/Travail du poids d'un corps"
+    "assets/Causes du chômage, coûts et solutions"
   ]
 }

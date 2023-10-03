@@ -12,7 +12,7 @@ Formule::$$\Large{\vec{R}=-\vec{P}}$$ ([[Première loi de Newton]])
 <!--SR:!2023-11-22,120,250-->
 
 Quand il y a des [[Frottement]], la réaction est:: inclinée
-<!--SR:!2023-09-28,25,190-->
+<!--SR:!2023-11-15,48,190-->
 
 Représentations des deux cas:
 ?

@@ -15,7 +15,7 @@ Un bien privé a deux caractéristiques:
 ?
 - Rivale
 - Exclusif
-<!--SR:!2023-09-29,75,230-->
+<!--SR:!2024-03-22,175,230-->
 
 ## Caractéristique de différents types de biens
 - Bien privée => ::Rival et Exclusif
@@ -36,6 +36,6 @@ Il existe deux types de biens quasi publics:
 ?
 - [[Ressources du pool commun]]
 - Articles de club
-<!--SR:!2023-09-27,34,210-->
+<!--SR:!2023-12-07,71,210-->
 
 

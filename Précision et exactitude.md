@@ -8,9 +8,9 @@ Created: 2023-09-08
 ## Précision
 ?
 La précision d'une expérience montre comment cette expérience est reproductible. Les valeurs des mesures sont poches les une des autres.
-<!--SR:!2023-09-24,3,150-->
+<!--SR:!2023-10-11,11,150-->
 
 ## Exactitude
 ?
 L'exactitude d'une expérience ou d'une mesure est une mesure de la manière dont les résultats expérimentaux sont confus a la valeur vraie admise.
-<!--SR:!2023-09-25,6,210-->
+<!--SR:!2023-10-10,15,210-->

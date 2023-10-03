@@ -6,10 +6,10 @@ Created: 2023-09-08
 
 # Erreurs et incertitudes
 Une mesure n'est jamais:: exacte (si on devait mesurer des grandeurs, on va trouver des valeurs différentes).
-<!--SR:!2023-09-26,8,230-->
+<!--SR:!2023-10-15,19,230-->
 
 On distingue deux types d'erreurs:: les erreurs **aléatoires** et **systématiques**.
-<!--SR:!2023-09-24,10,250-->
+<!--SR:!2023-10-22,28,250-->
 
 ## Erreurs aléatoires
 ?
@@ -25,7 +25,7 @@ Pour le réduire:: on effectue de nombreuses mesures.
 ## Erreurs systématiques
 ?
 Les composants de l'erreur de mesure qui lors de mesures répétées varient de manière prévisible.
-<!--SR:!2023-09-30,7,226-->
+<!--SR:!2023-10-18,18,226-->
 
 Les erreurs systématiques ont souvent pour origine:: un matériel imparfait ou une méthode de mesure inappropriée.
 <!--SR:!2023-10-05,14,230-->

@@ -17,7 +17,7 @@ Lorsqu'un marché est en équilibre, sans perturbations extérieures, on dit qu'
 
 <!--SR:!2023-05-03,98,230-->
 Encore une fois, en l'absence de perturbations et d'effets externes, le bénéfice que les consommateurs retirent de la consommation d'un bien ou d'un service spécifique sur un marché libre équivaut au bénéfice ou à la satisfaction que la société tire de la consommation de ces biens. Dans ce cas, la courbe de demande représente la:: **courbe des prestations sociales marginales (MSB).**
-<!--SR:!2023-09-25,179,228-->
+<!--SR:!2024-11-06,408,228-->
 
 1. Notion d'[[Efficacité]]
 2. [[Surplus du consommateur]]

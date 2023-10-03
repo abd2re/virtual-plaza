@@ -9,12 +9,12 @@ Created: 2023-09-21
 Définition de l'déflation
 ?
 La déflation est la baisse du niveau des prix dans le temps.
-<!--SR:!2023-09-25,3,250-->
+<!--SR:!2023-10-05,10,250-->
 
 Définition de l'désinflation
 ?
 La désinflation c'est le ralentissement du taux d'inflation au fil du temps.
-<!--SR:!2023-09-25,2,230-->
+<!--SR:!2023-10-13,12,230-->
 
 
 ## Causes de la déflation
@@ -22,7 +22,7 @@ Les deux provocations de la déflation sont:
 ?
 - Déflation provoquée par une amélioration de la productivité (augmentation de l'offre)
 - Déflation provoquée par un déclin persistant de l’activité économique (baisse de la demande)
-<!--SR:!2023-09-25,2,230-->
+<!--SR:!2023-10-17,16,230-->
 
 ## Coûts de la déflation
 Ils sont 8:
@@ -35,5 +35,5 @@ Ils sont 8:
 - Augmentation de la valeur réelle de la dette
 - Allocation inefficace des ressources (consommation différée et niveau de prix faussé)
 - Inefficacité des politiques (gouvernementale)
-<!--SR:!2023-09-24,1,210-->
+<!--SR:!2023-10-09,6,170-->
 

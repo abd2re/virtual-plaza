@@ -8,7 +8,7 @@ Si on néglige la résistance de l'air, le projectile n'est soumis qu'a son poid
 
 - Projection selon les axes (Indépendance du mouvement selon les axes)
 - Selon $o_{x}$ le mouvement est:: mouvement rectiligne uniforme (MRU)
-<!--SR:!2023-09-26,86,249-->
+<!--SR:!2024-04-26,213,249-->
 - Selon $o_{y}$ le mouvement est:: mouvement rectiligne uniforme variée (MRUV)
 <!--SR:!2024-05-01,221,249-->
 

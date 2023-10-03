@@ -19,4 +19,4 @@ Pour passer de l'état gazeux  on doit séparer les molécules pour cela il faud
 Évaporation:
 ?
 Peut se produire à n'importe quelle température et ne se produit qu'à la surface du liquide. Les particules les plus rapides s'évaporent, diminuant le KE moyen des particules restantes. En conséquence, la temperature diminue .
-<!--SR:!2023-10-03,19,154-->
+<!--SR:!2023-11-02,30,154-->

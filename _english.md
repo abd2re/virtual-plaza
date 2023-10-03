@@ -36,6 +36,7 @@ tags: [M]
 7. communication
 
 **TEAPCALIM**
+[[SPECS]]
 
 [[Comparative Essay]]
 [[Yellow wallpaper work]]

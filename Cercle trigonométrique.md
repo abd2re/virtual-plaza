@@ -12,7 +12,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ### Angles remarquables
 
 - $\Large{\sin 0}=$::$0$
-<!--SR:!2023-09-30,75,230-->
+<!--SR:!2024-03-23,175,230-->
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2024-01-26,153,250-->
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
@@ -44,7 +44,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(\pi+\theta)$=::$-\sin\theta$
 <!--SR:!2024-04-12,202,250-->
 - $\cos(2\pi-\theta)$=::$\cos\theta$
-<!--SR:!2023-09-25,73,230-->
+<!--SR:!2024-03-11,168,230-->
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
 <!--SR:!2023-12-05,101,230-->
 
@@ -55,7 +55,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2023-11-25,113,250-->
 <!--SR:!2023-05-26,3,250-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
-<!--SR:!2023-09-28,75,230-->
+<!--SR:!2024-03-21,175,230-->
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 <!--SR:!2023-11-25,113,250-->
 <!--SR:!2023-05-26,3,250-->
@@ -78,8 +78,8 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 <!--SR:!2023-10-30,85,248-->
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
-<!--SR:!2023-09-24,39,228-->
+<!--SR:!2023-12-23,90,228-->
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
 <!--SR:!2023-12-13,81,228-->
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$
-<!--SR:!2023-10-01,70,248-->
+<!--SR:!2024-03-26,177,248-->

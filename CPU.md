@@ -45,4 +45,4 @@ Il existe de nombreux registres, mais les trois plus importants sont les suivant
 - Registre d'adresses mémoire(MAR)
 - Registre des données en mémoire (MDR)
 - Accumulateur
-<!--SR:!2023-09-25,62,230-->
+<!--SR:!2024-02-14,142,230-->

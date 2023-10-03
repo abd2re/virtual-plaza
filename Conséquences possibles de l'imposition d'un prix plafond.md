@@ -12,4 +12,4 @@ Un prix plafond peut avoir plusieurs conséquences. Examinons certains de ses r�
 - Il promeut la création de marchés (noirs) parallèles. 
 - Elle élimine l'efficacité allocative et génère une perte de bien-être. 
 - Il y a des conséquences pour les acteurs du marché.
-<!--SR:!2023-09-26,51,170-->
+<!--SR:!2023-12-25,90,170-->

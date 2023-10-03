@@ -17,7 +17,7 @@ $$\LARGE{z=a+bi}$$
 $(a+bi)(c+di)$=
 ?
 $$\Large{(ac-bd)+i(ad+bc)}$$
-<!--SR:!2023-10-02,59,230-->
+<!--SR:!2024-02-15,136,230-->
 
 $(a+bi)^{2}$=
 ?
@@ -27,7 +27,7 @@ $$\Large{a^{2}-b^{2}+i2ab}$$
 $(a-bi)^{2}$=
 ?
 $$\Large{a^{2}-b^{2}-i2ab}$$
-<!--SR:!2023-09-27,57,230-->
+<!--SR:!2024-02-05,131,230-->
 
 $(a+ib)(a-ib)$=
 ?
@@ -49,7 +49,7 @@ $$\Large{2a}$$
 $z-z^{*}$=
 ?
 $$\Large{2bi}$$
-<!--SR:!2023-09-24,36,230-->
+<!--SR:!2023-12-15,82,230-->
 
 $zz^{*}$=
 ?
@@ -65,7 +65,7 @@ $$\Large{\sqrt{a^{2}+b^{2}}}$$
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
-<!--SR:!2023-09-25,29,190-->
+<!--SR:!2023-11-23,59,190-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
@@ -73,6 +73,6 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 <!--SR:!2024-02-08,172,250-->
 
 Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
-<!--SR:!2023-09-24,7,141-->
+<!--SR:!2023-10-04,10,141-->
 
 

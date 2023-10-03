@@ -58,4 +58,4 @@ Injection =:: Dépenses gouvernementales(G) + Investissements(I) + Exportations(
 - Si X < M $\rightarrow$:: Défaut de la balance commerciale
 <!--SR:!2023-11-10,138,250-->
 - SI X > M $\rightarrow$:: Balance commerciale excédent
-<!--SR:!2023-09-29,112,250-->
+<!--SR:!2024-07-04,279,250-->

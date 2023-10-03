@@ -7,7 +7,7 @@ Created: 2023-05-03
 ?
 The Arts include a range of disciplines including visual arts, theatre, dance, music, film and literature. The ways in which meaning is encoded, evoked and played out in these various forms of representation do not always overlap and may have no exact counterpart elsewhere. The arts, from the sublime to the mediocre (and even the banal) can provide insight and provoke questions about what it means to be human. Art can be made for its own sake, or created with a functionality in mind like a catalyzing social change, conveying overt political or religious messages, and even self-referentially pushing the boundaries of art itself.
 The arts is a way a doing something, expressing yourself and accomplishing something.
-<!--SR:!2023-10-03,75,210-->
+<!--SR:!2024-03-12,161,210-->
 
 	“I found that I could say things with color and shapes that I couldn't say in any other way—things that I had no words for.”
 Georgia O'Keeffe

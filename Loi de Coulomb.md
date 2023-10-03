@@ -26,4 +26,4 @@ Formule de la constante de Coulomb:
 ?
 $$k=\frac{1}{4\pi \epsilon_{0}}$$
 $\epsilon_0$ = permittivité électrique relative du milieu = $8.85\cdot 10^{-12}C^{2}N^{-1}m^{-2}$
-<!--SR:!2023-09-28,188,250-->
+<!--SR:!2024-01-04,98,230-->
