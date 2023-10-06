@@ -9,7 +9,7 @@ Created: 2023-09-23
 Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
 <!--SR:!2023-10-08,12,270-->
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
-<!--SR:!2023-10-05,9,250-->
+<!--SR:!2023-10-27,22,250-->
 On appelle événement:: toute partie de l'univers (sous-ensemble)
 <!--SR:!2023-10-16,14,230-->
 
@@ -21,7 +21,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
 <!--SR:!2023-10-06,10,250-->
 - Evénement contraire a A noté A':: événement dont les issues n'appartiennent pas a A
-<!--SR:!2023-10-05,9,250-->
+<!--SR:!2023-10-29,24,250-->
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
 <!--SR:!2023-10-22,19,250-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
@@ -35,15 +35,15 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
 <!--SR:!2023-10-06,10,250-->
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a:: équiprobabilité ou équi-répartition.
-<!--SR:!2023-10-04,8,250-->
+<!--SR:!2023-10-26,22,250-->
 
 ### Propriété
 - $P(U)$=::1 
-<!--SR:!2023-10-04,8,250-->
+<!--SR:!2023-10-25,21,250-->
 - $P(0)$=::0
 <!--SR:!2023-10-10,13,270-->
 - $P(A)+P(A')$=::1 
-<!--SR:!2023-10-05,9,250-->
+<!--SR:!2023-10-28,23,250-->
 - $P(A\cup B)$=::$P(A)+P(B)-P(A\cap B)$
 <!--SR:!2023-10-18,16,230-->
 
@@ -71,4 +71,5 @@ Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap
 <!--SR:!2023-10-12,9,252-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
+<!--SR:!2023-10-07,2,231-->
 

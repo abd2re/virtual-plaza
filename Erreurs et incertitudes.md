@@ -28,7 +28,7 @@ Les composants de l'erreur de mesure qui lors de mesures répétées varient de 
 <!--SR:!2023-10-18,18,226-->
 
 Les erreurs systématiques ont souvent pour origine:: un matériel imparfait ou une méthode de mesure inappropriée.
-<!--SR:!2023-10-05,14,230-->
+<!--SR:!2023-11-08,34,230-->
 
 La répétition des mesures élimine-t-elle les erreurs systématiques ?:: Non.
 <!--SR:!2023-10-07,16,227-->

@@ -29,7 +29,7 @@ Analyzing texts: 5 keys considerations
 - [[Structure]]
 - [[Style]]
 - [[Context of composition~production]]
-<!--SR:!2023-10-05,11,210-->
+<!--SR:!2023-10-31,26,210-->
 
 Key terms:
 ?

@@ -8,7 +8,7 @@ Created: 2023-09-08
 ## Energie cinétique de translation
 ?
 C'est l'énergie que possède un objet dut au fait de son mouvement.
-<!--SR:!2023-10-04,9,190-->
+<!--SR:!2023-10-21,17,190-->
 
 Formule avec unités:
 ?

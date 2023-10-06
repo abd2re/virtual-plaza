@@ -21,7 +21,7 @@ Quel type de croissance économique est préférable?:: Croissance économique a
 - La croissance économique à court terme est:: une augmentation de la production réelle causée par la réduction du chômage et des inefficacités de la production. 
 <!--SR:!2023-10-14,39,150-->
 - La croissance économique à court terme est limité par:: les possibilités de production de l'économie.
-<!--SR:!2023-10-05,26,170-->
+<!--SR:!2023-11-17,43,170-->
 
 Représentation de la croissance a court terme avec le modèle AD/AS:
 ?

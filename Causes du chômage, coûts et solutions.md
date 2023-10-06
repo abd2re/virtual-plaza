@@ -42,7 +42,7 @@ Avec un salaire supérieur au salaire d’équilibre du marché, les entreprises
 ### Frictionnel
 ?
 Chômage frictionnel c'est quand les gens sont entre deux emplois. (Exemple: étudiants)
-<!--SR:!2023-10-04,14,230-->
+<!--SR:!2023-11-06,33,230-->
 
 ### Saisonnier
 ?

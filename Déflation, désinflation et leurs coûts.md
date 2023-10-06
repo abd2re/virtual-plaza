@@ -9,7 +9,7 @@ Created: 2023-09-21
 Définition de l'déflation
 ?
 La déflation est la baisse du niveau des prix dans le temps.
-<!--SR:!2023-10-05,10,250-->
+<!--SR:!2023-10-29,24,250-->
 
 Définition de l'désinflation
 ?

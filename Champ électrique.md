@@ -18,7 +18,7 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 <!--SR:!2024-02-23,237,210-->
 
 - L'intensité du champ électrique est:: la force par unité de charge qui s'exerce sur une charge ponctuelle.
-<!--SR:!2023-10-04,153,259-->
+<!--SR:!2023-12-20,77,239-->
 
 <!--SR:!2023-02-12,14,130-->
 - Le champ électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
@@ -31,13 +31,11 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 <!--SR:!2023-11-19,200,230-->
 
 
-- Champ crée pas plusieurs charges c'est: la somme vectorielle de chacun des champs
+- Champ crée pas plusieurs charges c'est:: la somme vectorielle de chacun des champs
 
 ## Lignes de champ
 ?
 Ce sont des courbes tangentes au vecteur champ électrique en chacun de ses points.
 <!--SR:!2023-11-22,202,230-->
-
-<!--SR:!2022-12-01,1,214-->
 
 

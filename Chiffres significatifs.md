@@ -20,4 +20,4 @@ le nombre de chiffres significatifs d'un nombre, utilisez les règles suivantes 
 - Multiplier ou diviser:: Prendre le plus petit nombre de chiffres significatifs utilisés dans le calcul.
 <!--SR:!2023-10-17,19,210-->
 - Lecture d'un graphique:: Prendre le nombre de chiffres significatifs correspondant à la plus petite grille du graphique.
-<!--SR:!2023-10-05,15,230-->
+<!--SR:!2023-11-11,37,230-->

@@ -24,7 +24,7 @@ Created: 2022-10-17
  9. Tricolon :: is a list of three or a sentence with three parts or clauses. Such as "vine, vidi,  vici" (Julius Cesar) 
 <!--SR:!2024-06-27,370,250-->
 - Allegory :: A narrative in which characters, events, and settings represents abstract ideas or moral qualities. *For example George Orwell's "Animal Farm" is an allegory for the Russian Revolution and rise of totalitarianism.*
-<!--SR:!2023-10-05,2,178-->
+<!--SR:!2023-10-09,4,178-->
 - Allusion :: A brief and indirect reference to a person, place, thing, or idea of historical, cultural, literary, or political significance. *For example, referring to someone as a "Romeo" is an allusion to Shakespeare's character*
 <!--SR:!2023-10-07,4,218-->
 - Irony :: A contrast between expectation and reality. *Ex: dramatic irony, situational irony and verbal irony*

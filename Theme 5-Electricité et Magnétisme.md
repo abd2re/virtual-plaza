@@ -12,3 +12,6 @@ tags: [MOC]
 2. [[Tension ou différence de potentiel électrique]]
 3. [[Résistance électrique]]
 4. [[Piles électriques]]
+## 3. Magnétisme
+1. [[Champ magnétique]]
+2. [[Forces magnétiques]]

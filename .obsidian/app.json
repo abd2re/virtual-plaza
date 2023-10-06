@@ -4,10 +4,11 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/Probabilité discrètes",
+  "attachmentFolderPath": "./assets/Utilisation des langages de programmation",
   "fileSortOrder": "alphabetical",
   "showInlineTitle": false,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",

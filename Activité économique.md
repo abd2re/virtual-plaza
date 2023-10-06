@@ -52,7 +52,7 @@ Injection =:: Dépenses gouvernementales(G) + Investissements(I) + Exportations(
 - Si T > G $\rightarrow$:: Excédent budgétaire
 <!--SR:!2023-12-31,170,250-->
 - Si S < I $\rightarrow$:: Il faut emprunter
-<!--SR:!2023-10-04,106,230-->
+<!--SR:!2024-06-04,244,230-->
 - Si S > I $\rightarrow$:: Excédent d'épargnes
 <!--SR:!2023-10-22,126,250-->
 - Si X < M $\rightarrow$:: Défaut de la balance commerciale

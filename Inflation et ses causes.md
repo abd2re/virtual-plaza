@@ -9,7 +9,7 @@ Created: 2023-09-13
 Définition de l'inflation:
 ?
 L'inflation est une augmentation durable du niveau des prix dans une économie.
-<!--SR:!2023-10-04,10,190-->
+<!--SR:!2023-10-24,20,190-->
 
 - Lorsque l'argent perd de la valeur, les prix:: augmentent en conséquence.
 <!--SR:!2023-10-24,26,250-->

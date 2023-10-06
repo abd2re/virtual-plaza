@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21683c64e389da3f",
+        "id": "32f4b3bee1bf2d7f",
         "type": "tabs",
         "children": [
           {
-            "id": "fb7b70c2d68ea471",
+            "id": "c26af1080b9a2fac",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -368,7 +368,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -386,48 +387,49 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fb7b70c2d68ea471",
+  "active": "c26af1080b9a2fac",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Probabilité discrètes.md",
-    "_math.md",
-    "Excalidraw/Drawing 2023-10-03 13.34.15.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-03 13.34.19.excalidraw.md",
     "Utilisation des langages de programmation.md",
     "Chapitre 3 - Introduction a la programmation.md",
-    "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
     "_computer science.md",
-    "exos francais.md",
-    "Excalidraw/Drawing 2023-10-02 20.27.48.excalidraw.md",
-    "Excalidraw/assets/Drawing 2023-10-02 20.27.48.excalidraw/Pasted Image 20231002202803_947.png",
+    "Coûts relatifs du chômage par rapport a l'inflation.md",
+    "Excalidraw/Drawing 2023-10-06 08.06.17.excalidraw.md",
+    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006082911_582.png",
+    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006082434_726.png",
+    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006082232_567.png",
+    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006081330_389.png",
+    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006080923_363.png",
+    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006080633_238.png",
+    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw",
+    "_economy.md",
+    "Theme 2-Macro-économie.md",
+    "Vie privée.md",
+    "Fiabilité.md",
+    "Sécurité.md",
+    "Intégrité.md",
+    "Propriété intellectuelle.md",
+    "Preuve.md",
+    "Excalidraw/Drawing 2023-10-05 13.25.36.excalidraw.md",
+    "Forces magnétiques.md",
+    "Mouvement circulaire uniforme.md",
+    "assets/Mouvement circulaire uniforme/image-20230603143706376.png",
+    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
+    "Theme 5-Electricité et Magnétisme.md",
+    "Champ électrique.md",
+    "assets/Champ électrique/image-20221129092354879.png",
+    "Loi de Coulomb.md",
+    "Tension ou différence de potentiel électrique.md",
+    "assets/Champ électrique/Champ électrique-1.png",
+    "Puissance d'une force.md",
+    "Chaleur massique.md",
+    "Mouvement d'un projectile.md",
+    "Piles électriques.md",
+    "Intensité du courant électrique.md",
+    "assets/Offre globale a long terme et facteurs de production/image-20230515114918209.png",
     "Excalidraw/assets/Drawing 2023-10-02 20.27.48.excalidraw",
-    "Excalidraw/Drawing 2023-10-02 20.27.16.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-02 20.27.18.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-02 20.27.21.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-02 20.27.24.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-02 20.27.30.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-02 20.27.31.excalidraw.md",
-    "Untitled 3.md",
-    "Excalidraw/Drawing 2023-10-02 20.27.19.excalidraw.md",
-    "Start with the source.md",
-    "Untitled 2.md",
-    "SPECS.md",
-    "_english.md",
-    "Theme 3-Physique thermique.md",
-    "Chaleur.md",
-    "Température.md",
-    "Energie cinétique.md",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928173544_314.png",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928173257_011.png",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928173125_314.png",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928172937_323.png",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928171740_173.png",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928145826_382.png",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928145640_932.png",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928145122_335.png",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power/Pasted Image 20230928142157_309.png",
     "exercises/math/theme 4/assets/Probability",
     "exercises/math/theme 4/assets",
     "exercises/math/theme 4",
@@ -435,7 +437,6 @@
     "assets/Inflation et ses causes",
     "exercises/physics/theme 2/assets/Work, Energy, and Power",
     "assets/Grandeurs physiques fondamentales",
-    "assets/Travail d'une force variable",
-    "assets/Causes du chômage, coûts et solutions"
+    "assets/Travail d'une force variable"
   ]
 }
