@@ -21,7 +21,7 @@ $$\Large{E_{c}=\frac{1}{2}mv^{2}}$$
 ## Théorème de l'énergie cinétique
 ?
 Dans un référentiel Galiléen, la variation d'énergie cinétique d'un solide pendant une durée donnée est égale a la somme des travaux des forces extérieurs appliquées au solide.
-<!--SR:!2023-10-07,11,170-->
+<!--SR:!2023-10-14,7,150-->
 
 Formule::$$\Large{\Delta E_{c}=E_{c_{2}}-E_{c_{1}}=\sum W_{1\rightarrow2}(\vec{F})}$$
 <!--SR:!2023-10-22,24,230-->

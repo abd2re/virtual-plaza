@@ -9,4 +9,4 @@ Questions to ask yourself:
 ?
 - What are your circumstances (time and place) ?
 - How does the factors influence your reading of the text ?
-<!--SR:!2023-10-06,12,210-->
+<!--SR:!2023-11-11,36,230-->

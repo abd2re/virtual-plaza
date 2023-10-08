@@ -11,4 +11,5 @@ Created: 2023-10-02
 [[Examine the evidence]]
 [[Contextualize the content]]
 [[Summarize your points]]
+<!--SR:!2023-10-10,3,250-->
 

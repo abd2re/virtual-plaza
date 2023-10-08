@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32f4b3bee1bf2d7f",
+        "id": "e162b6f08a4c3383",
         "type": "tabs",
         "children": [
           {
-            "id": "c26af1080b9a2fac",
+            "id": "fd7a29774ead870e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,12 +16,23 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":16.66875}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Probabilité discrètes.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -145,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Probabilité discrètes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Probabilité discrètes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +222,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Probabilité discrètes.md"
+              }
             }
           },
           {
@@ -260,7 +275,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Probabilité discrètes.md"
+              }
             }
           },
           {
@@ -321,6 +338,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Probabilité discrètes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -368,8 +386,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -387,11 +404,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c26af1080b9a2fac",
+  "active": "fd7a29774ead870e",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_math.md",
+    "Forces magnétiques.md",
+    "assets/Forces magnétiques/image-20231007142844745.png",
+    "assets/Forces magnétiques/image-20231007142714530.png",
+    "assets/Forces magnétiques",
+    "Theme 5-Electricité et Magnétisme.md",
+    "_physics.md",
+    "Theme 7-Physique nucléaire.md",
+    "Excalidraw/Drawing 2023-10-07 13.32.01.excalidraw.md",
+    "Excalidraw/assets/Drawing 2023-10-07 13.32.01.excalidraw/Pasted Image 20231007133218_647.png",
+    "Excalidraw/assets/Drawing 2023-10-07 13.32.01.excalidraw",
+    "Excalidraw/Drawing 2023-10-06 13.35.40.excalidraw.md",
+    "Excalidraw/assets/Drawing 2023-10-06 13.35.40.excalidraw/Pasted Image 20231006142839_778.png",
+    "Excalidraw/assets/Drawing 2023-10-06 13.35.40.excalidraw/Pasted Image 20231006142248_449.png",
+    "Excalidraw/assets/Drawing 2023-10-06 13.35.40.excalidraw/Pasted Image 20231006133556_767.png",
+    "Excalidraw/assets/Drawing 2023-10-06 13.35.40.excalidraw",
     "Utilisation des langages de programmation.md",
     "Chapitre 3 - Introduction a la programmation.md",
     "_computer science.md",
@@ -401,8 +434,6 @@
     "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006082434_726.png",
     "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006082232_567.png",
     "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006081330_389.png",
-    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006080923_363.png",
-    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006080633_238.png",
     "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw",
     "_economy.md",
     "Theme 2-Macro-économie.md",
@@ -413,30 +444,16 @@
     "Propriété intellectuelle.md",
     "Preuve.md",
     "Excalidraw/Drawing 2023-10-05 13.25.36.excalidraw.md",
-    "Forces magnétiques.md",
     "Mouvement circulaire uniforme.md",
-    "assets/Mouvement circulaire uniforme/image-20230603143706376.png",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
-    "Theme 5-Electricité et Magnétisme.md",
     "Champ électrique.md",
-    "assets/Champ électrique/image-20221129092354879.png",
     "Loi de Coulomb.md",
     "Tension ou différence de potentiel électrique.md",
-    "assets/Champ électrique/Champ électrique-1.png",
-    "Puissance d'une force.md",
-    "Chaleur massique.md",
-    "Mouvement d'un projectile.md",
-    "Piles électriques.md",
-    "Intensité du courant électrique.md",
-    "assets/Offre globale a long terme et facteurs de production/image-20230515114918209.png",
     "Excalidraw/assets/Drawing 2023-10-02 20.27.48.excalidraw",
     "exercises/math/theme 4/assets/Probability",
     "exercises/math/theme 4/assets",
     "exercises/math/theme 4",
     "assets/Vitesse",
-    "assets/Inflation et ses causes",
-    "exercises/physics/theme 2/assets/Work, Energy, and Power",
-    "assets/Grandeurs physiques fondamentales",
-    "assets/Travail d'une force variable"
+    "assets/Inflation et ses causes"
   ]
 }

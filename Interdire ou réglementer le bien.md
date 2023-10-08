@@ -14,4 +14,4 @@ Le gouvernement pourrait directement arrêter la consommation de biens en les re
 -   Cela pourrait avoir un effet important sur les revenus du gouvernement car il recevrait moins ou pas d'impôts de ce marché.
 -   L'interdiction du bien peut provoquer une réaction négative de la part des consommateurs s'ils perçoivent l'interdiction du bien comme une restriction de leurs libertés et de leurs droits. Cela pourrait avoir un effet négatif sur les perspectives électorales futures du gouvernement, car les consommateurs sont également des électeurs, ce qui rend peu probable que les gouvernements choisissent cette option.
 -   Des réglementations devront être appliquées, ce qui peut imposer un coût supplémentaire au gouvernement.
-<!--SR:!2023-10-07,138,230-->
+<!--SR:!2023-12-14,68,210-->

@@ -51,7 +51,7 @@ Les deux principaux types d’inflation sont:
 ?
 - Inflation attisée par la demande (augmentation)
 - Inflation par les coûts de production
-<!--SR:!2023-10-07,7,223-->
+<!--SR:!2023-10-24,17,223-->
 
 ### Inflation attisée par la demande
 ?

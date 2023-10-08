@@ -7,7 +7,7 @@ Created: 2023-09-23
 # Probabilité discrètes
 ## Experience aléatoire-événements
 Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
-<!--SR:!2023-10-08,12,270-->
+<!--SR:!2023-11-22,45,290-->
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 <!--SR:!2023-10-27,22,250-->
 On appelle événement:: toute partie de l'univers (sous-ensemble)
@@ -15,17 +15,17 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 
 ### Définitions
 - Evénement élémentaire:: a une seule issue
-<!--SR:!2023-10-06,10,250-->
+<!--SR:!2023-10-31,25,250-->
 - Evénement composé:: a plusieurs issues
 <!--SR:!2023-10-10,13,270-->
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
-<!--SR:!2023-10-06,10,250-->
+<!--SR:!2023-11-01,26,250-->
 - Evénement contraire a A noté A':: événement dont les issues n'appartiennent pas a A
 <!--SR:!2023-10-29,24,250-->
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
 <!--SR:!2023-10-22,19,250-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
-<!--SR:!2023-10-06,10,250-->
+<!--SR:!2023-11-03,28,250-->
 - Evénement certain:: toutes les issues
 <!--SR:!2023-10-21,18,250-->
 - Evénement impossible:: aucune issue
@@ -33,7 +33,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
-<!--SR:!2023-10-06,10,250-->
+<!--SR:!2023-11-02,27,250-->
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a:: équiprobabilité ou équi-répartition.
 <!--SR:!2023-10-26,22,250-->
 
@@ -44,7 +44,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 <!--SR:!2023-10-10,13,270-->
 - $P(A)+P(A')$=::1 
 <!--SR:!2023-10-28,23,250-->
-- $P(A\cup B)$=::$P(A)+P(B)-P(A\cap B)$
+- $P(A\cup B)$ (2)=::$P(A)+P(B)-P(A\cap B)=P(A\cup B')+P(A\cup B)+P(A'\cup B)$
 <!--SR:!2023-10-18,16,230-->
 
 ## Événements indépendants
@@ -71,5 +71,5 @@ Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap
 <!--SR:!2023-10-12,9,252-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
-<!--SR:!2023-10-07,2,231-->
+<!--SR:!2023-10-12,5,231-->
 

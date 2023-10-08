@@ -17,7 +17,14 @@ $$\Large{F_{m}=|q|vB\sin\theta}$$
 - $v$ = vitesse de la particule
 - $B$ = champ magnétique
 - $\theta$ = $\angle(\vec{v},\vec{B})$ (aigu), si $\sin(\theta)<0$ alors on prend sa valeur absolue
+<!--SR:!2023-10-08,1,230-->
 
-Le sens et la direction de la force sont donnés par:: la règle de la paume de la main droite. (FINIR LECONS AVEC DES IMAGES DE GOOGLE)
+Règle de la paume de la main droite.
+?
+![[image-20231007142844745.png|center|300]]
+
+
+
+
 
 ## Mouvement d'une particule chargée dans un champ magnétique (application du [[Theme 6-Mouvement circulaire uniforme et Gravitation|T6]])
