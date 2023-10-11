@@ -14,10 +14,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Forces magnétiques",
+                  "title": "Mouvement circulaire uniforme",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forces magnétiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":2.955665024630542}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement circulaire uniforme.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
                   "state": "{}",
@@ -414,9 +414,10 @@
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
-    "_physics.md",
     "Theme 5-Electricité et Magnétisme.md",
+    "_physics.md",
+    "Mouvement circulaire uniforme.md",
+    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "Forces magnétiques.md",
     "assets/Forces magnétiques/image-20231011081124820.png",
     "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
