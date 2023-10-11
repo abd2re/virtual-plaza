@@ -35,7 +35,7 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2023-10-10,11,223-->
+<!--SR:!2023-11-07,28,223-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2023-10-29,26,263-->
@@ -44,7 +44,7 @@ IPP veut dire:: Indice prix de la production
 <!--SR:!2023-10-21,19,243-->
 
 Alors que l'IPC s'interesse au produits de la consummation, l'IPP:: s'interesse aux facteurs de production qui nous permet de prévoir une augmentation/baisse future de l'IPC.
-<!--SR:!2023-10-09,9,203-->
+<!--SR:!2023-10-27,18,203-->
 
 ## Causes de l'inflation
 Les deux principaux types d’inflation sont:
@@ -56,10 +56,10 @@ Les deux principaux types d’inflation sont:
 ### Inflation attisée par la demande
 ?
 L’inflation tirée par la demande se produit lorsqu’il y a une augmentation de la demande globale dans l’économie. Afin de fournir le nombre croissant de biens et de services désormais requis, des prix plus élevés sont nécessaires.
-<!--SR:!2023-10-10,12,243-->
+<!--SR:!2023-11-08,29,243-->
 
 - Selon la nouvelle théorie classique, l’augmentation de la demande globale est suivie:: d’une pression à la hausse sur les salaires, de sorte qu’il n’y aura pas d’augmentation de la production à long terme.![[image-20230921081541285.png]]
-<!--SR:!2023-10-08,8,203-->
+<!--SR:!2023-10-24,16,203-->
 - Selon la théorie keynésienne, toutes les augmentations de la demande globale ::n’entraînent pas une hausse des prix.![[image-20230921081748401.png]]
 <!--SR:!2023-10-16,16,243-->
 
@@ -81,12 +81,12 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 - les modifications des lois sur le salaire minimum
 - l'augmentation du coût des matières premières importées
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
-<!--SR:!2023-10-08,9,223-->
+<!--SR:!2023-10-14,6,203-->
 
 Graphique avec explications
 ?
 ![[image-20230921082031502.png]]
-<!--SR:!2023-10-09,11,243-->
+<!--SR:!2023-11-08,30,243-->
 
 ### Spirale inflationniste salaires-prix
 - Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs.
@@ -97,10 +97,10 @@ Graphique avec explications
 Graphique
 ?
 ![[image-20230921082320448.png]]
-<!--SR:!2023-10-08,10,243-->
+<!--SR:!2023-11-04,27,243-->
 
 - Pour les nouveaux économistes classiques, toute tentative de stimuler la demande globale n’aboutira qu’à:: l'inflation sans aucune augmentation du revenu national.
-<!--SR:!2023-10-10,10,203-->
+<!--SR:!2023-10-30,20,203-->
 - Pour les économistes keynésiens une inflation excessive est une:: mauvaise chose lorsque la demande globale commence à augmenter le long de la partie verticale de la courbe AS.
 <!--SR:!2023-10-15,15,243-->
 
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2023-10-10,9,183-->
+<!--SR:!2023-10-16,6,163-->
 

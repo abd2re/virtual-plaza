@@ -35,13 +35,13 @@ Key terms:
 ?
 - Stylistic
 - Devices:: tools that an author use to achieve an intended effect, for example, metaphor or rhetoric
-<!--SR:!2023-10-09,13,210-->
+<!--SR:!2023-11-06,28,210-->
 - Audience:: the intended readership of a text
 <!--SR:!2023-10-17,17,210-->
 - Purpose:: what the text set out to achieve; why the text is created
 <!--SR:!2023-11-10,34,230-->
 - Mood:: the feeling that is evoked in the reader (audience) which is  a result of the tone which is set.
-<!--SR:!2023-10-08,12,210-->
+<!--SR:!2023-11-03,26,210-->
 - Semantic fields:: A collection of words or phrases that are related to each other in meaning and connotation, for example, safety, welcome, support, shelter, structure and warmth would all be part of the same semantic field in relation to the word home
 <!--SR:!2023-10-25,27,250-->
 - Lexical sets:: a group of words that are related to each other in meaning for example, leaf, green, trunk, bark, and branch would all be part of the same lexical set in relation to the word "tree".
@@ -49,7 +49,7 @@ Key terms:
 - Diction:: the words chosen in a text
 <!--SR:!2023-10-14,20,250-->
 - Tone:: the attitude of the writer or speaker towards his or her subject
-<!--SR:!2023-10-09,13,210-->
+<!--SR:!2023-11-09,31,210-->
 - Figurative language:: language that uses figures of speech, such as metaphors or symbols, to embellish meaning beyond the literal
 <!--SR:!2023-10-13,17,230-->
 
@@ -59,7 +59,7 @@ Four forms of literary works are:
 - Prose fiction
 - Prose non-fiction
 - Drama
-<!--SR:!2023-10-08,12,211-->
+<!--SR:!2023-11-05,28,211-->
 
 [[Travel writing]]
 [[Context]]

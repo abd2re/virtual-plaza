@@ -8,7 +8,7 @@ Created: 2023-09-08
 Au total, il existe quatre types de chômage qui se répartissent en deux grandes catégories. Ces deux catégories sont:
 ?
 - **Chômage de déséquilibre** inclut:: le chômage cyclique (déficit de la demande) et le chômage réel.
-<!--SR:!2023-10-09,18,250-->
+<!--SR:!2023-11-23,45,250-->
 - **Taux de chômage naturel** comprend:: le chômage frictionnel, saisonnier et structurel.
 <!--SR:!2023-10-23,24,210-->
 
@@ -86,7 +86,7 @@ Quels sont les coûts sociaux du chômage (2) ?:
 ?
 1. Augmentation du taux de criminalité
 2. Risques accrus pour la santé
-<!--SR:!2023-10-08,16,242-->
+<!--SR:!2023-11-20,43,242-->
 
 ## Solutions au chômage
 Graphes des deux causes principales (avec leur noms):

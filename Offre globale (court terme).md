@@ -12,7 +12,7 @@ L'offre globale est la **quantité totale** de biens et de services **produits**
 <!--SR:!2023-12-17,72,210-->
 
 Graphe de l'offre globale à court terme (OGCT)::![[image-20230505082645978.png|500]]
-<!--SR:!2023-10-09,34,210-->
+<!--SR:!2023-12-19,71,210-->
 
 Déterminants de l'offre globale à court terme (OGCT):
 ?

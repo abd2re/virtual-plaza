@@ -23,4 +23,4 @@ $$M=\frac{m}{n}$$
 $M$ = masse molaire
 $m$ = masse
 $n$ = nombre de moles
-<!--SR:!2023-10-10,198,248-->
+<!--SR:!2024-01-17,99,228-->

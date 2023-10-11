@@ -1,9 +1,9 @@
-page 175
+page 189
 1. La pollution me concerne personnellement.
 2. Dans mon école, aucune initiative écologique est encouragée.
 3. Eco-citoyens veut dire des citoyens qui ont assez d'argent et de temps pour se consacrer l'environment et qui aiment imposer leurs idées quand ils sont chez des amis entrain de manger alors qu'ils veulent parler de d'autres choses. (citoyen qui sont écolos)
 
-page 182
+page 191
 1. Dans ce texte il est question d'une explication de la signification des logos sur les emballages des produits qu'on achète.
 2. .
 	1. le logo attestant de leur présence l’est beaucoup plus **l'** (logo)
@@ -20,4 +20,9 @@ page 182
 	6. sans aucun doute
 4. Selon les informations des trois sections qui traitent du papier et du carton, du plastique, et du verre, reliez chaque début de phrase a la fin correspondante.
 	1. Les logos de papier signifient que le produit peut être recyclé.
-	2. 
+
+page 193
+1. Armes nucléaires
+2. Les puissances mondiales
+
+page 191

@@ -6,7 +6,7 @@ Created: 2023-05-25
 # Frottement cinétique
 ?
 Le frottement cinétique est celui qui ralentit les objets lorsqu'ils se déplacent.
-<!--SR:!2023-10-10,78,230-->
+<!--SR:!2024-04-06,179,230-->
 
 Formule:
 ?

@@ -4,31 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "e162b6f08a4c3383",
+        "id": "ddf5b527ae873a13",
         "type": "tabs",
         "children": [
           {
-            "id": "fd7a29774ead870e",
+            "id": "3d6cf74c1e03d573",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Forces magnétiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forces magnétiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":2.955665024630542}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":16.66875}"
+                  "title": "Gravitational Force, Field, and Orbits",
+                  "icon": "excalidraw-icon",
+                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md\"}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "_physics.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -130,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "81af70492d6955ac",
@@ -156,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "_physics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -276,7 +281,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Probabilité discrètes.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -338,7 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Probabilité discrètes.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -404,19 +409,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "fd7a29774ead870e",
+  "active": "3d6cf74c1e03d573",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_math.md",
+    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
+    "_physics.md",
+    "Theme 5-Electricité et Magnétisme.md",
     "Forces magnétiques.md",
+    "assets/Forces magnétiques/image-20231011081124820.png",
+    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
+    "exercises/math/theme 1/Binomial Theorem.md",
+    "Nombres complexes.md",
+    "_math.md",
+    "Excalidraw/Drawing 2023-10-09 18.53.45.excalidraw.md",
+    "exos francais.md",
+    "Excalidraw/assets/Drawing 2023-10-09 18.53.45.excalidraw/Pasted Image 20231009191544_381.png",
+    "Excalidraw/assets/Drawing 2023-10-09 18.53.45.excalidraw/Pasted Image 20231009185400_695.png",
+    "Excalidraw/assets/Drawing 2023-10-09 18.53.45.excalidraw",
+    "Untitled 7.md",
+    "Résistance électrique.md",
+    "exploration_math1 - Abdoul Wahab Touré - Tle IB.pdf",
+    "sept24physiquevaluationpdf.pdf",
+    "My Drive - Shortcut.lnk",
+    "Theme 1-Mesures et incertitudes.md",
+    "Poussée d'Archimede.md",
+    "assets/Poussée d'Archimede/image-20230509082207472.png",
+    "Chapitre 1 - Analyse dimensionnelle.md",
+    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
+    "Theme 7-Physique nucléaire.md",
+    "Textual analysis.md",
+    "Untitled 6.md",
+    "_english.md",
+    "Probabilité discrètes.md",
+    "Untitled 5.md",
     "assets/Forces magnétiques/image-20231007142844745.png",
     "assets/Forces magnétiques/image-20231007142714530.png",
     "assets/Forces magnétiques",
-    "Theme 5-Electricité et Magnétisme.md",
-    "_physics.md",
-    "Theme 7-Physique nucléaire.md",
     "Excalidraw/Drawing 2023-10-07 13.32.01.excalidraw.md",
     "Excalidraw/assets/Drawing 2023-10-07 13.32.01.excalidraw/Pasted Image 20231007133218_647.png",
     "Excalidraw/assets/Drawing 2023-10-07 13.32.01.excalidraw",
@@ -426,34 +456,8 @@
     "Excalidraw/assets/Drawing 2023-10-06 13.35.40.excalidraw/Pasted Image 20231006133556_767.png",
     "Excalidraw/assets/Drawing 2023-10-06 13.35.40.excalidraw",
     "Utilisation des langages de programmation.md",
-    "Chapitre 3 - Introduction a la programmation.md",
-    "_computer science.md",
-    "Coûts relatifs du chômage par rapport a l'inflation.md",
-    "Excalidraw/Drawing 2023-10-06 08.06.17.excalidraw.md",
-    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006082911_582.png",
-    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006082434_726.png",
-    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006082232_567.png",
-    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw/Pasted Image 20231006081330_389.png",
     "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw",
-    "_economy.md",
-    "Theme 2-Macro-économie.md",
-    "Vie privée.md",
-    "Fiabilité.md",
-    "Sécurité.md",
-    "Intégrité.md",
-    "Propriété intellectuelle.md",
-    "Preuve.md",
-    "Excalidraw/Drawing 2023-10-05 13.25.36.excalidraw.md",
-    "Mouvement circulaire uniforme.md",
-    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
-    "Champ électrique.md",
-    "Loi de Coulomb.md",
-    "Tension ou différence de potentiel électrique.md",
     "Excalidraw/assets/Drawing 2023-10-02 20.27.48.excalidraw",
-    "exercises/math/theme 4/assets/Probability",
-    "exercises/math/theme 4/assets",
-    "exercises/math/theme 4",
-    "assets/Vitesse",
-    "assets/Inflation et ses causes"
+    "exercises/math/theme 4/assets/Probability"
   ]
 }

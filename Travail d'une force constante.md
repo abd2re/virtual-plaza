@@ -11,7 +11,7 @@ Le travail d'une force constante $\vec{F}$ dont le point d'application se dépla
 <!--SR:!2023-11-05,42,190-->
 
 - Le travail est un changement d::'énergie.
-<!--SR:!2023-10-08,14,238-->
+<!--SR:!2023-11-10,33,238-->
 
 Trois formules (vecteurs, normes et coordonnées):
 ?

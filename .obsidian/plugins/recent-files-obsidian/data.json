@@ -1,24 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "Probabilité discrètes",
-      "path": "Probabilité discrètes.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "Forces magnétiques",
       "path": "Forces magnétiques.md"
     },
     {
+      "basename": "Gravitational Force, Field, and Orbits",
+      "path": "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md"
+    },
+    {
+      "basename": "Binomial Theorem",
+      "path": "exercises/math/theme 1/Binomial Theorem.md"
+    },
+    {
+      "basename": "Nombres complexes",
+      "path": "Nombres complexes.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Drawing 2023-10-09 18.53.45.excalidraw",
+      "path": "Excalidraw/Drawing 2023-10-09 18.53.45.excalidraw.md"
+    },
+    {
+      "basename": "exos francais",
+      "path": "exos francais.md"
+    },
+    {
+      "basename": "Untitled 7",
+      "path": "Untitled 7.md"
+    },
+    {
+      "basename": "Résistance électrique",
+      "path": "Résistance électrique.md"
+    },
+    {
       "basename": "Theme 5-Electricité et Magnétisme",
       "path": "Theme 5-Electricité et Magnétisme.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Poussée d'Archimede",
+      "path": "Poussée d'Archimede.md"
+    },
+    {
+      "basename": "Textual analysis",
+      "path": "Textual analysis.md"
+    },
+    {
+      "basename": "Untitled 6",
+      "path": "Untitled 6.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Probabilité discrètes",
+      "path": "Probabilité discrètes.md"
+    },
+    {
+      "basename": "Untitled 5",
+      "path": "Untitled 5.md"
     },
     {
       "basename": "Drawing 2023-10-07 13.32.01.excalidraw",
@@ -151,54 +199,6 @@
     {
       "basename": "Theme 2-Macro-économie",
       "path": "Theme 2-Macro-économie.md"
-    },
-    {
-      "basename": "PIB",
-      "path": "PIB.md"
-    },
-    {
-      "basename": "Conséquences possibles de l'imposition d'un prix plancher",
-      "path": "Conséquences possibles de l'imposition d'un prix plancher.md"
-    },
-    {
-      "basename": "Offre",
-      "path": "Offre.md"
-    },
-    {
-      "basename": "Chapitre 3 -  Objectifs macro-économiques",
-      "path": "Chapitre 3 -  Objectifs macro-économiques.md"
-    },
-    {
-      "basename": "Déflation, désinflation et leurs coûts",
-      "path": "Déflation, désinflation et leurs coûts.md"
-    },
-    {
-      "basename": "Theme 1-Micro-économie",
-      "path": "Theme 1-Micro-économie.md"
-    },
-    {
-      "basename": "Drawing 2023-10-03 13.34.15.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-03 13.34.15.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-10-03 13.34.19.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-03 13.34.19.excalidraw.md"
-    },
-    {
-      "basename": "exos francais",
-      "path": "exos francais.md"
-    },
-    {
-      "basename": "Drawing 2023-10-02 20.27.48.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-02 20.27.48.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-10-02 20.27.16.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-02 20.27.16.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2023-10-02 20.27.18.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-02 20.27.18.excalidraw.md"
     }
   ],
   "omittedPaths": [],

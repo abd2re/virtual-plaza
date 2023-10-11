@@ -17,7 +17,7 @@ Quatre composantes de la santé économique des pays soutiennent le concept de 
 - le taux d'inflation
 - le solde de la balance commerciale extérieure
 - le taux de chômage
-<!--SR:!2023-10-08,38,170-->
+<!--SR:!2023-12-12,65,170-->
 
 Quand le PIB augmente, on parle de:: croissance économique.
 <!--SR:!2024-02-28,158,250-->

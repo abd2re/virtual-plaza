@@ -42,11 +42,11 @@ Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un lang
 - Ce processus de traduction convertira le programme dans:: le langage machine de l'ordinateur.
 <!--SR:!2023-10-26,23,250-->
 - Le programme original développé dans un langage de haut niveau sélectionné est appelé:: programme source ou code source.
-<!--SR:!2023-10-09,9,210-->
+<!--SR:!2023-10-29,20,210-->
 - Le programme traduit en langage machine est appelé:: programme objet ou programme cible.
-<!--SR:!2023-10-08,3,150-->
+<!--SR:!2023-10-13,5,150-->
 - Deux méthodes sont utilisées pour la traduction:: la compilation et l'interprétation.
-<!--SR:!2023-10-08,13,270-->
+<!--SR:!2023-11-14,37,270-->
 - Un compilateur est:: un traducteur qui n'exécute le processus de traduction qu'une seule fois. Il traduit normalement l'ensemble du programme source en programme objet.
 <!--SR:!2023-10-15,14,230-->
 - Un interprète est:: un traducteur qui effectue le processus de traduction à chaque fois que le programme est exécuté.

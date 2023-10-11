@@ -17,14 +17,23 @@ $$\Large{F_{m}=|q|vB\sin\theta}$$
 - $v$ = vitesse de la particule
 - $B$ = champ magnétique
 - $\theta$ = $\angle(\vec{v},\vec{B})$ (aigu), si $\sin(\theta)<0$ alors on prend sa valeur absolue
-<!--SR:!2023-10-08,1,230-->
+<!--SR:!2023-10-11,1,170-->
 
 Règle de la paume de la main droite.
 ?
-![[image-20231007142844745.png|center|300]]
-
+![[image-20231011081124820.png]]
 
 
 
 
 ## Mouvement d'une particule chargée dans un champ magnétique (application du [[Theme 6-Mouvement circulaire uniforme et Gravitation|T6]])
+?
+Une particule chargée $q$ se déplace a la vitesse $\vec{v}$ dans un champ magnétique ($\vec{v}\perp \vec{B}$).
+
+La formule de l'accélération $a$ d'une particle dans un champ magnétique si le poids est négligeable.
+?
+$$\Large{a=\frac{|q|vB\sin\theta}{m}}$$
+
+La formule du rayon d'une particule est égale:
+?
+$$\Large{r=\frac{mv}{|q|B}}$$

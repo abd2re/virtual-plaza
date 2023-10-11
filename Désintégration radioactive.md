@@ -28,7 +28,7 @@ NB: Pour Beta- decay-> +anti-neutrino ($^0_0\bar{v}$), pour beta+ decay -> +neut
 Pouvoir de penetration des 3 radioactivités:
 ?
 ![[image-20230214114403367.png]]
-<!--SR:!2023-10-09,144,250-->
+<!--SR:!2024-10-05,362,250-->
 
 - **Un noyau radioactif est**:: un isotope instable d’un élément chimique. Il va naturellement se désintégrer pour chercher à atteindre une composition stable. Lors de la désintégration, le noyau radioactif émet une particule et de l’énergie.
 <!--SR:!2023-10-19,17,130-->
