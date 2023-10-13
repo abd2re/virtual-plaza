@@ -22,3 +22,4 @@ tags: [M]
 
 # Theme 4: Statistique et Probabilité
 1. [[Probabilité discrètes]]
+2. [[Distribution discrètes]]

@@ -47,12 +47,12 @@ Chômage frictionnel c'est quand les gens sont entre deux emplois. (Exemple: ét
 ### Saisonnier
 ?
 Le chômage saisonnier se produit lorsque des personnes effectuent des types de travail spécifiques qui ne sont nécessaires qu'à certaines périodes de l'année.
-<!--SR:!2023-10-12,20,250-->
+<!--SR:!2023-12-04,53,250-->
 
 ### Structurel
 ?
 Le chômage structurel se produit lorsqu’il existe une inadéquation entre l’offre et la demande pour un ensemble particulier de compétences professionnelles.
-<!--SR:!2023-10-11,10,190-->
+<!--SR:!2023-10-30,19,190-->
 
 Il y a deux causes principales du chômage structurel:
 ?
@@ -63,7 +63,7 @@ Il y a deux causes principales du chômage structurel:
 3 étapes lorsqu'il y a un chômage structurel (graphiques):
 ?
 ![[image-20230913103815676.png|center|550]]
-<!--SR:!2023-10-12,10,162-->
+<!--SR:!2023-10-29,17,162-->
 
 ## Coûts du chômage
 

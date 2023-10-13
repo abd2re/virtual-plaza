@@ -7,7 +7,7 @@ Created: 2023-09-15
 # Energie mécanique (énergie totale)
 ?
 C'est la somme de l'[[Energie cinétique|énergie cinétique]] et de/des [[Energies potentielles|énergies potentielles]].
-<!--SR:!2023-10-11,14,230-->
+<!--SR:!2023-10-19,8,210-->
 
 Formule::$$\Large{E_{M}=E_{c}+E_{P}}$$
 <!--SR:!2023-10-14,18,250-->
@@ -26,4 +26,4 @@ La variation d'énergie mécanique entre deux instants d'un solide soumis a des 
 <!--SR:!2023-10-15,6,157-->
 
 Formule::$$\Large{\Delta E_{M}=E_{M_{2}}-E_{M_{1}}=\sum W_{1\rightarrow2}(\vec{f}_{\text{non-conservatives}})}$$
-<!--SR:!2023-10-11,12,237-->
+<!--SR:!2023-11-10,30,237-->

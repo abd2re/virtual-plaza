@@ -12,7 +12,7 @@ Les quatre opérations les plus fondamentales:
 - COMPARE
 - LOAD (souvent appelée RETRIEVE)
 - STORE (souvent appelée SAVE)
-<!--SR:!2023-10-11,10,190-->
+<!--SR:!2023-11-01,21,190-->
 
 ## Opérations composées
 ?

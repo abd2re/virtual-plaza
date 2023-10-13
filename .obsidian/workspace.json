@@ -4,29 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "ddf5b527ae873a13",
+        "id": "2c77340250598b28",
         "type": "tabs",
         "children": [
           {
-            "id": "3d6cf74c1e03d573",
+            "id": "d4921b9d6e2da61e",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Mouvement circulaire uniforme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement circulaire uniforme.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Gravitational Force, Field, and Orbits",
-                  "icon": "excalidraw-icon",
-                  "state": "{\"type\":\"excalidraw\",\"state\":{\"file\":\"exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md\"}}",
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":16.54619140625}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Mesurer les inégalités économiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mesurer les inégalités économiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":13.433451118963486}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":9.25775141547587}"
+                },
+                {
+                  "title": "Forces magnétiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forces magnétiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":12.249564914723287}"
+                },
+                {
+                  "title": "Mouvement circulaire uniforme",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement circulaire uniforme.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":16.885245901639344}"
+                },
+                {
+                  "title": "Theme 6-Mouvement circulaire uniforme et Gravitation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 6-Mouvement circulaire uniforme et Gravitation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 }
               ]
@@ -34,8 +70,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_physics.md",
-                "mode": "preview",
+                "file": "Distribution discrètes.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -161,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Distribution discrètes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Distribution discrètes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Distribution discrètes.md"
               }
             }
           },
@@ -281,7 +317,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_physics.md"
+                "file": "Distribution discrètes.md"
               }
             }
           },
@@ -343,7 +379,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Distribution discrètes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -381,7 +417,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3816700585943752,
+                  "scale": 0.4755793245617271,
                   "close": true
                 }
               }
@@ -391,7 +427,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -409,56 +445,56 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d6cf74c1e03d573",
+  "active": "d4921b9d6e2da61e",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "Theme 5-Electricité et Magnétisme.md",
-    "_physics.md",
-    "Mouvement circulaire uniforme.md",
-    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
+    "_math.md",
+    "Distribution discrètes.md",
+    "_economy.md",
+    "Mesurer les inégalités économiques.md",
+    "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
+    "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
+    "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
+    "assets/Mesurer les inégalités économiques",
+    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
+    "Theme 2-Macro-économie.md",
+    "Theme 1-Micro-économie.md",
+    "Relation entre égalité et équité.md",
     "Forces magnétiques.md",
     "assets/Forces magnétiques/image-20231011081124820.png",
+    "exercises/physics/theme 2/Work, Energy, and Power.md",
+    "Energies potentielles.md",
+    "Travail des force électriques.md",
+    "assets/Travail des force électriques/image-20230619093235708.png",
+    "_physics.md",
+    "Theme 5-Electricité et Magnétisme.md",
+    "Mouvement circulaire uniforme.md",
+    "Energie cinétique.md",
+    "Travail du poids d'un corps.md",
+    "assets/Travail du poids d'un corps/image-20230615082435878.png",
+    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
+    "Loi de gravitation de Newton.md",
+    "Excalidraw/Drawing 2023-10-12 19.11.52.excalidraw.md",
+    "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw/Pasted Image 20231012200139_585.png",
+    "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw/Pasted Image 20231012195515_610.png",
     "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "exercises/math/theme 1/Binomial Theorem.md",
-    "Nombres complexes.md",
-    "_math.md",
-    "Excalidraw/Drawing 2023-10-09 18.53.45.excalidraw.md",
-    "exos francais.md",
-    "Excalidraw/assets/Drawing 2023-10-09 18.53.45.excalidraw/Pasted Image 20231009191544_381.png",
-    "Excalidraw/assets/Drawing 2023-10-09 18.53.45.excalidraw/Pasted Image 20231009185400_695.png",
+    "Champ de gravitation.md",
+    "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw/Pasted Image 20231012192552_474.png",
+    "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw/Pasted Image 20231012191201_795.png",
+    "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw",
+    "Theme 2-Mécanique.md",
+    "Theme 3-Physique thermique.md",
+    "Energie mécanique (énergie totale).md",
+    "Chapitre 3 - Travail d'une force.md",
     "Excalidraw/assets/Drawing 2023-10-09 18.53.45.excalidraw",
-    "Untitled 7.md",
-    "Résistance électrique.md",
     "exploration_math1 - Abdoul Wahab Touré - Tle IB.pdf",
     "sept24physiquevaluationpdf.pdf",
     "My Drive - Shortcut.lnk",
-    "Theme 1-Mesures et incertitudes.md",
-    "Poussée d'Archimede.md",
-    "assets/Poussée d'Archimede/image-20230509082207472.png",
-    "Chapitre 1 - Analyse dimensionnelle.md",
-    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
-    "Theme 7-Physique nucléaire.md",
-    "Textual analysis.md",
-    "Untitled 6.md",
-    "_english.md",
-    "Probabilité discrètes.md",
-    "Untitled 5.md",
-    "assets/Forces magnétiques/image-20231007142844745.png",
-    "assets/Forces magnétiques/image-20231007142714530.png",
     "assets/Forces magnétiques",
-    "Excalidraw/Drawing 2023-10-07 13.32.01.excalidraw.md",
-    "Excalidraw/assets/Drawing 2023-10-07 13.32.01.excalidraw/Pasted Image 20231007133218_647.png",
     "Excalidraw/assets/Drawing 2023-10-07 13.32.01.excalidraw",
-    "Excalidraw/Drawing 2023-10-06 13.35.40.excalidraw.md",
-    "Excalidraw/assets/Drawing 2023-10-06 13.35.40.excalidraw/Pasted Image 20231006142839_778.png",
-    "Excalidraw/assets/Drawing 2023-10-06 13.35.40.excalidraw/Pasted Image 20231006142248_449.png",
-    "Excalidraw/assets/Drawing 2023-10-06 13.35.40.excalidraw/Pasted Image 20231006133556_767.png",
     "Excalidraw/assets/Drawing 2023-10-06 13.35.40.excalidraw",
-    "Utilisation des langages de programmation.md",
-    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw",
-    "Excalidraw/assets/Drawing 2023-10-02 20.27.48.excalidraw",
-    "exercises/math/theme 4/assets/Probability"
+    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw"
   ]
 }

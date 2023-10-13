@@ -19,9 +19,9 @@ $$\Large{P=\frac{F}{A}}$$
 - $A$ en $m^{2}$
 <!--SR:!2023-10-23,20,250-->
 
-Sachant que $U=\text{somme de la chaleur }(E_{c})+\text{énergie potentielle }(E_{p})$ et qu'il n'ya pas d'énergie intermoléculaire, alors la formule de l'énergie d'un gaz parfait est (3):
+Sachant que $U=\text{somme de la chaleur }(E_{c})+\text{énergie potentielle }(E_{p})$ et qu'il n'ya pas d'énergie intermoléculaire, alors la formule de l'énergie d'un gaz parfait est (4):
 ?
-$$\large{U=NE_{c}=\frac{3}{2}Nk_{b}T=\frac{3}{2}nRT=\frac{1}{2}Nmv^{2}}$$
+$$\large{U=NE_{c}=\frac{3}{2}Nk_{b}T=\frac{3}{2}nRT=\frac{1}{2}Nm\bar{v}^{2}}=\frac{3}{2}pV$$
 $n$ = Nombre de moles (en mol)
 $R$ = $8.3145 J\text{mol}^{-1}K^{-1}$ constante des gaz parfaits
 $T$ = température (en kelvin)

@@ -6,7 +6,7 @@ Created: 2023-03-11
 # Biens publics
 ?
 Les biens publics sont des biens qui ne seraient pas du tout fournis sur un marché libre mais qui sont nécessaires et bénéfiques pour la société.
-<!--SR:!2023-10-11,21,150-->
+<!--SR:!2023-10-21,10,130-->
 
 - Parce que le marché libre est incapable de fournir ces biens sans intervention, les biens publics sont:: un exemple de échec du marché.
 <!--SR:!2023-10-17,80,190-->
@@ -23,7 +23,7 @@ Un bien privé a deux caractéristiques:
 - Ressources du pool commun=> ::Rival et Non-exclusif
 <!--SR:!2023-10-17,134,250-->
 - Articles de club=> ::Non-rival et Exclusif
-<!--SR:!2023-10-11,132,250-->
+<!--SR:!2023-12-18,68,230-->
 - Biens publics=> Non-rival et Non-exclusif
 
 ## Le problème du passager clandestin

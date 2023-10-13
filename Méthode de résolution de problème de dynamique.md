@@ -10,7 +10,7 @@ Created: 2023-05-09
 - Inventaire des forces
 - Application d'une loi de Newton
 - Définir un repère et faire des projections puis des calculs 
-<!--SR:!2023-10-12,30,170-->
+<!--SR:!2023-12-06,55,170-->
 
 
 Tableau pour résoudre problème de dynamique:

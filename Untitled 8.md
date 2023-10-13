@@ -1,0 +1,1 @@
+La différence entre l'égalité et l'équité est que l'égalité est l'equidistribution des ressources pour tout individu sans prendre en compte le besoin individuel de chaque individu alors que l'équité est une distribution holistique des ressources qui prend en compte les besoins des individus.
