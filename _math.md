@@ -1,4 +1,3 @@
-
 ---
 tags: [M] 
 ---
@@ -23,3 +22,4 @@ tags: [M]
 # Theme 4: Statistique et Probabilité
 1. [[Probabilité discrètes]]
 2. [[Distribution discrètes]]
+3. [[Distribution binomiale]]

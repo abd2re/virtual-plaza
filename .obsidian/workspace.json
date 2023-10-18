@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c77340250598b28",
+        "id": "52612a18beb1df7a",
         "type": "tabs",
         "children": [
           {
-            "id": "d4921b9d6e2da61e",
+            "id": "c3a92f414decdd36",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,60 +18,24 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "_math",
+                  "title": "Chapitre 4 - Économie des inégalités et de la pauvreté",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":16.54619140625}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Économie des inégalités et de la pauvreté.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0.28193832599118945}"
                 },
                 {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Mesurer les inégalités économiques",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mesurer les inégalités économiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":13.433451118963486}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":9.25775141547587}"
-                },
-                {
-                  "title": "Forces magnétiques",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Forces magnétiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":12.249564914723287}"
-                },
-                {
-                  "title": "Mouvement circulaire uniforme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement circulaire uniforme.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":16.885245901639344}"
-                },
-                {
-                  "title": "Theme 6-Mouvement circulaire uniforme et Gravitation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 6-Mouvement circulaire uniforme et Gravitation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
+                  "eState": "{\"scroll\":11.772888214466363}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distribution discrètes.md",
-                "mode": "source",
+                "file": "Causes des inégalités économiques et de la pauvreté.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -197,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distribution discrètes.md",
+                "file": "Causes des inégalités économiques et de la pauvreté.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Distribution discrètes.md",
+                "file": "Causes des inégalités économiques et de la pauvreté.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -264,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Distribution discrètes.md"
+                "file": "Causes des inégalités économiques et de la pauvreté.md"
               }
             }
           },
@@ -317,7 +281,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Distribution discrètes.md"
+                "file": "Causes des inégalités économiques et de la pauvreté.md"
               }
             }
           },
@@ -379,7 +343,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Distribution discrètes.md",
+                "file": "Causes des inégalités économiques et de la pauvreté.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -417,7 +381,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4755793245617271,
+                  "scale": 0.3886857979841706,
                   "close": true
                 }
               }
@@ -445,49 +409,49 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d4921b9d6e2da61e",
+  "active": "c3a92f414decdd36",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_math.md",
-    "Distribution discrètes.md",
-    "_economy.md",
-    "Mesurer les inégalités économiques.md",
-    "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
-    "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
-    "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
-    "assets/Mesurer les inégalités économiques",
     "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
+    "Signification de la pauvreté et comment la mesurer.md",
+    "Seuil de pauvreté international.md",
+    "Causes des inégalités économiques et de la pauvreté.md",
+    "Relation entre égalité et équité.md",
+    "Mesurer les inégalités économiques.md",
+    "Dépendance à l’égard du secteur primaire.md",
+    "Indice de développement humain.md",
+    "Indice de pauvreté multidimensionnelle.md",
+    "Taux de natalité et des taux de dépendance élevés.md",
+    "Normes de revenu minimum.md",
+    "Grande économie informelle.md",
+    "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
+    "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
+    "_economy.md",
     "Theme 2-Macro-économie.md",
     "Theme 1-Micro-économie.md",
-    "Relation entre égalité et équité.md",
-    "Forces magnétiques.md",
-    "assets/Forces magnétiques/image-20231011081124820.png",
-    "exercises/physics/theme 2/Work, Energy, and Power.md",
-    "Energies potentielles.md",
-    "Travail des force électriques.md",
+    "Comparative Essay.md",
+    "Comparaison of Houseboy and King Lear.md",
+    "Distribution discrètes.md",
+    "_math.md",
+    "Distribution binomiale.md",
+    "Fonctions quadratiques.md",
+    "TOK ess.md",
+    "Excalidraw/diagramme logique.md",
+    "exos informatique.md",
+    "exo informatique.md",
+    "Nature des langages de programmation.md",
+    "assets/Equilibre à court terme/image-20230515115646980.png",
+    "assets/Equilibre à court terme/image-20230515120553983.png",
+    "assets/Mouvement circulaire uniforme/image-20230603143706376.png",
     "assets/Travail des force électriques/image-20230619093235708.png",
-    "_physics.md",
-    "Theme 5-Electricité et Magnétisme.md",
-    "Mouvement circulaire uniforme.md",
-    "Energie cinétique.md",
-    "Travail du poids d'un corps.md",
     "assets/Travail du poids d'un corps/image-20230615082435878.png",
-    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
-    "Loi de gravitation de Newton.md",
-    "Excalidraw/Drawing 2023-10-12 19.11.52.excalidraw.md",
-    "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw/Pasted Image 20231012200139_585.png",
-    "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw/Pasted Image 20231012195515_610.png",
-    "exercises/physics/theme 6/Gravitational Force, Field, and Orbits.md",
-    "Champ de gravitation.md",
-    "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw/Pasted Image 20231012192552_474.png",
-    "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw/Pasted Image 20231012191201_795.png",
+    "assets/Travail d'une force constante/image-20230612165341015.png",
+    "assets/Méthode de résolution de problème de dynamique/image-20230602163951619.png",
+    "assets/Tension d'un ressort/image-20230604182649685.png",
+    "assets/Mesurer les inégalités économiques",
     "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw",
-    "Theme 2-Mécanique.md",
-    "Theme 3-Physique thermique.md",
-    "Energie mécanique (énergie totale).md",
-    "Chapitre 3 - Travail d'une force.md",
     "Excalidraw/assets/Drawing 2023-10-09 18.53.45.excalidraw",
     "exploration_math1 - Abdoul Wahab Touré - Tle IB.pdf",
     "sept24physiquevaluationpdf.pdf",

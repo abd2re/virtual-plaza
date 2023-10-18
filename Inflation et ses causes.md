@@ -17,7 +17,7 @@ L'inflation est une augmentation durable du niveau des prix dans une économie.
 <!--SR:!2023-10-20,25,270-->
 
 Quel outil les gouvernements utilisent pour calculer l'inflation ?:: indice des prix à la consommation (IPC).
-<!--SR:!2023-10-16,20,250-->
+<!--SR:!2023-12-05,50,250-->
 
 Le calcul du IPC implique:: la sélection d'un panier de biens et services typiques achetés dans l'économie par la famille type (généralement deux adultes et deux enfants). 
 <!--SR:!2023-10-27,24,210-->
@@ -61,18 +61,18 @@ L’inflation tirée par la demande se produit lorsqu’il y a une augmentation 
 - Selon la nouvelle théorie classique, l’augmentation de la demande globale est suivie:: d’une pression à la hausse sur les salaires, de sorte qu’il n’y aura pas d’augmentation de la production à long terme.![[image-20230921081541285.png]]
 <!--SR:!2023-10-24,16,203-->
 - Selon la théorie keynésienne, toutes les augmentations de la demande globale ::n’entraînent pas une hausse des prix.![[image-20230921081748401.png]]
-<!--SR:!2023-10-16,16,243-->
+<!--SR:!2023-11-25,40,243-->
 
 
 - Selon la théorie keynésienne, si l’économie fonctionne à un équilibre inférieur au plein emploi, il existe alors des capacités inutilisées dans l’économie et les prix:: n’auront pas besoin d’augmenter. 
-<!--SR:!2023-10-17,18,263-->
+<!--SR:!2023-12-06,50,263-->
 - Selon la théorie keynésienne, ce n’est que lorsque les ressources sont pleinement utilisées ou presque, et doivent être réparties entre des utilisations concurrentes, que les prix:: augmentent.
-<!--SR:!2023-10-16,17,263-->
+<!--SR:!2023-12-04,49,263-->
 
 ### Inflation par les coûts de production
 ?
 L’inflation poussée par les coûts se produit lorsque l’offre globale diminue. Cela sera toujours dû à une augmentation des coûts de production ou à une forte perturbation de la disponibilité des facteurs de production.
-<!--SR:!2023-10-13,14,243-->
+<!--SR:!2023-11-20,38,243-->
 
 De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tels que (5): 
 ?
@@ -81,7 +81,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 - les modifications des lois sur le salaire minimum
 - l'augmentation du coût des matières premières importées
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
-<!--SR:!2023-10-14,6,203-->
+<!--SR:!2023-10-26,12,203-->
 
 Graphique avec explications
 ?
@@ -90,9 +90,9 @@ Graphique avec explications
 
 ### Spirale inflationniste salaires-prix
 - Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs.
-<!--SR:!2023-10-15,16,263-->
+<!--SR:!2023-11-26,42,263-->
 - Étant donné que des salaires plus élevés entraînent des coûts de production plus élevés pour les entreprises, il en résulte:: une baisse de l’offre globale à court terme.
-<!--SR:!2023-10-14,14,243-->
+<!--SR:!2023-11-21,38,243-->
 
 Graphique
 ?
@@ -102,7 +102,7 @@ Graphique
 - Pour les nouveaux économistes classiques, toute tentative de stimuler la demande globale n’aboutira qu’à:: l'inflation sans aucune augmentation du revenu national.
 <!--SR:!2023-10-30,20,203-->
 - Pour les économistes keynésiens une inflation excessive est une:: mauvaise chose lorsque la demande globale commence à augmenter le long de la partie verticale de la courbe AS.
-<!--SR:!2023-10-15,15,243-->
+<!--SR:!2023-11-23,39,243-->
 
 ## Coûts d’un taux d’inflation élevé
 Un taux d’inflation élevé crée un environnement incertain pour l’activité économique et érode la confiance de tous les acteurs de l’économie. Il existe six coûts principaux liés à un taux d’inflation élevé (6):
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2023-10-16,6,163-->
+<!--SR:!2023-10-27,11,163-->
 

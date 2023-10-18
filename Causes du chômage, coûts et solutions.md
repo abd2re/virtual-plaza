@@ -30,7 +30,7 @@ La demande totale de main-d'œuvre passe de AD L à AD L1 . Au taux de sala
 ### Chômage réel
 ?
 Un salaire minimum imposé par le gouvernement peut également accroître le chômage, c'est ce qu'on appelle chômage au salaire réel, où il existe un écart entre le nombre d'emplois disponibles et le nombre de personnes désireuses et capables de travailler au taux de salaire en vigueur.
-<!--SR:!2023-10-17,24,250-->
+<!--SR:!2023-12-16,60,250-->
 
 Graphique avec axes et explication du nombre de chômeurs
 ?

@@ -9,7 +9,7 @@ Les biens publics sont des biens qui ne seraient pas du tout fournis sur un marc
 <!--SR:!2023-10-21,10,130-->
 
 - Parce que le marché libre est incapable de fournir ces biens sans intervention, les biens publics sont:: un exemple de échec du marché.
-<!--SR:!2023-10-17,80,190-->
+<!--SR:!2024-03-16,151,190-->
 
 Un bien privé a deux caractéristiques:
 ?
@@ -21,7 +21,7 @@ Un bien privé a deux caractéristiques:
 - Bien privée => ::Rival et Exclusif
 <!--SR:!2023-12-04,164,250-->
 - Ressources du pool commun=> ::Rival et Non-exclusif
-<!--SR:!2023-10-17,134,250-->
+<!--SR:!2024-09-16,335,250-->
 - Articles de club=> ::Non-rival et Exclusif
 <!--SR:!2023-12-18,68,230-->
 - Biens publics=> Non-rival et Non-exclusif

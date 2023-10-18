@@ -18,7 +18,7 @@ Représentation:
 <!--SR:!2023-10-19,74,230-->
 
 - Le travail du poids est indépendant:: du chemin suivi
-<!--SR:!2023-10-13,17,170-->
+<!--SR:!2023-11-13,31,170-->
 - Le travail de poids dépend:: des altitudes initiales et finales
 <!--SR:!2023-10-22,27,210-->
 - De telles forces dont le poids qui est indépendant du chemin sont appelées:: forces conservatives.

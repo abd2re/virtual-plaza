@@ -21,7 +21,7 @@ Formule du taux de chômage::$\Large{\text{Taux de chômage}=\frac{\text{Nombre 
 <!--SR:!2023-12-22,107,242-->
 
 Formule de la population active::$$\large{\text{Population active}=\text{travailleurs}+\text{chômeurs}}$$
-<!--SR:!2023-10-16,23,255-->
+<!--SR:!2023-12-14,59,255-->
 
 - Il est important de se rappeler que la définition de chômeur est toute personne dans la population active qui est sans emploi mais qui recherche activement un emploi. Ainsi, les personnes qui ont arrêté leur recherche d'emploi ne seraient:: pas considérées comme des chômeurs, et la population active n'est pas non plus constituée de l'ensemble de la population ou de toutes les personnes en âge de travailler.
 <!--SR:!2023-11-21,87,242-->

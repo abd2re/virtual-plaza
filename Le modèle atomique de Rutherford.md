@@ -24,7 +24,7 @@ Toute particule électrisée animé d'un mouvement circulaire devrait perdre de 
 ### Interaction forte 
 ?
 Du fait de l'interaction électrique les protons dans un noyau se repousse dans un noyau a fin d'expliques la stabilité des noyaux  on va suppose l'existance d'une force attractive entre les nucleons appelé interaction forte. C'est la plus fortes des interactions fondamental, elle ne depends de la nature du nucleon et elle est de courte porté de l'orde des taille des noyau $10^{-15}m$.
-<!--SR:!2023-10-16,118,194-->
+<!--SR:!2024-06-03,231,194-->
 
 ## Le modèle de Bohr
 ?

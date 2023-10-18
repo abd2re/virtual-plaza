@@ -29,7 +29,7 @@ $$\Large{a_{n}=\frac{v^{2}}{r}=\omega^{2}r=\frac{4\pi^{2}r}{T^{2}}}$$
 - $v=$ vecteur vitesse
 - $\omega=$ vitesse angulaire
 - $T=$ Période
-<!--SR:!2023-10-17,21,190-->
+<!--SR:!2023-11-29,43,190-->
 
 En utilisant la formule $F=ma$, dans le mouvement circulaire uniforme, la force centripète $F$ est égale a(2)::$$\Large{F=\frac{mv^{2}}{r}=m\omega^2r}$$
 <!--SR:!2023-12-24,125,250-->

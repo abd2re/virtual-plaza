@@ -9,4 +9,4 @@ Created: 2023-02-27
 - Sans normes, les fabricants de produits de mise en réseau n'ont pas de base commune sur laquelle construire leurs systèmes.
 - L'interconnexion des produits de différents fournisseurs serait difficile, voire impossible.
 - Sans normes reconnues, la communication serait difficile (voire impossible).
-<!--SR:!2023-10-13,133,250-->
+<!--SR:!2023-12-19,67,230-->

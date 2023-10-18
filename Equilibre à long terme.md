@@ -27,6 +27,6 @@ Dans la nouvelle perspective classique, parce que les prix sont totalement flexi
 
 
 - Selon Keynes, l'économie peut atteindre l'équilibre en dessous du niveau de production du plein emploi et:: rester dans cette position jusqu'à ce que le gouvernement intervienne.
-<!--SR:!2023-10-14,75,228-->
+<!--SR:!2023-11-22,39,208-->
 - Keynes pensait que les prix ne se corrigeaient pas toujours à la baisse en raison:: des contrats de travail, des lois sur le salaire minimum et des syndicats.
 <!--SR:!2023-11-18,102,248-->

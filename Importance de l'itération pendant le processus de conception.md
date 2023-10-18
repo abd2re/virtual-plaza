@@ -15,7 +15,7 @@ L'itération désigne la répétition d'un ensemble d'instructions pendant un no
 Il est impossible de concevoir un système, une interface ou un logiciel qui ne présente pas de problèmes initiaux de fonctionnement ou d'utilisation. Au cours du processus de conception, les concepteurs du produit peuvent être
 amenés à prendre du recul à plusieurs reprises et à reconsidérer les choix qu'ils ont faits.
 Même les meilleurs concepteurs ne peuvent pas concevoir des produits parfaits en une seule tentative, c'est pourquoi il convient d'adopter une méthodologie de conception itérative.
-<!--SR:!2023-10-13,190,230-->
+<!--SR:!2024-01-16,95,210-->
 
 ## Cycle de vie d'un système informatique
 ?

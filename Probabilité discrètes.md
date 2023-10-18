@@ -11,7 +11,7 @@ Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 <!--SR:!2023-10-27,22,250-->
 On appelle événement:: toute partie de l'univers (sous-ensemble)
-<!--SR:!2023-10-16,14,230-->
+<!--SR:!2023-10-23,7,210-->
 
 ### Définitions
 - Evénement élémentaire:: a une seule issue
@@ -51,11 +51,11 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 Deux événements sont indépendants si: : l'occurrence de chacun d'eux n'affecte pas la probabilité que l'autre se produise. Un exemple de ceci est l'échantillonnage à 1s avec remplacement.
 
 Pour des événements indépendants A et B, $P(A\cap B)$=:: $P(A)P(B)$
-<!--SR:!2023-10-13,10,252-->
+<!--SR:!2023-11-08,26,252-->
 
 ## Événements dépendants
 Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
-<!--SR:!2023-10-13,10,252-->
+<!--SR:!2023-11-09,27,252-->
 
 Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
 <!--SR:!2023-10-25,16,232-->
@@ -65,7 +65,7 @@ Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et
 <!--SR:!2023-11-06,25,252-->
 
 Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
-<!--SR:!2023-10-13,10,252-->
+<!--SR:!2023-11-07,25,252-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
 <!--SR:!2023-11-05,24,252-->

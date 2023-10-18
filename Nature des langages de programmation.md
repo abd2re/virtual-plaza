@@ -24,7 +24,7 @@ Un langage de programmation est décrit comme la combinaison de:
 ?
 - Sa **sémantique**, qui se réfère à la signification de chaque construction possible dans le langage.
 - Sa **syntaxe**, qui se rapporte à sa structure.
-<!--SR:!2023-10-14,13,230-->
+<!--SR:!2023-11-17,34,230-->
 
 Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un langage, tandis que les règles de construction des énoncés sont appelées:: syntaxe.
 <!--SR:!2023-10-23,20,250-->
@@ -32,7 +32,7 @@ Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un lang
 ## Nécessité des langues de niveau supérieur
 
 - L’évolution de la programmation a été le remplacement du code binaire pour le développement des instructions. Ces langages informatiques de bas niveau ont été appelés:: mnémoniques et plus tard langages d'assemblage.
-<!--SR:!2023-10-17,10,170-->
+<!--SR:!2023-11-03,17,170-->
 - Le manque d'abstraction, la nécessité de se concentrer sur la résolution de problèmes et l'amélioration de l'efficacité ont conduit au développement de:: langages de haut niveau.
 <!--SR:!2023-10-30,25,250-->
 - Un langage de programmation de haut niveau est un langage de programmation qui:: utilise des éléments du langage naturel, qui est facile à utiliser, qui facilite l'abstraction en masquant des domaines importants des systèmes informatiques et qui rend le développement de programmes plus simple, plus rapide et plus compréhensible.
@@ -44,10 +44,10 @@ Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un lang
 - Le programme original développé dans un langage de haut niveau sélectionné est appelé:: programme source ou code source.
 <!--SR:!2023-10-29,20,210-->
 - Le programme traduit en langage machine est appelé:: programme objet ou programme cible.
-<!--SR:!2023-10-13,5,150-->
+<!--SR:!2023-10-21,8,150-->
 - Deux méthodes sont utilisées pour la traduction:: la compilation et l'interprétation.
 <!--SR:!2023-11-14,37,270-->
 - Un compilateur est:: un traducteur qui n'exécute le processus de traduction qu'une seule fois. Il traduit normalement l'ensemble du programme source en programme objet.
-<!--SR:!2023-10-15,14,230-->
+<!--SR:!2023-11-19,35,230-->
 - Un interprète est:: un traducteur qui effectue le processus de traduction à chaque fois que le programme est exécuté.
-<!--SR:!2023-10-16,15,230-->
+<!--SR:!2023-11-24,39,230-->

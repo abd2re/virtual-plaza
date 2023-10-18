@@ -6,7 +6,7 @@ Created: 2023-09-08
 
 # Erreurs et incertitudes
 Une mesure n'est jamais:: exacte (si on devait mesurer des grandeurs, on va trouver des valeurs différentes).
-<!--SR:!2023-10-15,19,230-->
+<!--SR:!2023-12-02,48,230-->
 
 On distingue deux types d'erreurs:: les erreurs **aléatoires** et **systématiques**.
 <!--SR:!2023-10-22,28,250-->
@@ -17,10 +17,10 @@ Composant de l'erreur de mesure dont on ne peut prévoir la tendance.
 <!--SR:!2023-11-04,29,210-->
 
 Elle est pour cause:: **l'opérateur**. 
-<!--SR:!2023-10-17,24,250-->
+<!--SR:!2023-12-15,59,250-->
 
 Pour le réduire:: on effectue de nombreuses mesures.
-<!--SR:!2023-10-13,21,250-->
+<!--SR:!2023-12-07,55,250-->
 
 ## Erreurs systématiques
 ?

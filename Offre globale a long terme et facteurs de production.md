@@ -30,7 +30,7 @@ Une augmentation de la quantité de **capital** implique:: une augmentation de
 Une amélioration de la qualité du capital dépend:: des avancées technologiques qui se traduiront par de nouvelles machines, des équipements plus avancés, etc.
 <!--SR:!2023-11-26,52,172-->
 Les augmentations de la quantité de **main-d'œuvre** résultent de la migration, mais cela peut ne pas toujours être une source de croissance si:: la main-d'œuvre est peu qualifiée.
-<!--SR:!2023-10-15,71,232-->
+<!--SR:!2024-03-31,168,232-->
 
 Les ressources naturelles (la terre) peuvent être divisées en deux parties essentielles :
 ?

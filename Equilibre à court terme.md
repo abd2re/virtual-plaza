@@ -12,7 +12,7 @@ L'équilibre à court terme est déterminé par l'intersection de la demande glo
 ?
 C'est lorsque a production d'équilibre est inférieure a la production de plein emploi/potentielle. (Demande globale se déplace vers la gauche)
 ![[image-20230515120553983.png|center]] 
-<!--SR:!2023-10-16,90,230-->
+<!--SR:!2023-11-30,45,210-->
 
 **Un écart inflationniste** (Définition et graphe)
 ?
