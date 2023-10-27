@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52612a18beb1df7a",
+        "id": "f4f6ec2cc128d839",
         "type": "tabs",
         "children": [
           {
-            "id": "c3a92f414decdd36",
+            "id": "a256766243667f2e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,23 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Chapitre 4 - Économie des inégalités et de la pauvreté",
+                  "title": "_math",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Économie des inégalités et de la pauvreté.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0.28193832599118945}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":11.772888214466363}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":1.9691629955947136}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Causes des inégalités économiques et de la pauvreté.md",
+                "file": "Polynômes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -161,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Causes des inégalités économiques et de la pauvreté.md",
+                "file": "Polynômes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Causes des inégalités économiques et de la pauvreté.md",
+                "file": "Polynômes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Causes des inégalités économiques et de la pauvreté.md"
+                "file": "Polynômes.md"
               }
             }
           },
@@ -281,7 +275,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Causes des inégalités économiques et de la pauvreté.md"
+                "file": "Polynômes.md"
               }
             }
           },
@@ -343,7 +337,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Causes des inégalités économiques et de la pauvreté.md",
+                "file": "Polynômes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -381,7 +375,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3886857979841706,
+                  "scale": 0.48195898996690345,
                   "close": true
                 }
               }
@@ -409,47 +403,49 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c3a92f414decdd36",
+  "active": "a256766243667f2e",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
+    "_math.md",
+    "Polynômes.md",
+    "Nombres complexes.md",
+    "Identités trigonométriques.md",
+    "Excalidraw/Drawing 2023-10-25 21.30.34.excalidraw.md",
+    "Cercle trigonométrique.md",
+    "Nombres complexes (conflict 2023-10-24-10-10-26).md",
+    "assets/Nombres complexes/image-20230504104418313.png",
+    "Conservation de la quantité de mouvement.md",
+    "Excalidraw/Drawing 2023-10-22 11.31.50.excalidraw.md",
+    "Excalidraw/assets/Drawing 2023-10-22 11.31.50.excalidraw/Pasted Image 20231022113207_988.png",
+    "Excalidraw/assets/Drawing 2023-10-22 11.31.50.excalidraw",
+    "Chapitre 4 - Quantité de mouvement.md",
+    "Application de la conservation de la quantité de mouvement.md",
+    "assets/Application de la conservation de la quantité de mouvement/image-20231019112159997.png",
+    "assets/Application de la conservation de la quantité de mouvement/image-20231019112225666.png",
+    "_physics.md",
+    "Chapitre 2 - Forces et lois de Newton.md",
+    "Theme 1-Mesures et incertitudes.md",
+    "Chapitre 1 - Analyse dimensionnelle.md",
     "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
-    "Signification de la pauvreté et comment la mesurer.md",
-    "Seuil de pauvreté international.md",
     "Causes des inégalités économiques et de la pauvreté.md",
-    "Relation entre égalité et équité.md",
-    "Mesurer les inégalités économiques.md",
-    "Dépendance à l’égard du secteur primaire.md",
-    "Indice de développement humain.md",
-    "Indice de pauvreté multidimensionnelle.md",
-    "Taux de natalité et des taux de dépendance élevés.md",
-    "Normes de revenu minimum.md",
-    "Grande économie informelle.md",
-    "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
-    "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
+    "Signification de la pauvreté et comment la mesurer.md",
     "_economy.md",
     "Theme 2-Macro-économie.md",
-    "Theme 1-Micro-économie.md",
-    "Comparative Essay.md",
-    "Comparaison of Houseboy and King Lear.md",
-    "Distribution discrètes.md",
-    "_math.md",
-    "Distribution binomiale.md",
-    "Fonctions quadratiques.md",
-    "TOK ess.md",
-    "Excalidraw/diagramme logique.md",
-    "exos informatique.md",
-    "exo informatique.md",
-    "Nature des langages de programmation.md",
-    "assets/Equilibre à court terme/image-20230515115646980.png",
-    "assets/Equilibre à court terme/image-20230515120553983.png",
-    "assets/Mouvement circulaire uniforme/image-20230603143706376.png",
-    "assets/Travail des force électriques/image-20230619093235708.png",
-    "assets/Travail du poids d'un corps/image-20230615082435878.png",
-    "assets/Travail d'une force constante/image-20230612165341015.png",
-    "assets/Méthode de résolution de problème de dynamique/image-20230602163951619.png",
-    "assets/Tension d'un ressort/image-20230604182649685.png",
+    "ds.md",
+    "Forces magnétiques.md",
+    "Excalidraw/Drawing 2023-10-19 11.24.28.excalidraw.md",
+    "assets/Application de la conservation de la quantité de mouvement",
+    "assets/Pasted image 20231013154033.png/image-20231019111913271.png",
+    "Pasted image 20231013154033.png.md",
+    "assets/Pasted image 20231013154033.png",
+    "Pasted image 20231012123839.png.md",
+    "assets/Pasted image 20231012123839.png/image-20231019111855867.png",
+    "assets/Pasted image 20231012123839.png/image-20231019111854901.png",
+    "assets/Pasted image 20231012123839.png",
+    "Theme 5-Electricité et Magnétisme.md",
+    "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
     "assets/Mesurer les inégalités économiques",
     "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw",
     "Excalidraw/assets/Drawing 2023-10-09 18.53.45.excalidraw",
@@ -457,8 +453,6 @@
     "sept24physiquevaluationpdf.pdf",
     "My Drive - Shortcut.lnk",
     "assets/Forces magnétiques",
-    "Excalidraw/assets/Drawing 2023-10-07 13.32.01.excalidraw",
-    "Excalidraw/assets/Drawing 2023-10-06 13.35.40.excalidraw",
-    "Excalidraw/assets/Drawing 2023-10-06 08.06.17.excalidraw"
+    "Excalidraw/assets/Drawing 2023-10-07 13.32.01.excalidraw"
   ]
 }

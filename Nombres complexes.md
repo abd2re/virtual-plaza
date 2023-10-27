@@ -72,7 +72,44 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 ![[image-20230504104418313.png|299]]
 <!--SR:!2024-02-08,172,250-->
 
-Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
-<!--SR:!2023-10-20,16,141-->
+## Forme polaire
 
+Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
+<!--SR:!2023-11-12,23,141-->
+
+- $\cos\theta$=::$\frac{a}{|z|}$
+<!--SR:!2023-10-29,4,236-->
+- $\sin\theta$=::$\frac{b}{|z|}$
+<!--SR:!2023-10-31,6,236-->
+- $|zw|$=::$|z||w|$
+<!--SR:!2023-11-03,9,256-->
+- $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
+<!--SR:!2023-10-30,5,236-->
+- $zw$=::$|z||w|[\cos(\theta+\alpha)+i\sin(\theta+\alpha)]$
+<!--SR:!2023-10-30,5,236-->
+- $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$
+<!--SR:!2023-10-31,6,236-->
+- $z^{n}$=::$|z|^{n}(\cos n\theta+i\sin n\theta)$
+<!--SR:!2023-10-30,4,216-->
+- $\theta$=::$\tan^{-1}(\frac{b}{a})$
+<!--SR:!2023-10-31,6,236-->
+- $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
+<!--SR:!2023-10-30,4,216-->
+- $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
+<!--SR:!2023-11-01,6,234-->
+
+## Formules d'Euler (module=1)
+Si $|z|=1$ alors $z^{*}$=::$z^{-1}$
+<!--SR:!2023-10-30,4,234-->
+$e^{i\pi}$=::$-1$
+<!--SR:!2023-11-01,6,234-->
+
+- $z^{n}+z^{-n}$=::$2\cos(n\theta)$
+<!--SR:!2023-10-31,5,234-->
+- $z^{n}-z^{-n}$=::$2i\sin(n\theta)$
+<!--SR:!2023-11-01,6,234-->
+- $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
+<!--SR:!2023-11-01,6,234-->
+- $e^{in\theta}-e^{-in\theta}$=::$2i\sin(n\theta)$
+<!--SR:!2023-10-31,5,234-->
 

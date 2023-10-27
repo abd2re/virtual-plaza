@@ -11,7 +11,7 @@ $$\Large{\vec{p}=m\vec{v}}$$
 - $\vec{p}$ en kgms^(-1)
 - $m$ en kg
 - $\vec{v}$ en ms^(-1)
-<!--SR:!2023-10-25,9,250-->
+<!--SR:!2023-11-19,25,250-->
 
 Formule de l'énergie cinétique en fonction de $p$::$$\Large{E_{c}=\frac{p^{2}}{2m}}$$
-<!--SR:!2023-10-18,1,150-->
+<!--SR:!2023-10-27,4,150-->

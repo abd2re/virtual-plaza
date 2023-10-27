@@ -9,7 +9,7 @@ Created: 2023-10-05
 ## Force magnétique s'exercant sur une particule chargée en mouvement dans un champ magnétique (Loi de Lorentz)
 ?
 Une particule chargée $q$ se déplaçant a la vitesse $\vec{v}$ dans un champ magnétique $\vec{B}$ est soumise a une force magnétique $\vec{F}$ dont l'intensité est donnée par la loi de Lorentz.
-<!--SR:!2023-10-18,1,142-->
+<!--SR:!2023-10-28,3,162-->
 
 Formule de la Loi de Lorentz:
 ?
@@ -18,27 +18,27 @@ $$\Large{F_{m}=|q|vB\sin\theta}$$
 - $v$ = vitesse de la particule
 - $B$ = champ magnétique
 - $\theta$ = $\angle(\vec{v},\vec{B})$ (aigu), si $\sin(\theta)<0$ alors on prend sa valeur absolue
-<!--SR:!2023-10-21,5,170-->
+<!--SR:!2023-11-01,11,170-->
 
 Règle de la paume de la main droite.
 ?
 ![[image-20231011081124820.png]]
-<!--SR:!2023-10-20,6,242-->
+<!--SR:!2023-11-04,15,242-->
 
-
-
-
-## Mouvement d'une particule chargée dans un champ magnétique (application du [[Theme 6-Mouvement circulaire uniforme et Gravitation|T6]])
+## Mouvement d'une particule chargée dans un champ magnétique
 ?
 Une particule chargée $q$ se déplace a la vitesse $\vec{v}$ dans un champ magnétique ($\vec{v}\perp \vec{B}$).
-<!--SR:!2023-10-18,1,162-->
+<!--SR:!2023-10-28,5,162-->
 
 La formule de l'accélération $a$ d'une particle dans un champ magnétique si le poids est négligeable.
 ?
 $$\Large{a=\frac{|q|vB\sin\theta}{m}}$$
-<!--SR:!2023-10-21,4,182-->
+<!--SR:!2023-10-30,9,182-->
 
 La formule du rayon d'une particule est égale:
 ?
 $$\Large{r=\frac{mv}{|q|B}}$$
-<!--SR:!2023-10-19,4,222-->
+<!--SR:!2023-10-29,10,222-->
+
+
+## Force magnétique s'exerçcant sur un courant électrique placée dans un champ magnétique (loi de Laplace)

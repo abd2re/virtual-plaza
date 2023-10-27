@@ -27,7 +27,7 @@ Un langage de programmation est décrit comme la combinaison de:
 <!--SR:!2023-11-17,34,230-->
 
 Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un langage, tandis que les règles de construction des énoncés sont appelées:: syntaxe.
-<!--SR:!2023-10-23,20,250-->
+<!--SR:!2023-12-14,52,250-->
 
 ## Nécessité des langues de niveau supérieur
 
@@ -36,15 +36,15 @@ Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un lang
 - Le manque d'abstraction, la nécessité de se concentrer sur la résolution de problèmes et l'amélioration de l'efficacité ont conduit au développement de:: langages de haut niveau.
 <!--SR:!2023-10-30,25,250-->
 - Un langage de programmation de haut niveau est un langage de programmation qui:: utilise des éléments du langage naturel, qui est facile à utiliser, qui facilite l'abstraction en masquant des domaines importants des systèmes informatiques et qui rend le développement de programmes plus simple, plus rapide et plus compréhensible.
-<!--SR:!2023-10-20,18,250-->
+<!--SR:!2023-12-04,45,250-->
 
 ### Processus de traduction d'un langage de niveau supérieur vers un code exécutable
 - Ce processus de traduction convertira le programme dans:: le langage machine de l'ordinateur.
-<!--SR:!2023-10-26,23,250-->
+<!--SR:!2023-12-25,60,250-->
 - Le programme original développé dans un langage de haut niveau sélectionné est appelé:: programme source ou code source.
 <!--SR:!2023-10-29,20,210-->
 - Le programme traduit en langage machine est appelé:: programme objet ou programme cible.
-<!--SR:!2023-10-21,8,150-->
+<!--SR:!2023-11-02,12,150-->
 - Deux méthodes sont utilisées pour la traduction:: la compilation et l'interprétation.
 <!--SR:!2023-11-14,37,270-->
 - Un compilateur est:: un traducteur qui n'exécute le processus de traduction qu'une seule fois. Il traduit normalement l'ensemble du programme source en programme objet.

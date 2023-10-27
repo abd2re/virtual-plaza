@@ -29,7 +29,7 @@ Trois raisons expliquent la pente négative de la courbe de demande globale :
 
 ---
 - L'axe des ordonnées en macro-économies est appelée :: niveau général des prix (NGP).
-<!--SR:!2023-10-19,94,241-->
+<!--SR:!2024-06-09,234,241-->
 - L'axe des abscisse en macro-économies est appelée :: PIB réel.
 <!--SR:!2024-03-20,183,241-->
 

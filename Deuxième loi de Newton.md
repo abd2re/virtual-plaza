@@ -6,7 +6,7 @@ Created: 2023-05-09
 # Deuxième loi de Newton
 ?
 Dans un [[Référentiel galiléen]] la **somme des forces extérieurs** est égale au **produit** de la **masse** et du **vecteur [[accélération]]**.
-<!--SR:!2023-10-22,53,170-->
+<!--SR:!2024-01-19,89,170-->
 
 Formule:
 ?

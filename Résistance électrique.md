@@ -22,7 +22,7 @@ $$R=\frac{\rho l}{A}$$
 Caractéristique intensité-tension du resistor a comme graphe::![[Résistance électrique.png]]
 <!--SR:!2023-11-10,74,210-->
 - Formule de la loi d'Ohm::$$U=RI$$ car $U$ et $I$ sont proportionnelles.
-<!--SR:!2023-10-22,179,230-->
+<!--SR:!2024-01-20,90,210-->
 
 - Loi d'Ohm:: A [[température]] constante la tension et l'intensité aux bornes d'un conducteurs sont proportionnelles
 <!--SR:!2023-12-24,210,263-->
@@ -44,7 +44,7 @@ Pour lutter contre l'effet joule on prévoit des dispositifs d'aération ou de v
 <!--SR:!2023-12-09,199,222-->
 
 La puissance dissipé par effet joule est proportionnelle:: au carré de l'intensité.
-<!--SR:!2023-10-25,64,182-->
+<!--SR:!2024-02-18,116,182-->
 
 3 formules de puissance dissipé::$$P=UI=RI^2=\frac{U^{2}}{R}$$
 <!--SR:!2023-11-13,198,242-->
@@ -89,7 +89,7 @@ Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. 
 - si C est en A $$R_{AC}=R_{AA}=0,\;U_{AC}=0$$
 - si C est en B $$R_{AC}=R_{AB},\;U_{AC}=\frac{R_{AB}}{R_{AB}}U_{AB}=U_{AB}$$
 - si C est entre A et B $$0<U_{S}<U_{AB}$$
-<!--SR:!2023-10-18,137,198-->
+<!--SR:!2023-12-27,70,178-->
 
 
 

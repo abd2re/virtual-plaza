@@ -9,12 +9,12 @@ Created: 2023-09-13
 Définition de l'inflation:
 ?
 L'inflation est une augmentation durable du niveau des prix dans une économie.
-<!--SR:!2023-10-24,20,190-->
+<!--SR:!2023-12-02,39,190-->
 
 - Lorsque l'argent perd de la valeur, les prix:: augmentent en conséquence.
-<!--SR:!2023-10-24,26,250-->
+<!--SR:!2023-12-31,68,250-->
 - Lorsque le taux d'inflation dépasse 50% par mois, on dit:: hyperinflation.
-<!--SR:!2023-10-20,25,270-->
+<!--SR:!2024-01-22,94,290-->
 
 Quel outil les gouvernements utilisent pour calculer l'inflation ?:: indice des prix à la consommation (IPC).
 <!--SR:!2023-12-05,50,250-->
@@ -23,10 +23,10 @@ Le calcul du IPC implique:: la sélection d'un panier de biens et services typiq
 <!--SR:!2023-10-27,24,210-->
 
 Formule IPC::$$\large{\text{IPC}_{n}=\frac{\text{valeur du panier de l'année }n}{\text{valeur de panier de l'année de base}}\times100}$$
-<!--SR:!2023-10-21,24,250-->
+<!--SR:!2023-12-24,64,250-->
 
 Formule du taux d'inflation avec IPC::$$\large{T_{i}=\frac{\text{IPC}_{f}-\text{IPC}_{d}}{\text{IPC}_{d}}\times100}$$
-<!--SR:!2023-10-23,26,250-->
+<!--SR:!2023-12-27,65,250-->
 
 ## Limites de l’IPC pour mesurer l’inflation
 Ils sont (4):
@@ -41,7 +41,7 @@ Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas
 <!--SR:!2023-10-29,26,263-->
 
 IPP veut dire:: Indice prix de la production
-<!--SR:!2023-10-21,19,243-->
+<!--SR:!2023-12-29,69,263-->
 
 Alors que l'IPC s'interesse au produits de la consummation, l'IPP:: s'interesse aux facteurs de production qui nous permet de prévoir une augmentation/baisse future de l'IPC.
 <!--SR:!2023-10-27,18,203-->
@@ -51,7 +51,7 @@ Les deux principaux types d’inflation sont:
 ?
 - Inflation attisée par la demande (augmentation)
 - Inflation par les coûts de production
-<!--SR:!2023-10-24,17,223-->
+<!--SR:!2023-11-30,37,223-->
 
 ### Inflation attisée par la demande
 ?
@@ -59,7 +59,7 @@ L’inflation tirée par la demande se produit lorsqu’il y a une augmentation 
 <!--SR:!2023-11-08,29,243-->
 
 - Selon la nouvelle théorie classique, l’augmentation de la demande globale est suivie:: d’une pression à la hausse sur les salaires, de sorte qu’il n’y aura pas d’augmentation de la production à long terme.![[image-20230921081541285.png]]
-<!--SR:!2023-10-24,16,203-->
+<!--SR:!2023-11-25,32,203-->
 - Selon la théorie keynésienne, toutes les augmentations de la demande globale ::n’entraînent pas une hausse des prix.![[image-20230921081748401.png]]
 <!--SR:!2023-11-25,40,243-->
 
@@ -81,7 +81,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 - les modifications des lois sur le salaire minimum
 - l'augmentation du coût des matières premières importées
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
-<!--SR:!2023-10-26,12,203-->
+<!--SR:!2023-11-01,6,183-->
 
 Graphique avec explications
 ?

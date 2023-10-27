@@ -11,7 +11,7 @@ Created: 2022-11-22
 <!--SR:!2024-06-07,338,250-->
 
 - L'éléctrisation est:: un transfert d'électrons d'un corps a l'autre
-<!--SR:!2023-10-25,162,244-->
+<!--SR:!2024-01-18,85,224-->
 
 <!--SR:!2023-04-21,84,230-->
 

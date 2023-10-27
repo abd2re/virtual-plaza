@@ -10,7 +10,7 @@ $$\Large{W_{A\rightarrow B}(\vec{F_{E}})=F_{e}(x_{B}-x_{A})=qE(x_{B}-x_{A})}$$
 - $E$ = Intensité du champ électrique en $NC^{-1}$
 - $F$ = Force en Newton 
 - $q$ = Charge électrique en Coulomb
-<!--SR:!2023-10-21,39,210-->
+<!--SR:!2023-11-13,23,190-->
 
 Représentation:
 ?

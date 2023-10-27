@@ -7,7 +7,7 @@ Created: 2023-06-21
 Définition d'une personne au chômage:
 ?
 Toute personne en âge de travailler qui cherche du travail mais qui n'en trouve pas.
-<!--SR:!2023-10-21,68,230-->
+<!--SR:!2024-03-25,156,230-->
 
 ## Mesure du chômage
 - Lors de la publication de statistiques sur le chômage, il est plus simple d'exprimer le nombre de chômeurs en pourcentage de:: la **population active**.

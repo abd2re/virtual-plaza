@@ -12,6 +12,7 @@ tags: [M]
 2. [[Etude graphique des fonctions quadratiques]]
 3. [[Formules de Viète]]
 4. [[Position relative parabole et droite]]
+5. [[Polynômes]]
 
 # Theme 3: Géométrie et Trigonométrie
 1. [[Radians]]

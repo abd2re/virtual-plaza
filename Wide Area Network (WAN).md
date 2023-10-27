@@ -12,4 +12,4 @@ Created: 2023-02-25
 
 
 - Un WAN se compose généralement de:: [[réseaux]] locaux ([[Local Area Network (LAN)|LAN]]) connectés entre eux sur une vaste zone géographique.
-<!--SR:!2023-10-21,140,250-->
+<!--SR:!2024-10-06,351,250-->

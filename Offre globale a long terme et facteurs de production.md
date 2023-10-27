@@ -5,7 +5,7 @@ Created: 2023-05-15
 
 # Offre globale a long terme et facteurs de production
 Alors que la courbe OGCT se déplace en raison de facteurs qui modifient les coûts de production, le OGLT représente:: la capacité potentielle des facteurs de production d'une économie.
-<!--SR:!2023-10-25,23,130-->
+<!--SR:!2023-11-24,30,130-->
 
 Qu'est-ce qui déplace la courbe OGLT ?
 ?
@@ -23,10 +23,10 @@ Les facteurs de productions de l'OGLT sont (4):
 - Amélioration de la technologie
 - Augmentation de l'efficacité
 - [[Changement dans les institutions]]
-<!--SR:!2023-10-19,35,170-->
+<!--SR:!2023-12-18,60,170-->
 
 Une augmentation de la quantité de **capital** implique:: une augmentation des machines, des routes, des ports, des outils, des équipements, etc.
-<!--SR:!2023-10-26,67,192-->
+<!--SR:!2024-03-02,128,192-->
 Une amélioration de la qualité du capital dépend:: des avancées technologiques qui se traduiront par de nouvelles machines, des équipements plus avancés, etc.
 <!--SR:!2023-11-26,52,172-->
 Les augmentations de la quantité de **main-d'œuvre** résultent de la migration, mais cela peut ne pas toujours être une source de croissance si:: la main-d'œuvre est peu qualifiée.

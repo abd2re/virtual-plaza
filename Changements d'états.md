@@ -14,7 +14,7 @@ Pourquoi $L_v$ > $L_f$ ?
 ?
 Car pour passer de solide a liquide on détruit le cristal en éloignant seulement les molécules qui vont glisser les uns par rapport aux autres.
 Pour passer de l'état gazeux  on doit séparer les molécules pour cela il faudra casser des liaisons intermoléculaires c'est pourquoi $L_v$ > $L_f$.
-<!--SR:!2023-10-24,201,234-->
+<!--SR:!2025-02-04,469,234-->
 
 Évaporation:
 ?

@@ -6,7 +6,7 @@ Created: 2022-10-17
  1. Anaphora :: is the repetition of words or phrases at the beginning of a sentence. Such as "I have dream" (Martin Luther King) 
 <!--SR:!2023-12-24,101,230-->
  2. Diacope :: is the repetition of a phrase after an intervening word or phrase. Such as "free at last, free at last; thank God almighty, free at last"
-<!--SR:!2023-10-24,23,170-->
+<!--SR:!2023-12-06,43,170-->
  3. Antithesis :: is when contrasting two opposing ideas in consecutive sentences. Such as "Many are called but few are chosen" (J.C) 
 <!--SR:!2024-10-21,445,250-->
  4. Chiasmus :: is the inversion of parts of sentences in sequence. Such as "fair is fool and fool is fair" 
@@ -26,10 +26,10 @@ Created: 2022-10-17
 - Allegory :: A narrative in which characters, events, and settings represents abstract ideas or moral qualities. *For example George Orwell's "Animal Farm" is an allegory for the Russian Revolution and rise of totalitarianism.*
 <!--SR:!2023-10-28,13,178-->
 - Allusion :: A brief and indirect reference to a person, place, thing, or idea of historical, cultural, literary, or political significance. *For example, referring to someone as a "Romeo" is an allusion to Shakespeare's character*
-<!--SR:!2023-10-18,11,218-->
+<!--SR:!2023-11-11,24,218-->
 - Irony :: A contrast between expectation and reality. *Ex: dramatic irony, situational irony and verbal irony*
-<!--SR:!2023-10-19,12,238-->
+<!--SR:!2023-11-17,29,238-->
 - Metaphor :: A figure of speech that makes a direct comparaison between two unrelated things, suggesting that they are alike in some way, often using "is" or "was". *Ex: "The world is a stage"*
 <!--SR:!2023-11-05,21,238-->
 - Simile :: A figure of speech that compares two unlike things using "like" or "as". *Ex: "Her smile was as bright as the sun"*
-<!--SR:!2023-10-22,14,238-->
+<!--SR:!2023-11-24,33,238-->

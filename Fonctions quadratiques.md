@@ -8,7 +8,7 @@ Expression réduite::$$ax^2+bx+c\,,\;a\neq0$$
 <!--SR:!2023-10-27,98,272-->
 
 Expression sous la forme canonique::$$a(x-h)^2+k=0$$
-<!--SR:!2023-10-22,97,272-->
+<!--SR:!2023-12-12,51,252-->
 
 Quelle est la formule et que représente $h$ et $k$ dans la forme canonique de la fonction quadratique $a(x-h)^2+k$:
 ?

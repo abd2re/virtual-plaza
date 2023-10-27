@@ -6,7 +6,7 @@ Created: 2023-02-03
 # Imposer une taxe carbone aux entreprises polluantes
 ?
 Le gouvernement pourrait imposer une taxe sur l'entreprise par unité de production produite, ou une taxe par unité de polluants émis, pour augmenter les [[coûts de production]] privés
-<!--SR:!2023-10-26,63,230-->
+<!--SR:!2024-03-19,145,230-->
 
 **Avantages de cette solution (2) :**
 ?

@@ -6,7 +6,7 @@ Created: 2023-05-25
 # Frottement statique
 ?
 Le frottement statique est celui qui empêche les objets de commencer à se déplacer.
-<!--SR:!2023-10-22,74,190-->
+<!--SR:!2024-03-11,141,190-->
 
 Formule:
 ?

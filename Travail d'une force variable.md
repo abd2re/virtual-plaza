@@ -11,4 +11,4 @@ Aire antre la courbe représentent la force en fonction de la position et l'axe 
 <!--SR:!2023-10-31,17,150-->
 
 Formule::$$\Large{W_{A\rightarrow B}(\vec{F})=\frac{F_{A}+F_{B}}{2}\times(x_{B}-x_{A})}$$
-<!--SR:!2023-10-21,27,250-->
+<!--SR:!2023-12-30,70,250-->

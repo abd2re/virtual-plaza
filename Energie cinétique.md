@@ -8,7 +8,7 @@ Created: 2023-09-08
 ## Energie cinétique de translation
 ?
 C'est l'énergie que possède un objet dut au fait de son mouvement.
-<!--SR:!2023-10-21,17,190-->
+<!--SR:!2023-11-23,33,190-->
 
 Formule avec unités:
 ?
@@ -24,4 +24,4 @@ Dans un référentiel Galiléen, la variation d'énergie cinétique d'un solide 
 <!--SR:!2023-10-27,13,150-->
 
 Formule::$$\Large{\Delta E_{c}=E_{c_{2}}-E_{c_{1}}=\sum W_{1\rightarrow2}(\vec{F})}$$
-<!--SR:!2023-10-22,24,230-->
+<!--SR:!2023-12-16,55,230-->

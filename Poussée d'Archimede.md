@@ -7,7 +7,7 @@ Created: 2023-05-09
 ?
 Lorsqu'un objet est plongé dans un fluide (gaz ou liquide), une force verticale dirigée vers le haut appelé poussé d'Archimede est égale au poids du fluide déplacé.
 ![[image-20230509082207472.png]]
-<!--SR:!2023-10-20,70,170-->
+<!--SR:!2024-02-16,119,170-->
 
 Formule::$$\Large{A=V_{\text{immergé}}\times\rho\times g}$$
-<!--SR:!2023-10-23,16,130-->
+<!--SR:!2023-11-16,24,130-->

@@ -26,6 +26,6 @@ Donne trois différences entre RAM et ROM:
 - La RAM est volatile alors que la ROM est non-volatile, c'est a dire qu'elle ne perd pas ses données après une coupure de courant
 - La RAM contient les programmes et les données de l'utilisateur qui ont été chargés depuis le démarrage, alors que la ROM contient le BIOS (basic input/output system)
 - La RAM est généralement évolutive peut être améliorée alors que la ROM fait généralement partie de la carte mère et est difficile à mettre à niveau
-<!--SR:!2023-10-21,160,230-->
+<!--SR:!2024-10-23,368,230-->
 
 

@@ -10,22 +10,22 @@ Au total, il existe quatre types de chômage qui se répartissent en deux grande
 - **Chômage de déséquilibre** inclut:: le chômage cyclique (déficit de la demande) et le chômage réel.
 <!--SR:!2023-11-23,45,250-->
 - **Taux de chômage naturel** comprend:: le chômage frictionnel, saisonnier et structurel.
-<!--SR:!2023-10-23,24,210-->
+<!--SR:!2023-12-12,50,210-->
 
 ## Causes du chômage
 ### Cyclique (demande insuffisante)
 ?
 Dans le cas d'une récession, une réduction de la [[demande globale]] entraînerait une baisse de la production nationale, une baisse des revenus des entreprises et des particuliers, une augmentation du chômage et, potentiellement, une baisse du niveau général des prix également. Ce type de chômage est connu sous le nom de chômage cyclique ou un **chômage insuffisant par rapport à la demande**.
-<!--SR:!2023-10-26,27,230-->
+<!--SR:!2023-12-26,61,230-->
 
 Les récessions peuvent également provoquer un [[choc d'offre]] lorsque l'[[offre]] globale diminue, entraînant une hausse des [[coûts de production]] et entraînant ce que l'on appelle:: une baisse de l'offre globale (stagflation).
-<!--SR:!2023-10-18,25,250-->
+<!--SR:!2023-12-20,63,250-->
 
 Graphique avec axes et explication du nombre de chômeurs
 ?
 ![[image-20230908090941045.png]]
 La demande totale de main-d'œuvre passe de AD L à AD L1 . Au taux de salaire du marché W E , les entreprises ne sont pas disposées à employer la totalité de la main-d’œuvre, il existe donc un déséquilibre. Le nombre de chômeurs est représenté par l'écart entre A et B, ou Q E et Q 1.
-<!--SR:!2023-10-20,26,250-->
+<!--SR:!2023-12-28,69,250-->
 
 ### Chômage réel
 ?
@@ -58,7 +58,7 @@ Il y a deux causes principales du chômage structurel:
 ?
 - Lorsqu’une **industrie déménage dans un pays ou dans un autre pays**, il est peu probable que les gens déménagent avec l’industrie.
 - Les **rigidités du marché du travail**, telles que la difficulté pour les gens de changer d'emploi et de type d'emploi, et la législation du travail qui empêche le licenciement facile des travailleurs inefficaces, réduiront l'offre de main-d'œuvre disponible
-<!--SR:!2023-10-23,22,222-->
+<!--SR:!2023-12-15,53,222-->
 
 3 étapes lorsqu'il y a un chômage structurel (graphiques):
 ?
@@ -74,7 +74,7 @@ Quels sont les coûts économiques du chômage (5) ?:
 3. Augmentation du coût des allocations de chômage
 4. Perte de revenus pour les particuliers
 5. De plus grandes disparités dans la répartition des revenus
-<!--SR:!2023-10-18,16,182-->
+<!--SR:!2023-11-20,33,182-->
 
 Quels sont les coûts personnels du chômage (2) ?:
 ?
@@ -92,7 +92,7 @@ Quels sont les coûts sociaux du chômage (2) ?:
 Graphes des deux causes principales (avec leur noms):
 ?
 ![[image-20230913113530424.png]]
-<!--SR:!2023-10-20,20,222-->
+<!--SR:!2023-12-03,44,222-->
 
 
 
@@ -100,4 +100,4 @@ Graphes des deux causes principales (avec leur noms):
 - Pour chômage cyclique =>:: Le gouvernement devra s’attaquer directement à la baisse de la demande globale en stimulant la demande globale avec des politiques fiscales et monétaires.
 <!--SR:!2023-10-27,27,242-->
 - Pour chômage structurel =>:: Le chômage structurel peuvent être réduits grâce à des politiques qui améliorent la flexibilité de la main-d’œuvre (**Education**) 
-<!--SR:!2023-10-19,17,202-->
+<!--SR:!2023-11-21,33,202-->

@@ -9,7 +9,7 @@ Created: 2023-09-22
 C'est quoi la pression ?
 ?
 La pression c'est la force par unité de surface qu'exercent les molécules sur la paroi.
-<!--SR:!2023-10-26,11,150-->
+<!--SR:!2023-11-12,17,150-->
 
 Formule de la pression:
 ?
@@ -17,7 +17,7 @@ $$\Large{P=\frac{F}{A}}$$
 - $P$ en pascal ($Nm^{-2}$)
 - $F$ en newton ($N$)
 - $A$ en $m^{2}$
-<!--SR:!2023-10-23,20,250-->
+<!--SR:!2023-12-11,49,250-->
 
 Sachant que $U=\text{somme de la chaleur }(E_{c})+\text{énergie potentielle }(E_{p})$ et qu'il n'ya pas d'énergie intermoléculaire, alors la formule de l'énergie d'un gaz parfait est (4):
 ?
