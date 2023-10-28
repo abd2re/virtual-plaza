@@ -47,4 +47,14 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 - $ax^{2}+bx+c$ est le diviseur ($\deg 2$)
 - $Q(x)$ est le quotient ($\deg n-2$)
 - $ex+f$ est le reste ($\deg <2$)
-- 
+
+### Résolution d'équations polynomiales
+- Tout polynôme réel peut être exprimé comme un produit:: de facteurs linéaires réels et de facteurs quadratiques irréductibles réels.
+	- Une quadratique irréductible est une quadratique qui n'a pas de:: racines réelles.
+- Si $a+bi\,(b\neq0)$ est un zéro d'un polynôme réel, alors son complexe conjugué $a-bi$ est:: également un zéro.
+- Tout polynôme réel de degré impair possède:: au moins un zéro réel.
+
+## Somme et produit des racines
+Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factorisée sera:$$P(x)=a_{n}(x-r_{1})(x-r_{2})\dots(x-r_{n})$$
+- La somme des racines est égale à:: $$r_{1}+r_{2}+\dots+r_{n-1}+r_{n}=-\frac{a_{n-1}}{a_{n}}$$
+- Le produit des racines est égale à::$$r_{1}\times r_{2}\times\dots\times r_{n-1}\times r_{n}=\frac{(-1)^{n}a_{0}}{a_{n}}$$

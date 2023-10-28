@@ -8,11 +8,11 @@
   "fileSortOrder": "alphabetical",
   "showInlineTitle": false,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 75
+    "downscalePercent": 76
   },
   "readableLineLength": true,
   "defaultViewMode": "preview",

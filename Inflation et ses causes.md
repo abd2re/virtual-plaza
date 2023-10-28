@@ -20,7 +20,7 @@ Quel outil les gouvernements utilisent pour calculer l'inflation ?:: indice des 
 <!--SR:!2023-12-05,50,250-->
 
 Le calcul du IPC implique:: la sélection d'un panier de biens et services typiques achetés dans l'économie par la famille type (généralement deux adultes et deux enfants). 
-<!--SR:!2023-10-27,24,210-->
+<!--SR:!2023-12-16,50,210-->
 
 Formule IPC::$$\large{\text{IPC}_{n}=\frac{\text{valeur du panier de l'année }n}{\text{valeur de panier de l'année de base}}\times100}$$
 <!--SR:!2023-12-24,64,250-->
@@ -44,7 +44,7 @@ IPP veut dire:: Indice prix de la production
 <!--SR:!2023-12-29,69,263-->
 
 Alors que l'IPC s'interesse au produits de la consummation, l'IPP:: s'interesse aux facteurs de production qui nous permet de prévoir une augmentation/baisse future de l'IPC.
-<!--SR:!2023-10-27,18,203-->
+<!--SR:!2023-12-07,41,203-->
 
 ## Causes de l'inflation
 Les deux principaux types d’inflation sont:
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2023-10-27,11,163-->
+<!--SR:!2023-11-16,20,163-->
 
