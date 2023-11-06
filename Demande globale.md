@@ -18,14 +18,14 @@ $$\Large{\text{Demande globale}=C+I+G+(X-M)}$$
 Forme de la courbe de demande globale (AD):
 ?
 ![[image-20230407091450203.png]]
-<!--SR:!2023-10-30,124,250-->
+<!--SR:!2024-09-04,310,250-->
 
 Trois raisons expliquent la pente négative de la courbe de demande globale :
 ?
 - L'[[Effet richesse]]
 - L'[[Effet taux d'intérêt]]
 - L'[[Effet solde net]]
-<!--SR:!2023-10-31,27,150-->
+<!--SR:!2023-12-14,44,150-->
 
 ---
 - L'axe des ordonnées en macro-économies est appelée :: niveau général des prix (NGP).

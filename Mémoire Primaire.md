@@ -13,7 +13,7 @@ Le schema de la memoire primaire:
 Représentation du modèle de traitement des ordinateurs avec mémoire primaire:
 ?
 ![[image-20230111154541748.png]]
-<!--SR:!2023-11-02,58,190-->
+<!--SR:!2024-02-20,110,190-->
 
 Le schema de la memoire primaire/secondaire:
 ?

@@ -13,4 +13,4 @@ Graphe::![[image-20230505092449721.png]]
 
 
 La courbe du OGLT ($Y_{fe}$) représente ![[image-20230505092449721.png]]::la production de plein emploi.
-<!--SR:!2023-11-04,105,246-->
+<!--SR:!2024-07-16,255,246-->

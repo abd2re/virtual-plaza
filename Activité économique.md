@@ -36,7 +36,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 
 ## Formules
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
-<!--SR:!2023-11-01,80,230-->
+<!--SR:!2024-05-03,184,230-->
 Injection =:: Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
 <!--SR:!2024-01-14,117,221-->
 

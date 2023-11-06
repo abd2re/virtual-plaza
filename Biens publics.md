@@ -6,7 +6,7 @@ Created: 2023-03-11
 # Biens publics
 ?
 Les biens publics sont des biens qui ne seraient pas du tout fournis sur un marché libre mais qui sont nécessaires et bénéfiques pour la société.
-<!--SR:!2023-11-05,15,130-->
+<!--SR:!2023-11-26,21,130-->
 
 - Parce que le marché libre est incapable de fournir ces biens sans intervention, les biens publics sont:: un exemple de échec du marché.
 <!--SR:!2024-03-16,151,190-->
@@ -29,7 +29,7 @@ Un bien privé a deux caractéristiques:
 ## Le problème du passager clandestin
 ?
 Le problème de cavalier libre existe parce que personne n'est disposé à payer pour un bien ou un service alors qu'il pense que quelqu'un d'autre le paiera. C'est pourquoi le bien ne sera pas fourni par le marché libre.
-<!--SR:!2023-11-03,144,250-->
+<!--SR:!2024-01-12,70,230-->
 
 ## Biens quasi publics
 Il existe deux types de biens quasi publics:

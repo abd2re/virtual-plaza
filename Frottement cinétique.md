@@ -13,4 +13,4 @@ Formule:
 $$\Large{f=\mu_{d}\times R}$$
 - $\mu_{d}=$ coefficient de frottement cinétique 
 - $R=$ Force normale
-<!--SR:!2023-11-01,90,248-->
+<!--SR:!2024-06-13,225,248-->

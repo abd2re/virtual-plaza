@@ -41,7 +41,7 @@ En supposant que l'équilibre du [[marché]] libre, sans intervention du gouvern
 Le prix pour les consommateurs=>::Augmente
 <!--SR:!2024-02-29,225,224-->
 La quantité d'équilibre=>::Diminue
-<!--SR:!2023-10-31,149,204-->
+<!--SR:!2024-08-30,304,204-->
 Le prix net pour les producteurs=>::Diminue
 <!--SR:!2024-10-04,370,244-->
 Le revenu total des producteurs=>::Diminue
@@ -49,7 +49,7 @@ Le revenu total des producteurs=>::Diminue
 Les dépenses totales des consommateurs=>::Dépend du DEP
 <!--SR:!2024-02-10,215,224-->
 Recettes du gouvernement=>::Augmente
-<!--SR:!2023-11-05,172,244-->
+<!--SR:!2024-12-31,422,244-->
 Excédent communautaire=>::Diminue
 <!--SR:!2023-12-11,196,244-->
 

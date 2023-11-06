@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f4f6ec2cc128d839",
+        "id": "a59107f3e7e78b70",
         "type": "tabs",
         "children": [
           {
-            "id": "a256766243667f2e",
+            "id": "a67b6a5c38f3a86f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,10 +18,84 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Deuxième loi de Newton",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deuxième loi de Newton.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":11.383397145840584}"
+                },
+                {
+                  "title": "Polynômes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Polynômes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":38.925}"
+                },
+                {
                   "title": "_math",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":1.9691629955947136}"
+                  "eState": "{\"scroll\":6.555555555555555}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Référentiel galiléen.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d2032b0686bc14b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 4 - Quantité de mouvement",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Quantité de mouvement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Quantité de mouvement",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quantité de mouvement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":7.5125628140703515}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conservation de la quantité de mouvement.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e000a71d76c0b9b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -35,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -403,56 +478,56 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a256766243667f2e",
+  "active": "2e000a71d76c0b9b",
   "ophidian:layout-settings": {
     "pane-relief:focus-lock": true
   },
   "lastOpenFiles": [
-    "_math.md",
-    "Polynômes.md",
-    "Nombres complexes.md",
-    "Identités trigonométriques.md",
-    "Excalidraw/Drawing 2023-10-25 21.30.34.excalidraw.md",
-    "Cercle trigonométrique.md",
-    "Nombres complexes (conflict 2023-10-24-10-10-26).md",
-    "assets/Nombres complexes/image-20230504104418313.png",
     "Conservation de la quantité de mouvement.md",
-    "Excalidraw/Drawing 2023-10-22 11.31.50.excalidraw.md",
+    "Travail d'une force variable.md",
+    "Méthode de résolution de problème de dynamique.md",
+    "assets/Méthode de résolution de problème de dynamique/image-20231106110821177.png",
+    "Polynômes.md",
+    "Theme 2-Mécanique.md",
+    "Chapitre 2 - Forces et lois de Newton.md",
+    "Chapitre 1 - Cinématique.md",
+    "Chapitre 4 - Quantité de mouvement.md",
+    "Quantité de mouvement.md",
+    "Référentiel galiléen.md",
+    "Deuxième loi de Newton.md",
+    "_physics.md",
+    "Theme 5-Electricité et Magnétisme.md",
+    "Theme 1-Mesures et incertitudes.md",
+    "_math.md",
+    "_english.md",
+    "Textual analysis.md",
+    "Oral.md",
+    "Oral 1.md",
+    "pdf/extract no country for old men.pdf",
+    "Energie de liaison du noyau.md",
+    "assets/Energie de liaison du noyau/image-20230323182347196.png",
+    "Theme 7-Physique nucléaire.md",
+    "Première loi de Newton.md",
+    "Comparative Essay.md",
+    "Mouvement circulaire uniforme.md",
+    "assets/Mouvement circulaire uniforme/image-20230603143706376.png",
+    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
+    "Theme 3-Physique thermique.md",
+    "assets/Vitesse/image-20230923141334462.png",
+    "assets/Nombres complexes/image-20230504104418313.png",
     "Excalidraw/assets/Drawing 2023-10-22 11.31.50.excalidraw/Pasted Image 20231022113207_988.png",
     "Excalidraw/assets/Drawing 2023-10-22 11.31.50.excalidraw",
-    "Chapitre 4 - Quantité de mouvement.md",
-    "Application de la conservation de la quantité de mouvement.md",
     "assets/Application de la conservation de la quantité de mouvement/image-20231019112159997.png",
     "assets/Application de la conservation de la quantité de mouvement/image-20231019112225666.png",
-    "_physics.md",
-    "Chapitre 2 - Forces et lois de Newton.md",
-    "Theme 1-Mesures et incertitudes.md",
-    "Chapitre 1 - Analyse dimensionnelle.md",
-    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
-    "Causes des inégalités économiques et de la pauvreté.md",
-    "Signification de la pauvreté et comment la mesurer.md",
-    "_economy.md",
-    "Theme 2-Macro-économie.md",
-    "ds.md",
-    "Forces magnétiques.md",
-    "Excalidraw/Drawing 2023-10-19 11.24.28.excalidraw.md",
     "assets/Application de la conservation de la quantité de mouvement",
     "assets/Pasted image 20231013154033.png/image-20231019111913271.png",
-    "Pasted image 20231013154033.png.md",
     "assets/Pasted image 20231013154033.png",
-    "Pasted image 20231012123839.png.md",
-    "assets/Pasted image 20231012123839.png/image-20231019111855867.png",
-    "assets/Pasted image 20231012123839.png/image-20231019111854901.png",
-    "assets/Pasted image 20231012123839.png",
-    "Theme 5-Electricité et Magnétisme.md",
-    "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
     "assets/Mesurer les inégalités économiques",
     "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw",
     "Excalidraw/assets/Drawing 2023-10-09 18.53.45.excalidraw",
     "exploration_math1 - Abdoul Wahab Touré - Tle IB.pdf",
     "sept24physiquevaluationpdf.pdf",
     "My Drive - Shortcut.lnk",
-    "assets/Forces magnétiques",
-    "Excalidraw/assets/Drawing 2023-10-07 13.32.01.excalidraw"
+    "assets/Forces magnétiques"
   ]
 }

@@ -13,14 +13,14 @@ Lorsque le processus de production d'un bien ou d'un *service* génère un effet
 <!--SR:!2024-03-29,221,210-->
 
 - Lorsqu'une externalité négative de la production se produit,:: **le coût social marginal de production (CSM) est supérieur au coût de production privé (CMP)** , car les entreprises ne tiennent pas compte de ces coûts supplémentaires lorsqu'elles décident de la quantité à fournir à chaque niveau de prix.
-<!--SR:!2023-10-28,63,230-->
+<!--SR:!2023-11-29,32,210-->
 
 Réponses possibles du gouvernement(3):
 ?
 - [[Imposer une taxe carbone aux entreprises polluantes]]
 - [[Législation]]
 - [[Permis d'émission négociables]]
-<!--SR:!2023-10-30,164,250-->
+<!--SR:!2024-01-24,86,230-->
 
 Effets des réponses possibles du gouvernement sur la courbe CMP:
 ?

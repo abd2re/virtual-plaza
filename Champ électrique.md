@@ -32,7 +32,7 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 
 
 - Champ crée pas plusieurs charges c'est:: la somme vectorielle de chacun des champs
-<!--SR:!2023-10-30,10,196-->
+<!--SR:!2023-11-08,3,156-->
 
 ## Lignes de champ
 ?

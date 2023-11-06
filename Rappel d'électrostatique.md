@@ -37,7 +37,7 @@ $$q=ne$$
 - Un conducteur:: laisse passer le courant électrique
 <!--SR:!2023-11-22,82,210-->
 - Un isolant:: ne laisse pas passer le courant électrique
-<!--SR:!2023-10-31,72,210-->
+<!--SR:!2024-03-30,151,210-->
 Le courant électrique est:: un déplacement de charges.
 <!--SR:!2024-01-15,207,247-->
 

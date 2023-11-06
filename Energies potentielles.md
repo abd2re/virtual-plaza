@@ -20,12 +20,12 @@ Les trois types d'énergie potentielles sont:
 - Energie potentielle élastique::$$\large{\Delta E_{Pe}=E_{Pe_{B}}-E_{Pe_{A}}=\frac{1}{2}k\Delta x^{2}=\frac{1}{2}k(x_{B}^{2}-x_{A}^{2})}$$
 <!--SR:!2024-01-02,68,250-->
 - Energie potentielle électrique::$$\large{\Delta E_{P\text{elec}}=E_{P\text{elec}_{B}}-E_{P\text{elec}_{A}}=q\Delta V=q(V_{B}-V_{A})}$$
-<!--SR:!2023-11-02,20,170-->
+<!--SR:!2023-12-06,34,170-->
 
 ### Expressions des énergies potentielles
 - $E_{Pp}=$::$mgz$
 <!--SR:!2023-11-13,35,230-->
 - $E_{Pe}=$::$\frac{1}{2}kx^{2}$
-<!--SR:!2023-10-28,17,190-->
+<!--SR:!2023-12-01,34,190-->
 - $E_{P\text{elec}}=$::$qV$
 <!--SR:!2023-12-28,64,250-->

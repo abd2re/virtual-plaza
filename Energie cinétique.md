@@ -16,7 +16,7 @@ $$\Large{E_{c}=\frac{1}{2}mv^{2}}$$
 - $E_{c}$ en J
 - $m$ en kg
 - $v$ en $ms^{-1}$
-<!--SR:!2023-10-31,30,230-->
+<!--SR:!2024-01-08,69,230-->
 
 ## Théorème de l'énergie cinétique
 ?

@@ -32,7 +32,7 @@ Représentation de la croissance a long terme avec le modèle AD/AS:
 ![[image-20230614105613958.png]]
 ### Changements du modèle PPC (croissance des possibilités de production)
 - Une autre façon d'utiliser le PPC est de montrer ce qui se passe lorsqu'il y a:: une amélioration de la qualité ou de la quantité des facteurs de production.
-<!--SR:!2023-10-28,28,150-->
+<!--SR:!2023-12-09,42,150-->
 - Les facteurs de production comprennent la terre, le travail, le capital et l'esprit d'entreprise.
 
 ## Mesure de la croissance économique

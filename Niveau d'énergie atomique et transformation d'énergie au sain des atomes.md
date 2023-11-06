@@ -7,7 +7,7 @@ Created: 2023-02-14
 Representation du spectre électromagnétique:
 ?
 ![[image-20230214104916583.png]]
-<!--SR:!2023-11-02,150,235-->
+<!--SR:!2024-01-17,76,215-->
 
 Formule d'énergie d'un photon et unités:
 ?
@@ -50,7 +50,7 @@ Types de spectres de lumières et représentations:
 <!--SR:!2024-03-04,204,214-->
 
 - Le spectre d'absorption est:: un spectre de la lumière blanche ou il ne figure pas les longueurs d'ondes absorbés pas un élément.
-<!--SR:!2023-10-31,52,146-->
+<!--SR:!2024-01-14,75,146-->
 
 ## Experience de spectre d'absorption
 ?

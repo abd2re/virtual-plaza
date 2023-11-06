@@ -1,5 +1,7 @@
 ---
-tags: [physics] 
+tags:
+  - physics
+"`":
 ---
 Created: 2023-05-09
 
@@ -17,4 +19,9 @@ Tableau pour résoudre problème de dynamique:
 ?
 ![[image-20230602163951619.png]]
 <!--SR:!2024-02-02,145,244-->
+
+
+Tension dans un ascenseur pour les trois cas (repos, acceleration, deceleration):
+?
+![[image-20231106110821177.png]]
 

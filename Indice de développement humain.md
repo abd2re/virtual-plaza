@@ -13,4 +13,4 @@ Il comprend trois facteurs principaux:
 <!--SR:!2023-11-07,12,230-->
 
 Les mesures vont de:: 0 à 1
-<!--SR:!2023-11-01,11,270-->
+<!--SR:!2023-12-03,32,270-->

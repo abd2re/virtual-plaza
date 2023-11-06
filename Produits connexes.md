@@ -7,7 +7,7 @@ Created: 2022-09-27
 ## produits conjoints
 ?
 On peut avoir deux **produits conjoints**, c'est a dire qui sont réalisés a la fois, dans ce cas on appel ca **l'offre conjoint**.
-<!--SR:!2023-10-30,79,230-->
+<!--SR:!2024-04-29,182,230-->
 
 ## produits concurrentiels
 ?

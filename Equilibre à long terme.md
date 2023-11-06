@@ -17,13 +17,13 @@ Dans la nouvelle perspective classique, parce que les prix sont totalement flexi
 (Graphique qui représente les transformations)
 ?
 ![[image-20230605113715115.png]]
-<!--SR:!2023-11-01,54,228-->
+<!--SR:!2024-03-05,125,228-->
 
 ## Équilibre de long terme selon le modèle keynésien
 (Représentation)
 ?
 ![[image-20230605115233285.png]]
-<!--SR:!2023-10-29,89,248-->
+<!--SR:!2024-06-11,226,248-->
 
 
 - Selon Keynes, l'économie peut atteindre l'équilibre en dessous du niveau de production du plein emploi et:: rester dans cette position jusqu'à ce que le gouvernement intervienne.

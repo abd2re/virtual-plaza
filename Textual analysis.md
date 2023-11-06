@@ -10,7 +10,7 @@ Created: 2023-09-13
 What is a text?
 ?
 A text is defined as anything from which information can be extracted, and includes the widest range of oral, written and visual materials present in society (*image, literary and non-literary written text and extracts, media texts, radio and television programs,...*)
-<!--SR:!2023-11-05,29,210-->
+<!--SR:!2024-01-07,63,210-->
 
 What is textual analysis ?
 ?
@@ -29,7 +29,7 @@ Analyzing texts: 5 keys considerations
 - [[Structure]]
 - [[Style]]
 - [[Context of composition~production]]
-<!--SR:!2023-10-31,26,210-->
+<!--SR:!2023-12-26,56,210-->
 
 Key terms:
 ?
@@ -41,7 +41,7 @@ Key terms:
 - Purpose:: what the text set out to achieve; why the text is created
 <!--SR:!2023-11-10,34,230-->
 - Mood:: the feeling that is evoked in the reader (audience) which is  a result of the tone which is set.
-<!--SR:!2023-11-03,26,210-->
+<!--SR:!2023-12-28,55,210-->
 - Semantic fields:: A collection of words or phrases that are related to each other in meaning and connotation, for example, safety, welcome, support, shelter, structure and warmth would all be part of the same semantic field in relation to the word home
 <!--SR:!2024-01-05,72,250-->
 - Lexical sets:: a group of words that are related to each other in meaning for example, leaf, green, trunk, bark, and branch would all be part of the same lexical set in relation to the word "tree".
@@ -59,7 +59,7 @@ Four forms of literary works are:
 - Prose fiction
 - Prose non-fiction
 - Drama
-<!--SR:!2023-11-05,28,211-->
+<!--SR:!2024-01-03,59,211-->
 
 [[Travel writing]]
 [[Context]]

@@ -5,7 +5,7 @@ Created: 2023-01-17
 
 # Champ de gravitation
 ?
-Un champ de gravitation est une région de l'espace ou une masse est soumise a une force de gravitation
+Un champ de gravitation est une région de l'espace ou une masse est soumise a une force de gravitation.
 <!--SR:!2023-11-29,71,210-->
 
 Formule de champ de gravitation vectorielle et scalaire:

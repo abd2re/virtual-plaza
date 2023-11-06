@@ -14,4 +14,4 @@ $$\Large{\vec{p}=m\vec{v}}$$
 <!--SR:!2023-11-19,25,250-->
 
 Formule de l'énergie cinétique en fonction de $p$::$$\Large{E_{c}=\frac{p^{2}}{2m}}$$
-<!--SR:!2023-11-03,7,150-->
+<!--SR:!2023-11-15,12,150-->

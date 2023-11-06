@@ -6,7 +6,7 @@ Created: 2022-12-20
 # Piles électriques
 ?
 Une pile convertit l'énergie chimique en énergie électrique avec dissipation/perte d'énergie sous forme de [[chaleur]].
-<!--SR:!2023-10-31,43,150-->
+<!--SR:!2024-01-04,65,150-->
 
 - Une pile est caractérisée par:: sa fem $e$ et sa résistance interne $r$. $e$ en volt et $r$ en ohm.
 <!--SR:!2024-06-05,326,286-->
@@ -31,7 +31,7 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 <!--SR:!2023-11-29,207,246-->
 
 - $U=e$ si:: $I=0$
-<!--SR:!2023-10-29,187,246-->
+<!--SR:!2025-01-31,460,246-->
 - $e$ c'est la tension aux bornes de la pile quand:: elle ne fournit pas de courant
 <!--SR:!2024-01-11,231,246-->
 - Un pile idéale est une pile qui:: n'a pas de résistance interne $r=0$ (le graphe intensité-tension est constante en $e$)

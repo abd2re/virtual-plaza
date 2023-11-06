@@ -6,7 +6,7 @@ Created: 2023-03-31
 # PIB
 ?
 Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
-<!--SR:!2023-11-05,13,130-->
+<!--SR:!2023-11-22,17,130-->
 
 Avantages du PIB (3):
 ?
@@ -33,7 +33,7 @@ Les trois méthodes de calculer le PIB sont:
 Les gouvernements peuvent comptabiliser le revenu national en additionnant toutes les catégories de revenus (loyers, salaires, intérêts et bénéfices), la valeur ajoutée de chaque catégorie de production (des industries primaires, secondaires et tertiaires) ou les catégories de dépenses d'une économie. En d'autres termes:
 ?
 Revenu = Production = Dépenses
-<!--SR:!2023-11-05,122,221-->
+<!--SR:!2024-01-06,62,201-->
 
 ## PIB nominal et PIB réel
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation
@@ -49,7 +49,7 @@ Revenu = Production = Dépenses
 ## PNB 
 ?
 Le PNB/RNB est la **valeur** des biens et services **produits** par les **nationaux** au cours d'une **période donnée**.
-<!--SR:!2023-11-03,13,181-->
+<!--SR:!2023-11-30,27,181-->
 
 Différence entre PIB et PNB:
 ?
@@ -61,14 +61,14 @@ Différence entre PIB et PNB:
 Formule du PNB:
 ?
 $$\large{\text{PNB = PIB + revenus entratns – revenus sortants}}$$
-<!--SR:!2023-11-04,51,221-->
+<!--SR:!2024-02-27,115,221-->
 
 ## Produit intérieur brut (PIB) nominal et revenu national brut (RNB) nominal
 
 Formule du PIB réel:
 ?
 $$\large{\text{PIB réel} = \frac{\text{PIB nominal}}{\text{Déflateur du PIB}}\cdot 100=\frac{\text{PIB nominal}}{\text{IPC}}\cdot 100}$$
-<!--SR:!2023-10-28,116,221-->
+<!--SR:!2023-12-25,58,201-->
 
 Formule du PNB réel:
 ?

@@ -38,7 +38,7 @@ Ils sont (4):
 <!--SR:!2023-11-07,28,223-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
-<!--SR:!2023-10-29,26,263-->
+<!--SR:!2024-01-06,69,263-->
 
 IPP veut dire:: Indice prix de la production
 <!--SR:!2023-12-29,69,263-->
@@ -81,7 +81,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 - les modifications des lois sur le salaire minimum
 - l'augmentation du coût des matières premières importées
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
-<!--SR:!2023-11-01,6,183-->
+<!--SR:!2023-11-12,11,183-->
 
 Graphique avec explications
 ?
@@ -97,10 +97,10 @@ Graphique avec explications
 Graphique
 ?
 ![[image-20230921082320448.png]]
-<!--SR:!2023-11-04,27,243-->
+<!--SR:!2024-01-08,65,243-->
 
 - Pour les nouveaux économistes classiques, toute tentative de stimuler la demande globale n’aboutira qu’à:: l'inflation sans aucune augmentation du revenu national.
-<!--SR:!2023-10-30,20,203-->
+<!--SR:!2023-12-13,44,203-->
 - Pour les économistes keynésiens une inflation excessive est une:: mauvaise chose lorsque la demande globale commence à augmenter le long de la partie verticale de la courbe AS.
 <!--SR:!2023-11-23,39,243-->
 

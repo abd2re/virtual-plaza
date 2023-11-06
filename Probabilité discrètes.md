@@ -15,17 +15,17 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 
 ### Définitions
 - Evénement élémentaire:: a une seule issue
-<!--SR:!2023-10-31,25,250-->
+<!--SR:!2024-01-03,63,250-->
 - Evénement composé:: a plusieurs issues
 <!--SR:!2023-11-17,38,270-->
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
-<!--SR:!2023-11-01,26,250-->
+<!--SR:!2024-01-09,69,250-->
 - Evénement contraire a A noté A':: événement dont les issues n'appartiennent pas a A
-<!--SR:!2023-10-29,24,250-->
+<!--SR:!2023-12-31,63,250-->
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
 <!--SR:!2023-12-13,52,250-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
-<!--SR:!2023-11-03,28,250-->
+<!--SR:!2024-01-12,70,250-->
 - Evénement certain:: toutes les issues
 <!--SR:!2023-12-05,45,250-->
 - Evénement impossible:: aucune issue
@@ -33,19 +33,23 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
-<!--SR:!2023-11-02,27,250-->
+<!--SR:!2023-11-18,16,230-->
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a:: équiprobabilité ou équi-répartition.
 <!--SR:!2023-12-21,56,250-->
 
 ### Propriété
+- $\frac{n(X)}{n(U)}$=::$P(X)$
+<!--SR:!2023-11-13,10,250-->
 - $P(U)$=::1 
 <!--SR:!2023-12-20,56,250-->
 - $P(0)$=::0
 <!--SR:!2023-11-18,39,270-->
 - $P(A)+P(A')$=::1 
-<!--SR:!2023-10-28,23,250-->
+<!--SR:!2023-12-24,57,250-->
 - $P(A\cup B)$ (2)=::$P(A)+P(B)-P(A\cap B)=P(A\cap B')+P(A\cap B)+P(A'\cap B)$
 <!--SR:!2023-11-25,37,230-->
+- $P(A\Delta B)$=::$P(A\cap B')\cup P(A'\cap B)$ 
+<!--SR:!2023-11-13,10,250-->
 
 ## Événements indépendants
 Deux événements sont indépendants si: : l'occurrence de chacun d'eux n'affecte pas la probabilité que l'autre se produise. Un exemple de ceci est l'échantillonnage à 1s avec remplacement.
@@ -68,7 +72,7 @@ Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2023-11-07,25,252-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
-<!--SR:!2023-11-05,24,252-->
+<!--SR:!2024-01-04,60,252-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
 <!--SR:!2023-11-23,29,231-->

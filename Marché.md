@@ -5,7 +5,7 @@ tags: [economy]
 Created: 2022-09-09
 
 Un marché est :: la rencontre entre acheteurs et vendeurs qui effectuent des échanges.
-<!--SR:!2023-11-03,99,250-->
+<!--SR:!2024-07-08,248,250-->
 
 - Un **marché concurrentiel** est un marché :: de compétition caractérisé par la liberté ou l'indépendance des choix.
 <!--SR:!2024-05-22,237,250-->

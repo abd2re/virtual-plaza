@@ -14,6 +14,6 @@ Objectivity=::Looking at the world in a detached way that focuses on facts, larg
 <!--SR:!2024-07-26,350,230-->
 
 Subjectivity=::Looking at the world from a personal point of view, under the influence of feelings and emotions
-<!--SR:!2023-11-01,179,268-->
+<!--SR:!2025-02-23,480,268-->
 
 <!--SR:!2023-04-25,91,230-->

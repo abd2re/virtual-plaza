@@ -36,7 +36,7 @@ Graphique avec axes et explication du nombre de chômeurs
 ?
 ![[image-20230908092552939.png|525]]
 Avec un salaire supérieur au salaire d’équilibre du marché, les entreprises ne demanderont que Q D de travail, mais il y aura une offre de travail de Q S car les individus sont plus disposés et capables de travailler pour un salaire plus élevé.
-<!--SR:!2023-10-29,28,230-->
+<!--SR:!2024-01-04,67,230-->
 
 ## Taux de chômage naturel
 ### Frictionnel
@@ -52,7 +52,7 @@ Le chômage saisonnier se produit lorsque des personnes effectuent des types de 
 ### Structurel
 ?
 Le chômage structurel se produit lorsqu’il existe une inadéquation entre l’offre et la demande pour un ensemble particulier de compétences professionnelles.
-<!--SR:!2023-10-30,19,190-->
+<!--SR:!2023-11-09,10,170-->
 
 Il y a deux causes principales du chômage structurel:
 ?
@@ -63,7 +63,7 @@ Il y a deux causes principales du chômage structurel:
 3 étapes lorsqu'il y a un chômage structurel (graphiques):
 ?
 ![[image-20230913103815676.png|center|550]]
-<!--SR:!2023-10-29,17,162-->
+<!--SR:!2023-11-26,28,162-->
 
 ## Coûts du chômage
 
@@ -80,7 +80,7 @@ Quels sont les coûts personnels du chômage (2) ?:
 ?
 1. Augmentation de l’endettement, du sans-abrisme et de l’éclatement des famille
 2. Niveaux de stress accrus
-<!--SR:!2023-11-01,29,242-->
+<!--SR:!2024-01-10,70,242-->
 
 Quels sont les coûts sociaux du chômage (2) ?:
 ?

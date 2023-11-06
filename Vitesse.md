@@ -23,12 +23,12 @@ $$\Large{\vec{v}=\frac{\vec{D}}{\Delta t}}$$$$\large{\vec{v}_{1\rightarrow2}=\fr
 ## Vitesse instantanée
 ?
 C'est le vecteur vitesse moyen pour deux positions très proches. **Pente de la tangente a la trajectoire a la date donnée**.
-<!--SR:!2023-10-30,34,170-->
+<!--SR:!2023-12-27,58,170-->
 
 Formule:
 ?
 $$\large{\vec{v}=\lim_{\Delta t\rightarrow0}\left(\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}\right)=d\frac{O\vec{M}}{dt}}$$
-<!--SR:!2023-11-05,135,250-->
+<!--SR:!2024-10-11,341,250-->
 
 Vitesse moyenne et instantané dans un graphe déplacement/temps:
 ?
