@@ -26,4 +26,4 @@ A cette échelle, il est possible d'utiliser comme unité de masse l'unité de m
 Pour convertir un $1u$  en $MeVc^{-2}$:
 ?
 $\large{1u=931.5MeVc^{-2}}$
-<!--SR:!2023-11-07,139,250-->
+<!--SR:!2024-01-18,72,230-->

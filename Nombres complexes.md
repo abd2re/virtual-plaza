@@ -5,7 +5,7 @@ Created: 2023-04-28
 
 # Nombres complexes
 $\sqrt{-1}$=::$i$
-<!--SR:!2023-11-07,118,250-->
+<!--SR:!2024-12-25,414,270-->
 
 $$\LARGE{z=a+bi}$$
 - Re($z$) =:: $a$
@@ -78,7 +78,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 <!--SR:!2023-11-12,23,141-->
 
 - $\cos\theta$=::$\frac{a}{|z|}$
-<!--SR:!2023-11-07,9,236-->
+<!--SR:!2023-12-01,24,236-->
 - $\sin\theta$=::$\frac{b}{|z|}$
 <!--SR:!2023-11-15,15,236-->
 - $|zw|$=::$|z||w|$
@@ -86,7 +86,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
 <!--SR:!2023-11-11,12,236-->
 - $zw$=::$|z||w|[\cos(\theta+\alpha)+i\sin(\theta+\alpha)]$
-<!--SR:!2023-11-07,5,216-->
+<!--SR:!2023-11-19,12,216-->
 - $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$
 <!--SR:!2023-11-16,16,236-->
 - $z^{n}$=::$|z|^{n}(\cos n\theta+i\sin n\theta)$
@@ -116,5 +116,5 @@ $e^{i\pi}$=::$-1$
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2023-11-06,1,153-->
+<!--SR:!2023-11-08,2,153-->
 

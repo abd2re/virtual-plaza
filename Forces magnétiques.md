@@ -28,7 +28,7 @@ Règle de la paume de la main droite.
 ## Mouvement d'une particule chargée dans un champ magnétique
 ?
 Une particule chargée $q$ se déplace a la vitesse $\vec{v}$ dans un champ magnétique ($\vec{v}\perp \vec{B}$).
-<!--SR:!2023-11-06,9,162-->
+<!--SR:!2023-11-21,15,162-->
 
 La formule de l'accélération $a$ d'une particle dans un champ magnétique si le poids est négligeable.
 ?

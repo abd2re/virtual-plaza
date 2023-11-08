@@ -12,7 +12,7 @@ Created: 2023-05-08
 - $\frac{\pi}{2}$ radians =:: 90 degrés
 <!--SR:!2024-01-13,154,250-->
 - $\frac{\pi}{3}$ radians =:: 60 degrés
-<!--SR:!2023-11-06,110,250-->
+<!--SR:!2024-08-07,275,250-->
 - $\frac{\pi}{4}$ radians =:: 45 degrés
 <!--SR:!2024-02-22,149,230-->
 - $\frac{\pi}{6}$ radians =:: 30 degrés

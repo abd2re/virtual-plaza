@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Polynômes",
-      "path": "Polynômes.md"
+      "basename": "Politique monétaire",
+      "path": "Politique monétaire.md"
+    },
+    {
+      "basename": "Theme 2-Macro-économie",
+      "path": "Theme 2-Macro-économie.md"
+    },
+    {
+      "basename": "Inflation et ses causes",
+      "path": "Inflation et ses causes.md"
+    },
+    {
+      "basename": "Causes des inégalités économiques et de la pauvreté",
+      "path": "Causes des inégalités économiques et de la pauvreté.md"
+    },
+    {
+      "basename": "Chapitre 4 - Économie des inégalités et de la pauvreté",
+      "path": "Chapitre 4 - Économie des inégalités et de la pauvreté.md"
+    },
+    {
+      "basename": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
+      "path": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Equilibre à court terme",
+      "path": "Equilibre à court terme.md"
+    },
+    {
+      "basename": "Probabilité discrètes",
+      "path": "Probabilité discrètes.md"
+    },
+    {
+      "basename": "Distribution discrètes",
+      "path": "Distribution discrètes.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "oral mademba",
+      "path": "oral mademba.md"
     },
     {
       "basename": "Conservation de la quantité de mouvement",
       "path": "Conservation de la quantité de mouvement.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "Référentiel galiléen",
+      "path": "Référentiel galiléen.md"
+    },
+    {
+      "basename": "Polynômes",
+      "path": "Polynômes.md"
     },
     {
       "basename": "Travail d'une force variable",
@@ -29,20 +85,12 @@
       "path": "Quantité de mouvement.md"
     },
     {
-      "basename": "Référentiel galiléen",
-      "path": "Référentiel galiléen.md"
-    },
-    {
       "basename": "Deuxième loi de Newton",
       "path": "Deuxième loi de Newton.md"
     },
     {
       "basename": "_physics",
       "path": "_physics.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "_english",
@@ -137,10 +185,6 @@
       "path": "Température.md"
     },
     {
-      "basename": "Probabilité discrètes",
-      "path": "Probabilité discrètes.md"
-    },
-    {
       "basename": "Nombres complexes",
       "path": "Nombres complexes.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "Drawing 2023-10-25 21.30.34.excalidraw",
       "path": "Excalidraw/Drawing 2023-10-25 21.30.34.excalidraw.md"
-    },
-    {
-      "basename": "image-20230504104418313",
-      "path": "assets/Nombres complexes/image-20230504104418313.png"
-    },
-    {
-      "basename": "Drawing 2023-10-22 11.31.50.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-22 11.31.50.excalidraw.md"
-    },
-    {
-      "basename": "Application de la conservation de la quantité de mouvement",
-      "path": "Application de la conservation de la quantité de mouvement.md"
-    },
-    {
-      "basename": "Theme 1-Mesures et incertitudes",
-      "path": "Theme 1-Mesures et incertitudes.md"
-    },
-    {
-      "basename": "Chapitre 4 - Économie des inégalités et de la pauvreté",
-      "path": "Chapitre 4 - Économie des inégalités et de la pauvreté.md"
-    },
-    {
-      "basename": "Signification de la pauvreté et comment la mesurer",
-      "path": "Signification de la pauvreté et comment la mesurer.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "ds",
-      "path": "ds.md"
-    },
-    {
-      "basename": "Forces magnétiques",
-      "path": "Forces magnétiques.md"
-    },
-    {
-      "basename": "Drawing 2023-10-19 11.24.28.excalidraw",
-      "path": "Excalidraw/Drawing 2023-10-19 11.24.28.excalidraw.md"
-    },
-    {
-      "basename": "Pasted image 20231013154033.png",
-      "path": "Pasted image 20231013154033.png.md"
     }
   ],
   "omittedPaths": [],

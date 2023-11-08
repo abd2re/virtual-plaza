@@ -7,7 +7,7 @@ Created: 2023-09-15
 # Energie mécanique (énergie totale)
 ?
 C'est la somme de l'[[Energie cinétique|énergie cinétique]] et de/des [[Energies potentielles|énergies potentielles]].
-<!--SR:!2023-11-07,19,210-->
+<!--SR:!2023-12-21,44,210-->
 
 Formule::$$\Large{E_{M}=E_{c}+E_{P}}$$
 <!--SR:!2023-11-29,46,250-->

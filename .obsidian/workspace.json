@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a59107f3e7e78b70",
+        "id": "b6ad941d8e185750",
         "type": "tabs",
         "children": [
           {
-            "id": "a67b6a5c38f3a86f",
+            "id": "8d5ea2ae0a412550",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,35 +18,29 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Deuxième loi de Newton",
+                  "title": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deuxième loi de Newton.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "_physics",
+                  "title": "Theme 2-Macro-économie",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":11.383397145840584}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":7.682303116513642}"
                 },
                 {
-                  "title": "Polynômes",
+                  "title": "_economy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Polynômes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":38.925}"
-                },
-                {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":6.555555555555555}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":10.859299191374664}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Référentiel galiléen.md",
+                "file": "Politique monétaire.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -54,41 +48,7 @@
             }
           },
           {
-            "id": "2d2032b0686bc14b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 4 - Quantité de mouvement",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Quantité de mouvement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Quantité de mouvement",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quantité de mouvement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":7.5125628140703515}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conservation de la quantité de mouvement.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e000a71d76c0b9b",
+            "id": "7b0af2e25edeffd2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -102,15 +62,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polynômes.md",
+                "file": "Theme 2-Macro-économie.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Polynômes.md",
+                "file": "Politique monétaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Polynômes.md",
+                "file": "Politique monétaire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -297,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polynômes.md"
+                "file": "Politique monétaire.md"
               }
             }
           },
@@ -319,23 +278,6 @@
             }
           },
           {
-            "id": "24f62fb284b4be7d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          },
-          {
             "id": "efb1b92f0b3bf94d",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -350,7 +292,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Polynômes.md"
+                "file": "Politique monétaire.md"
               }
             }
           },
@@ -389,9 +331,26 @@
               "type": "mathpad-view",
               "state": {}
             }
+          },
+          {
+            "id": "b3fd0fd03faf8b8c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       },
       {
         "id": "f8bb5be5c8567d45",
@@ -412,7 +371,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Polynômes.md",
+                "file": "Politique monétaire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -469,65 +428,62 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "mathpad:Open Mathpad": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "mathpad:Open Mathpad": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e000a71d76c0b9b",
-  "ophidian:layout-settings": {
-    "pane-relief:focus-lock": true
-  },
+  "active": "8d5ea2ae0a412550",
   "lastOpenFiles": [
+    "Theme 2-Macro-économie.md",
+    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
+    "Politique monétaire.md",
+    "assets/Politique monétaire/image-20231108093711743.png",
+    "assets/Politique monétaire/image-20231108093526578.png",
+    "assets/Politique monétaire",
+    "Inflation et ses causes.md",
+    "Causes des inégalités économiques et de la pauvreté.md",
+    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
+    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
+    "Chapitre 3 -  Objectifs macro-économiques.md",
+    "Signification de la pauvreté et comment la mesurer.md",
+    "Mesurer les inégalités économiques.md",
+    "_economy.md",
+    "Theme 1-Micro-économie.md",
+    "Equilibre à court terme.md",
+    "assets/Equilibre à court terme/image-20230515124321837.png",
+    "assets/Equilibre à court terme/image-20230515121945540.png",
+    "assets/Equilibre à court terme/image-20230515120553983.png",
+    "assets/Equilibre à court terme/image-20230515115646980.png",
+    "Chapitre 1 - La Demande.md",
+    "Distribution discrètes.md",
+    "_math.md",
+    "Probabilité discrètes.md",
+    "oral mademba.md",
     "Conservation de la quantité de mouvement.md",
+    "_french B.md",
+    "Référentiel galiléen.md",
     "Travail d'une force variable.md",
     "Méthode de résolution de problème de dynamique.md",
     "assets/Méthode de résolution de problème de dynamique/image-20231106110821177.png",
     "Polynômes.md",
     "Theme 2-Mécanique.md",
-    "Chapitre 2 - Forces et lois de Newton.md",
-    "Chapitre 1 - Cinématique.md",
-    "Chapitre 4 - Quantité de mouvement.md",
-    "Quantité de mouvement.md",
-    "Référentiel galiléen.md",
-    "Deuxième loi de Newton.md",
-    "_physics.md",
-    "Theme 5-Electricité et Magnétisme.md",
-    "Theme 1-Mesures et incertitudes.md",
-    "_math.md",
-    "_english.md",
-    "Textual analysis.md",
-    "Oral.md",
-    "Oral 1.md",
     "pdf/extract no country for old men.pdf",
-    "Energie de liaison du noyau.md",
     "assets/Energie de liaison du noyau/image-20230323182347196.png",
-    "Theme 7-Physique nucléaire.md",
-    "Première loi de Newton.md",
-    "Comparative Essay.md",
-    "Mouvement circulaire uniforme.md",
     "assets/Mouvement circulaire uniforme/image-20230603143706376.png",
-    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
-    "Theme 3-Physique thermique.md",
     "assets/Vitesse/image-20230923141334462.png",
-    "assets/Nombres complexes/image-20230504104418313.png",
-    "Excalidraw/assets/Drawing 2023-10-22 11.31.50.excalidraw/Pasted Image 20231022113207_988.png",
     "Excalidraw/assets/Drawing 2023-10-22 11.31.50.excalidraw",
-    "assets/Application de la conservation de la quantité de mouvement/image-20231019112159997.png",
-    "assets/Application de la conservation de la quantité de mouvement/image-20231019112225666.png",
     "assets/Application de la conservation de la quantité de mouvement",
-    "assets/Pasted image 20231013154033.png/image-20231019111913271.png",
-    "assets/Pasted image 20231013154033.png",
     "assets/Mesurer les inégalités économiques",
     "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw",
     "Excalidraw/assets/Drawing 2023-10-09 18.53.45.excalidraw",
     "exploration_math1 - Abdoul Wahab Touré - Tle IB.pdf",
     "sept24physiquevaluationpdf.pdf",
-    "My Drive - Shortcut.lnk",
-    "assets/Forces magnétiques"
+    "My Drive - Shortcut.lnk"
   ]
 }

@@ -9,7 +9,7 @@ Une mesure n'est jamais:: exacte (si on devait mesurer des grandeurs, on va trou
 <!--SR:!2023-12-02,48,230-->
 
 On distingue deux types d'erreurs:: les erreurs **aléatoires** et **systématiques**.
-<!--SR:!2023-11-06,15,230-->
+<!--SR:!2023-12-12,36,230-->
 
 ## Erreurs aléatoires
 ?

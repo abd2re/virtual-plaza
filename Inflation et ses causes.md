@@ -35,7 +35,7 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2023-11-07,28,223-->
+<!--SR:!2023-11-23,16,203-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2024-01-06,69,263-->

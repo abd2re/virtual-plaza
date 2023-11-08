@@ -20,7 +20,7 @@ A systematic examination of a text or aspects.
 What is to analyze
 ?
 To break down in order to bring out essential elements or structure.
-<!--SR:!2023-11-06,30,210-->
+<!--SR:!2024-01-10,65,210-->
 
 Analyzing texts: 5 keys considerations
 ?
@@ -35,7 +35,7 @@ Key terms:
 ?
 - Stylistic
 - Devices:: tools that an author use to achieve an intended effect, for example, metaphor or rhetoric
-<!--SR:!2023-11-06,28,210-->
+<!--SR:!2024-01-05,60,210-->
 - Audience:: the intended readership of a text
 <!--SR:!2023-11-22,36,210-->
 - Purpose:: what the text set out to achieve; why the text is created
