@@ -100,7 +100,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 
 ## Formules d'Euler (module=1)
 Si $|z|=1$ alors $z^{*}$=::$z^{-1}$
-<!--SR:!2023-11-08,9,234-->
+<!--SR:!2023-12-02,24,234-->
 $e^{i\pi}$=::$-1$
 <!--SR:!2023-11-15,14,234-->
 
@@ -116,5 +116,5 @@ $e^{i\pi}$=::$-1$
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2023-11-08,2,153-->
+<!--SR:!2023-11-11,3,153-->
 

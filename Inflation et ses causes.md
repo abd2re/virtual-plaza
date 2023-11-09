@@ -56,7 +56,7 @@ Les deux principaux types d’inflation sont:
 ### Inflation attisée par la demande
 ?
 L’inflation tirée par la demande se produit lorsqu’il y a une augmentation de la demande globale dans l’économie. Afin de fournir le nombre croissant de biens et de services désormais requis, des prix plus élevés sont nécessaires.
-<!--SR:!2023-11-08,29,243-->
+<!--SR:!2024-01-16,69,243-->
 
 - Selon la nouvelle théorie classique, l’augmentation de la demande globale est suivie:: d’une pression à la hausse sur les salaires, de sorte qu’il n’y aura pas d’augmentation de la production à long terme.![[image-20230921081541285.png]]
 <!--SR:!2023-11-25,32,203-->
@@ -86,7 +86,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 Graphique avec explications
 ?
 ![[image-20230921082031502.png]]
-<!--SR:!2023-11-08,30,243-->
+<!--SR:!2023-11-21,13,223-->
 
 ### Spirale inflationniste salaires-prix
 - Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs.

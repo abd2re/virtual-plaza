@@ -1,0 +1,2 @@
+1. The American Dream: Both "The Sopranos" and "The Great Gatsby" delve into the idea of the American Dream. In "The Great Gatsby," the characters pursue wealth and success as a means to achieve happiness and social standing. Similarly, in "The Sopranos," many characters, particularly Tony Soprano, are deeply entrenched in the pursuit of the American Dream, often through illicit means. This theme is a reflection of the broader global issue of societal aspirations and the often elusive nature of the American Dream.
+

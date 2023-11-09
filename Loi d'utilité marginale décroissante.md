@@ -15,4 +15,4 @@ Si on a $\Delta{U_{total}}$ et $\Delta{Q_d}$ alors l'utilité marginale $U_m$ =
 ?
 $$U_m=\frac{\Delta{U_{total}}}{\Delta{Q_{d}}}$$
 ![[Loi d'utilité marginale décroissante.png]]
-<!--SR:!2023-11-09,72,250-->
+<!--SR:!2024-05-06,179,250-->

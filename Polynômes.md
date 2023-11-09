@@ -20,20 +20,20 @@ Created: 2023-10-27
 - Lorsqu'un polynôme quelconque $P(x)$ est divisé par une fonction linéaire quelconque $(x - k)$, la valeur du reste $R$ est donnée par:: $P(k) =R$
 <!--SR:!2023-11-12,10,250-->
 - Remarque : lorsque $P(k) =0$, $(x - k)$ est:: un facteur de $P(x)$.
-<!--SR:!2023-11-08,6,250-->
+<!--SR:!2023-11-23,15,250-->
 - $P(x)$=::$(x-k)\times Q(x)+R$ où $Q(x)$ est un polynôme
 <!--SR:!2023-11-11,4,210-->
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
 <!--SR:!2023-11-12,10,250-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
-<!--SR:!2023-11-08,2,210-->
+<!--SR:!2023-11-12,4,210-->
 
 ## Division polynomiale
 Formule générale::$$\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$$
 <!--SR:!2023-11-16,10,230-->
 
 - Cette méthode n'est généralement utile que lorsque le degré du dénominateur est:: inférieur ou égal au degré du numérateur.
-<!--SR:!2023-11-08,6,250-->
+<!--SR:!2023-11-25,17,250-->
 
 Soit deux polynômes: $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$ qu'on divise par $D(x)=b_{k}x^{k}+b_{k-1}b^{k-1}+\dots+b_{1}x+b_{0}$ avec $n\geq k$. Les étapes sont:
 ?
@@ -51,7 +51,7 @@ $$Q(x)+\frac{R}{ax+b}$$
 - $ax+b$ est le diviseur ($\deg 1$)
 - $Q(x)$ est le quotient ($\deg n-1$)
 - $R$ est le reste ($\deg 0$)
-<!--SR:!2023-11-08,6,250-->
+<!--SR:!2023-11-24,16,250-->
 
 ### Division par des fonctions quadratiques
 

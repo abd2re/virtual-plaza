@@ -11,7 +11,7 @@ Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 <!--SR:!2023-12-23,57,250-->
 On appelle événement:: toute partie de l'univers (sous-ensemble)
-<!--SR:!2023-11-08,16,210-->
+<!--SR:!2023-12-11,33,210-->
 
 ### Définitions
 - Evénement élémentaire:: a une seule issue
@@ -55,7 +55,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 Deux événements sont indépendants si: : l'occurrence de chacun d'eux n'affecte pas la probabilité que l'autre se produise. Un exemple de ceci est l'échantillonnage à 1s avec remplacement.
 
 Pour des événements indépendants A et B, $P(A\cap B)$=:: $P(A)P(B)$
-<!--SR:!2023-11-08,26,252-->
+<!--SR:!2024-01-12,65,252-->
 
 ## Événements dépendants
 Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.

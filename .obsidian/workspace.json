@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6ad941d8e185750",
+        "id": "ff0b6ecb7ad0a864",
         "type": "tabs",
         "children": [
           {
-            "id": "8d5ea2ae0a412550",
+            "id": "c2949a6bf2433cce",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,29 +18,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
                   "title": "Theme 2-Macro-économie",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":7.682303116513642}"
+                  "eState": "{\"scroll\":7.189896256202076}"
                 },
                 {
                   "title": "_economy",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":10.859299191374664}"
+                  "eState": "{\"scroll\":10.921382771117926}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Coûts relatifs du chômage par rapport a l'inflation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -48,7 +42,24 @@
             }
           },
           {
-            "id": "7b0af2e25edeffd2",
+            "id": "47a707145716f597",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "89f0be086ff6c5d7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -62,8 +73,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 2-Macro-économie.md",
-                "mode": "preview",
+                "file": "Untitled 12.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97aaeb525acba4a4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 13.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -189,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Coûts relatifs du chômage par rapport a l'inflation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Coûts relatifs du chômage par rapport a l'inflation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +289,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Politique monétaire.md"
+                "file": "Coûts relatifs du chômage par rapport a l'inflation.md"
               }
             }
           },
@@ -292,7 +325,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Politique monétaire.md"
+                "file": "Coûts relatifs du chômage par rapport a l'inflation.md"
               }
             }
           },
@@ -371,7 +404,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Politique monétaire.md",
+                "file": "Coûts relatifs du chômage par rapport a l'inflation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -426,6 +459,7 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -433,57 +467,57 @@
       "mathpad:Open Mathpad": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d5ea2ae0a412550",
+  "active": "c2949a6bf2433cce",
   "lastOpenFiles": [
     "Theme 2-Macro-économie.md",
-    "Chapitre 1 - Mesurer l'Activité Economique et Illustrer ses Variations.md",
-    "Politique monétaire.md",
+    "Coûts relatifs du chômage par rapport a l'inflation.md",
+    "Chapitre 3 -  Objectifs macro-économiques.md",
+    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
+    "_economy.md",
+    "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
+    "Rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
+    "Impôts indirects.md",
+    "Chapitre 3 - L'Equilibre du marché.md",
+    "Untitled 13.md",
+    "extract lit.pdf",
+    "extract non-lit.pdf",
+    "msoDEAE.tmp",
+    "msoDE01.tmp",
+    "extract gatsby.pdf",
+    "extract tony.pdf",
+    "mso7E30.tmp",
+    "mso7D54.tmp",
+    "msoE086.tmp",
+    "msoDFCA.tmp",
+    "Untitled 12.md",
+    "Relation entre égalité et équité.md",
+    "Mesurer les inégalités économiques.md",
+    "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
+    "Untitled 11.md",
+    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
+    "Changement d'énergies au cour d'un MHS.md",
+    "Polynômes.md",
+    "_math.md",
+    "assets/Changement d'énergies au cour d'un MHS/image-20231108112251810.png",
+    "assets/Changement d'énergies au cour d'un MHS/image-20231108113249059.png",
+    "assets/Changement d'énergies au cour d'un MHS/image-20231108113232935.png",
+    "assets/Changement d'énergies au cour d'un MHS/image-20231108112242446.png",
+    "Energies potentielles.md",
+    "Chapitre 1 - Mouvement harmonique simple (MHS).md",
+    "Caractéristiques d'un MHS.md",
+    "Tension d'un ressort.md",
+    "Mouvement harmonique simple (MHS).md",
+    "_physics.md",
+    "Theme 4-Oscillations et ondes.md",
+    "Theme 5-Electricité et Magnétisme.md",
     "assets/Politique monétaire/image-20231108093711743.png",
     "assets/Politique monétaire/image-20231108093526578.png",
-    "assets/Politique monétaire",
-    "Inflation et ses causes.md",
-    "Causes des inégalités économiques et de la pauvreté.md",
-    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
-    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
-    "Chapitre 3 -  Objectifs macro-économiques.md",
-    "Signification de la pauvreté et comment la mesurer.md",
-    "Mesurer les inégalités économiques.md",
-    "_economy.md",
-    "Theme 1-Micro-économie.md",
-    "Equilibre à court terme.md",
     "assets/Equilibre à court terme/image-20230515124321837.png",
     "assets/Equilibre à court terme/image-20230515121945540.png",
-    "assets/Equilibre à court terme/image-20230515120553983.png",
-    "assets/Equilibre à court terme/image-20230515115646980.png",
-    "Chapitre 1 - La Demande.md",
-    "Distribution discrètes.md",
-    "_math.md",
-    "Probabilité discrètes.md",
-    "oral mademba.md",
-    "Conservation de la quantité de mouvement.md",
-    "_french B.md",
-    "Référentiel galiléen.md",
-    "Travail d'une force variable.md",
-    "Méthode de résolution de problème de dynamique.md",
-    "assets/Méthode de résolution de problème de dynamique/image-20231106110821177.png",
-    "Polynômes.md",
-    "Theme 2-Mécanique.md",
-    "pdf/extract no country for old men.pdf",
-    "assets/Energie de liaison du noyau/image-20230323182347196.png",
-    "assets/Mouvement circulaire uniforme/image-20230603143706376.png",
-    "assets/Vitesse/image-20230923141334462.png",
-    "Excalidraw/assets/Drawing 2023-10-22 11.31.50.excalidraw",
-    "assets/Application de la conservation de la quantité de mouvement",
-    "assets/Mesurer les inégalités économiques",
-    "Excalidraw/assets/Drawing 2023-10-12 19.11.52.excalidraw",
-    "Excalidraw/assets/Drawing 2023-10-09 18.53.45.excalidraw",
-    "exploration_math1 - Abdoul Wahab Touré - Tle IB.pdf",
-    "sept24physiquevaluationpdf.pdf",
-    "My Drive - Shortcut.lnk"
+    "assets/Equilibre à court terme/image-20230515120553983.png"
   ]
 }

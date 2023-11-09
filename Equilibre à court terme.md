@@ -6,7 +6,7 @@ Created: 2023-05-15
 # Équilibre à court terme
 ?
 L'équilibre à court terme est déterminé par l'intersection de la demande globale et de l'offre globale à court terme.![[image-20230515115646980.png]]
-<!--SR:!2023-11-09,29,170-->
+<!--SR:!2023-12-26,47,170-->
 
 **Un écart récessif ou déflationniste** (Définition et graphe)
 ?
@@ -18,7 +18,7 @@ C'est lorsque a production d'équilibre est inférieure a la production de plein
 ?
 C'est lorsque la production d'équilibre est supérieure a la production de plein emploi/potentielle. (Demande globale se déplace vers la droite)
 ![[image-20230515121945540.png|center]]
-<!--SR:!2023-11-09,33,150-->
+<!--SR:!2023-12-30,51,150-->
 
 - Lorsqu'il y a un écart déflationniste, on parle de:: récession.
 <!--SR:!2024-04-13,194,230-->

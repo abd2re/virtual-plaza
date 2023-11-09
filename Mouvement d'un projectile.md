@@ -19,7 +19,7 @@ $a_{y}$=::-g
 $v_{0}$=::vitesse initiale
 <!--SR:!2023-12-11,136,250-->
 $\theta$=::angle de projection
-<!--SR:!2023-11-08,115,250-->
+<!--SR:!2024-01-04,57,230-->
 
 - Equation de x::$$\large{x=v_{0}\cos(\theta)t}$$
 <!--SR:!2024-02-25,183,250-->
@@ -28,7 +28,7 @@ $\theta$=::angle de projection
 - Equation de $v_{x}$:: $$\large{v_{x}=v_{0}\cos(\theta)}$$
 <!--SR:!2023-12-09,135,250-->
 - Equation de $v_{y}$:: $$\large{v_{y}=-gt+v_{0}\sin(\theta)=\sqrt{v_{0}^{2}\sin^{2}(\theta)-2gy}}$$
-<!--SR:!2023-11-08,66,230-->
+<!--SR:!2024-04-07,151,230-->
 - Equation de fleche (H):: $$\large{H=\frac{v_{0}^{2}\sin^2(\theta)}{2g}}$$
 <!--SR:!2024-02-16,160,230-->
 - Equation de portée (R):: $$\large{R=\frac{v_{0}^{2}\sin^{2}(2\theta)}{g}}$$
