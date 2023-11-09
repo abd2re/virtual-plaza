@@ -32,8 +32,10 @@ Un indicateur composite fait référence à un certain nombre d’indicateurs un
 <!--SR:!2023-11-19,21,250-->
 
 Ils sont (2):
+?
 - [[Indice de développement humain]] (IDH)
 - [[Indice de pauvreté multidimensionnelle]] (IPM)
+<!--SR:!2023-11-10,1,209-->
 
 ## Difficultés à mesurer la pauvreté
 Ils sont (4):

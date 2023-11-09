@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Chapitre 4 - Économie des inégalités et de la pauvreté",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Économie des inégalités et de la pauvreté.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Theme 2-Macro-économie",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -34,69 +40,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coûts relatifs du chômage par rapport a l'inflation.md",
+                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47a707145716f597",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "89f0be086ff6c5d7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 12.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97aaeb525acba4a4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 13.md",
-                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -222,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coûts relatifs du chômage par rapport a l'inflation.md",
+                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coûts relatifs du chômage par rapport a l'inflation.md",
+                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -289,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coûts relatifs du chômage par rapport a l'inflation.md"
+                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md"
               }
             }
           },
@@ -325,7 +270,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Coûts relatifs du chômage par rapport a l'inflation.md"
+                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md"
               }
             }
           },
@@ -404,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Coûts relatifs du chômage par rapport a l'inflation.md",
+                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -473,13 +418,26 @@
   },
   "active": "c2949a6bf2433cce",
   "lastOpenFiles": [
+    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
+    "Rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
+    "Causes des inégalités économiques et de la pauvreté.md",
+    "Signification de la pauvreté et comment la mesurer.md",
+    "Indice de pauvreté multidimensionnelle.md",
+    "Indice de développement humain.md",
+    "Taux de natalité et des taux de dépendance élevés.md",
+    "Seuil de pauvreté international.md",
+    "Mesurer les inégalités économiques.md",
+    "Relation entre égalité et équité.md",
     "Theme 2-Macro-économie.md",
     "Coûts relatifs du chômage par rapport a l'inflation.md",
-    "Chapitre 3 -  Objectifs macro-économiques.md",
-    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
-    "_economy.md",
     "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
-    "Rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
+    "Dépendance à l’égard du secteur primaire.md",
+    "Grande économie informelle.md",
+    "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
+    "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
+    "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
+    "Chapitre 3 -  Objectifs macro-économiques.md",
+    "_economy.md",
     "Impôts indirects.md",
     "Chapitre 3 - L'Equilibre du marché.md",
     "Untitled 13.md",
@@ -494,9 +452,6 @@
     "msoE086.tmp",
     "msoDFCA.tmp",
     "Untitled 12.md",
-    "Relation entre égalité et équité.md",
-    "Mesurer les inégalités économiques.md",
-    "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
     "Untitled 11.md",
     "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
     "Changement d'énergies au cour d'un MHS.md",
@@ -506,18 +461,8 @@
     "assets/Changement d'énergies au cour d'un MHS/image-20231108113249059.png",
     "assets/Changement d'énergies au cour d'un MHS/image-20231108113232935.png",
     "assets/Changement d'énergies au cour d'un MHS/image-20231108112242446.png",
-    "Energies potentielles.md",
-    "Chapitre 1 - Mouvement harmonique simple (MHS).md",
-    "Caractéristiques d'un MHS.md",
-    "Tension d'un ressort.md",
-    "Mouvement harmonique simple (MHS).md",
-    "_physics.md",
-    "Theme 4-Oscillations et ondes.md",
-    "Theme 5-Electricité et Magnétisme.md",
     "assets/Politique monétaire/image-20231108093711743.png",
     "assets/Politique monétaire/image-20231108093526578.png",
-    "assets/Equilibre à court terme/image-20230515124321837.png",
-    "assets/Equilibre à court terme/image-20230515121945540.png",
-    "assets/Equilibre à court terme/image-20230515120553983.png"
+    "assets/Equilibre à court terme/image-20230515124321837.png"
   ]
 }
