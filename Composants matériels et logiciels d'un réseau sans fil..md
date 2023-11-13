@@ -24,4 +24,4 @@ Created: 2023-03-23
 - **[[Systèmes d'exploitation]]**
 - **Logiciel de sécurité**
 - **Applications / logiciels**
-<!--SR:!2023-11-12,12,170-->
+<!--SR:!2023-12-01,19,170-->

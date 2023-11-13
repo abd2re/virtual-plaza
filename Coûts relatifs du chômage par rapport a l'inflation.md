@@ -7,7 +7,7 @@ Created: 2023-10-04
 # Coûts relatifs du chômage par rapport a l'inflation
 
 - Une baisse du chômage cause:: une hausse de l'inflation.
-<!--SR:!2023-11-13,25,250-->
+<!--SR:!2024-01-14,62,250-->
 - Une hausse de chômage cause:: une baisse de l'inflation.
 <!--SR:!2023-11-16,27,250-->
 - Une hausse de l'inflation cause:: une baisse de chômage.
@@ -28,4 +28,4 @@ Les conflits potentiel entre les objectifs macroéconomiques sont (4):
 - Croissance économique élevée et inflation faible
 - Croissance économique élevée et durabilité environnementale
 - Croissance économique élevée et répartition équitable des revenus
-<!--SR:!2023-11-10,1,210-->
+<!--SR:!2023-11-16,4,210-->

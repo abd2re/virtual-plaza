@@ -16,4 +16,4 @@ La collecte de divers détails sur un système existant et l'obtention des exige
 - Interviewer les parties prenantes
 - L'utilisation de questionnaires
 - L'observation directe
-<!--SR:!2023-11-11,67,210-->
+<!--SR:!2024-03-30,140,210-->

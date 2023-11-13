@@ -23,7 +23,7 @@ Il existe deux principaux types de RAM :
 <!--SR:!2024-01-14,220,250-->
 
 Différence entre DRAM et SRAM:: La SRAM est plus rapide mais plus chère que la DRAM, et c'est pourquoi la DRAM est préférée pour la RAM principale d'un système informatique.
-<!--SR:!2023-11-11,177,250-->
+<!--SR:!2025-01-26,442,250-->
 
 <!--SR:!2023-02-18,24,250-->
 

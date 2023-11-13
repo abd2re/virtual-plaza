@@ -39,7 +39,7 @@ Key terms:
 - Audience:: the intended readership of a text
 <!--SR:!2023-11-22,36,210-->
 - Purpose:: what the text set out to achieve; why the text is created
-<!--SR:!2023-11-10,34,230-->
+<!--SR:!2024-01-26,77,230-->
 - Mood:: the feeling that is evoked in the reader (audience) which is  a result of the tone which is set.
 <!--SR:!2023-12-28,55,210-->
 - Semantic fields:: A collection of words or phrases that are related to each other in meaning and connotation, for example, safety, welcome, support, shelter, structure and warmth would all be part of the same semantic field in relation to the word home
@@ -49,7 +49,7 @@ Key terms:
 - Diction:: the words chosen in a text
 <!--SR:!2023-12-03,50,250-->
 - Tone:: the attitude of the writer or speaker towards his or her subject
-<!--SR:!2023-11-09,31,210-->
+<!--SR:!2024-01-12,64,210-->
 - Figurative language:: language that uses figures of speech, such as metaphors or symbols, to embellish meaning beyond the literal
 <!--SR:!2023-11-25,43,230-->
 

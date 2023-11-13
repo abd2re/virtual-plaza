@@ -26,7 +26,7 @@ Created: 2022-10-17
 - Allegory :: A narrative in which characters, events, and settings represents abstract ideas or moral qualities. *For example George Orwell's "Animal Farm" is an allegory for the Russian Revolution and rise of totalitarianism.*
 <!--SR:!2023-11-20,23,178-->
 - Allusion :: A brief and indirect reference to a person, place, thing, or idea of historical, cultural, literary, or political significance. *For example, referring to someone as a "Romeo" is an allusion to Shakespeare's character*
-<!--SR:!2023-11-11,24,218-->
+<!--SR:!2024-01-01,51,218-->
 - Irony :: A contrast between expectation and reality. *Ex: dramatic irony, situational irony and verbal irony*
 <!--SR:!2023-11-17,29,238-->
 - Metaphor :: A figure of speech that makes a direct comparaison between two unrelated things, suggesting that they are alike in some way, often using "is" or "was". *Ex: "The world is a stage"*

@@ -7,8 +7,8 @@ Created: 2023-03-07
 Qu'est-ce qu'un pool commun ou des ressources d'accès commun ?
 ?
 Les ressources communes font référence aux ressources naturelles qui sont librement accessibles à tous, à un prix nul.
-Les poissons dans l'océan, l'air que nous respirons et les pâturages ouverts sont tous des exemples de ressources du pool commun ou **des ressources d'accès commun.** 
-<!--SR:!2023-11-13,51,130-->
+Les poissons dans l'océan, l'air que nous respirons et les pâturages ouverts sont tous des exemples de ressources du pool commun ou **des ressources d'accès commun.**
+<!--SR:!2024-01-17,65,130-->
 
 - Les ressources du pool commun sont à la fois:: **rivale et non-exclusif**.
 <!--SR:!2023-12-08,159,230-->

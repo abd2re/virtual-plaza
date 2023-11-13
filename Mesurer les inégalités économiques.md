@@ -13,7 +13,7 @@ Courbe de Lorenz (graphe et tableau):
 ?
 ![[image-20231013082051866.png]]
 ![[image-20231013082101896.png]]
-<!--SR:!2023-11-13,20,250-->
+<!--SR:!2024-01-03,51,250-->
 
 Calcule du coefficient de Gini (graphe) avec formule:
 ?

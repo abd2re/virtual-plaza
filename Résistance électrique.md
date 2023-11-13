@@ -20,7 +20,7 @@ $$R=\frac{\rho l}{A}$$
 ## Loi d'Ohm et conducteur ohmique
 
 Caractéristique intensité-tension du resistor a comme graphe::![[Résistance électrique.png]]
-<!--SR:!2023-11-10,74,210-->
+<!--SR:!2024-04-12,154,210-->
 - Formule de la loi d'Ohm::$$U=RI$$ car $U$ et $I$ sont proportionnelles.
 <!--SR:!2024-01-20,90,210-->
 
@@ -33,7 +33,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 
 ## Association de résistors
 - Association en série formule::$$R_{eqs}=R_1+R_2+\text{...}$$ l'association en série de plusieurs résistors est équivalent a un résistor $R_{eqs}$ dont la résistance est égale a la somme des résistances
-<!--SR:!2023-11-10,197,242-->
+<!--SR:!2025-02-28,476,242-->
 - Association en parallèle formule::$$\frac{1}{R_{eqp}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\text{...}$$ $$R_{eqp}=\frac{R_{1}R_{2}}{R_{1}+R_{2}}$$
 <!--SR:!2023-12-17,83,221-->
 
@@ -47,7 +47,7 @@ La puissance dissipé par effet joule est proportionnelle:: au carré de l'inten
 <!--SR:!2024-02-18,116,182-->
 
 3 formules de puissance dissipé::$$P=UI=RI^2=\frac{U^{2}}{R}$$
-<!--SR:!2023-11-13,198,242-->
+<!--SR:!2025-03-05,478,242-->
 
 ## Utilisation des appareils de mesure
 Un appareil de mesure modifie le circuit et a un effet sur la mesure. 

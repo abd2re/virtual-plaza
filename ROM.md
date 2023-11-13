@@ -9,7 +9,7 @@ Created: 2023-01-11
 <!--SR:!2024-03-21,263,250-->
 
 - La ROM est non-volatile =:: ne perd pas son contenu en cas de coupure de courant.
-<!--SR:!2023-11-12,179,252-->
+<!--SR:!2025-02-04,450,252-->
 
 <!--SR:!2023-02-11,17,230-->
 

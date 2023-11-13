@@ -9,7 +9,7 @@ Created: 2023-09-22
 C'est quoi la pression ?
 ?
 La pression c'est la force par unité de surface qu'exercent les molécules sur la paroi.
-<!--SR:!2023-11-12,17,150-->
+<!--SR:!2023-12-07,25,150-->
 
 Formule de la pression:
 ?

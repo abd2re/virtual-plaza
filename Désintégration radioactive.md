@@ -31,7 +31,7 @@ Pouvoir de penetration des 3 radioactivités:
 <!--SR:!2024-10-05,362,250-->
 
 - **Un noyau radioactif est**:: un isotope instable d’un élément chimique. Il va naturellement se désintégrer pour chercher à atteindre une composition stable. Lors de la désintégration, le noyau radioactif émet une particule et de l’énergie.
-<!--SR:!2023-11-11,23,130-->
+<!--SR:!2023-12-10,29,130-->
 
 #### Stabilité des noyaux
 ?

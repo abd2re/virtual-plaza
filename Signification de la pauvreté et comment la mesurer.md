@@ -10,11 +10,11 @@ La pauvreté absolue fait référence:: à des niveaux de pauvreté définis au 
 <!--SR:!2023-12-08,29,230-->
 
 Les pays qui ne souffrent pas de pauvreté absolue devront définir un niveau de revenu différent en dessous duquel leurs citoyens se retrouveraient en difficulté. C'est ce qu'on appelle:: pauvreté relative.
-<!--SR:!2023-11-11,14,230-->
+<!--SR:!2023-12-12,31,230-->
 
 ## Mesurer la pauvreté
 Les deux types d'indicateurs sont:: les indicateurs uniques et composites.
-<!--SR:!2023-11-10,14,230-->
+<!--SR:!2023-12-25,45,250-->
 
 ### Indicateurs uniques
 Ils sont (5):
@@ -35,7 +35,7 @@ Ils sont (2):
 ?
 - [[Indice de développement humain]] (IDH)
 - [[Indice de pauvreté multidimensionnelle]] (IPM)
-<!--SR:!2023-11-10,1,209-->
+<!--SR:!2023-11-16,4,209-->
 
 ## Difficultés à mesurer la pauvreté
 Ils sont (4):
@@ -44,4 +44,4 @@ Ils sont (4):
 - Pauvreté au sein du ménage
 - Pauvreté urbaine
 - Données ventilées sur la pauvreté (démographie)
-<!--SR:!2023-11-10,4,130-->
+<!--SR:!2023-11-14,4,130-->

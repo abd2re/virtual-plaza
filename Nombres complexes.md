@@ -75,7 +75,7 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 ## Forme polaire
 
 Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
-<!--SR:!2023-11-12,23,141-->
+<!--SR:!2023-12-13,31,141-->
 
 - $\cos\theta$=::$\frac{a}{|z|}$
 <!--SR:!2023-12-01,24,236-->
@@ -84,13 +84,13 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $|zw|$=::$|z||w|$
 <!--SR:!2023-12-09,36,276-->
 - $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
-<!--SR:!2023-11-11,12,236-->
+<!--SR:!2023-12-09,28,236-->
 - $zw$=::$|z||w|[\cos(\theta+\alpha)+i\sin(\theta+\alpha)]$
 <!--SR:!2023-11-19,12,216-->
 - $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$
 <!--SR:!2023-11-16,16,236-->
 - $z^{n}$=::$|z|^{n}(\cos n\theta+i\sin n\theta)$
-<!--SR:!2023-11-10,11,216-->
+<!--SR:!2023-12-05,25,216-->
 - $\theta$=::$\tan^{-1}(\frac{b}{a})$
 <!--SR:!2023-11-16,16,236-->
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
@@ -105,7 +105,7 @@ $e^{i\pi}$=::$-1$
 <!--SR:!2023-11-15,14,234-->
 
 - $z^{n}+z^{-n}$=::$2\cos(n\theta)$
-<!--SR:!2023-11-13,13,234-->
+<!--SR:!2023-12-12,29,234-->
 - $z^{n}-z^{-n}$=::$2i\sin(n\theta)$
 <!--SR:!2023-11-16,15,234-->
 - $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
@@ -116,5 +116,5 @@ $e^{i\pi}$=::$-1$
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2023-11-11,3,153-->
+<!--SR:!2023-11-15,4,153-->
 

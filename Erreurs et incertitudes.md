@@ -31,5 +31,5 @@ Les erreurs systématiques ont souvent pour origine:: un matériel imparfait ou 
 <!--SR:!2024-01-24,77,230-->
 
 La répétition des mesures élimine-t-elle les erreurs systématiques ?:: Non.
-<!--SR:!2023-11-13,37,227-->
+<!--SR:!2024-02-04,83,227-->
 

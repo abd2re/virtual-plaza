@@ -23,4 +23,4 @@ Ils sont (3):
 - Croissance économique
 - Niveau de vie
 - Stabilité sociale
-<!--SR:!2023-11-11,5,150-->
+<!--SR:!2023-11-17,6,150-->

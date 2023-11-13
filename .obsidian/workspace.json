@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff0b6ecb7ad0a864",
+        "id": "7dcfab3edb5a93ee",
         "type": "tabs",
         "children": [
           {
-            "id": "c2949a6bf2433cce",
+            "id": "b6819f68961e014c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,35 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 4 - Économie des inégalités et de la pauvreté",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Économie des inégalités et de la pauvreté.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Macro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":7.189896256202076}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":10.921382771117926}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -167,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +169,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +208,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md"
-              }
+              "state": {}
             }
           },
           {
@@ -269,9 +242,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md"
-              }
+              "state": {}
             }
           },
           {
@@ -349,7 +320,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -416,31 +386,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2949a6bf2433cce",
+  "active": "b6819f68961e014c",
   "lastOpenFiles": [
-    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
-    "Rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
-    "Causes des inégalités économiques et de la pauvreté.md",
-    "Signification de la pauvreté et comment la mesurer.md",
-    "Indice de pauvreté multidimensionnelle.md",
-    "Indice de développement humain.md",
-    "Taux de natalité et des taux de dépendance élevés.md",
-    "Seuil de pauvreté international.md",
-    "Mesurer les inégalités économiques.md",
-    "Relation entre égalité et équité.md",
-    "Theme 2-Macro-économie.md",
+    "Externalité de la consommation.md",
+    "assets/Externalité de la consommation/image-20230207165514044.png",
+    "assets/Externalité de la consommation/image-20230208084954664.png",
+    "Externalité de la production.md",
+    "Nouvelle expression de la deuxième loi de Newton.md",
+    "Deuxième loi de Newton.md",
+    "Chapitre 4 - Quantité de mouvement.md",
+    "Quantité de mouvement.md",
+    "Advertisements.md",
+    "Politique monétaire.md",
+    "_computer science.md",
+    "_economy.md",
+    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
+    "_math.md",
+    "Théorème Binomial.md",
+    "Distribution binomiale.md",
+    "Polynômes.md",
+    "Nombres complexes.md",
     "Coûts relatifs du chômage par rapport a l'inflation.md",
+    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
+    "Causes des inégalités économiques et de la pauvreté.md",
+    "Déterminants hors-prix de la demande.md",
+    "Chapitre 1 - La Demande.md",
+    "Chapitre 3 - L'Equilibre du marché.md",
+    "assets/Politique monétaire/image-20231108093711743.png",
     "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
-    "Dépendance à l’égard du secteur primaire.md",
-    "Grande économie informelle.md",
+    "Rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
+    "Theme 2-Macro-économie.md",
     "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
     "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
     "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
-    "Chapitre 3 -  Objectifs macro-économiques.md",
-    "_economy.md",
-    "Impôts indirects.md",
-    "Chapitre 3 - L'Equilibre du marché.md",
-    "Untitled 13.md",
     "extract lit.pdf",
     "extract non-lit.pdf",
     "msoDEAE.tmp",
@@ -451,18 +429,9 @@
     "mso7D54.tmp",
     "msoE086.tmp",
     "msoDFCA.tmp",
-    "Untitled 12.md",
-    "Untitled 11.md",
-    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
-    "Changement d'énergies au cour d'un MHS.md",
-    "Polynômes.md",
-    "_math.md",
     "assets/Changement d'énergies au cour d'un MHS/image-20231108112251810.png",
     "assets/Changement d'énergies au cour d'un MHS/image-20231108113249059.png",
     "assets/Changement d'énergies au cour d'un MHS/image-20231108113232935.png",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231108112242446.png",
-    "assets/Politique monétaire/image-20231108093711743.png",
-    "assets/Politique monétaire/image-20231108093526578.png",
-    "assets/Equilibre à court terme/image-20230515124321837.png"
+    "assets/Changement d'énergies au cour d'un MHS/image-20231108112242446.png"
   ]
 }

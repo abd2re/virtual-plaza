@@ -14,7 +14,7 @@ La déflation est la baisse du niveau des prix dans le temps.
 Définition de l'désinflation
 ?
 La désinflation c'est le ralentissement du taux d'inflation au fil du temps.
-<!--SR:!2023-11-12,30,230-->
+<!--SR:!2024-01-19,68,230-->
 
 
 ## Causes de la déflation

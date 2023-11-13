@@ -14,7 +14,7 @@ Les gouvernements souhaitent intervenir sur les marchés pour de nombreuses rais
 - [[Influencer le niveau de consommation]]
 - [[Corriger les défaillances du marché]]
 - [[Promouvoir l'équité]]
-<!--SR:!2023-11-11,15,130-->
+<!--SR:!2023-11-19,8,130-->
 
 bien nuisible:: bien demerit/bien d'inaptitude
 <!--SR:!2024-03-05,257,270-->

@@ -22,7 +22,7 @@ l'incertitude d'une mesure en tant que fraction de la mesure.
 <!--SR:!2024-01-23,77,230-->
 
 Formule::$$\large{\frac{\text{incertitude absolue}}{\text{mesure}}=\frac{\Delta x}{x}}$$
-<!--SR:!2023-11-12,37,230-->
+<!--SR:!2024-02-06,86,230-->
 
 ## Incertitude en pourcentage
 Formule::$$\large{\frac{\text{incertitude absolue}}{\text{mesure}}\times100=\frac{\Delta x}{x}\times100}$$

@@ -5,7 +5,7 @@ Created: 2023-04-28
 
 # Logarithmes
 - Si $a^{x}=b$ alors $\log_{a}(b)=$::$x$
-<!--SR:!2023-11-13,121,250-->
+<!--SR:!2024-09-10,302,250-->
 
 Lois des logarithmes (addition, soustraction, multiplication)
 ?

@@ -7,26 +7,26 @@ Created: 2023-10-27
 # Polynômes
 ## Théorème des facteurs
 - $(x - k)$ est un facteur de $P(x)$ si:: $P(k)= 0$
-<!--SR:!2023-11-09,7,250-->
+<!--SR:!2023-11-29,20,250-->
 - $P(k)=0$ si:: $(x-k)$ est un facteur de $P(x)$
-<!--SR:!2023-11-10,4,190-->
-- $P(x)$=::$(x-k)\times Q(x)$, où $Q(x)$ est un polynôme qui est un facteur de $P(x)$ 
-<!--SR:!2023-11-10,8,250-->
+<!--SR:!2023-11-17,7,190-->
+- $P(x)$=::$(x-k)\times Q(x)$, où $Q(x)$ est un polynôme qui est un facteur de $P(x)$
+<!--SR:!2023-11-29,19,250-->
 - $\frac{P(x)}{x-k}$=::$Q(x)$
-<!--SR:!2023-11-10,8,250-->
+<!--SR:!2023-11-28,18,250-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors il faut que:: $P\left(\frac{b}{a}\right)=0$
 <!--SR:!2023-11-20,13,230-->
 ## Théorème des restes
 - Lorsqu'un polynôme quelconque $P(x)$ est divisé par une fonction linéaire quelconque $(x - k)$, la valeur du reste $R$ est donnée par:: $P(k) =R$
-<!--SR:!2023-11-12,10,250-->
+<!--SR:!2023-12-09,27,250-->
 - Remarque : lorsque $P(k) =0$, $(x - k)$ est:: un facteur de $P(x)$.
 <!--SR:!2023-11-23,15,250-->
 - $P(x)$=::$(x-k)\times Q(x)+R$ où $Q(x)$ est un polynôme
-<!--SR:!2023-11-11,4,210-->
+<!--SR:!2023-11-19,8,210-->
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
-<!--SR:!2023-11-12,10,250-->
+<!--SR:!2023-12-10,28,250-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
-<!--SR:!2023-11-12,4,210-->
+<!--SR:!2023-11-21,9,210-->
 
 ## Division polynomiale
 Formule générale::$$\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$$
@@ -41,7 +41,7 @@ Soit deux polynômes: $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$ qu'on 
 2. Multiplier le diviseur par ce terme. $$D(x)\times q_{m}x^{m}$$
 3. Soustraire ce résultat du polynôme d'origine. $$R(x)=P(x)-D(x)\times q_{m}x^{m}$$
 4. Répétez les étapes 1 à 3 en utilisant le nouveau polynôme $R(x)$ à la place de $P(x)$ jusqu'à ce que la soustraction aboutisse à une expression pour $R(x)$ dont le degré est inférieur à celui du diviseur.
-<!--SR:!2023-11-10,8,250-->
+<!--SR:!2023-12-03,23,250-->
 
 ### Division par des fonctions linéaires
 
@@ -61,27 +61,27 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 - $ax^{2}+bx+c$ est le diviseur ($\deg 2$)
 - $Q(x)$ est le quotient ($\deg n-2$)
 - $ex+f$ est le reste ($\deg <2$)
-<!--SR:!2023-11-10,8,250-->
+<!--SR:!2023-11-29,19,250-->
 
 ### Résolution d'équations polynomiales
 - Tout polynôme réel peut être exprimé comme un produit:: de facteurs linéaires réels et de facteurs quadratiques irréductibles réels.
-<!--SR:!2023-11-12,10,250-->
+<!--SR:!2023-12-08,26,250-->
 - Une quadratique irréductible est une quadratique qui n'a pas de:: racines réelles.
-<!--SR:!2023-11-11,9,250-->
+<!--SR:!2023-12-05,24,250-->
 - Si $a+bi\,(b\neq0)$ est un zéro d'un polynôme réel, alors son complexe conjugué $a-bi$ est:: également un zéro si les coefficients sont réels.
-<!--SR:!2023-11-11,9,250-->
+<!--SR:!2023-12-04,23,250-->
 - Tout polynôme réel de degré impair possède:: au moins un zéro réel.
-<!--SR:!2023-11-09,7,250-->
+<!--SR:!2023-11-25,16,250-->
 
 ## Somme et produit des racines
 Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factorisée sera dont les racines sont $r_{1}\,,r_{2}\,,\dots\,,r_{n}$::$$P(x)=a_{n}(x-r_{1})(x-r_{2})\dots(x-r_{n})$$
-<!--SR:!2023-11-11,9,250-->
+<!--SR:!2023-12-06,25,250-->
 - La somme des racines est égale à:: $$r_{1}+r_{2}+\dots+r_{n-1}+r_{n}=-\frac{a_{n-1}}{a_{n}}$$
-<!--SR:!2023-11-09,7,250-->
+<!--SR:!2023-11-26,17,250-->
 - Le produit des racines est égale à::$$r_{1}\times r_{2}\times\dots\times r_{n-1}\times r_{n}=\frac{(-1)^{n}a_{0}}{a_{n}}$$
 <!--SR:!2023-11-19,12,230-->
 - La somme de toutes les pairs de racines est égale à::$$\sum r_{i}r_{j}=-\frac{a_{n-2}}{a_{n}}$$
-<!--SR:!2023-11-09,7,250-->
+<!--SR:!2023-11-26,17,250-->
 - La somme de toutes les triplets de racines est égale à::$$\sum r_{i}r_{j}r_{k}=-\frac{a_{n-3}}{a_{n}}$$
 <!--SR:!2023-11-14,7,210-->
 

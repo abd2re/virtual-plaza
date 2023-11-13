@@ -29,7 +29,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement certain:: toutes les issues
 <!--SR:!2023-12-05,45,250-->
 - Evénement impossible:: aucune issue
-<!--SR:!2023-11-12,34,270-->
+<!--SR:!2024-02-11,91,270-->
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
@@ -39,7 +39,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 
 ### Propriété
 - $\frac{n(X)}{n(U)}$=::$P(X)$
-<!--SR:!2023-11-13,10,250-->
+<!--SR:!2023-12-05,22,250-->
 - $P(U)$=::1 
 <!--SR:!2023-12-20,56,250-->
 - $P(0)$=::0
@@ -48,8 +48,8 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 <!--SR:!2023-12-24,57,250-->
 - $P(A\cup B)$ (2)=::$P(A)+P(B)-P(A\cap B)=P(A\cap B')+P(A\cap B)+P(A'\cap B)$
 <!--SR:!2023-11-25,37,230-->
-- $P(A\Delta B)$=::$P(A\cap B')\cup P(A'\cap B)$ 
-<!--SR:!2023-11-13,10,250-->
+- $P(A\Delta B)$=::$P(A\cap B')\cup P(A'\cap B)$
+<!--SR:!2023-12-07,24,250-->
 
 ## Événements indépendants
 Deux événements sont indépendants si: : l'occurrence de chacun d'eux n'affecte pas la probabilité que l'autre se produise. Un exemple de ceci est l'échantillonnage à 1s avec remplacement.
@@ -59,7 +59,7 @@ Pour des événements indépendants A et B, $P(A\cap B)$=:: $P(A)P(B)$
 
 ## Événements dépendants
 Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
-<!--SR:!2023-11-09,27,252-->
+<!--SR:!2024-01-17,69,252-->
 
 Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
 <!--SR:!2023-12-03,39,232-->
