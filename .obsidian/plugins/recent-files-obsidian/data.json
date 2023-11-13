@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Caractéristiques d'un MHS",
+      "path": "Caractéristiques d'un MHS.md"
+    },
+    {
+      "basename": "Chapitre 1 - Mouvement harmonique simple (MHS)",
+      "path": "Chapitre 1 - Mouvement harmonique simple (MHS).md"
+    },
+    {
+      "basename": "Changement d'énergies au cour d'un MHS",
+      "path": "Changement d'énergies au cour d'un MHS.md"
+    },
+    {
+      "basename": "Energies potentielles",
+      "path": "Energies potentielles.md"
+    },
+    {
+      "basename": "Mouvement harmonique simple (MHS)",
+      "path": "Mouvement harmonique simple (MHS).md"
+    },
+    {
+      "basename": "Période d'un pendule simple et élastique",
+      "path": "Période d'un pendule simple et élastique.md"
+    },
+    {
+      "basename": "Tension d'un ressort",
+      "path": "Tension d'un ressort.md"
+    },
+    {
+      "basename": "Theme 4-Oscillations et ondes",
+      "path": "Theme 4-Oscillations et ondes.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Externalité de la consommation",
       "path": "Externalité de la consommation.md"
     },
@@ -121,38 +157,6 @@
       "path": "Untitled 11.md"
     },
     {
-      "basename": "Changement d'énergies au cour d'un MHS",
-      "path": "Changement d'énergies au cour d'un MHS.md"
-    },
-    {
-      "basename": "Energies potentielles",
-      "path": "Energies potentielles.md"
-    },
-    {
-      "basename": "Chapitre 1 - Mouvement harmonique simple (MHS)",
-      "path": "Chapitre 1 - Mouvement harmonique simple (MHS).md"
-    },
-    {
-      "basename": "Caractéristiques d'un MHS",
-      "path": "Caractéristiques d'un MHS.md"
-    },
-    {
-      "basename": "Tension d'un ressort",
-      "path": "Tension d'un ressort.md"
-    },
-    {
-      "basename": "Mouvement harmonique simple (MHS)",
-      "path": "Mouvement harmonique simple (MHS).md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Theme 4-Oscillations et ondes",
-      "path": "Theme 4-Oscillations et ondes.md"
-    },
-    {
       "basename": "Inflation et ses causes",
       "path": "Inflation et ses causes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Méthode de résolution de problème de dynamique",
       "path": "Méthode de résolution de problème de dynamique.md"
-    },
-    {
-      "basename": "Theme 2-Mécanique",
-      "path": "Theme 2-Mécanique.md"
     }
   ],
   "omittedPaths": [],

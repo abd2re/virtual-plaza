@@ -11,9 +11,14 @@ Graphique (masse attaché à un ressort)
 ![[image-20231108112251810.png|center|500]]
 
 ## Variation avec le temps
-Graphique (masse attaché à un ressort)
+Graphique énergie potentielle (masse attaché à un ressort)
 ?
 ![[image-20231108113249059.png|center]]
+
+
+Graphiques position-vitesse-accélération en fonction du temps
+?
+![[image-20231113103206092.png|center]]
 
 
 

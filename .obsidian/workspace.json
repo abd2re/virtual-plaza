@@ -16,12 +16,47 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 1 - Mouvement harmonique simple (MHS)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Mouvement harmonique simple (MHS).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Période d'un pendule simple et élastique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Période d'un pendule simple et élastique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Chapitre 1 - Mouvement harmonique simple (MHS)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Mouvement harmonique simple (MHS).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Theme 4-Oscillations et ondes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Oscillations et ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":16.348625345697087}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Caractéristiques d'un MHS.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -144,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Caractéristiques d'un MHS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Caractéristiques d'un MHS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +245,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Caractéristiques d'un MHS.md"
+              }
             }
           },
           {
@@ -242,7 +281,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Caractéristiques d'un MHS.md"
+              }
             }
           },
           {
@@ -320,6 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Caractéristiques d'un MHS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -386,8 +428,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6819f68961e014c",
+  "active": "2f5856fa93cec39f",
   "lastOpenFiles": [
+    "Chapitre 1 - Mouvement harmonique simple (MHS).md",
+    "Changement d'énergies au cour d'un MHS.md",
+    "assets/Changement d'énergies au cour d'un MHS/image-20231113103206092.png",
+    "assets/Changement d'énergies au cour d'un MHS/image-20231108113249059.png",
+    "Caractéristiques d'un MHS.md",
+    "Energies potentielles.md",
+    "Mouvement harmonique simple (MHS).md",
+    "assets/Changement d'énergies au cour d'un MHS/image-20231108112251810.png",
+    "Période d'un pendule simple et élastique.md",
+    "Tension d'un ressort.md",
+    "assets/Tension d'un ressort/image-20230604182649685.png",
+    "Theme 4-Oscillations et ondes.md",
+    "_physics.md",
+    "Theme 7-Physique nucléaire.md",
+    "Theme 1-Mesures et incertitudes.md",
     "Externalité de la consommation.md",
     "assets/Externalité de la consommation/image-20230207165514044.png",
     "assets/Externalité de la consommation/image-20230208084954664.png",
@@ -404,18 +461,7 @@
     "_math.md",
     "Théorème Binomial.md",
     "Distribution binomiale.md",
-    "Polynômes.md",
-    "Nombres complexes.md",
-    "Coûts relatifs du chômage par rapport a l'inflation.md",
-    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
-    "Causes des inégalités économiques et de la pauvreté.md",
-    "Déterminants hors-prix de la demande.md",
-    "Chapitre 1 - La Demande.md",
-    "Chapitre 3 - L'Equilibre du marché.md",
     "assets/Politique monétaire/image-20231108093711743.png",
-    "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
-    "Rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
-    "Theme 2-Macro-économie.md",
     "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
     "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
     "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
@@ -428,10 +474,6 @@
     "mso7E30.tmp",
     "mso7D54.tmp",
     "msoE086.tmp",
-    "msoDFCA.tmp",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231108112251810.png",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231108113249059.png",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231108113232935.png",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231108112242446.png"
+    "msoDFCA.tmp"
   ]
 }
