@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7dcfab3edb5a93ee",
+        "id": "6ecca8390eb89b19",
         "type": "tabs",
         "children": [
           {
-            "id": "b6819f68961e014c",
+            "id": "859228e40c7bebe8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,42 +18,48 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Chapitre 1 - Mouvement harmonique simple (MHS)",
+                  "title": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Mouvement harmonique simple (MHS).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Période d'un pendule simple et élastique",
+                  "title": "Theme 2-Macro-économie",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Période d'un pendule simple et élastique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Chapitre 1 - Mouvement harmonique simple (MHS)",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Mouvement harmonique simple (MHS).md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Theme 4-Oscillations et ondes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Oscillations et ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "_physics",
+                  "title": "_economy",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":16.348625345697087}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":11.81807131280389}"
+                },
+                {
+                  "title": "_TOK",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_TOK.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Conservation de la quantité de mouvement",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Conservation de la quantité de mouvement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 4 - Quantité de mouvement",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Quantité de mouvement.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caractéristiques d'un MHS.md",
-                "mode": "preview",
+                "file": "Objectifs de la politique monétaire.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -179,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caractéristiques d'un MHS.md",
+                "file": "Objectifs de la politique monétaire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Caractéristiques d'un MHS.md",
+                "file": "Objectifs de la politique monétaire.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Caractéristiques d'un MHS.md"
+                "file": "Objectifs de la politique monétaire.md"
               }
             }
           },
@@ -282,7 +288,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Caractéristiques d'un MHS.md"
+                "file": "Objectifs de la politique monétaire.md"
               }
             }
           },
@@ -361,7 +367,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Caractéristiques d'un MHS.md",
+                "file": "Objectifs de la politique monétaire.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -428,43 +434,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f5856fa93cec39f",
+  "active": "859228e40c7bebe8",
   "lastOpenFiles": [
+    "Politique monétaire.md",
+    "assets/Politique monétaire/image-20231108093711743.png",
+    "assets/Politique monétaire/image-20231108093526578.png",
+    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
+    "Objectifs de la politique monétaire.md",
+    "assets/Objectifs de la politique monétaire/image-20231115181837075.png",
+    "assets/Objectifs de la politique monétaire",
+    "Caractéristiques d'un MHS.md",
+    "Theme 2-Macro-économie.md",
+    "_economy.md",
+    "Theme 1-Micro-économie.md",
+    "_TOK.md",
+    "Conservation de la quantité de mouvement.md",
+    "Chapitre 4 - Quantité de mouvement.md",
+    "Forces magnétiques.md",
+    "Theme 5-Electricité et Magnétisme.md",
+    "Mouvement circulaire uniforme.md",
+    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
+    "Theme 4-Oscillations et ondes.md",
     "Chapitre 1 - Mouvement harmonique simple (MHS).md",
     "Changement d'énergies au cour d'un MHS.md",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231113103206092.png",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231108113249059.png",
-    "Caractéristiques d'un MHS.md",
-    "Energies potentielles.md",
     "Mouvement harmonique simple (MHS).md",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231108112251810.png",
-    "Période d'un pendule simple et élastique.md",
-    "Tension d'un ressort.md",
-    "assets/Tension d'un ressort/image-20230604182649685.png",
-    "Theme 4-Oscillations et ondes.md",
+    "Chapitre 2 - Ondes progressives périodiques.md",
+    "Onde progressive.md",
     "_physics.md",
-    "Theme 7-Physique nucléaire.md",
-    "Theme 1-Mesures et incertitudes.md",
-    "Externalité de la consommation.md",
+    "Chapitre 3 - Travail d'une force.md",
+    "Utilisation des langages de programmation.md",
+    "Probabilité discrètes.md",
+    "_math.md",
+    "assets/Externalité de la consommation/image-20230207161324381.png",
     "assets/Externalité de la consommation/image-20230207165514044.png",
     "assets/Externalité de la consommation/image-20230208084954664.png",
-    "Externalité de la production.md",
-    "Nouvelle expression de la deuxième loi de Newton.md",
-    "Deuxième loi de Newton.md",
-    "Chapitre 4 - Quantité de mouvement.md",
-    "Quantité de mouvement.md",
-    "Advertisements.md",
-    "Politique monétaire.md",
-    "_computer science.md",
-    "_economy.md",
-    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
-    "_math.md",
-    "Théorème Binomial.md",
-    "Distribution binomiale.md",
-    "assets/Politique monétaire/image-20231108093711743.png",
-    "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
-    "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
-    "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
+    "assets/Changement d'énergies au cour d'un MHS/image-20231113103206092.png",
+    "assets/Changement d'énergies au cour d'un MHS/image-20231108113249059.png",
+    "assets/Changement d'énergies au cour d'un MHS/image-20231108112251810.png",
+    "assets/Tension d'un ressort/image-20230604182649685.png",
     "extract lit.pdf",
     "extract non-lit.pdf",
     "msoDEAE.tmp",
@@ -473,7 +480,6 @@
     "extract tony.pdf",
     "mso7E30.tmp",
     "mso7D54.tmp",
-    "msoE086.tmp",
-    "msoDFCA.tmp"
+    "msoE086.tmp"
   ]
 }

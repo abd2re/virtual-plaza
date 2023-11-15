@@ -6,7 +6,7 @@ Created: 2023-10-13
 
 # Distribution discrètes
 - $\sum f(x)$=::$1$
-<!--SR:!2023-11-14,23,270-->
+<!--SR:!2024-01-14,61,270-->
 - $P(X=x)$=::$f(x)$
 <!--SR:!2023-11-20,10,230-->
 - Mode de $X$ est:: la valeur de $x$ pour laquelle $f(x)$ est maximum.
@@ -16,7 +16,7 @@ Created: 2023-10-13
 - Moyenne peut être aussi appelé:: Espérance.
 <!--SR:!2023-11-28,27,230-->
 - $u$ peut être écrit:: $E(x)$
-<!--SR:!2023-11-14,21,250-->
+<!--SR:!2024-01-05,52,250-->
 - $u=E(x)$=::$\sum xf(x)$ avec $E(x)$ comprise entre les valeurs extrêmes de $X$.
 <!--SR:!2023-11-22,20,210-->
 - $\text{var}(x)$=::$\sigma^{2}$=$E(x^2)-E(x)^2$=$\sum x^{2}f(x)-E(x)^{2}$

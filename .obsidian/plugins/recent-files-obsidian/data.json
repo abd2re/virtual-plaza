@@ -1,24 +1,124 @@
 {
   "recentFiles": [
     {
+      "basename": "Objectifs de la politique monétaire",
+      "path": "Objectifs de la politique monétaire.md"
+    },
+    {
+      "basename": "Politique monétaire",
+      "path": "Politique monétaire.md"
+    },
+    {
+      "basename": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
+      "path": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md"
+    },
+    {
       "basename": "Caractéristiques d'un MHS",
       "path": "Caractéristiques d'un MHS.md"
     },
     {
-      "basename": "Chapitre 1 - Mouvement harmonique simple (MHS)",
-      "path": "Chapitre 1 - Mouvement harmonique simple (MHS).md"
+      "basename": "Theme 2-Macro-économie",
+      "path": "Theme 2-Macro-économie.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_TOK",
+      "path": "_TOK.md"
+    },
+    {
+      "basename": "Conservation de la quantité de mouvement",
+      "path": "Conservation de la quantité de mouvement.md"
+    },
+    {
+      "basename": "Chapitre 4 - Quantité de mouvement",
+      "path": "Chapitre 4 - Quantité de mouvement.md"
+    },
+    {
+      "basename": "Forces magnétiques",
+      "path": "Forces magnétiques.md"
+    },
+    {
+      "basename": "Theme 5-Electricité et Magnétisme",
+      "path": "Theme 5-Electricité et Magnétisme.md"
+    },
+    {
+      "basename": "Mouvement circulaire uniforme",
+      "path": "Mouvement circulaire uniforme.md"
+    },
+    {
+      "basename": "Theme 6-Mouvement circulaire uniforme et Gravitation",
+      "path": "Theme 6-Mouvement circulaire uniforme et Gravitation.md"
+    },
+    {
+      "basename": "Theme 4-Oscillations et ondes",
+      "path": "Theme 4-Oscillations et ondes.md"
     },
     {
       "basename": "Changement d'énergies au cour d'un MHS",
       "path": "Changement d'énergies au cour d'un MHS.md"
     },
     {
-      "basename": "Energies potentielles",
-      "path": "Energies potentielles.md"
-    },
-    {
       "basename": "Mouvement harmonique simple (MHS)",
       "path": "Mouvement harmonique simple (MHS).md"
+    },
+    {
+      "basename": "Chapitre 2 - Ondes progressives périodiques",
+      "path": "Chapitre 2 - Ondes progressives périodiques.md"
+    },
+    {
+      "basename": "Onde progressive",
+      "path": "Onde progressive.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Utilisation des langages de programmation",
+      "path": "Utilisation des langages de programmation.md"
+    },
+    {
+      "basename": "Probabilité discrètes",
+      "path": "Probabilité discrètes.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Externalité de la consommation",
+      "path": "Externalité de la consommation.md"
+    },
+    {
+      "basename": "Untitled 14",
+      "path": "Untitled 14.md"
+    },
+    {
+      "basename": "Chapitre 3 - Introduction a la programmation",
+      "path": "Chapitre 3 - Introduction a la programmation.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Distribution binomiale",
+      "path": "Distribution binomiale.md"
+    },
+    {
+      "basename": "oral mademba",
+      "path": "oral mademba.md"
+    },
+    {
+      "basename": "Chapitre 1 - Mouvement harmonique simple (MHS)",
+      "path": "Chapitre 1 - Mouvement harmonique simple (MHS).md"
+    },
+    {
+      "basename": "Energies potentielles",
+      "path": "Energies potentielles.md"
     },
     {
       "basename": "Période d'un pendule simple et élastique",
@@ -29,28 +129,12 @@
       "path": "Tension d'un ressort.md"
     },
     {
-      "basename": "Theme 4-Oscillations et ondes",
-      "path": "Theme 4-Oscillations et ondes.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Externalité de la consommation",
-      "path": "Externalité de la consommation.md"
-    },
-    {
       "basename": "Externalité de la production",
       "path": "Externalité de la production.md"
     },
     {
       "basename": "Nouvelle expression de la deuxième loi de Newton",
       "path": "Nouvelle expression de la deuxième loi de Newton.md"
-    },
-    {
-      "basename": "Chapitre 4 - Quantité de mouvement",
-      "path": "Chapitre 4 - Quantité de mouvement.md"
     },
     {
       "basename": "Quantité de mouvement",
@@ -61,24 +145,8 @@
       "path": "Advertisements.md"
     },
     {
-      "basename": "Politique monétaire",
-      "path": "Politique monétaire.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "Théorème Binomial",
       "path": "Théorème Binomial.md"
-    },
-    {
-      "basename": "Distribution binomiale",
-      "path": "Distribution binomiale.md"
     },
     {
       "basename": "Polynômes",
@@ -131,74 +199,6 @@
     {
       "basename": "Relation entre égalité et équité",
       "path": "Relation entre égalité et équité.md"
-    },
-    {
-      "basename": "Theme 2-Macro-économie",
-      "path": "Theme 2-Macro-économie.md"
-    },
-    {
-      "basename": "Taux de natalité et des taux de dépendance élevés",
-      "path": "Taux de natalité et des taux de dépendance élevés.md"
-    },
-    {
-      "basename": "Dépendance à l’égard du secteur primaire",
-      "path": "Dépendance à l’égard du secteur primaire.md"
-    },
-    {
-      "basename": "Untitled 13",
-      "path": "Untitled 13.md"
-    },
-    {
-      "basename": "Untitled 12",
-      "path": "Untitled 12.md"
-    },
-    {
-      "basename": "Untitled 11",
-      "path": "Untitled 11.md"
-    },
-    {
-      "basename": "Inflation et ses causes",
-      "path": "Inflation et ses causes.md"
-    },
-    {
-      "basename": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
-      "path": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md"
-    },
-    {
-      "basename": "Equilibre à court terme",
-      "path": "Equilibre à court terme.md"
-    },
-    {
-      "basename": "Probabilité discrètes",
-      "path": "Probabilité discrètes.md"
-    },
-    {
-      "basename": "Distribution discrètes",
-      "path": "Distribution discrètes.md"
-    },
-    {
-      "basename": "oral mademba",
-      "path": "oral mademba.md"
-    },
-    {
-      "basename": "Conservation de la quantité de mouvement",
-      "path": "Conservation de la quantité de mouvement.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "Référentiel galiléen",
-      "path": "Référentiel galiléen.md"
-    },
-    {
-      "basename": "Travail d'une force variable",
-      "path": "Travail d'une force variable.md"
-    },
-    {
-      "basename": "Méthode de résolution de problème de dynamique",
-      "path": "Méthode de résolution de problème de dynamique.md"
     }
   ],
   "omittedPaths": [],

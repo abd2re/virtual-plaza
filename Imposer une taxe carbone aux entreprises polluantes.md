@@ -12,7 +12,7 @@ Le gouvernement pourrait imposer une taxe sur l'entreprise par unité de product
 ?
 - Les taxes sur le carbone imposées aux entreprises polluantes sont beaucoup plus faciles à appliquer que d'autres mesures, telles que les [[permis d'émission négociables]].
 - Les recettes fiscales provenant de la taxe sur le carbone seront collectées et pourront être investies dans la promotion de l'innovation et des nouvelles technologies, telles que les sources renouvelables de production d'énergie.
-<!--SR:!2023-11-15,174,250-->
+<!--SR:!2024-02-09,86,230-->
 
 **Problèmes avec cette solution (3):**
 ?

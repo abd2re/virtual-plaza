@@ -83,5 +83,5 @@ Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factoris
 - La somme de toutes les pairs de racines est égale à::$$\sum r_{i}r_{j}=-\frac{a_{n-2}}{a_{n}}$$
 <!--SR:!2023-11-26,17,250-->
 - La somme de toutes les triplets de racines est égale à::$$\sum r_{i}r_{j}r_{k}=-\frac{a_{n-3}}{a_{n}}$$
-<!--SR:!2023-11-14,7,210-->
+<!--SR:!2023-11-29,15,210-->
 

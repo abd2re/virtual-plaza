@@ -18,7 +18,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 <!--SR:!2023-12-11,158,250-->
 
 - Autarcie =:: économie fermée
-<!--SR:!2023-11-14,56,270-->
+<!--SR:!2024-04-12,150,270-->
 
 ### Symboles en macro-économie
 - T =:: Taxes
@@ -28,7 +28,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - M =:: Importations
 <!--SR:!2024-02-28,257,330-->
 - G =:: Dépenses gouvernementales
-<!--SR:!2023-11-14,161,310-->
+<!--SR:!2025-03-26,498,310-->
 - I =:: Investissements
 <!--SR:!2023-12-07,179,310-->
 - X =:: Exportations

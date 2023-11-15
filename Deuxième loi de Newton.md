@@ -13,4 +13,4 @@ Formule:
 $$\Large{\sum \vec{F}_{ext}=m\vec{a}}$$
 - $\vec{a}$ = vecteur accélération du système
 - $m$ = masse du système
-<!--SR:!2023-11-15,117,250-->
+<!--SR:!2024-09-02,292,250-->

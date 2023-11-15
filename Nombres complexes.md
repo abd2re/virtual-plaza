@@ -80,7 +80,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $\cos\theta$=::$\frac{a}{|z|}$
 <!--SR:!2023-12-01,24,236-->
 - $\sin\theta$=::$\frac{b}{|z|}$
-<!--SR:!2023-11-15,15,236-->
+<!--SR:!2023-12-22,37,236-->
 - $|zw|$=::$|z||w|$
 <!--SR:!2023-12-09,36,276-->
 - $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
@@ -94,7 +94,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $\theta$=::$\tan^{-1}(\frac{b}{a})$
 <!--SR:!2023-11-16,16,236-->
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
-<!--SR:!2023-11-15,10,196-->
+<!--SR:!2023-12-06,21,196-->
 - $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
 <!--SR:!2023-11-17,16,234-->
 
@@ -102,7 +102,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 Si $|z|=1$ alors $z^{*}$=::$z^{-1}$
 <!--SR:!2023-12-02,24,234-->
 $e^{i\pi}$=::$-1$
-<!--SR:!2023-11-15,14,234-->
+<!--SR:!2023-12-20,35,234-->
 
 - $z^{n}+z^{-n}$=::$2\cos(n\theta)$
 <!--SR:!2023-12-12,29,234-->
@@ -111,10 +111,10 @@ $e^{i\pi}$=::$-1$
 - $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
 <!--SR:!2023-11-17,16,234-->
 - $e^{in\theta}-e^{-in\theta}$=::$2i\sin(n\theta)$
-<!--SR:!2023-11-14,14,234-->
+<!--SR:!2023-12-16,32,234-->
 
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2023-11-15,4,153-->
+<!--SR:!2023-11-17,2,133-->
 

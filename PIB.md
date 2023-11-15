@@ -73,7 +73,7 @@ $$\large{\text{PIB réel} = \frac{\text{PIB nominal}}{\text{Déflateur du PIB}}\
 Formule du PNB réel:
 ?
 $$\large{\text{PNB réel} = \frac{\text{PNB nominal}}{\text{Déflateur du PIB}}\cdot 100}$$
-<!--SR:!2023-11-15,88,201-->
+<!--SR:!2023-12-28,43,181-->
 
 ## PIB par habitant et PNB par habitant
 Formules:
