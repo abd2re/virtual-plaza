@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Distribution normale",
+      "path": "Distribution normale.md"
+    },
+    {
+      "basename": "Distribution binomiale",
+      "path": "Distribution binomiale.md"
+    },
+    {
+      "basename": "Fonctions quadratiques",
+      "path": "Fonctions quadratiques.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
       "basename": "Objectifs de la politique monétaire",
       "path": "Objectifs de la politique monétaire.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "Theme 2-Macro-économie",
       "path": "Theme 2-Macro-économie.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "_TOK",
@@ -85,10 +101,6 @@
       "path": "Probabilité discrètes.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "Externalité de la consommation",
       "path": "Externalité de la consommation.md"
     },
@@ -103,10 +115,6 @@
     {
       "basename": "_computer science",
       "path": "_computer science.md"
-    },
-    {
-      "basename": "Distribution binomiale",
-      "path": "Distribution binomiale.md"
     },
     {
       "basename": "oral mademba",
@@ -191,14 +199,6 @@
     {
       "basename": "Indice de pauvreté multidimensionnelle",
       "path": "Indice de pauvreté multidimensionnelle.md"
-    },
-    {
-      "basename": "Mesurer les inégalités économiques",
-      "path": "Mesurer les inégalités économiques.md"
-    },
-    {
-      "basename": "Relation entre égalité et équité",
-      "path": "Relation entre égalité et équité.md"
     }
   ],
   "omittedPaths": [],

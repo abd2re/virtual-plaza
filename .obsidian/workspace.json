@@ -18,9 +18,27 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "_math",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":17.463768115942027}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.3007518796992481}"
+                },
+                {
+                  "title": "Objectifs de la politique monétaire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Objectifs de la politique monétaire.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":47},\"to\":{\"line\":14,\"ch\":47}},\"scroll\":9.405797101449275}"
+                },
+                {
                   "title": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false},\"popstate\":true,\"active\":true}",
                   "eState": "{}"
                 },
                 {
@@ -58,8 +76,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objectifs de la politique monétaire.md",
-                "mode": "source",
+                "file": "Distribution normale.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -185,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objectifs de la politique monétaire.md",
+                "file": "Distribution normale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objectifs de la politique monétaire.md",
+                "file": "Distribution normale.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objectifs de la politique monétaire.md"
+                "file": "Distribution normale.md"
               }
             }
           },
@@ -288,7 +306,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Objectifs de la politique monétaire.md"
+                "file": "Distribution normale.md"
               }
             }
           },
@@ -367,7 +385,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Objectifs de la politique monétaire.md",
+                "file": "Distribution normale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -436,16 +454,20 @@
   },
   "active": "859228e40c7bebe8",
   "lastOpenFiles": [
+    "Distribution binomiale.md",
+    "Fonctions quadratiques.md",
+    "_math.md",
+    "Distribution normale.md",
+    "_economy.md",
+    "Objectifs de la politique monétaire.md",
     "Politique monétaire.md",
     "assets/Politique monétaire/image-20231108093711743.png",
     "assets/Politique monétaire/image-20231108093526578.png",
     "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
-    "Objectifs de la politique monétaire.md",
     "assets/Objectifs de la politique monétaire/image-20231115181837075.png",
     "assets/Objectifs de la politique monétaire",
     "Caractéristiques d'un MHS.md",
     "Theme 2-Macro-économie.md",
-    "_economy.md",
     "Theme 1-Micro-économie.md",
     "_TOK.md",
     "Conservation de la quantité de mouvement.md",
@@ -462,9 +484,6 @@
     "Onde progressive.md",
     "_physics.md",
     "Chapitre 3 - Travail d'une force.md",
-    "Utilisation des langages de programmation.md",
-    "Probabilité discrètes.md",
-    "_math.md",
     "assets/Externalité de la consommation/image-20230207161324381.png",
     "assets/Externalité de la consommation/image-20230207165514044.png",
     "assets/Externalité de la consommation/image-20230208084954664.png",
