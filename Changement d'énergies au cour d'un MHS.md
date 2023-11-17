@@ -18,10 +18,4 @@ Graphique énergie potentielle (masse attaché à un ressort)
 <!--SR:!2023-11-19,2,230-->
 
 
-Graphiques position-vitesse-accélération en fonction du temps
-?
-![[image-20231113103206092.png|center]]
-<!--SR:!2023-11-24,7,250-->
-
-
 

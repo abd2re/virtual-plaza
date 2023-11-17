@@ -18,3 +18,5 @@ Un mouvement oscillatoire qui s'effectue de part et d'autre d'une position d'éq
 <!--SR:!2023-11-22,5,230-->
 - Amplitude ($x_{\text{max}}$ ou $x_{0}$)=>:: Représente le déplacement maximum d'un système oscillant par rapport à la position d'équilibre.
 <!--SR:!2023-11-23,6,250-->
+
+Formule de l'accéleration par rapport a la position (MHS)::$$a=-\frac{k}{m}x$$

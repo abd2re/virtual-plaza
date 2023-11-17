@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Onde progressive",
+      "path": "Onde progressive.md"
+    },
+    {
+      "basename": "Caractéristiques d'un MHS",
+      "path": "Caractéristiques d'un MHS.md"
+    },
+    {
+      "basename": "Theme 4-Oscillations et ondes",
+      "path": "Theme 4-Oscillations et ondes.md"
+    },
+    {
+      "basename": "image-20231117200324111",
+      "path": "assets/Onde progressive/image-20231117200324111.png"
+    },
+    {
+      "basename": "image-20231117200436216",
+      "path": "assets/Onde progressive/image-20231117200436216.png"
+    },
+    {
+      "basename": "Mouvement harmonique simple (MHS)",
+      "path": "Mouvement harmonique simple (MHS).md"
+    },
+    {
+      "basename": "Chapitre 2 - Ondes progressives périodiques",
+      "path": "Chapitre 2 - Ondes progressives périodiques.md"
+    },
+    {
+      "basename": "Chapitre 1 - Mouvement harmonique simple (MHS)",
+      "path": "Chapitre 1 - Mouvement harmonique simple (MHS).md"
+    },
+    {
+      "basename": "Période d'un pendule simple et élastique",
+      "path": "Période d'un pendule simple et élastique.md"
+    },
+    {
+      "basename": "Changement d'énergies au cour d'un MHS",
+      "path": "Changement d'énergies au cour d'un MHS.md"
+    },
+    {
       "basename": "Politiques monétaires expansionnistes et restrictives",
       "path": "Politiques monétaires expansionnistes et restrictives.md"
     },
@@ -69,10 +109,6 @@
       "path": "_math.md"
     },
     {
-      "basename": "Caractéristiques d'un MHS",
-      "path": "Caractéristiques d'un MHS.md"
-    },
-    {
       "basename": "_TOK",
       "path": "_TOK.md"
     },
@@ -101,26 +137,6 @@
       "path": "Theme 6-Mouvement circulaire uniforme et Gravitation.md"
     },
     {
-      "basename": "Theme 4-Oscillations et ondes",
-      "path": "Theme 4-Oscillations et ondes.md"
-    },
-    {
-      "basename": "Changement d'énergies au cour d'un MHS",
-      "path": "Changement d'énergies au cour d'un MHS.md"
-    },
-    {
-      "basename": "Mouvement harmonique simple (MHS)",
-      "path": "Mouvement harmonique simple (MHS).md"
-    },
-    {
-      "basename": "Chapitre 2 - Ondes progressives périodiques",
-      "path": "Chapitre 2 - Ondes progressives périodiques.md"
-    },
-    {
-      "basename": "Onde progressive",
-      "path": "Onde progressive.md"
-    },
-    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -145,16 +161,8 @@
       "path": "oral mademba.md"
     },
     {
-      "basename": "Chapitre 1 - Mouvement harmonique simple (MHS)",
-      "path": "Chapitre 1 - Mouvement harmonique simple (MHS).md"
-    },
-    {
       "basename": "Energies potentielles",
       "path": "Energies potentielles.md"
-    },
-    {
-      "basename": "Période d'un pendule simple et élastique",
-      "path": "Période d'un pendule simple et élastique.md"
     },
     {
       "basename": "Tension d'un ressort",
@@ -191,14 +199,6 @@
     {
       "basename": "Coûts relatifs du chômage par rapport a l'inflation",
       "path": "Coûts relatifs du chômage par rapport a l'inflation.md"
-    },
-    {
-      "basename": "Causes des inégalités économiques et de la pauvreté",
-      "path": "Causes des inégalités économiques et de la pauvreté.md"
-    },
-    {
-      "basename": "Chapitre 4 - Économie des inégalités et de la pauvreté",
-      "path": "Chapitre 4 - Économie des inégalités et de la pauvreté.md"
     }
   ],
   "omittedPaths": [],
