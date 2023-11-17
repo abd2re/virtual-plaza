@@ -12,4 +12,4 @@ Le gouvernement pourrait faire prendre conscience des risques et des dangers que
 ?
 -   Les coûts de ces solutions pourraient être élevés et générer un coût d'opportunité pour le gouvernement. Cependant, si ces biens étaient également taxés, les revenus générés pourraient être utilisés pour financer ces mesures.
 -   Il y a toujours un certain doute quant à l'efficacité de la publicité pour réduire la demande, en particulier dans des cas tels que la consommation de cigarettes au sein de certains groupes d'âge. De nombreuses études montrent que la publicité n'a pas un grand effet sur les adolescents pour réduire la consommation de cigarettes.
-<!--SR:!2023-11-16,174,250-->
+<!--SR:!2024-02-10,86,230-->

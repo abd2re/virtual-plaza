@@ -36,7 +36,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 ### Autour de $\pi$
 - $\cos(\pi-\theta)$=::$-\cos\theta$
-<!--SR:!2023-11-17,110,250-->
+<!--SR:!2024-08-17,274,250-->
 - $\sin(\pi-\theta)$=::$\sin\theta$
 <!--SR:!2024-02-15,165,250-->
 - $\cos(\pi+\theta)$=::$-\cos\theta$

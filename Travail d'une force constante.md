@@ -22,4 +22,4 @@ $$\Large{W_{A\rightarrow B}(\vec{F})=\vec{F}\cdot\vec{AB}=F\times AB\times \cos\
 <!--SR:!2023-12-19,56,221-->
 - Si $W<0$ alors le travail est un travail résistant.
 - Si $W=0$ alors forcément:: $F=0$ ou $\theta=90$
-<!--SR:!2023-11-16,35,221-->
+<!--SR:!2024-01-31,76,221-->

@@ -24,7 +24,7 @@ Un langage de programmation est décrit comme la combinaison de:
 ?
 - Sa **sémantique**, qui se réfère à la signification de chaque construction possible dans le langage.
 - Sa **syntaxe**, qui se rapporte à sa structure.
-<!--SR:!2023-11-17,34,230-->
+<!--SR:!2024-02-02,77,230-->
 
 Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un langage, tandis que les règles de construction des énoncés sont appelées:: syntaxe.
 <!--SR:!2023-12-14,52,250-->

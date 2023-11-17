@@ -88,15 +88,15 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $zw$=::$|z||w|[\cos(\theta+\alpha)+i\sin(\theta+\alpha)]$
 <!--SR:!2023-11-19,12,216-->
 - $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$
-<!--SR:!2023-11-16,16,236-->
+<!--SR:!2023-12-23,37,236-->
 - $z^{n}$=::$|z|^{n}(\cos n\theta+i\sin n\theta)$
 <!--SR:!2023-12-05,25,216-->
 - $\theta$=::$\tan^{-1}(\frac{b}{a})$
-<!--SR:!2023-11-16,16,236-->
+<!--SR:!2023-12-22,36,236-->
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
 <!--SR:!2023-12-06,21,196-->
 - $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
-<!--SR:!2023-11-17,16,234-->
+<!--SR:!2023-12-23,36,234-->
 
 ## Formules d'Euler (module=1)
 Si $|z|=1$ alors $z^{*}$=::$z^{-1}$
@@ -107,14 +107,14 @@ $e^{i\pi}$=::$-1$
 - $z^{n}+z^{-n}$=::$2\cos(n\theta)$
 <!--SR:!2023-12-12,29,234-->
 - $z^{n}-z^{-n}$=::$2i\sin(n\theta)$
-<!--SR:!2023-11-16,15,234-->
+<!--SR:!2023-12-20,34,234-->
 - $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
-<!--SR:!2023-11-17,16,234-->
+<!--SR:!2023-12-22,35,234-->
 - $e^{in\theta}-e^{-in\theta}$=::$2i\sin(n\theta)$
 <!--SR:!2023-12-16,32,234-->
 
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2023-11-17,2,133-->
+<!--SR:!2023-11-20,3,133-->
 

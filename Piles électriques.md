@@ -50,8 +50,8 @@ formule emf::$$e=(r+R)I$$
 **Tension aux bornes d'un récepteur**:
 ?
 Un récepteur (ex un moteur, un électrolyseur) est un appareil qui consomme plus d'énergie que n'a besoin l'effet joule.
-Le récepteur est caractérisé oar 1 fcem $e'$ (force contre électromotrice) et par sa résistance interne. 
-<!--SR:!2023-11-16,186,240-->
+Le récepteur est caractérisé oar 1 fcem $e'$ (force contre électromotrice) et par sa résistance interne.
+<!--SR:!2024-02-16,92,220-->
 
 Formule de la tension  d'un récepteur::$$U_{recept}=e'+rI$$
 <!--SR:!2024-01-26,225,240-->
@@ -88,7 +88,7 @@ Pour avoir plus d'intensité
 ![[image-20230110093433182.png]]
 $$U_{PN}=e-r\frac{I}{n}=e-r\frac{I}{n}=e-r\frac{I}{n}$$
 $$e_{//}=e,\;r_{//}=\frac{r}{n}$$
-<!--SR:!2023-11-17,186,240-->
+<!--SR:!2024-02-17,92,220-->
 
 
 

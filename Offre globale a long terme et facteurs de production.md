@@ -11,7 +11,7 @@ Qu'est-ce qui déplace la courbe OGLT ?
 ?
 Tout changement dans la quantité ou la qualité des facteurs de production.
 ![[image-20230515114907487.png]]![[image-20230515114918209.png]]
-<!--SR:!2023-11-16,38,190-->
+<!--SR:!2024-01-26,71,190-->
 
 Les facteurs de productions de l'OGLT sont (4):
 ?

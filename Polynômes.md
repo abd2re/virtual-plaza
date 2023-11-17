@@ -9,7 +9,7 @@ Created: 2023-10-27
 - $(x - k)$ est un facteur de $P(x)$ si:: $P(k)= 0$
 <!--SR:!2023-11-29,20,250-->
 - $P(k)=0$ si:: $(x-k)$ est un facteur de $P(x)$
-<!--SR:!2023-11-17,7,190-->
+<!--SR:!2023-11-30,13,190-->
 - $P(x)$=::$(x-k)\times Q(x)$, où $Q(x)$ est un polynôme qui est un facteur de $P(x)$
 <!--SR:!2023-11-29,19,250-->
 - $\frac{P(x)}{x-k}$=::$Q(x)$
@@ -30,7 +30,7 @@ Created: 2023-10-27
 
 ## Division polynomiale
 Formule générale::$$\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$$
-<!--SR:!2023-11-16,10,230-->
+<!--SR:!2023-12-08,22,230-->
 
 - Cette méthode n'est généralement utile que lorsque le degré du dénominateur est:: inférieur ou égal au degré du numérateur.
 <!--SR:!2023-11-25,17,250-->

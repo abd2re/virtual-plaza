@@ -35,7 +35,7 @@ Ils sont (2):
 ?
 - [[Indice de développement humain]] (IDH)
 - [[Indice de pauvreté multidimensionnelle]] (IPM)
-<!--SR:!2023-11-16,4,209-->
+<!--SR:!2023-11-23,7,209-->
 
 ## Difficultés à mesurer la pauvreté
 Ils sont (4):

@@ -17,7 +17,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement élémentaire:: a une seule issue
 <!--SR:!2024-01-03,63,250-->
 - Evénement composé:: a plusieurs issues
-<!--SR:!2023-11-17,38,270-->
+<!--SR:!2024-02-27,102,270-->
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
 <!--SR:!2024-01-09,69,250-->
 - Evénement contraire a A noté A':: événement dont les issues n'appartiennent pas a A
