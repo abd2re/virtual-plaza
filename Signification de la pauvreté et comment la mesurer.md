@@ -29,7 +29,7 @@ Ils sont (5):
 ### Indicateurs composites
 ?
 Un indicateur composite fait référence à un certain nombre d’indicateurs uniques compilés pour former un indice permettant de mesurer des concepts multidimensionnels tels que la pauvreté.
-<!--SR:!2023-11-19,21,250-->
+<!--SR:!2024-01-10,52,250-->
 
 Ils sont (2):
 ?
@@ -44,4 +44,4 @@ Ils sont (4):
 - Pauvreté au sein du ménage
 - Pauvreté urbaine
 - Données ventilées sur la pauvreté (démographie)
-<!--SR:!2023-11-18,4,130-->
+<!--SR:!2023-11-24,6,130-->

@@ -18,7 +18,7 @@ $$\Large{F_{m}=|q|vB\sin\theta}$$
 - $v$ = vitesse de la particule
 - $B$ = champ magnétique
 - $\theta$ = $\angle(\vec{v},\vec{B})$ (aigu), si $\sin(\theta)<0$ alors on prend sa valeur absolue
-<!--SR:!2023-11-20,19,170-->
+<!--SR:!2023-12-21,31,170-->
 
 Règle de la paume de la main droite.
 ?

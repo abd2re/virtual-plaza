@@ -72,7 +72,7 @@ L’inflation tirée par la demande se produit lorsqu’il y a une augmentation 
 ### Inflation par les coûts de production
 ?
 L’inflation poussée par les coûts se produit lorsque l’offre globale diminue. Cela sera toujours dû à une augmentation des coûts de production ou à une forte perturbation de la disponibilité des facteurs de production.
-<!--SR:!2023-11-20,38,243-->
+<!--SR:!2023-12-08,18,223-->
 
 De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tels que (5):
 ?

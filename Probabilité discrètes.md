@@ -33,7 +33,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
-<!--SR:!2023-11-18,16,230-->
+<!--SR:!2023-12-24,36,230-->
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a:: équiprobabilité ou équi-répartition.
 <!--SR:!2023-12-21,56,250-->
 
@@ -43,7 +43,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(U)$=::1 
 <!--SR:!2023-12-20,56,250-->
 - $P(0)$=::0
-<!--SR:!2023-11-18,39,270-->
+<!--SR:!2024-03-01,104,270-->
 - $P(A)+P(A')$=::1 
 <!--SR:!2023-12-24,57,250-->
 - $P(A\cup B)$ (2)=::$P(A)+P(B)-P(A\cap B)=P(A\cap B')+P(A\cap B)+P(A'\cap B)$

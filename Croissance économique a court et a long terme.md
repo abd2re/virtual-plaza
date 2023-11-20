@@ -8,7 +8,7 @@ CPP (PPC) veut dire::Courbe des Possibilités de Production
 <!--SR:!2024-03-28,167,230-->
 
 Le CCP représente la taille de l'économie si toutes les ressources sont pleinement employées. La qualité et la quantité des facteurs de production déterminent le niveau de production du plein emploi. Il existe deux façons de décrire la croissance économique à l'aide du PPC->:: l'augmentation de la production réelle (à court terme) et l'augmentation de la production potentielle (à long terme).
-<!--SR:!2023-11-18,55,230-->
+<!--SR:!2023-12-15,27,210-->
 
 Représentation du CPP avec noms:
 ?

@@ -74,7 +74,7 @@ Quels sont les coûts économiques du chômage (5) ?:
 3. Augmentation du coût des allocations de chômage
 4. Perte de revenus pour les particuliers
 5. De plus grandes disparités dans la répartition des revenus
-<!--SR:!2023-11-20,33,182-->
+<!--SR:!2023-12-06,16,162-->
 
 Quels sont les coûts personnels du chômage (2) ?:
 ?
@@ -86,7 +86,7 @@ Quels sont les coûts sociaux du chômage (2) ?:
 ?
 1. Augmentation du taux de criminalité
 2. Risques accrus pour la santé
-<!--SR:!2023-11-20,43,242-->
+<!--SR:!2023-12-11,21,222-->
 
 ## Solutions au chômage
 Graphes des deux causes principales (avec leur noms):

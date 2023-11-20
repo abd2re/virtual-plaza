@@ -14,3 +14,4 @@ Principaux avantages (6):
 - Faciliter l'abstraction en cachant les détails de l'implémentation aux utilisateurs du sous programme
 - Amélioration de la maintenabilité et de la traçabilité
 - Réduction de la duplication du code de programmation au sein d'un même programme
+<!--SR:!2023-11-21,3,250-->

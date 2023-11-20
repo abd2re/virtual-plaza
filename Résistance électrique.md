@@ -15,7 +15,7 @@ $$R=\frac{\rho l}{A}$$
 - $\rho$ est la résistivité du matériau en ohm-metre
 - $l$ est la longueur du fil
 - $A$ est la surface du fil
-<!--SR:!2023-11-20,76,210-->
+<!--SR:!2024-04-27,159,210-->
 
 ## Loi d'Ohm et conducteur ohmique
 
@@ -80,7 +80,7 @@ Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fi
 
 ### Rhéostat
 Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. Le montage rheostat serre a faire varier l'intensité dans un circuit car la résistance varie selon la position du curseur.![[image-20230116161818037.png|275]]
-<!--SR:!2023-11-19,71,243-->
+<!--SR:!2024-05-09,172,243-->
 
 
 **Montage potentiométrique** branchement, formule de base et formules pour les 3 cas:

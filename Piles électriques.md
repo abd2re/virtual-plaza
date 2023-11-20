@@ -35,7 +35,7 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 - $e$ c'est la tension aux bornes de la pile quand:: elle ne fournit pas de courant
 <!--SR:!2024-01-11,231,246-->
 - Un pile idéale est une pile qui:: n'a pas de résistance interne $r=0$ (le graphe intensité-tension est constante en $e$)
-<!--SR:!2023-11-18,198,246-->
+<!--SR:!2024-02-24,98,226-->
 
 circuit équivalent d'une pile réel::![[equivalent e;r]]
 <!--SR:!2023-11-23,78,226-->

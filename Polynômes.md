@@ -15,14 +15,14 @@ Created: 2023-10-27
 - $\frac{P(x)}{x-k}$=::$Q(x)$
 <!--SR:!2023-11-28,18,250-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors il faut que:: $P\left(\frac{b}{a}\right)=0$
-<!--SR:!2023-11-20,13,230-->
+<!--SR:!2023-12-19,29,230-->
 ## Théorème des restes
 - Lorsqu'un polynôme quelconque $P(x)$ est divisé par une fonction linéaire quelconque $(x - k)$, la valeur du reste $R$ est donnée par:: $P(k) =R$
 <!--SR:!2023-12-09,27,250-->
 - Remarque : lorsque $P(k) =0$, $(x - k)$ est:: un facteur de $P(x)$.
 <!--SR:!2023-11-23,15,250-->
 - $P(x)$=::$(x-k)\times Q(x)+R$ où $Q(x)$ est un polynôme
-<!--SR:!2023-11-19,8,210-->
+<!--SR:!2023-12-05,16,210-->
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
 <!--SR:!2023-12-10,28,250-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
@@ -79,7 +79,7 @@ Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factoris
 - La somme des racines est égale à:: $$r_{1}+r_{2}+\dots+r_{n-1}+r_{n}=-\frac{a_{n-1}}{a_{n}}$$
 <!--SR:!2023-11-26,17,250-->
 - Le produit des racines est égale à::$$r_{1}\times r_{2}\times\dots\times r_{n-1}\times r_{n}=\frac{(-1)^{n}a_{0}}{a_{n}}$$
-<!--SR:!2023-11-19,12,230-->
+<!--SR:!2023-12-18,29,230-->
 - La somme de toutes les pairs de racines est égale à::$$\sum r_{i}r_{j}=-\frac{a_{n-2}}{a_{n}}$$
 <!--SR:!2023-11-26,17,250-->
 - La somme de toutes les triplets de racines est égale à::$$\sum r_{i}r_{j}r_{k}=-\frac{a_{n-3}}{a_{n}}$$

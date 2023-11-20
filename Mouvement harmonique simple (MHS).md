@@ -7,7 +7,7 @@ Created: 2023-11-08
 # Mouvement harmonique simple (MHS)
 ?
 Un mouvement oscillatoire qui s'effectue de part et d'autre d'une position d'équilibre (pas de perte d'énergie). (*Pendule simple,..*)
-<!--SR:!2023-11-18,1,170-->
+<!--SR:!2023-11-21,1,130-->
 
 ## Définition de quelques grandeurs
 - Période ($T$) en seconde ($s$)=>:: Temps mis pour faire une oscillation.
@@ -20,3 +20,4 @@ Un mouvement oscillatoire qui s'effectue de part et d'autre d'une position d'éq
 <!--SR:!2023-11-23,6,250-->
 
 Formule de l'accéleration par rapport a la position (MHS)::$$a=-\frac{k}{m}x$$
+<!--SR:!2023-11-22,2,239-->

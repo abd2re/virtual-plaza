@@ -13,7 +13,7 @@ Lorsque l'élasticité-prix de la demande est supérieure à 1 (PED > 1) **,**�
 ## Demande inélastique au prix
 ?
 Lorsque la valeur de l'élasticité-prix est comprise entre 0 et 1 (0 < PED < 1), la demande est inélastique au prix , car la demande des consommateurs est relativement insensible aux variations de prix.
-<!--SR:!2023-11-18,85,230-->
+<!--SR:!2024-05-31,195,230-->
 
 ## Demande à élasticité unitaire
 ?

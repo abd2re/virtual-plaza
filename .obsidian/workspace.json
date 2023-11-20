@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "656260f8f16872a0",
+        "id": "b79dde6389a2b47c",
         "type": "tabs",
         "children": [
           {
-            "id": "d81c6a7d4875e1f9",
+            "id": "9887eb25fc7caaba",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,48 +18,30 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Chapitre 2 - Ondes progressives périodiques",
+                  "title": "_french B",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Ondes progressives périodiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Onde progressive",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onde progressive.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "title": "Theme 4-Oscillations et ondes",
+                  "title": "_physics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Oscillations et ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":4.658823529411765}"
-                },
-                {
-                  "title": "Politiques monétaires expansionnistes et restrictives",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Politiques monétaires expansionnistes et restrictives.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":13.27051177904143}"
-                },
-                {
-                  "title": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Macro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":11.820615261685976}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":10.754777070063694}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Onde progressive.md",
-                "mode": "source",
+                "file": "Types de texte.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -185,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Onde progressive.md",
+                "file": "Types de texte.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Onde progressive.md",
+                "file": "Types de texte.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Onde progressive.md"
+                "file": "Types de texte.md"
               }
             }
           },
@@ -288,7 +270,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Onde progressive.md"
+                "file": "Types de texte.md"
               }
             }
           },
@@ -327,9 +309,26 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "66003aabcb3ef8f7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       },
       {
         "id": "f8bb5be5c8567d45",
@@ -350,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Onde progressive.md",
+                "file": "Types de texte.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -417,19 +416,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d81c6a7d4875e1f9",
+  "active": "9887eb25fc7caaba",
   "lastOpenFiles": [
-    "assets/Onde progressive/image-20231117200436216.png",
+    "_french B.md",
+    "Types de texte.md",
     "Onde progressive.md",
+    "assets/Onde progressive/image-20231117200436216.png",
+    "_physics.md",
+    "Périodicité temporelle, périodicité spatiale.md",
+    "Chapitre 1 - Analyse dimensionnelle.md",
+    "Polarisation.md",
+    "assets/Polarisation/image-20231120115211923.png",
+    "assets/Polarisation",
+    "Chapitre 3 - Caractéristiques des ondes.md",
+    "Amplitude et intensité d'une onde.md",
+    "Fronts d'onde et rayons.md",
+    "Théorème de superposition.md",
+    "assets/Fronts d'onde et rayons/image-20231120110828452.png",
+    "assets/Fronts d'onde et rayons",
+    "Theme 4-Oscillations et ondes.md",
+    "Chapitre 2 - Ondes progressives périodiques.md",
+    "Ondes électromagnétiques et ondes sonores.md",
+    "assets/Onde progressive/image-20231117200324111.png",
+    "Theme 2-Mécanique.md",
+    "_computer science.md",
+    "_english.md",
+    "Distribution normale.md",
+    "_math.md",
+    "Polynômes.md",
     "Caractéristiques d'un MHS.md",
     "assets/Caractéristiques d'un MHS/image-20231117193758725.png",
-    "Theme 4-Oscillations et ondes.md",
     "Mouvement harmonique simple (MHS).md",
     "Chapitre 1 - Mouvement harmonique simple (MHS).md",
-    "assets/Onde progressive/image-20231117200324111.png",
     "assets/Onde progressive",
     "assets/Caractéristiques d'un MHS/image-20231117193925638.png",
-    "Chapitre 2 - Ondes progressives périodiques.md",
     "assets/Caractéristiques d'un MHS",
     "Période d'un pendule simple et élastique.md",
     "Changement d'énergies au cour d'un MHS.md",
@@ -438,31 +458,11 @@
     "assets/Changement d'énergies au cour d'un MHS/image-20231108112251810.png",
     "Politiques monétaires expansionnistes et restrictives.md",
     "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192926653.png",
-    "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192814757.png",
     "assets/Politiques monétaires expansionnistes et restrictives",
-    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
-    "Objectifs de la politique monétaire.md",
-    "Taux d’intérêt nominaux et taux d’intérêt réels.md",
-    "Theme 2-Macro-économie.md",
-    "_economy.md",
-    "Theme 1-Micro-économie.md",
-    "Utilisation de sous programmes et de collections dans un programme.md",
-    "Chapitre 3 - Introduction a la programmation.md",
-    "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
-    "_computer science.md",
-    "Politique monétaire.md",
-    "Untitled 15.md",
-    "assets/Politique monétaire/image-20231108093526578.png",
-    "Ressources du pool commun.md",
-    "_CAS.md",
-    "Distribution normale.md",
-    "Distribution binomiale.md",
     "assets/Objectifs de la politique monétaire",
     "extract lit.pdf",
     "extract non-lit.pdf",
     "msoDEAE.tmp",
-    "msoDE01.tmp",
-    "extract gatsby.pdf",
-    "extract tony.pdf"
+    "msoDE01.tmp"
   ]
 }

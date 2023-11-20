@@ -33,4 +33,4 @@ Les raisons de l'apparition d'erreurs d'échantillonnage et d'inexactitudes dan
 - Travailleurs découragés
 - Disparités régionales, ethniques, d'âge et de sexe
 - Économie informelle
-<!--SR:!2023-11-18,68,190-->
+<!--SR:!2023-12-21,33,170-->

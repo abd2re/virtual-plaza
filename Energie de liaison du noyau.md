@@ -17,7 +17,7 @@ $$\Large{\Delta{m}=Z\cdot m_{\text{proton}}+(A-Z)\cdot m_{\text{nucléons}}-m_{\
 $$\Large{\Delta m=\sum\limits m_{\text{réactifs}}-\sum\limits m_{\text{produits}}}$$
 $$\Large{\Delta E=\sum\limits E_{l(\text{produits})}-\sum\limits E_{l(\text{réactifs})}}$$
 (Noter que $m$ est exprimée en $u$)
-<!--SR:!2023-11-18,149,250-->
+<!--SR:!2024-01-31,74,230-->
 
 ## Energie de liaison
 ?

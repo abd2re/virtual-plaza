@@ -28,7 +28,7 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 ?
 ![[Champ électrique-1.png]]![[image-20221129092354879.png]]![[image-20221129092504068.png]]
 ![[image-20221201164013884.png]]
-<!--SR:!2023-11-19,200,230-->
+<!--SR:!2024-02-28,101,210-->
 
 
 - Champ crée pas plusieurs charges c'est:: la somme vectorielle de chacun des champs

@@ -1,16 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "Types de texte",
+      "path": "Types de texte.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
       "basename": "Onde progressive",
       "path": "Onde progressive.md"
     },
     {
-      "basename": "Caractéristiques d'un MHS",
-      "path": "Caractéristiques d'un MHS.md"
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Polarisation",
+      "path": "Polarisation.md"
+    },
+    {
+      "basename": "Chapitre 3 - Caractéristiques des ondes",
+      "path": "Chapitre 3 - Caractéristiques des ondes.md"
+    },
+    {
+      "basename": "Amplitude et intensité d'une onde",
+      "path": "Amplitude et intensité d'une onde.md"
+    },
+    {
+      "basename": "Théorème de superposition",
+      "path": "Théorème de superposition.md"
+    },
+    {
+      "basename": "Fronts d'onde et rayons",
+      "path": "Fronts d'onde et rayons.md"
     },
     {
       "basename": "Theme 4-Oscillations et ondes",
       "path": "Theme 4-Oscillations et ondes.md"
+    },
+    {
+      "basename": "Chapitre 2 - Ondes progressives périodiques",
+      "path": "Chapitre 2 - Ondes progressives périodiques.md"
+    },
+    {
+      "basename": "Ondes électromagnétiques et ondes sonores",
+      "path": "Ondes électromagnétiques et ondes sonores.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Distribution normale",
+      "path": "Distribution normale.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Polynômes",
+      "path": "Polynômes.md"
+    },
+    {
+      "basename": "Caractéristiques d'un MHS",
+      "path": "Caractéristiques d'un MHS.md"
     },
     {
       "basename": "image-20231117200324111",
@@ -23,10 +83,6 @@
     {
       "basename": "Mouvement harmonique simple (MHS)",
       "path": "Mouvement harmonique simple (MHS).md"
-    },
-    {
-      "basename": "Chapitre 2 - Ondes progressives périodiques",
-      "path": "Chapitre 2 - Ondes progressives périodiques.md"
     },
     {
       "basename": "Chapitre 1 - Mouvement harmonique simple (MHS)",
@@ -73,10 +129,6 @@
       "path": "Theme 4-Pensée informatique, résolution de problèmes et programmation.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "Politique monétaire",
       "path": "Politique monétaire.md"
     },
@@ -93,20 +145,12 @@
       "path": "Ressources du pool commun.md"
     },
     {
-      "basename": "Distribution normale",
-      "path": "Distribution normale.md"
-    },
-    {
       "basename": "Distribution binomiale",
       "path": "Distribution binomiale.md"
     },
     {
       "basename": "Fonctions quadratiques",
       "path": "Fonctions quadratiques.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "_TOK",
@@ -137,10 +181,6 @@
       "path": "Theme 6-Mouvement circulaire uniforme et Gravitation.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "Utilisation des langages de programmation",
       "path": "Utilisation des langages de programmation.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "oral mademba",
       "path": "oral mademba.md"
-    },
-    {
-      "basename": "Energies potentielles",
-      "path": "Energies potentielles.md"
-    },
-    {
-      "basename": "Tension d'un ressort",
-      "path": "Tension d'un ressort.md"
-    },
-    {
-      "basename": "Externalité de la production",
-      "path": "Externalité de la production.md"
-    },
-    {
-      "basename": "Nouvelle expression de la deuxième loi de Newton",
-      "path": "Nouvelle expression de la deuxième loi de Newton.md"
-    },
-    {
-      "basename": "Quantité de mouvement",
-      "path": "Quantité de mouvement.md"
-    },
-    {
-      "basename": "Advertisements",
-      "path": "Advertisements.md"
-    },
-    {
-      "basename": "Théorème Binomial",
-      "path": "Théorème Binomial.md"
-    },
-    {
-      "basename": "Polynômes",
-      "path": "Polynômes.md"
-    },
-    {
-      "basename": "Nombres complexes",
-      "path": "Nombres complexes.md"
-    },
-    {
-      "basename": "Coûts relatifs du chômage par rapport a l'inflation",
-      "path": "Coûts relatifs du chômage par rapport a l'inflation.md"
     }
   ],
   "omittedPaths": [],

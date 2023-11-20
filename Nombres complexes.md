@@ -86,7 +86,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
 <!--SR:!2023-12-09,28,236-->
 - $zw$=::$|z||w|[\cos(\theta+\alpha)+i\sin(\theta+\alpha)]$
-<!--SR:!2023-11-19,12,216-->
+<!--SR:!2023-12-16,27,216-->
 - $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$
 <!--SR:!2023-12-23,37,236-->
 - $z^{n}$=::$|z|^{n}(\cos n\theta+i\sin n\theta)$
@@ -116,5 +116,5 @@ $e^{i\pi}$=::$-1$
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2023-11-20,3,133-->
+<!--SR:!2023-11-22,2,130-->
 

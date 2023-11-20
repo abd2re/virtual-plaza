@@ -11,7 +11,7 @@ On appelle mouvement circulaire uniforme un mouvement circulaire dont le module 
 - Dans un mouvement circulaire uniforme, l'[[accélération]] est:: centripète et constante. (+perpendiculaire au vecteur vitesse)
 <!--SR:!2024-03-09,172,250-->
 - Le mouvement circulaire uniforme est:: périodique.
-<!--SR:!2023-11-18,18,130-->
+<!--SR:!2023-11-26,8,130-->
 
 Vitesses angulaire $\omega$ est égale a
 ?
