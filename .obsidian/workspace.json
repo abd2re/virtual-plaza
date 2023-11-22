@@ -8,7 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9887eb25fc7caaba",
+            "id": "220ca18a5d02d41d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polarisation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "893a63939693ffa8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,29 +40,35 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "_french B",
+                  "title": "Theme 4-Oscillations et ondes",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Onde progressive",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onde progressive.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Oscillations et ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":5.217194570135747}"
                 },
                 {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":10.754777070063694}"
+                  "eState": "{}"
+                },
+                {
+                  "title": "Amplitude et intensité d'une onde",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Amplitude et intensité d'une onde.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Chapitre 3 - Caractéristiques des ondes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 3 - Caractéristiques des ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types de texte.md",
+                "file": "Onde progressive.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -167,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types de texte.md",
+                "file": "Polarisation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types de texte.md",
+                "file": "Polarisation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types de texte.md"
+                "file": "Polarisation.md"
               }
             }
           },
@@ -270,7 +298,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Types de texte.md"
+                "file": "Polarisation.md"
               }
             }
           },
@@ -328,7 +356,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       },
       {
         "id": "f8bb5be5c8567d45",
@@ -349,7 +377,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Types de texte.md",
+                "file": "Polarisation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -409,55 +437,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "mathpad:Open Mathpad": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9887eb25fc7caaba",
+  "active": "220ca18a5d02d41d",
   "lastOpenFiles": [
-    "_french B.md",
-    "Types de texte.md",
     "Onde progressive.md",
-    "assets/Onde progressive/image-20231117200436216.png",
-    "_physics.md",
-    "Périodicité temporelle, périodicité spatiale.md",
-    "Chapitre 1 - Analyse dimensionnelle.md",
-    "Polarisation.md",
-    "assets/Polarisation/image-20231120115211923.png",
-    "assets/Polarisation",
-    "Chapitre 3 - Caractéristiques des ondes.md",
+    "Chapitre 2 - Ondes progressives périodiques.md",
+    "Theme 4-Oscillations et ondes.md",
+    "Ondes électromagnétiques et ondes sonores.md",
     "Amplitude et intensité d'une onde.md",
     "Fronts d'onde et rayons.md",
-    "Théorème de superposition.md",
+    "Chapitre 3 - Caractéristiques des ondes.md",
+    "_physics.md",
+    "Polarisation.md",
+    "assets/Polarisation/image-20231120115211923.png",
+    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
+    "Taux d’intérêt nominaux et taux d’intérêt réels.md",
+    "Theme 2-Macro-économie.md",
+    "Politiques monétaires expansionnistes et restrictives.md",
+    "Objectifs de la politique monétaire.md",
+    "Politique monétaire.md",
+    "assets/Politique monétaire/image-20231108093711743.png",
+    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
+    "Rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
+    "Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse.md",
+    "Signification de la pauvreté et comment la mesurer.md",
+    "Causes des inégalités économiques et de la pauvreté.md",
+    "Grande économie informelle.md",
+    "Mesurer les inégalités économiques.md",
+    "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
+    "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
+    "Relation entre égalité et équité.md",
+    "_economy.md",
+    "Distribution discrètes.md",
+    "Distribution binomiale.md",
+    "assets/Politique monétaire/image-20231108093526578.png",
+    "assets/Onde progressive/image-20231117200436216.png",
+    "assets/Polarisation",
     "assets/Fronts d'onde et rayons/image-20231120110828452.png",
     "assets/Fronts d'onde et rayons",
-    "Theme 4-Oscillations et ondes.md",
-    "Chapitre 2 - Ondes progressives périodiques.md",
-    "Ondes électromagnétiques et ondes sonores.md",
     "assets/Onde progressive/image-20231117200324111.png",
-    "Theme 2-Mécanique.md",
-    "_computer science.md",
-    "_english.md",
-    "Distribution normale.md",
-    "_math.md",
-    "Polynômes.md",
-    "Caractéristiques d'un MHS.md",
     "assets/Caractéristiques d'un MHS/image-20231117193758725.png",
-    "Mouvement harmonique simple (MHS).md",
-    "Chapitre 1 - Mouvement harmonique simple (MHS).md",
     "assets/Onde progressive",
     "assets/Caractéristiques d'un MHS/image-20231117193925638.png",
     "assets/Caractéristiques d'un MHS",
-    "Période d'un pendule simple et élastique.md",
-    "Changement d'énergies au cour d'un MHS.md",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231108113249059.png",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231113103206092.png",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231108112251810.png",
-    "Politiques monétaires expansionnistes et restrictives.md",
-    "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192926653.png",
     "assets/Politiques monétaires expansionnistes et restrictives",
     "assets/Objectifs de la politique monétaire",
     "extract lit.pdf",

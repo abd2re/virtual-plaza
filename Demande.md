@@ -6,7 +6,7 @@ TARGET DECK: economy
 Created: 2022-09-09
 
 La demande est :: la quantité d'un bien ou d'un service que les consommateurs sont disposés et capable d'acheter a divers prix au cours d'une période.
-<!--SR:!2023-11-21,96,210-->
+<!--SR:!2024-06-11,203,210-->
 
 *[[Loi de la demande]]*
 - Quand le prix augmente:: la quantité demandée diminue, [[Ceteris Paribus]]

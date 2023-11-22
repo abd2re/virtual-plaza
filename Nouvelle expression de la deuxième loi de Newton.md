@@ -14,4 +14,4 @@ $$\Large{\sum \vec{F}_{ext}=\frac{\Delta p}{\Delta t}}$$
 Formule de l'impulsion:
 ?
 $$\large{\text{impulsion}=\Delta p = F\Delta t}$$
-<!--SR:!2023-11-21,26,250-->
+<!--SR:!2024-01-24,64,250-->

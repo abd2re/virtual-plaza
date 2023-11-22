@@ -9,7 +9,7 @@ Created: 2023-11-20
 ## Ondes électromagnétiques
 
 Une onde électromagnétique est générée par:: l'oscillation combinée d'un champ électrique et d'un champ magnétique.
-<!--SR:!2023-11-21,1,230-->
+<!--SR:!2023-11-23,2,230-->
 
 - Quelle que soit leur fréquence, les ondes électromagnétiques se déplacent à la vitesse de:: la lumière dans le vide.
 <!--SR:!2023-11-23,3,250-->

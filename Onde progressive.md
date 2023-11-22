@@ -8,7 +8,7 @@ Created: 2023-11-15
 ?
  Une onde est dite progressive si elle correspond à la propagation _dans l'espace_ et _au cours du temps_ d'une perturbation (variation d'une grandeur physique).
  Cette propagation s’effectue sans transport de matière mais avec un transport d’énergie.
-<!--SR:!2023-11-21,1,227-->
+<!--SR:!2023-11-22,1,207-->
 
 - L'énergie est transférée par les ondes, mais la matière:: ne l'est pas
 <!--SR:!2023-11-23,3,250-->
@@ -17,7 +17,7 @@ Il existe deux types d'ondes progressives (avec définition):
 ?
 - les ondes mécaniques, qui se propagent dans un milieu et ne peuvent pas se produire dans le vide
 - les ondes électromagnétiques, qui peuvent se propager dans le vide.
-<!--SR:!2023-11-21,1,227-->
+<!--SR:!2023-11-24,2,207-->
 
 La longueur d'onde $\lambda$ est égale à (2):: $\frac{v}{f}=vT$
 <!--SR:!2023-11-23,3,250-->
@@ -28,9 +28,9 @@ Les ondes mécaniques progressives ont la propriété de pouvoir se propager dan
 
 ## Ondes transversales et longitudinales
 Une onde transversale est:: une onde dans laquelle les particules oscillent perpendiculairement à la direction du mouvement et où le transfert d'énergie se fait perpendiculairement aussi.
-<!--SR:!2023-11-21,1,227-->
+<!--SR:!2023-11-23,2,227-->
 - Les ondes transversales présentent des zones de:: pics et de creux
-<!--SR:!2023-11-21,1,230-->
+<!--SR:!2023-11-23,2,230-->
 - Exemples d'ondes transversales:: Ondes électromagnétiques, par exemple radio, lumière visible, UV. Vibrations sur une corde de guitare
 <!--SR:!2023-11-23,3,250-->
 - Une onde transversale peut voyager dans le vide, oui ou non ?:: oui
@@ -44,10 +44,10 @@ Une onde longitudinale est:: une onde dans laquelle les particules oscillent par
 <!--SR:!2023-11-23,3,250-->
 
 Représentation d'une onde longitudinale::![[image-20231117200436216.png]]
-<!--SR:!2023-11-21,1,230-->
+<!--SR:!2023-11-23,2,230-->
 
 - Exemple d'onde longitudinale:: Ondes sonore
-<!--SR:!2023-11-22,2,247-->
+<!--SR:!2023-11-26,4,247-->
 - Une onde longitudinale peut voyager dans le vide, oui ou non et pourquoi ?:: non, les ondes longitudinales ont besoin de particules pour se propager.
 <!--SR:!2023-11-22,2,247-->
 
@@ -55,5 +55,5 @@ Lorsqu'une onde longitudinale se propage, on peut observer des zones de basse et
 ?
 - Une raréfaction est une zone de faible pression, les particules étant plus éloignées les unes des autres. l'une à l'autre
 - Une compression est une zone de haute pression, où les particules sont plus proches les unes des autres.
-<!--SR:!2023-11-22,2,247-->
+<!--SR:!2023-11-27,5,247-->
 

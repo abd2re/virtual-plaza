@@ -99,5 +99,5 @@ Graphes des deux causes principales (avec leur noms):
 
 - Pour chômage cyclique =>:: Le gouvernement devra s’attaquer directement à la baisse de la demande globale en stimulant la demande globale avec des politiques fiscales et monétaires.
 <!--SR:!2024-01-01,66,242-->
-- Pour chômage structurel =>:: Le chômage structurel peuvent être réduits grâce à des politiques qui améliorent la flexibilité de la main-d’œuvre (**Education**) 
-<!--SR:!2023-11-21,33,202-->
+- Pour chômage structurel =>:: Le chômage structurel peuvent être réduits grâce à des politiques qui améliorent la flexibilité de la main-d’œuvre (**Education**)
+<!--SR:!2024-01-26,66,202-->

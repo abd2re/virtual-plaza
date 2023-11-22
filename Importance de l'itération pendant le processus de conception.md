@@ -26,4 +26,4 @@ Même les meilleurs concepteurs ne peuvent pas concevoir des produits parfaits e
 - [[Développement]] ou Mise en oeuvre
 - [[Test et déploiement]]
 - [[Maintenance]]
-<!--SR:!2023-11-21,74,190-->
+<!--SR:!2023-12-27,36,170-->

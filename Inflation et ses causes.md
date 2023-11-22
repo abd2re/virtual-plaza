@@ -86,13 +86,13 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 Graphique avec explications
 ?
 ![[image-20230921082031502.png]]
-<!--SR:!2023-11-21,13,223-->
+<!--SR:!2023-11-28,7,203-->
 
 ### Spirale inflationniste salaires-prix
 - Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs.
 <!--SR:!2023-11-26,42,263-->
 - Étant donné que des salaires plus élevés entraînent des coûts de production plus élevés pour les entreprises, il en résulte:: une baisse de l’offre globale à court terme.
-<!--SR:!2023-11-21,38,243-->
+<!--SR:!2024-02-20,91,243-->
 
 Graphique
 ?

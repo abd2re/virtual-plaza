@@ -47,6 +47,6 @@ $$\large{E_{A}=\frac{E_{l}}{A}}$$
 ?
 La courbe d'Aston est la courbe $E_{A}$=f(A). Cette courbe permet de visualiser facilement les noyaux les plus stable puisque ceux-ci se trouvent en haut du graphe.
 ![[image-20230323182347196.png]]
-<!--SR:!2023-11-21,152,250-->
+<!--SR:!2024-02-04,75,230-->
 
 
