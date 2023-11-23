@@ -8,7 +8,7 @@ Created: 2023-09-08
 Au total, il existe quatre types de chômage qui se répartissent en deux grandes catégories. Ces deux catégories sont:
 ?
 - **Chômage de déséquilibre** inclut:: le chômage cyclique (déficit de la demande) et le chômage réel.
-<!--SR:!2023-11-23,45,250-->
+<!--SR:!2024-03-14,112,250-->
 - **Taux de chômage naturel** comprend:: le chômage frictionnel, saisonnier et structurel.
 <!--SR:!2023-12-12,50,210-->
 

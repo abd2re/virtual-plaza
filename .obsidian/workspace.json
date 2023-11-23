@@ -74,8 +74,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60bc16b93ec29292",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "899c070b3336eda8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polarisation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -443,8 +483,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "220ca18a5d02d41d",
+  "active": "899c070b3336eda8",
   "lastOpenFiles": [
+    "assets/Polarisation/image-20231120115211923.png",
+    "Polarisation.md",
     "Onde progressive.md",
     "Chapitre 2 - Ondes progressives périodiques.md",
     "Theme 4-Oscillations et ondes.md",
@@ -453,8 +495,6 @@
     "Fronts d'onde et rayons.md",
     "Chapitre 3 - Caractéristiques des ondes.md",
     "_physics.md",
-    "Polarisation.md",
-    "assets/Polarisation/image-20231120115211923.png",
     "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
     "Taux d’intérêt nominaux et taux d’intérêt réels.md",
     "Theme 2-Macro-économie.md",
@@ -474,7 +514,6 @@
     "Relation entre égalité et équité.md",
     "_economy.md",
     "Distribution discrètes.md",
-    "Distribution binomiale.md",
     "assets/Politique monétaire/image-20231108093526578.png",
     "assets/Onde progressive/image-20231117200436216.png",
     "assets/Polarisation",

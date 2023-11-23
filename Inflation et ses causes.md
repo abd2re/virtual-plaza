@@ -35,7 +35,7 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2023-11-23,16,203-->
+<!--SR:!2023-12-02,9,183-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2024-01-06,69,263-->
@@ -102,7 +102,7 @@ Graphique
 - Pour les nouveaux économistes classiques, toute tentative de stimuler la demande globale n’aboutira qu’à:: l'inflation sans aucune augmentation du revenu national.
 <!--SR:!2023-12-13,44,203-->
 - Pour les économistes keynésiens une inflation excessive est une:: mauvaise chose lorsque la demande globale commence à augmenter le long de la partie verticale de la courbe AS.
-<!--SR:!2023-11-23,39,243-->
+<!--SR:!2024-02-25,94,243-->
 
 ## Coûts d’un taux d’inflation élevé
 Un taux d’inflation élevé crée un environnement incertain pour l’activité économique et érode la confiance de tous les acteurs de l’économie. Il existe six coûts principaux liés à un taux d’inflation élevé (6):

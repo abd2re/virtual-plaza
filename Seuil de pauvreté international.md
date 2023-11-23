@@ -10,4 +10,4 @@ Il s’agit d’un seuil monétaire en dessous duquel un individu est considér�
 <!--SR:!2023-11-24,24,250-->
 
 Le seuil moins de:: 1,90 USD par jour.
-<!--SR:!2023-11-23,24,250-->
+<!--SR:!2024-01-21,59,250-->

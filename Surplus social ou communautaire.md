@@ -12,8 +12,8 @@ Lorsqu'un marché est en équilibre, sans perturbations extérieures, on dit qu'
 
 <!--SR:!2023-05-16,111,248-->
 
-****En l'absence d'influences externes, les coûts de production pour l'industrie ou l'entreprise sont égaux aux coûts pour la société lors de la production d'un bien ou d'un service spécifique. Dans ce cas, la courbe d'offre représente la courbe des coûts sociaux et est appelée:: **courbe des coûts sociaux marginaux (CSM)**.
-<!--SR:!2023-11-22,179,245-->
+En l'absence d'influences externes, les coûts de production pour l'industrie ou l'entreprise sont égaux aux coûts pour la société lors de la producton d'un bien ou d'un service spécifique. Dans ce cas, la courbe d'offre représente la courbe des coûts sociaux et est appelée:: **courbe des coûts sociaux marginaux (CSM)**.
+<!--SR:!2024-02-19,89,225-->
 
 <!--SR:!2023-05-03,98,230-->
 Encore une fois, en l'absence de perturbations et d'effets externes, le bénéfice que les consommateurs retirent de la consommation d'un bien ou d'un service spécifique sur un marché libre équivaut au bénéfice ou à la satisfaction que la société tire de la consommation de ces biens. Dans ce cas, la courbe de demande représente la:: **courbe des prestations sociales marginales (MSB).**

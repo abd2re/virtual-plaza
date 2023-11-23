@@ -17,4 +17,4 @@ Formules (3: vectorielle(2) et scalaire(1)):
 ?
 $$\Large{P_{\text{instant}}=\vec{F}\cdot\frac{\vec{AB}}{\Delta t}=\vec{F}\cdot\vec{v}=Fv\cos\theta}$$
 - $\theta$ = $\angle(\vec{F},\vec{v})$
-<!--SR:!2023-11-23,22,130-->
+<!--SR:!2023-12-06,13,130-->

@@ -22,7 +22,7 @@ $$\Large{(ac-bd)+i(ad+bc)}$$
 $(a+bi)^{2}$=
 ?
 $$\Large{a^{2}-b^{2}+i2ab}$$
-<!--SR:!2023-11-22,75,230-->
+<!--SR:!2023-12-29,37,210-->
 
 $(a-bi)^{2}$=
 ?
@@ -65,7 +65,7 @@ $$\Large{\sqrt{a^{2}+b^{2}}}$$
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
-<!--SR:!2023-11-23,59,190-->
+<!--SR:!2023-12-22,29,170-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
@@ -116,5 +116,5 @@ $e^{i\pi}$=::$-1$
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2023-11-22,2,130-->
+<!--SR:!2023-11-24,1,130-->
 

@@ -38,7 +38,7 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 <!--SR:!2024-02-24,98,226-->
 
 circuit équivalent d'une pile réel::![[equivalent e;r]]
-<!--SR:!2023-11-23,78,226-->
+<!--SR:!2023-12-31,38,206-->
 
 ## Circuits avec des piles
 formule emf::$$e=(r+R)I$$

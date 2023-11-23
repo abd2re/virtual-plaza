@@ -32,11 +32,11 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 
 
 - Champ crée pas plusieurs charges c'est:: la somme vectorielle de chacun des champs
-<!--SR:!2023-11-23,9,156-->
+<!--SR:!2023-12-06,13,156-->
 
 ## Lignes de champ
 ?
 Ce sont des courbes tangentes au vecteur champ électrique en chacun de ses points.
-<!--SR:!2023-11-22,202,230-->
+<!--SR:!2024-03-01,100,210-->
 
 

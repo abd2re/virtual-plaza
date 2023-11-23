@@ -20,7 +20,7 @@ Created: 2023-10-27
 - Lorsqu'un polynôme quelconque $P(x)$ est divisé par une fonction linéaire quelconque $(x - k)$, la valeur du reste $R$ est donnée par:: $P(k) =R$
 <!--SR:!2023-12-09,27,250-->
 - Remarque : lorsque $P(k) =0$, $(x - k)$ est:: un facteur de $P(x)$.
-<!--SR:!2023-11-23,15,250-->
+<!--SR:!2023-12-30,37,250-->
 - $P(x)$=::$(x-k)\times Q(x)+R$ où $Q(x)$ est un polynôme
 <!--SR:!2023-12-05,16,210-->
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste

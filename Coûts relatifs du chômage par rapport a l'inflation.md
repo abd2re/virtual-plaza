@@ -28,4 +28,4 @@ Les conflits potentiel entre les objectifs macroéconomiques sont (4):
 - Croissance économique élevée et inflation faible
 - Croissance économique élevée et durabilité environnementale
 - Croissance économique élevée et répartition équitable des revenus
-<!--SR:!2023-11-22,6,210-->
+<!--SR:!2023-12-04,12,210-->
