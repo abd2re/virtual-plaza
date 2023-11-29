@@ -30,6 +30,30 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Causes du chômage, coûts et solutions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Causes du chômage, coûts et solutions.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":6.266233766233766}"
+                },
+                {
+                  "title": "Transmission et réfraction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission et réfraction.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":21},\"to\":{\"line\":8,\"ch\":21}}}"
+                },
+                {
+                  "title": "Chapitre 4 - Comportement des ondes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Comportement des ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "Dérivation",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dérivation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
@@ -65,7 +89,7 @@
               "type": "markdown",
               "state": {
                 "file": "Transmission et réfraction.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -441,12 +465,18 @@
   },
   "active": "51b3660364222c76",
   "lastOpenFiles": [
+    "assets/Transmission et réfraction/image-20231129213145786.png",
+    "Transmission et réfraction.md",
+    "Onde progressive.md",
+    "assets/Transmission et réfraction/image-20231129211352056.png",
+    "assets/Transmission et réfraction",
     "Chapitre 4 - Comportement des ondes.md",
     "_physics.md",
+    "Chapitre 1 - Analyse dimensionnelle.md",
+    "Chiffres significatifs.md",
+    "Causes du chômage, coûts et solutions.md",
     "Dérivation.md",
     "_math.md",
-    "Onde progressive.md",
-    "Transmission et réfraction.md",
     "Réflexion.md",
     "assets/Réflexion/image-20231129110409022.png",
     "assets/Réflexion/image-20231129103258954.png",
@@ -463,7 +493,6 @@
     "assets/Fronts d'onde et rayons/image-20231120110828452.png",
     "assets/Réflexion/image-20231129103238554.png",
     "assets/Réflexion",
-    "Chapitre 1 - Analyse dimensionnelle.md",
     "assets/Dérivation/image-20231128163111952.png",
     "Politique budgétaire expansionniste et restrictive.md",
     "assets/Politique budgétaire expansionniste et restrictive/image-20231129092655523.png",
@@ -473,19 +502,13 @@
     "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
     "Theme 2-Macro-économie.md",
     "Chapitre 6 - Gestion de la demande – Politique budgétaire.md",
-    "Objectifs de la politique budgétaire.md",
-    "Politique budgétaire.md",
-    "_economy.md",
     "assets/Dérivation",
     "assets/Polarisation/image-20231120115211923.png",
-    "assets/Caractéristiques d'un MHS/image-20231117193758725.png",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231108113249059.png",
     "assets/Nouvelle expression de la deuxième loi de Newton",
     "assets/Polarisation",
     "assets/Fronts d'onde et rayons",
     "assets/Onde progressive",
     "assets/Caractéristiques d'un MHS",
-    "assets/Politiques monétaires expansionnistes et restrictives",
-    "assets/Objectifs de la politique monétaire"
+    "assets/Politiques monétaires expansionnistes et restrictives"
   ]
 }

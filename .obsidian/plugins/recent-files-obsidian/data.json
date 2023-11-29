@@ -5,6 +5,10 @@
       "path": "Transmission et réfraction.md"
     },
     {
+      "basename": "Onde progressive",
+      "path": "Onde progressive.md"
+    },
+    {
       "basename": "Chapitre 4 - Comportement des ondes",
       "path": "Chapitre 4 - Comportement des ondes.md"
     },
@@ -13,16 +17,16 @@
       "path": "_physics.md"
     },
     {
+      "basename": "Causes du chômage, coûts et solutions",
+      "path": "Causes du chômage, coûts et solutions.md"
+    },
+    {
       "basename": "Dérivation",
       "path": "Dérivation.md"
     },
     {
       "basename": "_math",
       "path": "_math.md"
-    },
-    {
-      "basename": "Onde progressive",
-      "path": "Onde progressive.md"
     },
     {
       "basename": "Réflexion",
@@ -195,10 +199,6 @@
     {
       "basename": "Chapitre 3 - Caractéristiques des ondes",
       "path": "Chapitre 3 - Caractéristiques des ondes.md"
-    },
-    {
-      "basename": "Taux d’intérêt nominaux et taux d’intérêt réels",
-      "path": "Taux d’intérêt nominaux et taux d’intérêt réels.md"
     }
   ],
   "omittedPaths": [],
