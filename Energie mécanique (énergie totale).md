@@ -10,12 +10,12 @@ C'est la somme de l'[[Energie cinétique|énergie cinétique]] et de/des [[Energ
 <!--SR:!2023-12-21,44,210-->
 
 Formule::$$\Large{E_{M}=E_{c}+E_{P}}$$
-<!--SR:!2023-11-29,46,250-->
+<!--SR:!2024-03-22,114,250-->
 
 ## Conservation de l'énergie mécanique
 ?
 L'énergie mécanique d'un solide soumis qu'a des [[Force conservative|forces conservatives]] se conserve.
-<!--SR:!2023-11-24,4,130-->
+<!--SR:!2023-12-02,3,130-->
 
 Formule::$$\large{\sum E_{M}=0\leftrightarrow{E_{M_{B}}=E_{M_{A}}}}$$
 <!--SR:!2023-12-17,58,250-->

@@ -18,7 +18,7 @@ Les objectifs du prix plancher sont:
 Figure de contrôles des prix minimums:
 ?
 ![[image-20230117132748916.png]]
-<!--SR:!2023-11-27,74,228-->
+<!--SR:!2024-01-02,36,208-->
 
 
 

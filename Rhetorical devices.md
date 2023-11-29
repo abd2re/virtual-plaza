@@ -32,4 +32,4 @@ Created: 2022-10-17
 - Metaphor :: A figure of speech that makes a direct comparaison between two unrelated things, suggesting that they are alike in some way, often using "is" or "was". *Ex: "The world is a stage"*
 <!--SR:!2023-12-29,54,238-->
 - Simile :: A figure of speech that compares two unlike things using "like" or "as". *Ex: "Her smile was as bright as the sun"*
-<!--SR:!2023-11-24,33,238-->
+<!--SR:!2024-02-10,78,238-->

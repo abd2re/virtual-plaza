@@ -7,7 +7,7 @@ Created: 2023-04-10
 - **Entrée** = :: Ce qui est introduit, pris en charge ou utilisé par un processus ou un système.
 <!--SR:!2024-03-02,186,226-->
 - **Sortie** = :: Ce qui est produit, livré ou fourni (données) par un processus ou un système.
-<!--SR:!2023-11-27,132,226-->
+<!--SR:!2024-09-19,297,226-->
 
 - **La planification préalable** est:: le processus qui consiste à planifier quelque chose à l'avance. C'est la préparation requise avant la mise en œuvre d'une solution.
 <!--SR:!2024-05-20,226,226-->

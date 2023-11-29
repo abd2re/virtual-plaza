@@ -11,7 +11,7 @@ Dans la nouvelle perspective classique, parce que les prix sont totalement flexi
 (Graphique qui représente les transformations)
 ?
 ![[image-20230605113546923.png]]
-<!--SR:!2023-11-24,55,208-->
+<!--SR:!2024-03-16,113,208-->
 
 ## Augmentation de la demande globale (néo-classique)
 (Graphique qui représente les transformations)

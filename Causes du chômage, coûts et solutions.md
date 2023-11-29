@@ -52,7 +52,7 @@ Le chômage saisonnier se produit lorsque des personnes effectuent des types de 
 ### Structurel
 ?
 Le chômage structurel se produit lorsqu’il existe une inadéquation entre l’offre et la demande pour un ensemble particulier de compétences professionnelles.
-<!--SR:!2023-11-25,16,170-->
+<!--SR:!2023-12-02,7,150-->
 
 Il y a deux causes principales du chômage structurel:
 ?
@@ -63,7 +63,7 @@ Il y a deux causes principales du chômage structurel:
 3 étapes lorsqu'il y a un chômage structurel (graphiques):
 ?
 ![[image-20230913103815676.png|center|550]]
-<!--SR:!2023-11-26,28,162-->
+<!--SR:!2024-01-09,44,162-->
 
 ## Coûts du chômage
 

@@ -15,7 +15,7 @@ Un algorithme doit posséder les propriétés suivantes(5):
 - entrées/intrants
 - sortie
 - efficacité
-<!--SR:!2023-11-24,95,168-->
+<!--SR:!2024-05-01,159,168-->
 
 Un algorithme peut être exprimé de plusieurs manières, notamment:
 ?

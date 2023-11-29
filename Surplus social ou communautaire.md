@@ -8,7 +8,7 @@ Surplus social/communautaire est:: la somme du surplus du consommateur et du sur
 <!--SR:!2024-03-31,160,208-->
 
 Lorsqu'un marché est en équilibre, sans perturbations extérieures, on dit qu'il est dans un état:: d'[[Efficacité allocative]]. Comme indiqué précédemment, cela signifie que les ressources sont allouées de la manière la plus efficace du point de vue de la société.
-<!--SR:!2023-11-28,106,225-->
+<!--SR:!2024-01-19,52,205-->
 
 <!--SR:!2023-05-16,111,248-->
 
@@ -27,5 +27,5 @@ Encore une fois, en l'absence de perturbations et d'effets externes, le bénéfi
 Graphe du surplus du consommateur et surplus du producteur
 ?
 ![[image-20221108155959360.png]]
-<!--SR:!2023-11-29,69,210-->
+<!--SR:!2024-04-21,144,210-->
 

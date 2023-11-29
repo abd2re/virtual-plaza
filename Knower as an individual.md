@@ -13,7 +13,7 @@ Identity:: how a person, group, or nation sees themselves in relation to other p
 <!--SR:!2025-01-16,451,230-->
 
 Contingent:: only true under certain conditions, and dependent on other things.
-<!--SR:!2023-11-24,179,244-->
+<!--SR:!2025-02-02,436,244-->
 
 <!--SR:!2023-02-11,18,170-->
 

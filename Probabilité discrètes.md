@@ -47,7 +47,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(A)+P(A')$=::1 
 <!--SR:!2023-12-24,57,250-->
 - $P(A\cup B)$ (2)=::$P(A)+P(B)-P(A\cap B)=P(A\cap B')+P(A\cap B)+P(A'\cap B)$
-<!--SR:!2023-11-25,37,230-->
+<!--SR:!2023-12-13,18,210-->
 - $P(A\Delta B)$=::$P(A\cap B')\cup P(A'\cap B)$
 <!--SR:!2023-12-07,24,250-->
 

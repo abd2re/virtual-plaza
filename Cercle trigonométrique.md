@@ -22,7 +22,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 90}=$::$1$
 <!--SR:!2024-03-07,175,250-->
 - $\Large{\cos 0}=$::$\Large{1}$
-<!--SR:!2023-11-29,115,250-->
+<!--SR:!2024-09-11,287,250-->
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
 <!--SR:!2024-04-02,193,250-->
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
@@ -52,12 +52,12 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
 <!--SR:!2024-04-01,177,230-->
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2023-11-25,113,250-->
+<!--SR:!2024-01-20,56,230-->
 <!--SR:!2023-05-26,3,250-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
 <!--SR:!2024-03-21,175,230-->
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2023-11-25,113,250-->
+<!--SR:!2024-01-19,55,230-->
 <!--SR:!2023-05-26,3,250-->
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$

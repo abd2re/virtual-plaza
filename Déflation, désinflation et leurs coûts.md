@@ -22,7 +22,7 @@ Les deux provocations de la déflation sont:
 ?
 - Déflation provoquée par une amélioration de la productivité (augmentation de l'offre)
 - Déflation provoquée par un déclin persistant de l’activité économique (baisse de la demande)
-<!--SR:!2023-11-27,41,230-->
+<!--SR:!2024-03-01,95,230-->
 
 ## Coûts de la déflation
 Ils sont 8:
@@ -35,5 +35,5 @@ Ils sont 8:
 - Augmentation de la valeur réelle de la dette
 - Allocation inefficace des ressources (consommation différée et niveau de prix faussé)
 - Inefficacité des politiques (gouvernementale)
-<!--SR:!2023-11-24,6,130-->
+<!--SR:!2023-12-01,4,130-->
 

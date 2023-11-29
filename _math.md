@@ -25,3 +25,6 @@ tags: [M]
 2. [[Distribution discrètes]]
 3. [[Distribution binomiale]]
 4. [[Distribution normale]]
+
+# Theme 5: Etude du fonction
+1. [[Dérivation]]

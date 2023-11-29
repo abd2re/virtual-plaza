@@ -33,7 +33,7 @@ Une particule chargée $q$ se déplace a la vitesse $\vec{v}$ dans un champ magn
 La formule de l'accélération $a$ d'une particle dans un champ magnétique si le poids est négligeable.
 ?
 $$\Large{a=\frac{|q|vB\sin\theta}{m}}$$
-<!--SR:!2023-11-26,9,162-->
+<!--SR:!2023-12-10,14,162-->
 
 La formule du rayon d'une particule est égale:
 ?

@@ -59,9 +59,9 @@ L’inflation tirée par la demande se produit lorsqu’il y a une augmentation 
 <!--SR:!2024-01-16,69,243-->
 
 - Selon la nouvelle théorie classique, l’augmentation de la demande globale est suivie:: d’une pression à la hausse sur les salaires, de sorte qu’il n’y aura pas d’augmentation de la production à long terme.![[image-20230921081541285.png]]
-<!--SR:!2023-11-25,32,203-->
+<!--SR:!2024-01-28,64,203-->
 - Selon la théorie keynésienne, toutes les augmentations de la demande globale ::n’entraînent pas une hausse des prix.![[image-20230921081748401.png]]
-<!--SR:!2023-11-25,40,243-->
+<!--SR:!2024-02-29,96,243-->
 
 
 - Selon la théorie keynésienne, si l’économie fonctionne à un équilibre inférieur au plein emploi, il existe alors des capacités inutilisées dans l’économie et les prix:: n’auront pas besoin d’augmenter. 
@@ -86,11 +86,11 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 Graphique avec explications
 ?
 ![[image-20230921082031502.png]]
-<!--SR:!2023-11-28,7,203-->
+<!--SR:!2023-12-14,16,203-->
 
 ### Spirale inflationniste salaires-prix
 - Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs.
-<!--SR:!2023-11-26,42,263-->
+<!--SR:!2024-03-14,109,263-->
 - Étant donné que des salaires plus élevés entraînent des coûts de production plus élevés pour les entreprises, il en résulte:: une baisse de l’offre globale à court terme.
 <!--SR:!2024-02-20,91,243-->
 
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2023-11-26,10,143-->
+<!--SR:!2023-12-01,5,130-->
 

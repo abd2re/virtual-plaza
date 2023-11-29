@@ -5,6 +5,9 @@ tags:
 Created: 2023-10-12
 
 # Conservation de la quantité de mouvement
+La loi de la conservation de quantité de mouvement dit que:: lorsque deux objets appliquent une force l'un sur l'autre, la quantité de mouvement de chacun change **mais la quantité totale de quantité de mouvement des deux objets reste pareil**.
+<!--SR:!2023-11-30,2,180-->
+
 Formules(2):
 ?
 $$\Large{\Delta\vec{p}=0\;\left(\text{lorsque }\sum \vec{F}_{ext}=0\right)}$$

@@ -28,7 +28,7 @@ Caractéristique intensité-tension d'une pile (graphe)::![[Piles électriques.p
 <!--SR:!2023-12-10,212,246-->
 
 On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circuit caractéristique d'une pile]]
-<!--SR:!2023-11-29,207,246-->
+<!--SR:!2024-03-11,103,226-->
 
 - $U=e$ si:: $I=0$
 <!--SR:!2025-01-31,460,246-->
