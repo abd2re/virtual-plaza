@@ -7,7 +7,7 @@ Created: 2023-11-08
 # Politique monétaire
 ?
 La politique monétaire fait référence à la banque centrale qui utilise le rentrée d'argent et les taux d’intérêt pour gérer l’économie.
-<!--SR:!2023-11-30,3,150-->
+<!--SR:!2023-12-06,6,150-->
 
 - La politique monétaire permet aux pays de stimuler leur économie tout en évitant de:: s’endetter.
 <!--SR:!2023-12-01,10,230-->
@@ -35,7 +35,7 @@ Ils sont 5:
 
 ### 1. Détermine la masse monétaire et le taux d’intérêt
 À un moment donné, la masse monétaire est fixe ; nous avons une somme d’argent définie dans nos poches et nos soldes bancaires. Par conséquent, la masse monétaire est considérée comme:: parfaitement inélastique.
-<!--SR:!2023-11-30,8,210-->
+<!--SR:!2023-12-18,18,210-->
 
 Lorsque la banque centrale augmente la masse monétaire, alors en conséquence le taux d'intérêt:: diminue.
 <!--SR:!2023-12-19,23,250-->

@@ -1,5 +1,6 @@
 ---
-tags: [MOC]
+tags:
+  - MO
 ---
 
 # Theme 3-Réseaux

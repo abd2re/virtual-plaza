@@ -1,5 +1,6 @@
 ---
-tags: [MOC]
+tags:
+  - MO
 ---
 
 # Theme 2-Architecture des ordinateurs

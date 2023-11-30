@@ -1,5 +1,6 @@
 ---
-tags: [MOC]
+tags:
+  - MO
 ---
 
 # Theme 1-Notion fondamental sur les systèmes

@@ -6,7 +6,7 @@ Created: 2023-03-31
 # PIB
 ?
 Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
-<!--SR:!2023-11-30,8,130-->
+<!--SR:!2023-12-11,11,130-->
 
 Avantages du PIB (3):
 ?
@@ -46,10 +46,10 @@ Revenu = Production = Dépenses
 - Le PIB réel est aussi appelé (3) :: PIB déflaté, PIB a prix constant, PIB a $ constant
 <!--SR:!2024-03-31,140,221-->
 
-## PNB 
+## PNB
 ?
 Le PNB/RNB est la **valeur** des biens et services **produits** par les **nationaux** au cours d'une **période donnée**.
-<!--SR:!2023-11-30,27,181-->
+<!--SR:!2024-01-19,50,181-->
 
 Différence entre PIB et PNB:
 ?

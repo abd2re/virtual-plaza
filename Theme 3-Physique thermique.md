@@ -1,5 +1,6 @@
 ---
-tags: [MOC]
+tags:
+  - MO
 ---
 # Theme 3- Physique thermique
 ## 1. Grandeurs thermiques

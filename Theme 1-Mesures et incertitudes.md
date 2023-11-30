@@ -1,6 +1,6 @@
 ---
 tags:
-  - MOC
+  - MO
 ---
 # Theme 1-Mesures et incertitudes
 ![[Chapitre 1 - Analyse dimensionnelle]]

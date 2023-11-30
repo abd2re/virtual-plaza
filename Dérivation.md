@@ -6,7 +6,7 @@ Created: 2023-11-28
 
 # Nombre dérivée
 - $f'(a)$=::$$\lim_{h\rightarrow 0}\frac{f(a+h)-f(a)}{h}$$
-<!--SR:!2023-11-30,1,230-->
+<!--SR:!2023-12-02,2,230-->
 - Autre notation de $f'(a)$::$\frac{dy}{dx}|_{x=a}$
 <!--SR:!2023-12-02,3,250-->
 
@@ -16,9 +16,9 @@ Tangente et normale pour une fonction représente:
 <!--SR:!2023-12-02,3,250-->
 
 - Formule de la tangente $T:y$=:: $f'(a)(x-a)+f(a)$
-<!--SR:!2023-11-30,1,230-->
+<!--SR:!2023-12-02,2,230-->
 - Formule de la normale $N:y$=:: $\frac{-1}{f'(a)}(x-a)+f(a)$
-<!--SR:!2023-11-30,1,230-->
+<!--SR:!2023-12-02,2,230-->
 
 
 ## Identités
@@ -33,7 +33,7 @@ Tangente et normale pour une fonction représente:
 - $h(x)=f(x)g(x)$ -> $h'(x)=$::$f'(x)g(x)+f(x)g'(x)$
 <!--SR:!2023-12-02,3,250-->
 - $h(x)=\frac{f(x)}{g(x)}$ -> $h'(x)=$::$\frac{f'(x)g(x)-f(x)g'(x)}{g(x)^{2}}$
-<!--SR:!2023-11-30,1,230-->
+<!--SR:!2023-12-02,2,230-->
 - $h(x)=f(g(x))$ -> $h'(x)=$::$f'(g(x))g'(x)$
 <!--SR:!2023-12-02,3,250-->
 - $f(x)=a^{x}$ -> $f'(x)=$::$\ln(a)a^{x}$

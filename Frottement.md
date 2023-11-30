@@ -12,10 +12,10 @@ Les deux types de frottements sont:
 ?
 - [[Frottement statique]]
 - [[Frottement cinétique]]
-<!--SR:!2023-11-30,107,230-->
+<!--SR:!2024-01-22,53,210-->
 
 Le frottement statique est toujours:: supérieur au frottement cinétique.
-<!--SR:!2023-11-30,33,143-->
+<!--SR:!2024-01-15,46,143-->
 
 Représentation graphique de frottement statique et cinétique::![[image-20230525073043121.png]]
 <!--SR:!2024-03-06,170,243-->

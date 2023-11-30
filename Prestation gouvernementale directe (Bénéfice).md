@@ -6,7 +6,7 @@ Created: 2023-02-07
 # Prestation gouvernementale directe (Bénéfice)
 ?
 Les gouvernements fournissent souvent des biens et des services qui ont des externalités positives de consommation. Ces biens sont généralement gratuits pour tous les consommateurs, comme c'est le cas pour les écoles publiques et les hôpitaux publics dans la plupart des pays du monde.
-<!--SR:!2023-11-30,69,230-->
+<!--SR:!2024-05-06,158,230-->
 
 **Problèmes avec cette solution (3):**
 ?

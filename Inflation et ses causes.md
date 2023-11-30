@@ -51,7 +51,7 @@ Les deux principaux types d’inflation sont:
 ?
 - Inflation attisée par la demande (augmentation)
 - Inflation par les coûts de production
-<!--SR:!2023-11-30,37,223-->
+<!--SR:!2024-02-20,82,223-->
 
 ### Inflation attisée par la demande
 ?
@@ -81,7 +81,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 - les modifications des lois sur le salaire minimum
 - l'augmentation du coût des matières premières importées
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
-<!--SR:!2023-11-30,18,183-->
+<!--SR:!2024-01-03,34,183-->
 
 Graphique avec explications
 ?

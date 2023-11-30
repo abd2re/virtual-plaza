@@ -8,7 +8,7 @@ Created: 2023-11-17
 - Une récession c’est:: deux trimestres consécutifs de croissance négative
 <!--SR:!2023-12-05,9,210-->
 - Une politique monétaire expansionniste peut combler:: un écart de récession.
-<!--SR:!2023-11-30,9,250-->
+<!--SR:!2023-12-21,21,250-->
 - Si l’économie fonctionne proche du plein emploi (Keynésien), une politique monétaire expansionniste entraînera:: une augmentation du niveau des prix.
 <!--SR:!2023-12-01,10,250-->
 - Une politique monétaire restrictive peut combler:: un écart inflationniste.

@@ -20,7 +20,7 @@ Différence entre lumière polarisée et lumière non-polarisée:
 ?
 - Pour une lumière non-polarisée le vecteur champ électrique peut vibrer dans n'imprte quel plan perpendiculaire à la direction de propagation.
 - Pour une lumière polarisée le vecteur champ électrique vibre seulement dans un seul plan.
-<!--SR:!2023-11-30,1,144-->
+<!--SR:!2023-12-01,1,144-->
 
 
 Formule Loi de Malus (s'applique seulement à une lumière polarisée):

@@ -22,5 +22,5 @@ Pente de la tangente de la courbe v en fonction de t.
 Formule:
 ?
 $$\LARGE{\vec{a}=\frac{d\vec{v}}{dt}}$$![[image-20230328090601820.png]]
-<!--SR:!2023-11-30,139,228-->
+<!--SR:!2024-02-09,71,208-->
 

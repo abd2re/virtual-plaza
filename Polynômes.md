@@ -9,7 +9,7 @@ Created: 2023-10-27
 - $(x - k)$ est un facteur de $P(x)$ si:: $P(k)= 0$
 <!--SR:!2024-01-19,51,250-->
 - $P(k)=0$ si:: $(x-k)$ est un facteur de $P(x)$
-<!--SR:!2023-11-30,13,190-->
+<!--SR:!2023-12-24,24,190-->
 - $P(x)$=::$(x-k)\times Q(x)$, où $Q(x)$ est un polynôme qui est un facteur de $P(x)$
 <!--SR:!2024-01-14,46,250-->
 - $\frac{P(x)}{x-k}$=::$Q(x)$

@@ -21,7 +21,7 @@ Les impôts ont la capacité de rediriger l’argent:: de ceux qui ont plus de m
 - Fiscalité régressive=>::Un impôt régressif est un impôt dans lequel le pourcentage d’impôt payé augmente à mesure qu’une personne gagne moins.
 <!--SR:!2023-12-01,13,230-->
 - Fiscalité proportionnelle=>::C'est à ce moment-là que tout le monde paie exactement le même pourcentage d'impôt.
-<!--SR:!2023-11-30,13,230-->
+<!--SR:!2023-12-29,29,230-->
 
 
 Types d'impôts directs (3):
