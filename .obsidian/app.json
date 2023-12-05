@@ -4,7 +4,7 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "livePreview": true,
-  "attachmentFolderPath": "./assets/README",
+  "attachmentFolderPath": "./assets/_physics",
   "fileSortOrder": "alphabetical",
   "showInlineTitle": false,
   "pdfExportSettings": {
@@ -12,7 +12,7 @@
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 76
+    "downscalePercent": 70
   },
   "readableLineLength": true,
   "defaultViewMode": "preview",

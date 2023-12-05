@@ -11,21 +11,28 @@
       "query": "tag:#M",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 16737894
+      }
+    },
+    {
+      "query": "tag:#MO",
+      "color": {
+        "a": 1,
+        "rgb": 16043101
       }
     },
     {
       "query": "tag:#MOC",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 16185474
       }
     },
     {
       "query": "tag:#math",
       "color": {
         "a": 1,
-        "rgb": 14240413
+        "rgb": 12560639
       }
     },
     {
@@ -39,42 +46,35 @@
       "query": "tag:#computer_science",
       "color": {
         "a": 1,
-        "rgb": 5431380
+        "rgb": 5431485
       }
     },
     {
       "query": "tag:#english",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 12118015
       }
     },
     {
       "query": "tag:#french_B",
       "color": {
         "a": 1,
-        "rgb": 2056677
+        "rgb": 15015827
       }
     },
     {
       "query": "tag:#economy",
       "color": {
         "a": 1,
-        "rgb": 15662853
+        "rgb": 14048419
       }
     },
     {
       "query": "tag:#TOK",
       "color": {
         "a": 1,
-        "rgb": 15441950
-      }
-    },
-    {
-      "query": "tag:#EE",
-      "color": {
-        "a": 1,
-        "rgb": 15050296
+        "rgb": 3599134
       }
     },
     {
@@ -83,25 +83,11 @@
         "a": 1,
         "rgb": 8882055
       }
-    },
-    {
-      "query": "tag:#concept",
-      "color": {
-        "a": 1,
-        "rgb": 13172480
-      }
-    },
-    {
-      "query": "-line:(tags)",
-      "color": {
-        "a": 1,
-        "rgb": 0
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.2,
+  "textFadeMultiplier": -2.1,
   "nodeSizeMultiplier": 1.02219101123595,
   "lineSizeMultiplier": 1.00887096774194,
   "collapse-forces": false,
@@ -109,6 +95,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.07350148850351527,
-  "close": false
+  "scale": 0.06010717096026493,
+  "close": true
 }

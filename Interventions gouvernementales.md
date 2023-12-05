@@ -9,4 +9,4 @@ Les 3 interventions gouvernementales sont:
 - [[Impôts indirects]]
 - [[Subventions]]
 - Réglementations
-<!--SR:!2023-12-01,101,230-->
+<!--SR:!2024-01-22,52,210-->

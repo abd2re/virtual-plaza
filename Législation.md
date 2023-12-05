@@ -7,7 +7,7 @@ Created: 2023-02-03
 ?
 - Le gouvernement pourrait adopter des lois relatives aux normes environnementales que les entreprises doivent respecter dans le processus de production, telles que l'utilisation de types spécifiques de machines, de filtres à air, de processus d'eau et de méthodes d'élimination.
 - Une intervention extrême pourrait également consister à interdire complétement les entreprises polluantes.
-<!--SR:!2023-12-03,186,250-->
+<!--SR:!2024-03-04,92,230-->
 
 **Problèmes avec cette solution (3) :**
 ?

@@ -44,4 +44,4 @@ Ils sont (4):
 - Pauvreté au sein du ménage
 - Pauvreté urbaine
 - Données ventilées sur la pauvreté (démographie)
-<!--SR:!2023-12-03,9,130-->
+<!--SR:!2023-12-14,11,130-->

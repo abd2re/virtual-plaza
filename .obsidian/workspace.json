@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3880418b83998900",
+        "id": "7dd945a8e4a699be",
         "type": "tabs",
         "children": [
           {
-            "id": "51b3660364222c76",
+            "id": "a3bfb13c674f9180",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,329 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "__dashboard",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"__dashboard.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Mécanique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 2 - Forces et lois de Newton",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Forces et lois de Newton.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Réaction d'un support",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Réaction d'un support.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Troisième loi de Newton",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Troisième loi de Newton.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Tension d'un ressort",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tension d'un ressort.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Deuxième loi de Newton",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Deuxième loi de Newton.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Mouvement circulaire uniforme",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mouvement circulaire uniforme.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Champ de gravitation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Champ de gravitation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Force a distance",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Force a distance.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Tension d'un ressort",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tension d'un ressort.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 2 - Forces et lois de Newton",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Forces et lois de Newton.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Mécanique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Mécanique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 1-Micro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 1-Micro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Macro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Macro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 4 - Économie des inégalités et de la pauvreté",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Économie des inégalités et de la pauvreté.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Macro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "MO",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/MO.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/MOC.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "MO",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"template/MO.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_french B",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_french B.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Macro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Contraintes sur la politique budgétaire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Contraintes sur la politique budgétaire.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":18.48611111111111}"
-                },
-                {
-                  "title": "Chapitre 6 - Gestion de la demande – Politique budgétaire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 6 - Gestion de la demande – Politique budgétaire.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 2-Macro-économie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_economy",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_english",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_english.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Chapitre 6 - Gestion de la demande – Politique budgétaire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 6 - Gestion de la demande – Politique budgétaire.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Politique budgétaire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Politique budgétaire.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":18.58823529411765}"
-                },
-                {
-                  "title": "Obtenir des recettes publiques",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Obtenir des recettes publiques.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Transmission et réfraction",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission et réfraction.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 4 - Comportement des ondes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Comportement des ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Causes du chômage, coûts et solutions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Causes du chômage, coûts et solutions.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":6.266233766233766}"
-                },
-                {
-                  "title": "Transmission et réfraction",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Transmission et réfraction.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":21},\"to\":{\"line\":8,\"ch\":21}}}"
-                },
-                {
-                  "title": "Chapitre 4 - Comportement des ondes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Comportement des ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Dérivation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dérivation.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":22.123376623376622}"
-                },
-                {
-                  "title": "Onde progressive",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Onde progressive.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":9.532467532467532}"
-                },
-                {
-                  "title": "Chapitre 4 - Comportement des ondes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 4 - Comportement des ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 4-Oscillations et ondes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Oscillations et ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":6.483246463142219}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -461,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -487,7 +169,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -500,6 +181,13 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
                   "colorGroups": [
+                    {
+                      "query": "file:__dashboard",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2811882
+                      }
+                    },
                     {
                       "query": "tag:#M ",
                       "color": {
@@ -527,12 +215,12 @@
                   "textFadeMultiplier": -2.4,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4776575852775219,
+                  "scale": 0.3934646190335357,
                   "close": true
                 }
               }
@@ -553,7 +241,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -593,9 +280,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -629,9 +314,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -709,7 +392,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -722,6 +404,13 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": false,
                   "colorGroups": [
+                    {
+                      "query": "file:__dashboard",
+                      "color": {
+                        "a": 1,
+                        "rgb": 57855
+                      }
+                    },
                     {
                       "query": "tag:#M",
                       "color": {
@@ -754,7 +443,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6051765462630507,
+                  "scale": 0.5699935841068322,
                   "close": true
                 }
               }
@@ -782,53 +471,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51b3660364222c76",
+  "active": "a3bfb13c674f9180",
   "lastOpenFiles": [
-    "__dashboard.md",
     "_physics.md",
-    "Theme 2-Mécanique.md",
-    "Chapitre 2 - Forces et lois de Newton.md",
-    "Réaction d'un support.md",
-    "Troisième loi de Newton.md",
-    "Tension d'un ressort.md",
-    "Deuxième loi de Newton.md",
-    "Mouvement circulaire uniforme.md",
-    "Champ de gravitation.md",
-    "Force a distance.md",
-    "_economy.md",
-    "Theme 1-Micro-économie.md",
-    "Theme 2-Macro-économie.md",
-    "Rôle de la fiscalité dans la réduction de la pauvreté, des inégalités de revenus et des inégalités de richesse.md",
-    "Chapitre 4 - Économie des inégalités et de la pauvreté.md",
-    "template/MO.md",
-    "template/MOC.md",
-    "MO.md",
-    "template/math template.md",
-    "Theme 4-Pensée informatique, résolution de problèmes et programmation.md",
+    "Theme 7-Physique nucléaire.md",
+    "TP_physique1.md",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
-    "Theme 1-Notion fondamental sur les systèmes.md",
-    "Theme 5 - Structures de données abstraites.md",
-    "Theme 2-Architecture des ordinateurs.md",
-    "Theme 5-Electricité et Magnétisme.md",
-    "assets/Politique budgétaire expansionniste et restrictive/image-20231129092655523.png",
-    "assets/Politique budgétaire expansionniste et restrictive/image-20231129091737586.png",
-    "assets/Transmission et réfraction/image-20231129213145786.png",
+    "Theme 1-Mesures et incertitudes.md",
+    "culture religion.md",
+    "Untitled 16.md",
+    "oral mademba 2.md",
+    "oral mademba 3.md",
+    "_french B.md",
+    "Diffraction.md",
+    "assets/Diffraction/image-20231204120001860.png",
+    "assets/Diffraction",
+    "Theme 4-Oscillations et ondes.md",
+    "Chapitre 4 - Comportement des ondes.md",
+    "Chapitre 3 - Caractéristiques des ondes.md",
+    "Polarisation.md",
+    "assets/Polarisation/image-20231120115211923.png",
+    "assets/Polarisation/image-20231204103105556.png",
+    "Transmission et réfraction.md",
+    "assets/Transmission et réfraction/image-20231201144322670.png",
     "assets/Transmission et réfraction/image-20231129211352056.png",
-    "assets/Transmission et réfraction",
-    "assets/Réflexion/image-20231129110409022.png",
-    "assets/Réflexion/image-20231129103258954.png",
-    "assets/Fronts d'onde et rayons/image-20231120110828452.png",
-    "assets/Réflexion/image-20231129103238554.png",
-    "assets/Réflexion",
+    "Théorème de superposition.md",
+    "Chapitre 1 - Mouvement harmonique simple (MHS).md",
+    "Songs of Sorrow.md",
+    "Songs of sorrow answers.md",
+    "Chapitre 3 -  Objectifs macro-économiques.md",
+    "_english.md",
+    "Analyzing poems.md",
+    "Key features of poetry.md",
+    "Imagery.md",
+    "Strength to love.md",
     "assets/Dérivation/image-20231128163111952.png",
+    "assets/Causes du chômage, coûts et solutions/image-20230913103815676.png",
+    "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192814757.png",
+    "assets/Politique budgétaire expansionniste et restrictive/image-20231129091737586.png",
+    "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
+    "assets/Transmission et réfraction",
+    "assets/Réflexion",
     "assets/Politique budgétaire expansionniste et restrictive",
     "assets/Dérivation",
-    "assets/Polarisation/image-20231120115211923.png",
     "assets/Nouvelle expression de la deuxième loi de Newton",
     "assets/Polarisation",
     "assets/Fronts d'onde et rayons",
     "assets/Onde progressive",
-    "assets/Caractéristiques d'un MHS",
-    "assets/Politiques monétaires expansionnistes et restrictives"
+    "assets/Caractéristiques d'un MHS"
   ]
 }

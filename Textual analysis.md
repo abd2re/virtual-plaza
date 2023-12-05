@@ -47,7 +47,7 @@ Key terms:
 - Lexical sets:: a group of words that are related to each other in meaning for example, leaf, green, trunk, bark, and branch would all be part of the same lexical set in relation to the word "tree".
 <!--SR:!2023-12-11,50,230-->
 - Diction:: the words chosen in a text
-<!--SR:!2023-12-03,50,250-->
+<!--SR:!2024-04-07,126,250-->
 - Tone:: the attitude of the writer or speaker towards his or her subject
 <!--SR:!2024-01-12,64,210-->
 - Figurative language:: language that uses figures of speech, such as metaphors or symbols, to embellish meaning beyond the literal

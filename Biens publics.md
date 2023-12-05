@@ -19,7 +19,7 @@ Un bien privé a deux caractéristiques:
 
 ## Caractéristique de différents types de biens
 - Bien privée => ::Rival et Exclusif
-<!--SR:!2023-12-04,164,250-->
+<!--SR:!2024-02-23,81,230-->
 - Ressources du pool commun=> ::Rival et Non-exclusif
 <!--SR:!2024-09-16,335,250-->
 - Articles de club=> ::Non-rival et Exclusif

@@ -1,0 +1,8 @@
+## Summary
+
+Songs of Sorrow by Kofi Awoonor is a poem and impactful collection of poetry that reflects deep connection with Ghanian heritage and his engagement with the socio-political landscape of post-colonial Africa. Written in the 1960s, the period is marked by significant change and political upheaval, the poems explore themes of cultural identity, the impact of colonialism and the struggle for independence. The book is characterized by rich and evocative language drawing on traditional oral poetic forms and importing imagery beliefs. Awonoor's rhythmic patterns echo the oral storytelling tradition, creating a powerful and immersive experience for the reader. Throughout the poems there is a profound exploration of the clash between traditional Africans values and the forces of modernisation and westernization. Awonoor's criticizes colonial oppression and reflects on loss of heritage, often using symbolic elements to convey complex idea. 
+
+Key poems in the collection include “The Weaverbird” which examine the impact of modernisation on traditional skills and “The Cathedral” which depicts the cultural conflicts. “The Sea Eats the Land at Home” addresses the destructive legacy of the Atlantic slave trades, while the title poem “Songs of Sorrow” reflects on personal and collective griefs, themes of loss, displacement and mourning.
+
+In conclusion Songs of Sorrow stand as a powerful literary work that not only captures the struggles and aspirations of post-colonial Africa  but also contributes to the broader discourse on cultural resilience, identity, and the enduring spirit of a people navigating the complexities of a changing world.
+

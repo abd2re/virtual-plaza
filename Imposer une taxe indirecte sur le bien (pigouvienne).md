@@ -6,7 +6,7 @@ Created: 2023-02-07
 # Imposer une taxe indirecte sur le bien (pigouvienne)
 ?
 Le gouvernement pourrait imposer une taxe indirecte sur le bien lui-même pour augmenter les coûts privés de consommation en augmentant le prix du bien. Lorsque les impôts indirects sont ainsi utilisés pour résoudre les externalités négatives, on les appelle impôts pigouviens
-<!--SR:!2023-12-05,187,250-->
+<!--SR:!2024-03-07,93,230-->
 
 **Problèmes avec cette solution (3):**
 ?

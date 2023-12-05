@@ -21,7 +21,7 @@ tags: [M]
 2. King Lear
 3. [[Houseboy]]
 4. Tartuffe
-5. Songs of Sorrow
+5. [[Songs of Sorrow]]
 6. Strength to Love
 
 [[Comparaison of Houseboy and King Lear]]
@@ -42,6 +42,8 @@ tags: [M]
 [[Yellow wallpaper work]]
 [[Houseboy prompt]]
 [[Global Issue books]]
+[[Songs of sorrow answers]]
+
 
 ## [[HL essay]]
 

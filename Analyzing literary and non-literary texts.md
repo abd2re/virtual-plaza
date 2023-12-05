@@ -19,7 +19,7 @@ Steps (10):
 6. **Examine visual elements if applicable**: If analyzing visual texts, pay attention to visual elements such as images, colors, layout, and designs. These can carry cultural meanings and messages.
 7. **Evaluate stereotypes and biases**: Assess whether the text perpetrates or contains stereotypes or biases related to cultures, ethnicity, gender, or other social factors. Analyze how these stereotypes reflect or challenge cultural norms.
 8. **Explore cultural norms and values**: Identify and analyze the cultural norms and values reflected in the text. Consider how the text promotes, reinforces, and challenges these norms.
-9. **Analyze the impact**: Consider the impact of the communication on the audience and the society. Reflect on how the text influences behavior, attitude, or perceptions related to culture. 
+9. **Analyze the impact**: Consider the impact of the communication on the audience and the society. Reflect on how the text influences behavior, attitude, or perceptions related to culture.
 10. **Draw conclusions**: To draw conclusions we generally talk about how the language and content of the non-literary text reflect and contribute to cultural norms an values. Reflect on how your cultural background and experiences may influence your interpretation of the text. Recognize potential biases and assumptions within the text.
-<!--SR:!2023-12-02,52,250-->
+<!--SR:!2024-04-09,129,250-->
 

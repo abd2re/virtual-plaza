@@ -9,7 +9,7 @@ $\sqrt{-1}$=::$i$
 
 $$\LARGE{z=a+bi}$$
 - Re($z$) =:: $a$
-<!--SR:!2023-12-04,134,250-->
+<!--SR:!2024-11-02,334,250-->
 - Im($z$) =:: $b$
 <!--SR:!2024-01-20,163,250-->
 
@@ -78,7 +78,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 <!--SR:!2023-12-13,31,141-->
 
 - $\cos\theta$=::$\frac{a}{|z|}$
-<!--SR:!2023-12-01,24,236-->
+<!--SR:!2024-01-26,56,236-->
 - $\sin\theta$=::$\frac{b}{|z|}$
 <!--SR:!2023-12-22,37,236-->
 - $|zw|$=::$|z||w|$
@@ -100,7 +100,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 
 ## Formules d'Euler (module=1)
 Si $|z|=1$ alors $z^{*}$=::$z^{-1}$
-<!--SR:!2023-12-02,24,234-->
+<!--SR:!2024-01-26,55,234-->
 $e^{i\pi}$=::$-1$
 <!--SR:!2023-12-20,35,234-->
 

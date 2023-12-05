@@ -7,3 +7,4 @@ tags:
 2. [[Objectifs de la politique budgétaire]]
 3. [[Politique budgétaire expansionniste et restrictive]]
 4. [[Contraintes sur la politique budgétaire]]
+5. [[Points forts de la politique budgétaire]]

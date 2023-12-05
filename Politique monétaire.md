@@ -10,14 +10,14 @@ La politique monétaire fait référence à la banque centrale qui utilise le re
 <!--SR:!2023-12-06,6,150-->
 
 - La politique monétaire permet aux pays de stimuler leur économie tout en évitant de:: s’endetter.
-<!--SR:!2023-12-01,10,230-->
+<!--SR:!2023-12-25,24,230-->
 - La politique monétaire est un moyen pour les gouvernements de:: gérer l’économie.
 <!--SR:!2023-12-18,22,250-->
 - La banque centrale détermine la politique monétaire en:: contrôlant la masse monétaire et en fixant le taux d’intérêt.
 <!--SR:!2023-12-06,14,230-->
 
 - Définition de **taux d’intérêt**:: **Coût d’emprunt de l’argent.**
-<!--SR:!2023-12-02,10,210-->
+<!--SR:!2023-12-24,22,210-->
 - Définition de la **masse monétaire**:: **La quantité totale de monnaie en circulation** ; il se compose de toutes les pièces, billets et soldes bancaires.
 <!--SR:!2023-12-06,8,170-->
 
@@ -45,17 +45,17 @@ Graphique
 <!--SR:!2023-12-07,14,230-->
 
 Si l'économie est dans un écart de recession, alors pour le combler il faut:: baisser les taux d'intérêts pour augmenter la demande et ramener la production d'équilibre au plein emploi.![[image-20231108093711743.png]]
-<!--SR:!2023-12-03,4,190-->
+<!--SR:!2023-12-13,10,190-->
 
 ### 2. Imprime de l'argent physique et frappe des pièces de monnaie
 La banque centrale imprime des billets et frappe des pièces pour (2) :
 ?
 - Permettre à l’augmentation de la masse monétaire de s’aligner sur l’augmentation du PIB
 - Remplacer les vieux billets de banque déchirés
-<!--SR:!2023-12-02,7,190-->
+<!--SR:!2023-12-14,12,190-->
 
 Les banques centrales veillent à inclure des éléments de sécurité pour:: garantir l'intégrité de la monnaie et pour rendre billets de banque contrefaits moins probable.
-<!--SR:!2023-12-03,11,230-->
+<!--SR:!2023-12-27,24,230-->
 
 ### 3. Prêteur de dernier recours
 En cas de crise financière, les consommateurs peuvent perdre confiance dans leur banque et se précipiter pour retirer leur argent. C'est ce qu'on appelle un:: courir sur la banque.

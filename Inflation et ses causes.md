@@ -9,7 +9,7 @@ Created: 2023-09-13
 Définition de l'inflation:
 ?
 L'inflation est une augmentation durable du niveau des prix dans une économie.
-<!--SR:!2023-12-02,39,190-->
+<!--SR:!2024-02-13,73,190-->
 
 - Lorsque l'argent perd de la valeur, les prix:: augmentent en conséquence.
 <!--SR:!2023-12-31,68,250-->
@@ -35,7 +35,7 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2023-12-02,9,183-->
+<!--SR:!2023-12-07,5,163-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2024-01-06,69,263-->
@@ -67,7 +67,7 @@ L’inflation tirée par la demande se produit lorsqu’il y a une augmentation 
 - Selon la théorie keynésienne, si l’économie fonctionne à un équilibre inférieur au plein emploi, il existe alors des capacités inutilisées dans l’économie et les prix:: n’auront pas besoin d’augmenter. 
 <!--SR:!2023-12-06,50,263-->
 - Selon la théorie keynésienne, ce n’est que lorsque les ressources sont pleinement utilisées ou presque, et doivent être réparties entre des utilisations concurrentes, que les prix:: augmentent.
-<!--SR:!2023-12-04,49,263-->
+<!--SR:!2024-04-10,128,263-->
 
 ### Inflation par les coûts de production
 ?
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2023-12-01,5,130-->
+<!--SR:!2023-12-08,7,130-->
 

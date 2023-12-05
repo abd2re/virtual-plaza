@@ -10,7 +10,7 @@ Created: 2023-11-15
  <!--SR:!2023-11-29,1,147-->
  
 La propagation d'une onde progressive s’effectue:: sans transport de matière mais avec un transport d’énergie.
-<!--SR:!2023-12-02,2,200-->
+<!--SR:!2023-12-05,2,180-->
 
 
 - L'énergie est transférée par les ondes, mais la matière:: ne l'est pas
@@ -23,13 +23,13 @@ Il existe deux types d'ondes progressives (avec définition):
 <!--SR:!2023-12-05,7,207-->
 
 La longueur d'onde est (2):: la distance entre deux crêtes ou deux creux de deux ondes consécutives (transversale), la distance entre deux points de compression ou deux points de raréfaction (longitudinale).
-<!--SR:!2023-12-03,4,218-->
+<!--SR:!2023-12-13,10,218-->
 
 La longueur d'onde $\lambda$ est égale à (2):: $\frac{v}{f}=vT$
-<!--SR:!2023-12-03,10,250-->
+<!--SR:!2023-12-30,27,250-->
 
 La vitesse d'une onde dépend du:: milieu de propagation.
-<!--SR:!2023-12-02,2,238-->
+<!--SR:!2023-12-06,4,238-->
 
 ## Dimensions de la propagation
 Les ondes mécaniques progressives ont la propriété de pouvoir se propager dans toutes les directions qui lui sont offertes et à partir de leur source. Ainsi, on distingue (3):: les ondes progressives à une, deux ou trois dimensions.
@@ -37,20 +37,20 @@ Les ondes mécaniques progressives ont la propriété de pouvoir se propager dan
 
 ## Ondes transversales et longitudinales
 Une onde transversale est:: une onde dans laquelle les particules oscillent perpendiculairement à la direction du mouvement et où le transfert d'énergie se fait perpendiculairement aussi.
-<!--SR:!2023-12-01,3,167-->
+<!--SR:!2023-12-06,3,147-->
 - Les ondes transversales présentent des zones de:: pics et de creux
 <!--SR:!2023-12-11,12,230-->
 - Exemples d'ondes transversales:: Ondes électromagnétiques, par exemple radio, lumière visible, UV. Vibrations sur une corde de guitare
-<!--SR:!2023-12-02,9,250-->
+<!--SR:!2023-12-22,20,250-->
 - Une onde transversale peut voyager dans le vide, oui ou non ?:: oui
 <!--SR:!2023-12-20,20,267-->
 
 Représentation d'une onde transversale::![[image-20231117200324111.png]]
-<!--SR:!2023-12-02,9,250-->
+<!--SR:!2023-12-23,21,250-->
 
 
 Une onde longitudinale est:: une onde dans laquelle les particules oscillent parallèlement à la direction de propagation de l'onde et le transfert d'énergie se fait dans la même direction.
-<!--SR:!2023-12-02,4,210-->
+<!--SR:!2023-12-11,9,210-->
 
 Représentation d'une onde longitudinale::![[image-20231117200436216.png]]
 <!--SR:!2023-12-05,8,230-->

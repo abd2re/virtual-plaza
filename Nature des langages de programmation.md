@@ -32,11 +32,11 @@ Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un lang
 ## Nécessité des langues de niveau supérieur
 
 - L’évolution de la programmation a été le remplacement du code binaire pour le développement des instructions. Ces langages informatiques de bas niveau ont été appelés:: mnémoniques et plus tard langages d'assemblage.
-<!--SR:!2023-12-04,31,170-->
+<!--SR:!2024-01-25,52,170-->
 - Le manque d'abstraction, la nécessité de se concentrer sur la résolution de problèmes et l'amélioration de l'efficacité ont conduit au développement de:: langages de haut niveau.
 <!--SR:!2024-01-01,63,250-->
 - Un langage de programmation de haut niveau est un langage de programmation qui:: utilise des éléments du langage naturel, qui est facile à utiliser, qui facilite l'abstraction en masquant des domaines importants des systèmes informatiques et qui rend le développement de programmes plus simple, plus rapide et plus compréhensible.
-<!--SR:!2023-12-04,45,250-->
+<!--SR:!2024-03-25,112,250-->
 
 ### Processus de traduction d'un langage de niveau supérieur vers un code exécutable
 - Ce processus de traduction convertira le programme dans:: le langage machine de l'ordinateur.

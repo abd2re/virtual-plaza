@@ -62,7 +62,7 @@ Deux événements sont dépendants si:: la survenance de l'un d'entre eux affect
 <!--SR:!2024-01-17,69,252-->
 
 Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
-<!--SR:!2023-12-03,39,232-->
+<!--SR:!2024-03-01,89,232-->
 
 ## Probabilité conditionnelle
 Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}$

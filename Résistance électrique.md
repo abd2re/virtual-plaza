@@ -57,7 +57,7 @@ Un appareil de mesure modifie le circuit et a un effet sur la mesure.
 
 <!--SR:!2023-03-31,65,242-->
 - Utilisation d'un voltmètre: un voltmètre idéal:: a une résistance interne infinie
-<!--SR:!2023-12-02,209,242-->
+<!--SR:!2024-03-15,104,222-->
 
 ## Diviseur de tension et montage potentiométrique
 Formule et circuit

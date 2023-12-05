@@ -22,7 +22,7 @@ $$\Large{T=kx=-k|l_{0}-l|}$$
 Représentations
 ?
 ![[image-20230604182649685.png|500|center]]
-<!--SR:!2023-12-03,101,224-->
+<!--SR:!2024-01-22,50,204-->
 
 Formule du travail d'un ressort
 ?

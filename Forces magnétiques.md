@@ -38,7 +38,7 @@ $$\Large{a=\frac{|q|vB\sin\theta}{m}}$$
 La formule du rayon d'une particule est égale:
 ?
 $$\Large{r=\frac{mv}{|q|B}}$$
-<!--SR:!2023-12-03,11,202-->
+<!--SR:!2023-12-25,22,202-->
 
 
 ## Force magnétique s'exerçcant sur un courant électrique placée dans un champ magnétique (loi de Laplace)

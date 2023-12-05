@@ -7,14 +7,14 @@ Created: 2023-11-20
 # Amplitude et intensité d'une onde
 ## Intensité
 - L'intensité d'une onde est définie comme suit:: Puissance par unité de surface ou taux de transfert d'énergie par unité de surface.
-<!--SR:!2023-12-01,2,170-->
+<!--SR:!2023-12-06,2,150-->
 
 Pour des ondes sphériques/circulaires émises par une source ponctuelle dans toutes les directions, l'intensité suit une loi inverse du carré en fonction de la distance par rapport à la source ponctuelle dont la formule est:
 ?
 $$\large{I\propto r^{-2}}$$
 - $I$ = intensité de l'onde en watts par mètre carré ($Wm^{-2}$)
 - $r$ = distance de la source ponctuelle en mètres ($m$)
-<!--SR:!2023-12-01,8,250-->
+<!--SR:!2023-12-24,23,250-->
 
 Formule de l'inetnsité pour une onde circulaire::$$\large{I=\frac{\text{puissance}}{\text{surface}}}$$
 <!--SR:!2023-12-17,17,250-->

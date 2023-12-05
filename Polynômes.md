@@ -26,7 +26,7 @@ Created: 2023-10-27
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
 <!--SR:!2023-12-10,28,250-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
-<!--SR:!2023-12-01,6,190-->
+<!--SR:!2023-12-11,10,190-->
 
 ## Division polynomiale
 Formule générale::$$\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$$
@@ -41,7 +41,7 @@ Soit deux polynômes: $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$ qu'on 
 2. Multiplier le diviseur par ce terme. $$D(x)\times q_{m}x^{m}$$
 3. Soustraire ce résultat du polynôme d'origine. $$R(x)=P(x)-D(x)\times q_{m}x^{m}$$
 4. Répétez les étapes 1 à 3 en utilisant le nouveau polynôme $R(x)$ à la place de $P(x)$ jusqu'à ce que la soustraction aboutisse à une expression pour $R(x)$ dont le degré est inférieur à celui du diviseur.
-<!--SR:!2023-12-03,23,250-->
+<!--SR:!2024-01-29,57,250-->
 
 ### Division par des fonctions linéaires
 
@@ -69,9 +69,9 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 - Une quadratique irréductible est une quadratique qui n'a pas de:: racines réelles.
 <!--SR:!2023-12-05,24,250-->
 - Si $a+bi\,(b\neq0)$ est un zéro d'un polynôme réel, alors son complexe conjugué $a-bi$ est:: également un zéro si les coefficients sont réels.
-<!--SR:!2023-12-04,23,250-->
+<!--SR:!2024-01-30,57,250-->
 - Tout polynôme réel de degré impair possède:: au moins un zéro réel.
-<!--SR:!2023-12-02,7,230-->
+<!--SR:!2023-12-17,15,230-->
 
 ## Somme et produit des racines
 Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factorisée sera dont les racines sont $r_{1}\,,r_{2}\,,\dots\,,r_{n}$::$$P(x)=a_{n}(x-r_{1})(x-r_{2})\dots(x-r_{n})$$
@@ -89,4 +89,4 @@ Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factoris
 - $x^{3}-1$=::$(x-1)(x^{2}+x+1)$
 <!--SR:!2023-12-05,8,262-->
 - $x^{3}+1$=::$(x+1)(x^{2}-x+1)$
-<!--SR:!2023-12-03,6,242-->
+<!--SR:!2023-12-17,14,242-->

@@ -19,7 +19,7 @@ Le potentiel électrique en un point est:: égale a l'énergie potentiel électr
 <!--SR:!2024-05-27,190,230-->
 
 - **Additivité de la tension ou [[loi de Kirchoff pour la tension]]**:: pour les dipoles qui se suivent/en série ![[Tension ou différence de potentiel électrique.png]] $$V_{AD}=V_{A}-V_{D}=V_{AB}+V_{BC}+V_{CD}$$![[loi de kirchoff pour la tension]]$$V_{AB}+V_{BC}+V_{CD}+V_{DA}=0$$$$\Sigma V=0$$
-<!--SR:!2023-12-04,192,216-->
+<!--SR:!2024-03-08,95,196-->
 - La tension aux bornes de dipoles en série est égale a la somme des tensions au niveau de chaque dipole
 <!--SR:!2022-12-17,8,250-->
 

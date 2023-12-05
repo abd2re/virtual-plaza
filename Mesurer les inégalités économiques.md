@@ -19,4 +19,4 @@ Calcule du coefficient de Gini (graphe) avec formule:
 ?
 ![[image-20231013082125087.png]]
 $$\text{gini}=\frac{A}{A+B}$$
-<!--SR:!2023-12-02,28,230-->
+<!--SR:!2024-02-03,63,230-->
