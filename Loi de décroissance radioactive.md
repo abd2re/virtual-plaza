@@ -12,7 +12,7 @@ Created: 2023-02-14
 ## Désintégration $T_{1/2}$ ou période radioactive (demie-vie)
 ?
 C'est le temps au bout duquel la moitié des noyaux radioactifs d'un échantillon s'est désintégré.
-<!--SR:!2023-12-07,163,230-->
+<!--SR:!2024-02-25,80,210-->
 
 Formule de la masse finale d'une substance radioactive:
 ?

@@ -7,19 +7,19 @@ Created: 2023-11-08
 # Politique monétaire
 ?
 La politique monétaire fait référence à la banque centrale qui utilise le rentrée d'argent et les taux d’intérêt pour gérer l’économie.
-<!--SR:!2023-12-06,6,150-->
+<!--SR:!2023-12-16,10,150-->
 
 - La politique monétaire permet aux pays de stimuler leur économie tout en évitant de:: s’endetter.
 <!--SR:!2023-12-25,24,230-->
 - La politique monétaire est un moyen pour les gouvernements de:: gérer l’économie.
 <!--SR:!2023-12-18,22,250-->
 - La banque centrale détermine la politique monétaire en:: contrôlant la masse monétaire et en fixant le taux d’intérêt.
-<!--SR:!2023-12-06,14,230-->
+<!--SR:!2024-01-06,31,230-->
 
 - Définition de **taux d’intérêt**:: **Coût d’emprunt de l’argent.**
 <!--SR:!2023-12-24,22,210-->
 - Définition de la **masse monétaire**:: **La quantité totale de monnaie en circulation** ; il se compose de toutes les pièces, billets et soldes bancaires.
-<!--SR:!2023-12-06,8,170-->
+<!--SR:!2023-12-19,13,170-->
 
 
 ## Les fonctions d'une banque centrale
@@ -30,7 +30,7 @@ Ils sont 5:
 3. Prêteur de dernier recours
 4. Émet des obligations et d’autres instruments financiers
 5. Régule le système bancaire
-<!--SR:!2023-12-05,7,170-->
+<!--SR:!2023-12-17,12,170-->
 
 
 ### 1. Détermine la masse monétaire et le taux d’intérêt
@@ -42,7 +42,7 @@ Lorsque la banque centrale augmente la masse monétaire, alors en conséquence l
 Graphique
 ?
 ![[image-20231108093526578.png]]
-<!--SR:!2023-12-07,14,230-->
+<!--SR:!2024-01-07,31,230-->
 
 Si l'économie est dans un écart de recession, alors pour le combler il faut:: baisser les taux d'intérêts pour augmenter la demande et ramener la production d'équilibre au plein emploi.![[image-20231108093711743.png]]
 <!--SR:!2023-12-13,10,190-->
@@ -67,6 +67,6 @@ La Banque centrale peut émettre obligations pour:: lever des fonds pour finance
 
 ### 5. Régule le système bancaire
 - Un rôle important de la banque centrale est de réglementer banques commerciales pour s’assurer:: qu’elles ne prennent pas trop de risques.
-<!--SR:!2023-12-06,13,230-->
+<!--SR:!2024-01-04,29,230-->
 - Le pouvoir de régulation le plus important d’une banque centrale est de:: fixer des réserves obligatoires.
-<!--SR:!2023-12-06,9,170-->
+<!--SR:!2023-12-20,14,170-->

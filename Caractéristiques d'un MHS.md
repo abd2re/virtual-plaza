@@ -25,7 +25,7 @@ Graphiques position-vitesse-accélération en fonction du temps
 Période et amplitude dans un graphe déplacement-temps:
 ?
 ![[image-20231117193758725.png|center]]
-<!--SR:!2023-12-05,8,226-->
+<!--SR:!2023-12-23,18,226-->
 
 Longueur d'onde et amplitude dans un graphe déplacement-distance:
 ?

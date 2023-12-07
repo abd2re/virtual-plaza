@@ -11,8 +11,8 @@ Created: 2023-05-09
 - Définir le référentiel d'étude (*référentiel du labo, référentiel terrestre pour les objets de la Terre, référentiel géocentrique pour les satellites ou la lune, référentiel héliocentrique pour mouvement des planètes*)
 - Inventaire des forces
 - Application d'une loi de Newton
-- Définir un repère et faire des projections puis des calculs 
-<!--SR:!2023-12-06,55,170-->
+- Définir un repère et faire des projections puis des calculs
+<!--SR:!2024-01-02,27,150-->
 
 
 Tableau pour résoudre problème de dynamique:

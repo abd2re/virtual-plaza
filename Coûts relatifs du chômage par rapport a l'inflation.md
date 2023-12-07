@@ -17,7 +17,7 @@ Created: 2023-10-04
 ## Conflit potentiel entre les objectifs macro-économiques
 ?
 Les objectifs macro-économiques peuvent parfois donner lieu à des conflits potentiels les uns avec les autres. Dans le cas où AD se déplace vers la droite, cela devrait entraîner une augmentation du PIB réel et une augmentation de l’emploi. Cependant, si la DA augmente trop,:: l’inflation peut devenir une menace à mesure que le niveau de plein emploi est atteint.
-<!--SR:!2023-12-06,19,230-->
+<!--SR:!2024-01-18,43,230-->
 
 Le taux de chomage au plein emploi est:: le taux de chomage naturel.
 <!--SR:!2023-12-23,44,250-->

@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "Effets des politiques budgétaires sur l’offre",
+      "path": "Effets des politiques budgétaires sur l’offre.md"
+    },
+    {
+      "basename": "Chapitre 7 - Politiques du côté de l'Offre",
+      "path": "Chapitre 7 - Politiques du côté de l'Offre.md"
+    },
+    {
+      "basename": "Effets sur la demande des politiques axées sur l’offre",
+      "path": "Effets sur la demande des politiques axées sur l’offre.md"
+    },
+    {
+      "basename": "Politiques d’offre liées aux incitations",
+      "path": "Politiques d’offre liées aux incitations.md"
+    },
+    {
+      "basename": "Politiques interventionnistes du côté de l’offre",
+      "path": "Politiques interventionnistes du côté de l’offre.md"
+    },
+    {
+      "basename": "Politiques d’offre fondées sur le marché pour le marché du travail",
+      "path": "Politiques d’offre fondées sur le marché pour le marché du travail.md"
+    },
+    {
+      "basename": "Objectifs des politiques d’offre",
+      "path": "Objectifs des politiques d’offre.md"
+    },
+    {
+      "basename": "Theme 2-Macro-économie",
+      "path": "Theme 2-Macro-économie.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Politiques d’offre fondées sur le marché pour accroître la concurrence",
+      "path": "Politiques d’offre fondées sur le marché pour accroître la concurrence.md"
+    },
+    {
+      "basename": "MO",
+      "path": "template/MO.md"
+    },
+    {
+      "basename": "MOC",
+      "path": "template/MOC.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
+    },
+    {
+      "basename": "Mouvement circulaire uniforme",
+      "path": "Mouvement circulaire uniforme.md"
+    },
+    {
+      "basename": "Dérivation",
+      "path": "Dérivation.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
       "basename": "_physics",
       "path": "_physics.md"
     },
@@ -65,10 +133,6 @@
       "path": "Chapitre 3 -  Objectifs macro-économiques.md"
     },
     {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
       "basename": "Analyzing poems",
       "path": "Analyzing poems.md"
     },
@@ -97,24 +161,12 @@
       "path": "Présentation d'un document iconographique.md"
     },
     {
-      "basename": "Dérivation",
-      "path": "Dérivation.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "Chômage faible",
       "path": "Chômage faible.md"
     },
     {
       "basename": "Causes du chômage, coûts et solutions",
       "path": "Causes du chômage, coûts et solutions.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Efficacité de la politique monétaire",
@@ -147,58 +199,6 @@
     {
       "basename": "Politique budgétaire expansionniste et restrictive",
       "path": "Politique budgétaire expansionniste et restrictive.md"
-    },
-    {
-      "basename": "Objectifs de la politique budgétaire",
-      "path": "Objectifs de la politique budgétaire.md"
-    },
-    {
-      "basename": "Politique budgétaire",
-      "path": "Politique budgétaire.md"
-    },
-    {
-      "basename": "Theme 2-Macro-économie",
-      "path": "Theme 2-Macro-économie.md"
-    },
-    {
-      "basename": "Chapitre 4 - Économie des inégalités et de la pauvreté",
-      "path": "Chapitre 4 - Économie des inégalités et de la pauvreté.md"
-    },
-    {
-      "basename": "Signification de la pauvreté et comment la mesurer",
-      "path": "Signification de la pauvreté et comment la mesurer.md"
-    },
-    {
-      "basename": "Mesurer les inégalités économiques",
-      "path": "Mesurer les inégalités économiques.md"
-    },
-    {
-      "basename": "Relation entre égalité et équité",
-      "path": "Relation entre égalité et équité.md"
-    },
-    {
-      "basename": "Impôts indirects",
-      "path": "Impôts indirects.md"
-    },
-    {
-      "basename": "Réflexion",
-      "path": "Réflexion.md"
-    },
-    {
-      "basename": "Theme 7-Physique nucléaire",
-      "path": "Theme 7-Physique nucléaire.md"
-    },
-    {
-      "basename": "Energie de liaison du noyau",
-      "path": "Energie de liaison du noyau.md"
-    },
-    {
-      "basename": "Theme 2-Mécanique",
-      "path": "Theme 2-Mécanique.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     }
   ],
   "omittedPaths": [],

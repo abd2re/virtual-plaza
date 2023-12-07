@@ -30,7 +30,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - G =:: Dépenses gouvernementales
 <!--SR:!2025-03-26,498,310-->
 - I =:: Investissements
-<!--SR:!2023-12-07,179,310-->
+<!--SR:!2025-06-13,554,310-->
 - X =:: Exportations
 <!--SR:!2024-04-23,300,330-->
 

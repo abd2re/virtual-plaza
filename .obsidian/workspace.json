@@ -4,11 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "7dd945a8e4a699be",
+        "id": "f91d177aa55e91f1",
         "type": "tabs",
         "children": [
           {
-            "id": "a3bfb13c674f9180",
+            "id": "f2b05fc102c2210e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 7 - Politiques du côté de l'Offre",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 7 - Politiques du côté de l'Offre.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Theme 2-Macro-économie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 2-Macro-économie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "_economy",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_economy.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Effets des politiques budgétaires sur l’offre.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa8b438c99c52ed8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,8 +60,13 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Politiques d’offre liées aux incitations.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -144,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Effets des politiques budgétaires sur l’offre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Effets des politiques budgétaires sur l’offre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +267,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3934646190335357,
+                  "scale": 0.49331197645959085,
                   "close": true
                 }
               }
@@ -241,8 +288,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Effets des politiques budgétaires sur l’offre.md",
                 "linksCollapsed": true,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -280,7 +328,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Effets des politiques budgétaires sur l’offre.md"
+              }
             }
           },
           {
@@ -314,7 +364,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Effets des politiques budgétaires sur l’offre.md"
+              }
             }
           },
           {
@@ -392,6 +444,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Effets des politiques budgétaires sur l’offre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -443,7 +496,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5699935841068322,
+                  "scale": 0.5111389059888396,
                   "close": true
                 }
               }
@@ -471,45 +524,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3bfb13c674f9180",
+  "active": "f2b05fc102c2210e",
   "lastOpenFiles": [
+    "Chapitre 7 - Politiques du côté de l'Offre.md",
+    "Effets des politiques budgétaires sur l’offre.md",
+    "Effets sur la demande des politiques axées sur l’offre.md",
+    "Politiques d’offre liées aux incitations.md",
+    "assets/Politiques d’offre liées aux incitations/image-20231207140020679.png",
+    "Politiques interventionnistes du côté de l’offre.md",
+    "Objectifs des politiques d’offre.md",
+    "assets/Politiques d’offre liées aux incitations",
+    "Politiques d’offre fondées sur le marché pour accroître la concurrence.md",
+    "Politiques d’offre fondées sur le marché pour le marché du travail.md",
+    "Theme 2-Macro-économie.md",
+    "_economy.md",
+    "Theme 1-Micro-économie.md",
+    "template/MO.md",
+    "template/MOC.md",
+    "Chapitre 3 - L'Equilibre du marché.md",
+    "Chapitre 2 - L'approvisionnement (L'offre).md",
+    "_computer science.md",
+    "_english.md",
+    "Mouvement circulaire uniforme.md",
+    "Dérivation.md",
+    "assets/Dérivation/image-20231128163111952.png",
+    "_math.md",
     "_physics.md",
     "Theme 7-Physique nucléaire.md",
     "TP_physique1.md",
     "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
     "Theme 1-Mesures et incertitudes.md",
     "culture religion.md",
-    "Untitled 16.md",
-    "oral mademba 2.md",
-    "oral mademba 3.md",
-    "_french B.md",
-    "Diffraction.md",
     "assets/Diffraction/image-20231204120001860.png",
     "assets/Diffraction",
-    "Theme 4-Oscillations et ondes.md",
-    "Chapitre 4 - Comportement des ondes.md",
-    "Chapitre 3 - Caractéristiques des ondes.md",
-    "Polarisation.md",
     "assets/Polarisation/image-20231120115211923.png",
     "assets/Polarisation/image-20231204103105556.png",
-    "Transmission et réfraction.md",
     "assets/Transmission et réfraction/image-20231201144322670.png",
     "assets/Transmission et réfraction/image-20231129211352056.png",
-    "Théorème de superposition.md",
-    "Chapitre 1 - Mouvement harmonique simple (MHS).md",
-    "Songs of Sorrow.md",
-    "Songs of sorrow answers.md",
-    "Chapitre 3 -  Objectifs macro-économiques.md",
-    "_english.md",
-    "Analyzing poems.md",
-    "Key features of poetry.md",
-    "Imagery.md",
-    "Strength to love.md",
-    "assets/Dérivation/image-20231128163111952.png",
     "assets/Causes du chômage, coûts et solutions/image-20230913103815676.png",
     "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192814757.png",
     "assets/Politique budgétaire expansionniste et restrictive/image-20231129091737586.png",
-    "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
     "assets/Transmission et réfraction",
     "assets/Réflexion",
     "assets/Politique budgétaire expansionniste et restrictive",
@@ -517,7 +571,6 @@
     "assets/Nouvelle expression de la deuxième loi de Newton",
     "assets/Polarisation",
     "assets/Fronts d'onde et rayons",
-    "assets/Onde progressive",
-    "assets/Caractéristiques d'un MHS"
+    "assets/Onde progressive"
   ]
 }

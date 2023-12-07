@@ -10,7 +10,7 @@ Created: 2023-11-15
  <!--SR:!2023-11-29,1,147-->
  
 La propagation d'une onde progressive s’effectue:: sans transport de matière mais avec un transport d’énergie.
-<!--SR:!2023-12-05,2,180-->
+<!--SR:!2023-12-09,4,180-->
 
 
 - L'énergie est transférée par les ondes, mais la matière:: ne l'est pas
@@ -20,7 +20,7 @@ Il existe deux types d'ondes progressives (avec définition):
 ?
 - les ondes mécaniques, qui se propagent dans un milieu et ne peuvent pas se produire dans le vide
 - les ondes électromagnétiques, qui peuvent se propager dans le vide.
-<!--SR:!2023-12-05,7,207-->
+<!--SR:!2023-12-19,14,207-->
 
 La longueur d'onde est (2):: la distance entre deux crêtes ou deux creux de deux ondes consécutives (transversale), la distance entre deux points de compression ou deux points de raréfaction (longitudinale).
 <!--SR:!2023-12-13,10,218-->
@@ -29,7 +29,7 @@ La longueur d'onde $\lambda$ est égale à (2):: $\frac{v}{f}=vT$
 <!--SR:!2023-12-30,27,250-->
 
 La vitesse d'une onde dépend du:: milieu de propagation.
-<!--SR:!2023-12-06,4,238-->
+<!--SR:!2023-12-15,9,238-->
 
 ## Dimensions de la propagation
 Les ondes mécaniques progressives ont la propriété de pouvoir se propager dans toutes les directions qui lui sont offertes et à partir de leur source. Ainsi, on distingue (3):: les ondes progressives à une, deux ou trois dimensions.
@@ -37,7 +37,7 @@ Les ondes mécaniques progressives ont la propriété de pouvoir se propager dan
 
 ## Ondes transversales et longitudinales
 Une onde transversale est:: une onde dans laquelle les particules oscillent perpendiculairement à la direction du mouvement et où le transfert d'énergie se fait perpendiculairement aussi.
-<!--SR:!2023-12-06,3,147-->
+<!--SR:!2023-12-10,4,147-->
 - Les ondes transversales présentent des zones de:: pics et de creux
 <!--SR:!2023-12-11,12,230-->
 - Exemples d'ondes transversales:: Ondes électromagnétiques, par exemple radio, lumière visible, UV. Vibrations sur une corde de guitare
@@ -53,10 +53,10 @@ Une onde longitudinale est:: une onde dans laquelle les particules oscillent par
 <!--SR:!2023-12-11,9,210-->
 
 Représentation d'une onde longitudinale::![[image-20231117200436216.png]]
-<!--SR:!2023-12-05,8,230-->
+<!--SR:!2023-12-24,19,230-->
 
 - Exemple d'onde longitudinale:: Ondes sonore
-<!--SR:!2023-12-06,10,247-->
+<!--SR:!2023-12-29,23,247-->
 - Une onde longitudinale peut voyager dans le vide, oui ou non et pourquoi ?:: non, les ondes longitudinales ont besoin de particules pour se propager.
 <!--SR:!2023-12-11,14,247-->
 

@@ -44,7 +44,7 @@ $$\Large{a-ib}$$
 $z+z^*$=
 ?
 $$\Large{2a}$$
-<!--SR:!2023-12-05,83,230-->
+<!--SR:!2024-06-12,190,230-->
 
 $z-z^{*}$=
 ?
@@ -90,11 +90,11 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$
 <!--SR:!2023-12-23,37,236-->
 - $z^{n}$=::$|z|^{n}(\cos n\theta+i\sin n\theta)$
-<!--SR:!2023-12-05,25,216-->
+<!--SR:!2024-01-27,53,216-->
 - $\theta$=::$\tan^{-1}(\frac{b}{a})$
 <!--SR:!2023-12-22,36,236-->
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
-<!--SR:!2023-12-06,21,196-->
+<!--SR:!2024-01-15,40,196-->
 - $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
 <!--SR:!2023-12-23,36,234-->
 
@@ -116,5 +116,5 @@ $e^{i\pi}$=::$-1$
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2023-12-05,5,150-->
+<!--SR:!2023-12-12,7,150-->
 

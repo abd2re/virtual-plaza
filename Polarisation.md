@@ -20,7 +20,7 @@ Différence entre lumière polarisée et lumière non-polarisée:
 ?
 - Pour une lumière non-polarisée le vecteur champ électrique peut vibrer dans n'imprte quel plan perpendiculaire à la direction de propagation.
 - Pour une lumière polarisée le vecteur champ électrique vibre seulement dans un seul plan.
-<!--SR:!2023-12-05,1,144-->
+<!--SR:!2023-12-09,2,164-->
 
 
 Formule Loi de Malus (s'applique seulement à une lumière polarisée):
@@ -38,7 +38,7 @@ $$\large{I=I_{0}\cos^{2}\theta}$$
 Représentation
 ?
 ![[image-20231204103105556.png|center|500]]
-<!--SR:!2023-12-05,1,216-->
+<!--SR:!2023-12-08,2,196-->
 
 Cet angle incident $\theta_{1}$ est égale à::$$\theta_{1}=\tan^{-1}\left(\frac{n_{2}}{n_{1}}\right)$$
-<!--SR:!2023-12-06,2,236-->
+<!--SR:!2023-12-12,6,236-->

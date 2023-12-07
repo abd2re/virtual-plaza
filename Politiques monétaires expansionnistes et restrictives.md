@@ -6,7 +6,7 @@ Created: 2023-11-17
 
 # Politiques monétaires expansionnistes et restrictives
 - Une récession c’est:: deux trimestres consécutifs de croissance négative
-<!--SR:!2023-12-05,9,210-->
+<!--SR:!2023-12-23,18,210-->
 - Une politique monétaire expansionniste peut combler:: un écart de récession.
 <!--SR:!2023-12-21,21,250-->
 - Si l’économie fonctionne proche du plein emploi (Keynésien), une politique monétaire expansionniste entraînera:: une augmentation du niveau des prix.

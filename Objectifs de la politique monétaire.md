@@ -9,10 +9,10 @@ Created: 2023-11-15
 Représentation et éléments d'un cycle économique:
 ?
 ![[image-20231115181837075.png|center]]
-<!--SR:!2023-12-05,10,230-->
+<!--SR:!2023-12-26,21,230-->
 
 Un cycle économique est:: une combinaison des expansions et des récessions.
-<!--SR:!2023-12-07,11,230-->
+<!--SR:!2023-12-31,24,230-->
 
 Les objectifs de la politique monétaire sont (3):
 ?
@@ -22,8 +22,8 @@ Les objectifs de la politique monétaire sont (3):
 <!--SR:!2023-12-11,7,150-->
 
 
-Le gouvernement peut augmenter ou diminuer la mass monétaire en (2):
+Le gouvernement peut augmenter ou diminuer la masse monétaire en (2):
 ?
 - Achetant ou vendant des obligations
 - Contrôlant la reserve obligatoire
-<!--SR:!2023-12-07,12,228-->
+<!--SR:!2024-01-02,26,228-->

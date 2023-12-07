@@ -22,7 +22,7 @@ Created: 2023-10-27
 - Remarque : lorsque $P(k) =0$, $(x - k)$ est:: un facteur de $P(x)$.
 <!--SR:!2023-12-30,37,250-->
 - $P(x)$=::$(x-k)\times Q(x)+R$ où $Q(x)$ est un polynôme
-<!--SR:!2023-12-05,16,210-->
+<!--SR:!2024-01-06,32,210-->
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
 <!--SR:!2023-12-10,28,250-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
@@ -67,7 +67,7 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 - Tout polynôme réel peut être exprimé comme un produit:: de facteurs linéaires réels et de facteurs quadratiques irréductibles réels.
 <!--SR:!2023-12-08,26,250-->
 - Une quadratique irréductible est une quadratique qui n'a pas de:: racines réelles.
-<!--SR:!2023-12-05,24,250-->
+<!--SR:!2024-02-02,59,250-->
 - Si $a+bi\,(b\neq0)$ est un zéro d'un polynôme réel, alors son complexe conjugué $a-bi$ est:: également un zéro si les coefficients sont réels.
 <!--SR:!2024-01-30,57,250-->
 - Tout polynôme réel de degré impair possède:: au moins un zéro réel.
@@ -75,7 +75,7 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 
 ## Somme et produit des racines
 Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factorisée sera dont les racines sont $r_{1}\,,r_{2}\,,\dots\,,r_{n}$::$$P(x)=a_{n}(x-r_{1})(x-r_{2})\dots(x-r_{n})$$
-<!--SR:!2023-12-06,25,250-->
+<!--SR:!2024-02-08,64,250-->
 - La somme des racines est égale à:: $$r_{1}+r_{2}+\dots+r_{n-1}+r_{n}=-\frac{a_{n-1}}{a_{n}}$$
 <!--SR:!2024-01-07,42,250-->
 - Le produit des racines est égale à::$$r_{1}\times r_{2}\times\dots\times r_{n-1}\times r_{n}=\frac{(-1)^{n}a_{0}}{a_{n}}$$
@@ -87,6 +87,6 @@ Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factoris
 
 ## Formules
 - $x^{3}-1$=::$(x-1)(x^{2}+x+1)$
-<!--SR:!2023-12-05,8,262-->
+<!--SR:!2023-12-25,20,262-->
 - $x^{3}+1$=::$(x+1)(x^{2}-x+1)$
 <!--SR:!2023-12-17,14,242-->

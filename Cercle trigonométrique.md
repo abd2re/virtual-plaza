@@ -46,7 +46,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(2\pi-\theta)$=::$\cos\theta$
 <!--SR:!2024-03-11,168,230-->
 - $\sin(2\pi-\theta)$=::$-\sin\theta$
-<!--SR:!2023-12-05,101,230-->
+<!--SR:!2024-07-23,231,230-->
 
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$

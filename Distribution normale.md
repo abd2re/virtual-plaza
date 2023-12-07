@@ -25,6 +25,6 @@ Created: 2023-11-16
 - $Z$ suit une distribution normale standardisée, on note ça:: $Z\sim N(0,1^{2})$
 <!--SR:!2023-12-08,13,250-->
 - $Z$=::$\frac{X-\mu}{\sigma}$
-<!--SR:!2023-12-06,8,230-->
+<!--SR:!2023-12-23,17,230-->
 - $P(a<X<b)$ en forme standardisée est:: $P(\frac{a-\mu}{\sigma}<Z<\frac{b-\mu}{\sigma})$
 <!--SR:!2023-12-13,17,250-->

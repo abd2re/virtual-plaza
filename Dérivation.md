@@ -6,9 +6,11 @@ Created: 2023-11-28
 
 # Nombre dérivée
 - $f'(a)$=::$$\lim_{h\rightarrow 0}\frac{f(a+h)-f(a)}{h}$$
-<!--SR:!2023-12-06,4,230-->
-- Autre notation de $f'(a)$::$\frac{dy}{dx}|_{x=a}$
+<!--SR:!2023-12-15,9,230-->
+- Autre notation de $f'(x)$::$\frac{dy}{dx}$
 <!--SR:!2023-12-10,8,250-->
+- Autre notation de $f''(x)$::$\frac{d^{2}y}{dx^{2}}$
+<!--SR:!2023-12-08,2,245-->
 
 Tangente et normale pour une fonction représente:
 ?
@@ -16,9 +18,9 @@ Tangente et normale pour une fonction représente:
 <!--SR:!2023-12-09,7,250-->
 
 - Formule de la tangente $T:y$=:: $f'(a)(x-a)+f(a)$
-<!--SR:!2023-12-06,4,230-->
+<!--SR:!2023-12-13,7,230-->
 - Formule de la normale $N:y$=:: $\frac{-1}{f'(a)}(x-a)+f(a)$
-<!--SR:!2023-12-06,4,230-->
+<!--SR:!2023-12-14,8,230-->
 
 
 ## Identités
@@ -30,9 +32,9 @@ Tangente et normale pour une fonction représente:
 - $f(x)=x^{n}\rightarrow f'(x)=$::$nx^{n-1}$
 <!--SR:!2023-12-12,10,250-->
 - $f(x)=x^{-n}=\frac{1}{x^{n}}\rightarrow f'(x)=$::$\frac{-n}{x^{n+1}}$
-<!--SR:!2023-12-05,2,245-->
+<!--SR:!2023-12-11,6,245-->
 - $f(x)=x^{1/n}=\sqrt[n]{x}\rightarrow f'(x)=$::$\frac{\sqrt[n]{x^{1-n}}}{n}$
-<!--SR:!2023-12-05,2,245-->
+<!--SR:!2023-12-11,6,245-->
 - $f(x)=a^{x}\rightarrow f'(x)=$::$\ln(a)a^{x}$
 <!--SR:!2023-12-10,6,230-->
 - $f(x)=e^{x}\rightarrow f'(x)=$::$e^{x}$
@@ -54,7 +56,7 @@ Tangente et normale pour une fonction représente:
 - $h(x)=f(x)g(x)\rightarrow h'(x)=$::$f'(x)g(x)+f(x)g'(x)$
 <!--SR:!2023-12-08,6,250-->
 - $h(x)=\frac{f(x)}{g(x)}\rightarrow h'(x)=$::$\frac{f'(x)g(x)-f(x)g'(x)}{g(x)^{2}}$
-<!--SR:!2023-12-06,4,230-->
+<!--SR:!2023-12-14,8,230-->
 - $h(x)=f(g(x))\rightarrow h'(x)=$::$f'(g(x))g'(x)$
 <!--SR:!2023-12-09,5,230-->
 

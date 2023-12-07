@@ -11,14 +11,14 @@ On appelle mouvement circulaire uniforme un mouvement circulaire dont le module 
 - Dans un mouvement circulaire uniforme, l'[[accélération]] est:: centripète et constante. (+perpendiculaire au vecteur vitesse)
 <!--SR:!2024-03-09,172,250-->
 - Le mouvement circulaire uniforme est:: périodique.
-<!--SR:!2023-12-07,11,130-->
+<!--SR:!2023-12-23,16,130-->
 
 Vitesses angulaire $\omega$ est égale a
 ?
 $$\Large{\frac{v}{r}}$$
 - $v$ = vecteur vitesse
 - $r$ = rayon
-<!--SR:!2023-12-07,116,250-->
+<!--SR:!2024-01-21,289,250-->
 
 Dans le mouvement circulaire uniforme la période $T$ est égale a(2)::$$\Large{T=\frac{2\pi r}{v}=\frac{2\pi}{\omega}}$$
 <!--SR:!2023-12-10,68,190-->

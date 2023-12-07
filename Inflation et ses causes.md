@@ -17,7 +17,7 @@ L'inflation est une augmentation durable du niveau des prix dans une économie.
 <!--SR:!2024-01-22,94,290-->
 
 Quel outil les gouvernements utilisent pour calculer l'inflation ?:: indice des prix à la consommation (IPC).
-<!--SR:!2023-12-05,50,250-->
+<!--SR:!2024-04-07,124,250-->
 
 Le calcul du IPC implique:: la sélection d'un panier de biens et services typiques achetés dans l'économie par la famille type (généralement deux adultes et deux enfants). 
 <!--SR:!2023-12-16,50,210-->
@@ -35,7 +35,7 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2023-12-07,5,163-->
+<!--SR:!2023-12-10,3,143-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2024-01-06,69,263-->
@@ -44,7 +44,7 @@ IPP veut dire:: Indice prix de la production
 <!--SR:!2023-12-29,69,263-->
 
 Alors que l'IPC s'interesse au produits de la consummation, l'IPP:: s'interesse aux facteurs de production qui nous permet de prévoir une augmentation/baisse future de l'IPC.
-<!--SR:!2023-12-07,41,203-->
+<!--SR:!2024-02-27,82,203-->
 
 ## Causes de l'inflation
 Les deux principaux types d’inflation sont:
@@ -64,8 +64,8 @@ L’inflation tirée par la demande se produit lorsqu’il y a une augmentation 
 <!--SR:!2024-02-29,96,243-->
 
 
-- Selon la théorie keynésienne, si l’économie fonctionne à un équilibre inférieur au plein emploi, il existe alors des capacités inutilisées dans l’économie et les prix:: n’auront pas besoin d’augmenter. 
-<!--SR:!2023-12-06,50,263-->
+- Selon la théorie keynésienne, si l’économie fonctionne à un équilibre inférieur au plein emploi, il existe alors des capacités inutilisées dans l’économie et les prix:: n’auront pas besoin d’augmenter.
+<!--SR:!2024-04-15,131,263-->
 - Selon la théorie keynésienne, ce n’est que lorsque les ressources sont pleinement utilisées ou presque, et doivent être réparties entre des utilisations concurrentes, que les prix:: augmentent.
 <!--SR:!2024-04-10,128,263-->
 

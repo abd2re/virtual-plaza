@@ -24,7 +24,7 @@ La politique budgétaire peut être constamment ajustée pour créer un taux d'i
 
 ## 3. Promouvoir un environnement économique stable pour une croissance à long terme
 Les gouvernements peuvent utiliser la politique budgétaire pour garantir un environnement stable propice à la croissance à long terme. Grâce à une politique budgétaire expansionniste, les gouvernements peuvent:: construire des routes, des ports, des réseaux électriques, etc.
-<!--SR:!2023-12-06,2,206-->
+<!--SR:!2023-12-10,4,206-->
 
 ## 4. Réduire les fluctuations du cycle économique
 La politique budgétaire est un outil important pour atténuer les fluctuations. Les gouvernements peuvent recourir à des mesures de relance budgétaire en cas de:: crise du cycle économique pour aider l’économie à se redresser comme une injection de dépenses publiques peut contribuer à stimuler la demande globale et la croissance économique. Le gouvernement peut également ralentir l’économie en période de boom, s’il craint une surchauffe.
@@ -37,21 +37,21 @@ Les gouvernements peuvent améliorer répartition de salaire par (3):: les impô
 Comment les impôts indirects peuvent être utilisées ?
 ?
 Les gouvernements peuvent lever des taxes plus élevées sur les produits de luxe comme le caviar et le parfum. Dans le même temps, le gouvernement peut lever des impôts moins élevés sur des produits essentiels tels que la nourriture, l’électricité ou l’eau. Ainsi, les consommateurs qui ont la plus grande capacité de payer paieront davantage d’impôts indirects. De cette manière, le gouvernement peut redistribuer les revenus des segments les plus riches de la société vers ceux qui sont moins aisés.
-<!--SR:!2023-12-07,5,246-->
+<!--SR:!2023-12-20,13,246-->
 
 Comment les impôts directs peuvent être utilisées ?
 ?
 Les gouvernements peuvent recourir à un système fiscal progressif pour transférer le fardeau du paiement des impôts sur les riches.
-<!--SR:!2023-12-07,5,246-->
+<!--SR:!2023-12-21,14,246-->
 
 
 ## 6. Solde extérieur
 Le solde extérieur est atteint lorsque:: les exportations d’un pays sont égales à ses importations.
-<!--SR:!2023-12-06,4,246-->
+<!--SR:!2023-12-18,12,246-->
 
 Il est possible pour le gouvernement d’utiliser la politique budgétaire de deux manières pour créer un équilibre extérieur (cas où balance commerciale est négative):
 ?
 - Les gouvernements peuvent utiliser tarifs (taxes sur les importations) pour décourager les consommateurs nationaux d’acheter des importations.
 - À travers politique budgétaire restrictive, le gouvernement peut décourager la consommation de biens nationaux et importés.
-<!--SR:!2023-12-07,4,226-->
+<!--SR:!2023-12-17,10,226-->
 

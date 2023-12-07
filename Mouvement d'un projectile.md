@@ -24,7 +24,7 @@ $\theta$=::angle de projection
 - Equation de x::$$\large{x=v_{0}\cos(\theta)t}$$
 <!--SR:!2024-02-25,183,250-->
 - Equation de y::$$\large{y=-\frac{1}{2}gt^{2}+v_{0}\sin(\theta)t}$$
-<!--SR:!2023-12-06,135,250-->
+<!--SR:!2024-02-11,67,230-->
 - Equation de $v_{x}$:: $$\large{v_{x}=v_{0}\cos(\theta)}$$
 <!--SR:!2023-12-09,135,250-->
 - Equation de $v_{y}$:: $$\large{v_{y}=-gt+v_{0}\sin(\theta)=\sqrt{v_{0}^{2}\sin^{2}(\theta)-2gy}}$$
@@ -32,4 +32,4 @@ $\theta$=::angle de projection
 - Equation de fleche (H):: $$\large{H=\frac{v_{0}^{2}\sin^2(\theta)}{2g}}$$
 <!--SR:!2024-02-16,160,230-->
 - Equation de portée (R):: $$\large{R=\frac{v_{0}^{2}\sin^{2}(2\theta)}{g}}$$
-<!--SR:!2023-12-07,35,130-->
+<!--SR:!2023-12-24,17,130-->
