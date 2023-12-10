@@ -39,9 +39,9 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 
 ## Dissipation d'énergie électrique dans un resistor (effet joule)
 ?
-Lorsque qu'un conducteur est parcouru par un courant électrique il y a un dégagement de [[chaleur]]: c'est l'effet joule. 
+Lorsque qu'un conducteur est parcouru par un courant électrique il y a un dégagement de [[chaleur]]: c'est l'effet joule.
 Pour lutter contre l'effet joule on prévoit des dispositifs d'aération ou de ventilation. L'effet joule est utilisé avantageusement dans les plaques chauffantes, les fusibles, les chauffe-eau.
-<!--SR:!2023-12-09,199,222-->
+<!--SR:!2024-03-19,101,202-->
 
 La puissance dissipé par effet joule est proportionnelle:: au carré de l'intensité.
 <!--SR:!2024-02-18,116,182-->

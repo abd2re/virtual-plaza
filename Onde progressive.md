@@ -10,7 +10,7 @@ Created: 2023-11-15
  <!--SR:!2023-11-29,1,147-->
  
 La propagation d'une onde progressive s’effectue:: sans transport de matière mais avec un transport d’énergie.
-<!--SR:!2023-12-09,4,180-->
+<!--SR:!2023-12-16,7,180-->
 
 
 - L'énergie est transférée par les ondes, mais la matière:: ne l'est pas

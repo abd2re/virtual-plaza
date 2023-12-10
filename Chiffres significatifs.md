@@ -16,7 +16,7 @@ le nombre de chiffres significatifs d'un nombre, utilisez les règles suivantes 
 
 ## Règles d'opérations
 - Addition ou soustraction:: Prendre le plus petit nombre de décimales utilisées dans le calcul.
-<!--SR:!2023-12-08,55,250-->
+<!--SR:!2024-04-23,137,250-->
 - Multiplier ou diviser:: Prendre le plus petit nombre de chiffres significatifs utilisés dans le calcul.
 <!--SR:!2024-02-25,89,210-->
 - Lecture d'un graphique:: Prendre le nombre de chiffres significatifs correspondant à la plus petite grille du graphique.

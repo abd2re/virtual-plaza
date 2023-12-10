@@ -56,5 +56,5 @@ Types de spectres de lumières et représentations:
 ?
 (représentation)
 ![[image-20230323084755508.png]]
-<!--SR:!2023-12-08,51,166-->
+<!--SR:!2024-03-01,84,166-->
 

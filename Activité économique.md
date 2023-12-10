@@ -9,7 +9,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 <!--SR:!2023-12-16,89,150-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
-<!--SR:!2023-12-08,132,230-->
+<!--SR:!2024-02-11,65,210-->
 
 ## Circuit économique
 (représentation économie ouverte)

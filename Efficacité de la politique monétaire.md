@@ -19,10 +19,10 @@ Quels sont les atouts de la politique monétaire (3)?:
 - Graduel, flexible et facilement réversible (les deux)
 - Délais courts (les deux)
 - Croissance à long-terme (plein potentiel) (expansionniste)
-<!--SR:!2023-12-08,1,130-->
+<!--SR:!2023-12-10,2,150-->
 
 Il est très difficile pour le gouvernement d’atteindre simultanément les objectifs de (3):: croissance économique, de faible taux de chômage et de faible inflation.
-<!--SR:!2023-12-08,4,210-->
+<!--SR:!2023-12-15,7,210-->
 
 À long terme, si une politique monétaire expansionniste augmente la  capacité productive de l’économie (plein emploi), alors tous objectifs macro-économiques peuvent:: être atteints.
-<!--SR:!2023-12-08,7,250-->
+<!--SR:!2023-12-25,17,250-->

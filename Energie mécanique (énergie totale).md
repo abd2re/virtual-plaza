@@ -23,7 +23,7 @@ Formule::$$\large{\sum E_{M}=0\leftrightarrow{E_{M_{B}}=E_{M_{A}}}}$$
 ## Non-conservation de l'énergie mécanique
 ?
 La variation d'énergie mécanique entre deux instants d'un solide soumis a des forces non-conservatives est égale a la somme des travaux des forces non-conservatives.
-<!--SR:!2023-12-08,5,130-->
+<!--SR:!2023-12-11,3,130-->
 
 Formule::$$\Large{\Delta E_{M}=E_{M_{2}}-E_{M_{1}}=\sum W_{1\rightarrow2}(\vec{f}_{\text{non-conservatives}})}$$
 <!--SR:!2024-01-19,70,237-->

@@ -10,3 +10,4 @@ tags:
 5. [[Politiques interventionnistes du côté de l’offre]]
 6. [[Effets sur la demande des politiques axées sur l’offre]]
 7. [[Effets des politiques budgétaires sur l’offre]]
+8. [[Efficacité des politiques d’offre]]

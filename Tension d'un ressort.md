@@ -27,7 +27,7 @@ Représentations
 Formule du travail d'un ressort
 ?
 $$\Large{W_{A\rightarrow B}(\vec{T})=\frac{k}{2}(x^{2}_{a}-x^{2}_{b})}$$
-<!--SR:!2023-12-09,51,222-->
+<!--SR:!2024-03-30,112,222-->
 
 
 Relation entre $W_{A\rightarrow B}(\vec{T})$ et $W_{A\rightarrow B}(\vec{F})$::$$\Large{W_{A\rightarrow B}(\vec{F})=-W_{A\rightarrow B}(\vec{T})}$$

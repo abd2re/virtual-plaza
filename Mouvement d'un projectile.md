@@ -26,7 +26,7 @@ $\theta$=::angle de projection
 - Equation de y::$$\large{y=-\frac{1}{2}gt^{2}+v_{0}\sin(\theta)t}$$
 <!--SR:!2024-02-11,67,230-->
 - Equation de $v_{x}$:: $$\large{v_{x}=v_{0}\cos(\theta)}$$
-<!--SR:!2023-12-09,135,250-->
+<!--SR:!2024-11-10,337,250-->
 - Equation de $v_{y}$:: $$\large{v_{y}=-gt+v_{0}\sin(\theta)=\sqrt{v_{0}^{2}\sin^{2}(\theta)-2gy}}$$
 <!--SR:!2024-04-07,151,230-->
 - Equation de fleche (H):: $$\large{H=\frac{v_{0}^{2}\sin^2(\theta)}{2g}}$$

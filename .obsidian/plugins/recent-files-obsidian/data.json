@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Effets des politiques budgétaires sur l’offre",
-      "path": "Effets des politiques budgétaires sur l’offre.md"
+      "basename": "Transmission et réfraction",
+      "path": "Transmission et réfraction.md"
     },
     {
       "basename": "Chapitre 7 - Politiques du côté de l'Offre",
       "path": "Chapitre 7 - Politiques du côté de l'Offre.md"
     },
     {
-      "basename": "Effets sur la demande des politiques axées sur l’offre",
-      "path": "Effets sur la demande des politiques axées sur l’offre.md"
+      "basename": "Efficacité des politiques d’offre",
+      "path": "Efficacité des politiques d’offre.md"
+    },
+    {
+      "basename": "Effets des politiques budgétaires sur l’offre",
+      "path": "Effets des politiques budgétaires sur l’offre.md"
     },
     {
       "basename": "Politiques d’offre liées aux incitations",
       "path": "Politiques d’offre liées aux incitations.md"
     },
     {
-      "basename": "Politiques interventionnistes du côté de l’offre",
-      "path": "Politiques interventionnistes du côté de l’offre.md"
+      "basename": "Politiques d’offre fondées sur le marché pour accroître la concurrence",
+      "path": "Politiques d’offre fondées sur le marché pour accroître la concurrence.md"
     },
     {
       "basename": "Politiques d’offre fondées sur le marché pour le marché du travail",
@@ -37,8 +41,72 @@
       "path": "_economy.md"
     },
     {
-      "basename": "Politiques d’offre fondées sur le marché pour accroître la concurrence",
-      "path": "Politiques d’offre fondées sur le marché pour accroître la concurrence.md"
+      "basename": "Nombres complexes",
+      "path": "Nombres complexes.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Interférence",
+      "path": "Interférence.md"
+    },
+    {
+      "basename": "Theme 4-Oscillations et ondes",
+      "path": "Theme 4-Oscillations et ondes.md"
+    },
+    {
+      "basename": "Ondes électromagnétiques et ondes sonores",
+      "path": "Ondes électromagnétiques et ondes sonores.md"
+    },
+    {
+      "basename": "Diffraction",
+      "path": "Diffraction.md"
+    },
+    {
+      "basename": "Onde progressive",
+      "path": "Onde progressive.md"
+    },
+    {
+      "basename": "Chapitre 3 - Caractéristiques des ondes",
+      "path": "Chapitre 3 - Caractéristiques des ondes.md"
+    },
+    {
+      "basename": "Amplitude et intensité d'une onde",
+      "path": "Amplitude et intensité d'une onde.md"
+    },
+    {
+      "basename": "Polarisation",
+      "path": "Polarisation.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Theme 7-Physique nucléaire",
+      "path": "Theme 7-Physique nucléaire.md"
+    },
+    {
+      "basename": "Ressources du pool commun",
+      "path": "Ressources du pool commun.md"
+    },
+    {
+      "basename": "Théorème de superposition",
+      "path": "Théorème de superposition.md"
+    },
+    {
+      "basename": "Chapitre 4 - Comportement des ondes",
+      "path": "Chapitre 4 - Comportement des ondes.md"
+    },
+    {
+      "basename": "Effets sur la demande des politiques axées sur l’offre",
+      "path": "Effets sur la demande des politiques axées sur l’offre.md"
+    },
+    {
+      "basename": "Politiques interventionnistes du côté de l’offre",
+      "path": "Politiques interventionnistes du côté de l’offre.md"
     },
     {
       "basename": "MO",
@@ -65,14 +133,6 @@
       "path": "Dérivation.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
       "basename": "TP_physique1",
       "path": "TP_physique1.md"
     },
@@ -95,30 +155,6 @@
     {
       "basename": "_french B",
       "path": "_french B.md"
-    },
-    {
-      "basename": "Diffraction",
-      "path": "Diffraction.md"
-    },
-    {
-      "basename": "Theme 4-Oscillations et ondes",
-      "path": "Theme 4-Oscillations et ondes.md"
-    },
-    {
-      "basename": "Chapitre 3 - Caractéristiques des ondes",
-      "path": "Chapitre 3 - Caractéristiques des ondes.md"
-    },
-    {
-      "basename": "Polarisation",
-      "path": "Polarisation.md"
-    },
-    {
-      "basename": "Transmission et réfraction",
-      "path": "Transmission et réfraction.md"
-    },
-    {
-      "basename": "Chapitre 4 - Comportement des ondes",
-      "path": "Chapitre 4 - Comportement des ondes.md"
     },
     {
       "basename": "Songs of Sorrow",
@@ -163,42 +199,6 @@
     {
       "basename": "Chômage faible",
       "path": "Chômage faible.md"
-    },
-    {
-      "basename": "Causes du chômage, coûts et solutions",
-      "path": "Causes du chômage, coûts et solutions.md"
-    },
-    {
-      "basename": "Efficacité de la politique monétaire",
-      "path": "Efficacité de la politique monétaire.md"
-    },
-    {
-      "basename": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
-      "path": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md"
-    },
-    {
-      "basename": "Politiques monétaires expansionnistes et restrictives",
-      "path": "Politiques monétaires expansionnistes et restrictives.md"
-    },
-    {
-      "basename": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale",
-      "path": "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md"
-    },
-    {
-      "basename": "Chapitre 6 - Gestion de la demande – Politique budgétaire",
-      "path": "Chapitre 6 - Gestion de la demande – Politique budgétaire.md"
-    },
-    {
-      "basename": "Points forts de la politique budgétaire",
-      "path": "Points forts de la politique budgétaire.md"
-    },
-    {
-      "basename": "Contraintes sur la politique budgétaire",
-      "path": "Contraintes sur la politique budgétaire.md"
-    },
-    {
-      "basename": "Politique budgétaire expansionniste et restrictive",
-      "path": "Politique budgétaire expansionniste et restrictive.md"
     }
   ],
   "omittedPaths": [],

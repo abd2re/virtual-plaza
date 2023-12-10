@@ -10,4 +10,4 @@ The advertisement text types are:
 3. **Tagline:** this is the catchphrase that leads the advertisement. It should be memorable.
 4. **Signature:** the use of products name and logo acts as a kind of signature.
 5. **Slogan:** this is a phrase used by a product or brand for all its marketing purposes
-<!--SR:!2023-12-08,94,210-->
+<!--SR:!2024-01-23,46,190-->

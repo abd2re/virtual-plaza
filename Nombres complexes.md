@@ -82,9 +82,9 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $\sin\theta$=::$\frac{b}{|z|}$
 <!--SR:!2023-12-22,37,236-->
 - $|zw|$=::$|z||w|$
-<!--SR:!2023-12-09,36,276-->
+<!--SR:!2024-03-16,98,276-->
 - $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
-<!--SR:!2023-12-09,28,236-->
+<!--SR:!2024-02-12,65,236-->
 - $zw$=::$|z||w|[\cos(\theta+\alpha)+i\sin(\theta+\alpha)]$
 <!--SR:!2023-12-16,27,216-->
 - $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$

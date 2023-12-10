@@ -12,7 +12,7 @@ La politique fiscale fait parti de:: la politique budgétaire.
 <!--SR:!2023-12-15,8,190-->
 
 Le budget décrit la manière dont:: le gouvernement dépensera les recettes fiscales qu’il reçoit.
-<!--SR:!2023-12-08,4,210-->
+<!--SR:!2023-12-14,6,210-->
 - Un excédent budgétaire se produit lorsqu::’un gouvernement dépense moins que ce qu’il reçoit en impôts au cours d’une année.
 <!--SR:!2023-12-22,15,230-->
 - Un déficit budgétaire se produit lorsqu::’un gouvernement dépense plus que ce qu’il reçoit en impôts au cours d’une année
@@ -25,7 +25,7 @@ Sources de revenus (3):
 - Fiscalité directe et indirecte
 - Vente de biens et services d'entreprises publiques
 - Vente d'actifs gouvernementaux
-<!--SR:!2023-12-08,3,150-->
+<!--SR:!2023-12-12,4,150-->
 
 Dépenses publiques (3):
 ?

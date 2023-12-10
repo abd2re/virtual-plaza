@@ -24,5 +24,5 @@ Tableau pour résoudre problème de dynamique:
 Tension dans un ascenseur pour les trois cas (repos, acceleration, deceleration):
 ?
 ![[image-20231106110821177.png]]
-<!--SR:!2023-12-08,11,201-->
+<!--SR:!2024-01-01,24,201-->
 

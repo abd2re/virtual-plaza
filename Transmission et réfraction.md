@@ -7,7 +7,7 @@ Created: 2023-11-29
 # Transmission et réfraction
 ## Transmission
 La transmission c'est:: le passage d'une onde d'un milieu à un autre sans changement de direction de propagation.
-<!--SR:!2023-12-09,3,170-->
+<!--SR:!2023-12-14,5,170-->
 - L'onde transmise aura une amplitude:: plus faible si une certaine absorption s'est produite
 <!--SR:!2023-12-12,9,250-->
 - L'onde transmise aura une période/fréquence différente. Vrai ou faux ?:: faux, elle reste pareil.
@@ -22,7 +22,7 @@ Représentation:
 La période depend pas du milieu ? Vrai ou faux ?:: Vrai, elle dépend de l'impulsion ($T_{1}=T_{2}=T$).
 <!--SR:!2023-12-10,4,210-->
 - Lors du passage dans la direction normale (perpendiculaire), la lumière ne se plie pas du tout. Cela serait décrit comme:: une transmission.
-<!--SR:!2023-12-09,6,230-->
+<!--SR:!2023-12-22,13,230-->
 - Lorsque la lumière passe d'un milieu moins dense à un milieu plus dense, comme de l'air au verre, la lumière réfractée a une vitesse plus faible et une longueur d'onde plus courte que la lumière incidente. Vrai ou faux ?:: Vrai.
 <!--SR:!2023-12-13,10,250-->
 - Lorsque la lumière passe d'un milieu plus dense à un milieu moins dense, comme du verre à l'air, la lumière réfractée a une vitesse plus faible et une longueur d'onde plus courte que la lumière incidente. Vrai ou faux ?:: Faux, la lumière réfractée a une vitesse plus élevée et une longueur d'onde plus longue que la lumière incidente.
@@ -43,7 +43,7 @@ $$\large{\frac{n_{1}}{n_{2}}=\frac{\sin\theta_{2}}{\sin\theta_{1}}=\frac{v_{2}}{
 - $n$ = indice de réfraction absolu
 - $\theta$ = angles d'incidence et de réfraction
 - $v$ = vitesse de la lumière dans le milieu
-<!--SR:!2023-12-08,4,210-->
+<!--SR:!2023-12-16,8,210-->
 
 Représentation (avec éléments):
 ?
@@ -51,10 +51,10 @@ Représentation (avec éléments):
 <!--SR:!2023-12-11,9,250-->
 
 Un angle critique est:: un angle incident au delà duquel l'angle réfracté n'existe plus, il n'ya plus de réfraction: on a une réflexion totale.
-<!--SR:!2023-12-09,4,223-->
+<!--SR:!2023-12-18,9,223-->
 - La réflexion interne totale ne se produit que lorsque la lumière passe d'un:: indice de réfraction supérieur à un indice de réfraction inférieur ($n_{1}>n_{2}$)
 <!--SR:!2023-12-11,6,241-->
 
-Formule de l'angle critique 
+Formule angle critique::$$\sin\theta_{1}=\frac{n_{2}}{n_{1}}$$
 
 

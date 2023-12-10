@@ -18,7 +18,7 @@ Created: 2023-10-27
 <!--SR:!2023-12-19,29,230-->
 ## Théorème des restes
 - Lorsqu'un polynôme quelconque $P(x)$ est divisé par une fonction linéaire quelconque $(x - k)$, la valeur du reste $R$ est donnée par:: $P(k) =R$
-<!--SR:!2023-12-09,27,250-->
+<!--SR:!2024-02-16,69,250-->
 - Remarque : lorsque $P(k) =0$, $(x - k)$ est:: un facteur de $P(x)$.
 <!--SR:!2023-12-30,37,250-->
 - $P(x)$=::$(x-k)\times Q(x)+R$ où $Q(x)$ est un polynôme
@@ -30,7 +30,7 @@ Created: 2023-10-27
 
 ## Division polynomiale
 Formule générale::$$\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$$
-<!--SR:!2023-12-08,22,230-->
+<!--SR:!2024-01-27,50,230-->
 
 - Cette méthode n'est généralement utile que lorsque le degré du dénominateur est:: inférieur ou égal au degré du numérateur.
 <!--SR:!2024-01-06,42,250-->
@@ -65,7 +65,7 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 
 ### Résolution d'équations polynomiales
 - Tout polynôme réel peut être exprimé comme un produit:: de facteurs linéaires réels et de facteurs quadratiques irréductibles réels.
-<!--SR:!2023-12-08,26,250-->
+<!--SR:!2024-02-09,63,250-->
 - Une quadratique irréductible est une quadratique qui n'a pas de:: racines réelles.
 <!--SR:!2024-02-02,59,250-->
 - Si $a+bi\,(b\neq0)$ est un zéro d'un polynôme réel, alors son complexe conjugué $a-bi$ est:: également un zéro si les coefficients sont réels.
