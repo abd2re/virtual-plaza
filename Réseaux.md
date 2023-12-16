@@ -21,4 +21,4 @@ Created: 2022-10-05
 - [[Virtual Private Network (VPN)]]
 - [[Personal Area Network (PAN)]]
 - [[Peer-to-Peer (P2P)]]
-<!--SR:!2023-12-14,172,248-->
+<!--SR:!2025-02-12,426,248-->

@@ -19,8 +19,8 @@ L'inflation est une augmentation durable du niveau des prix dans une économie.
 Quel outil les gouvernements utilisent pour calculer l'inflation ?:: indice des prix à la consommation (IPC).
 <!--SR:!2024-04-07,124,250-->
 
-Le calcul du IPC implique:: la sélection d'un panier de biens et services typiques achetés dans l'économie par la famille type (généralement deux adultes et deux enfants). 
-<!--SR:!2023-12-16,50,210-->
+Le calcul du IPC implique:: la sélection d'un panier de biens et services typiques achetés dans l'économie par la famille type (généralement deux adultes et deux enfants).
+<!--SR:!2024-03-29,104,210-->
 
 Formule IPC::$$\large{\text{IPC}_{n}=\frac{\text{valeur du panier de l'année }n}{\text{valeur de panier de l'année de base}}\times100}$$
 <!--SR:!2023-12-24,64,250-->
@@ -35,7 +35,7 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2023-12-10,3,143-->
+<!--SR:!2023-12-19,4,130-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2024-01-06,69,263-->
@@ -86,7 +86,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 Graphique avec explications
 ?
 ![[image-20230921082031502.png]]
-<!--SR:!2023-12-14,16,203-->
+<!--SR:!2024-01-14,31,203-->
 
 ### Spirale inflationniste salaires-prix
 - Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs.
@@ -100,7 +100,7 @@ Graphique
 <!--SR:!2024-01-08,65,243-->
 
 - Pour les nouveaux économistes classiques, toute tentative de stimuler la demande globale n’aboutira qu’à:: l'inflation sans aucune augmentation du revenu national.
-<!--SR:!2023-12-13,44,203-->
+<!--SR:!2024-03-10,88,203-->
 - Pour les économistes keynésiens une inflation excessive est une:: mauvaise chose lorsque la demande globale commence à augmenter le long de la partie verticale de la courbe AS.
 <!--SR:!2024-02-25,94,243-->
 

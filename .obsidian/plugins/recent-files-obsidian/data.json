@@ -1,28 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "Transmission et réfraction",
-      "path": "Transmission et réfraction.md"
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
-      "basename": "Chapitre 7 - Politiques du côté de l'Offre",
-      "path": "Chapitre 7 - Politiques du côté de l'Offre.md"
+      "basename": "Amplitude et intensité d'une onde",
+      "path": "Amplitude et intensité d'une onde.md"
+    },
+    {
+      "basename": "Theme 4-Oscillations et ondes",
+      "path": "Theme 4-Oscillations et ondes.md"
+    },
+    {
+      "basename": "Chapitre 4 - Comportement des ondes",
+      "path": "Chapitre 4 - Comportement des ondes.md"
+    },
+    {
+      "basename": "Interférence",
+      "path": "Interférence.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Circuits & Kirchoff's Laws",
+      "path": "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md"
+    },
+    {
+      "basename": "Cells & Internal Resistance",
+      "path": "exercises/physics/theme 5/Cells & Internal Resistance.md"
+    },
+    {
+      "basename": "Work, Energy, and Power",
+      "path": "exercises/physics/theme 2/Work, Energy, and Power.md"
+    },
+    {
+      "basename": "Forces",
+      "path": "exercises/physics/theme 2/Forces.md"
+    },
+    {
+      "basename": "Dérivation",
+      "path": "Dérivation.md"
+    },
+    {
+      "basename": "Politiques interventionnistes du côté de l’offre",
+      "path": "Politiques interventionnistes du côté de l’offre.md"
+    },
+    {
+      "basename": "Avantages du commerce international",
+      "path": "Avantages du commerce international.md"
+    },
+    {
+      "basename": "Surplus social ou communautaire",
+      "path": "Surplus social ou communautaire.md"
+    },
+    {
+      "basename": "Chapitre 1 - Avantages du commerce international",
+      "path": "Chapitre 1 - Avantages du commerce international.md"
+    },
+    {
+      "basename": "Theme 3-Économie Mondiale",
+      "path": "Theme 3-Économie Mondiale.md"
+    },
+    {
+      "basename": "Theme 1-Micro-économie",
+      "path": "Theme 1-Micro-économie.md"
     },
     {
       "basename": "Efficacité des politiques d’offre",
       "path": "Efficacité des politiques d’offre.md"
     },
     {
-      "basename": "Effets des politiques budgétaires sur l’offre",
-      "path": "Effets des politiques budgétaires sur l’offre.md"
+      "basename": "MO",
+      "path": "template/MO.md"
     },
     {
-      "basename": "Politiques d’offre liées aux incitations",
-      "path": "Politiques d’offre liées aux incitations.md"
+      "basename": "MOC",
+      "path": "template/MOC.md"
     },
     {
-      "basename": "Politiques d’offre fondées sur le marché pour accroître la concurrence",
-      "path": "Politiques d’offre fondées sur le marché pour accroître la concurrence.md"
+      "basename": "Theme 2-Macro-économie",
+      "path": "Theme 2-Macro-économie.md"
+    },
+    {
+      "basename": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
+      "path": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md"
+    },
+    {
+      "basename": "2.7 m",
+      "path": "2.7 m.canvas"
+    },
+    {
+      "basename": "Chapitre 7 - Politiques du côté de l'Offre",
+      "path": "Chapitre 7 - Politiques du côté de l'Offre.md"
     },
     {
       "basename": "Politiques d’offre fondées sur le marché pour le marché du travail",
@@ -33,12 +105,36 @@
       "path": "Objectifs des politiques d’offre.md"
     },
     {
-      "basename": "Theme 2-Macro-économie",
-      "path": "Theme 2-Macro-économie.md"
+      "basename": "Effets des politiques budgétaires sur l’offre",
+      "path": "Effets des politiques budgétaires sur l’offre.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
+      "basename": "Politiques d’offre liées aux incitations",
+      "path": "Politiques d’offre liées aux incitations.md"
+    },
+    {
+      "basename": "Effets sur la demande des politiques axées sur l’offre",
+      "path": "Effets sur la demande des politiques axées sur l’offre.md"
+    },
+    {
+      "basename": "Politiques d’offre fondées sur le marché pour accroître la concurrence",
+      "path": "Politiques d’offre fondées sur le marché pour accroître la concurrence.md"
+    },
+    {
+      "basename": "oral cid 1",
+      "path": "oral cid 1.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "Intranet",
+      "path": "Intranet.md"
+    },
+    {
+      "basename": "Transmission et réfraction",
+      "path": "Transmission et réfraction.md"
     },
     {
       "basename": "Nombres complexes",
@@ -47,14 +143,6 @@
     {
       "basename": "_math",
       "path": "_math.md"
-    },
-    {
-      "basename": "Interférence",
-      "path": "Interférence.md"
-    },
-    {
-      "basename": "Theme 4-Oscillations et ondes",
-      "path": "Theme 4-Oscillations et ondes.md"
     },
     {
       "basename": "Ondes électromagnétiques et ondes sonores",
@@ -73,16 +161,8 @@
       "path": "Chapitre 3 - Caractéristiques des ondes.md"
     },
     {
-      "basename": "Amplitude et intensité d'une onde",
-      "path": "Amplitude et intensité d'une onde.md"
-    },
-    {
       "basename": "Polarisation",
       "path": "Polarisation.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Theme 7-Physique nucléaire",
@@ -97,26 +177,6 @@
       "path": "Théorème de superposition.md"
     },
     {
-      "basename": "Chapitre 4 - Comportement des ondes",
-      "path": "Chapitre 4 - Comportement des ondes.md"
-    },
-    {
-      "basename": "Effets sur la demande des politiques axées sur l’offre",
-      "path": "Effets sur la demande des politiques axées sur l’offre.md"
-    },
-    {
-      "basename": "Politiques interventionnistes du côté de l’offre",
-      "path": "Politiques interventionnistes du côté de l’offre.md"
-    },
-    {
-      "basename": "MO",
-      "path": "template/MO.md"
-    },
-    {
-      "basename": "MOC",
-      "path": "template/MOC.md"
-    },
-    {
       "basename": "_computer science",
       "path": "_computer science.md"
     },
@@ -129,10 +189,6 @@
       "path": "Mouvement circulaire uniforme.md"
     },
     {
-      "basename": "Dérivation",
-      "path": "Dérivation.md"
-    },
-    {
       "basename": "TP_physique1",
       "path": "TP_physique1.md"
     },
@@ -143,62 +199,6 @@
     {
       "basename": "Untitled 16",
       "path": "Untitled 16.md"
-    },
-    {
-      "basename": "oral mademba 2",
-      "path": "oral mademba 2.md"
-    },
-    {
-      "basename": "oral mademba 3",
-      "path": "oral mademba 3.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "Songs of Sorrow",
-      "path": "Songs of Sorrow.md"
-    },
-    {
-      "basename": "Songs of sorrow answers",
-      "path": "Songs of sorrow answers.md"
-    },
-    {
-      "basename": "Chapitre 3 -  Objectifs macro-économiques",
-      "path": "Chapitre 3 -  Objectifs macro-économiques.md"
-    },
-    {
-      "basename": "Analyzing poems",
-      "path": "Analyzing poems.md"
-    },
-    {
-      "basename": "Key features of poetry",
-      "path": "Key features of poetry.md"
-    },
-    {
-      "basename": "Imagery",
-      "path": "Imagery.md"
-    },
-    {
-      "basename": "Advertisements",
-      "path": "Advertisements.md"
-    },
-    {
-      "basename": "Images and Magazine covers",
-      "path": "Images and Magazine covers.md"
-    },
-    {
-      "basename": "Time and space",
-      "path": "Time and space.md"
-    },
-    {
-      "basename": "Présentation d'un document iconographique",
-      "path": "Présentation d'un document iconographique.md"
-    },
-    {
-      "basename": "Chômage faible",
-      "path": "Chômage faible.md"
     }
   ],
   "omittedPaths": [],

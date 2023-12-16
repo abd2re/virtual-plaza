@@ -13,4 +13,4 @@ Le gouvernement pourrait imposer une taxe indirecte sur le bien lui-même pour a
 -   Lorsque le bien crée une dépendance, comme les cigarettes, sa demande a tendance à être inélastique par rapport au prix et une augmentation du prix ne réduira pas beaucoup la quantité consommée.
 -   Si les taxes sont trop élevées, les consommateurs pourraient rechercher d'autres sources d'approvisionnement illégales, provoquant l'apparition de marchés noirs.
 -   Les impôts font payer les gens pour le coût externe qu'ils créent, mais n'empêchent pas l'effet négatif de se produire, car il y aura toujours des gens qui utiliseront ou consommeront le bien.
-<!--SR:!2023-12-15,72,230-->
+<!--SR:!2024-05-28,165,230-->

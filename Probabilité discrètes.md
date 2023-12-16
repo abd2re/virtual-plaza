@@ -11,7 +11,7 @@ Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 <!--SR:!2023-12-23,57,250-->
 On appelle événement:: toute partie de l'univers (sous-ensemble)
-<!--SR:!2023-12-11,33,210-->
+<!--SR:!2023-12-27,16,190-->
 
 ### Définitions
 - Evénement élémentaire:: a une seule issue
@@ -23,7 +23,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement contraire a A noté A':: événement dont les issues n'appartiennent pas a A
 <!--SR:!2023-12-31,63,250-->
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
-<!--SR:!2023-12-13,52,250-->
+<!--SR:!2024-04-20,129,250-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
 <!--SR:!2024-01-12,70,250-->
 - Evénement certain:: toutes les issues
@@ -47,7 +47,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(A)+P(A')$=::1 
 <!--SR:!2023-12-24,57,250-->
 - $P(A\cup B)$ (2)=::$P(A)+P(B)-P(A\cap B)=P(A\cap B')+P(A\cap B)+P(A'\cap B)$
-<!--SR:!2023-12-13,18,210-->
+<!--SR:!2024-01-19,37,210-->
 - $P(A\Delta B)$=::$P(A\cap B')\cup P(A'\cap B)$
 <!--SR:!2024-02-04,59,250-->
 

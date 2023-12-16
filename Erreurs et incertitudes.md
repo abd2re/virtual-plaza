@@ -9,15 +9,15 @@ Une mesure n'est jamais:: exacte (si on devait mesurer des grandeurs, on va trou
 <!--SR:!2024-03-20,109,230-->
 
 On distingue deux types d'erreurs:: les erreurs **aléatoires** et **systématiques**.
-<!--SR:!2023-12-12,36,230-->
+<!--SR:!2024-03-03,82,230-->
 
 ## Erreurs aléatoires
 ?
 Composant de l'erreur de mesure dont on ne peut prévoir la tendance.
 <!--SR:!2024-01-05,62,210-->
 
-Elle est pour cause:: **l'opérateur**. 
-<!--SR:!2023-12-15,59,250-->
+Elle est pour cause:: **l'opérateur**.
+<!--SR:!2024-05-10,147,250-->
 
 Pour le réduire:: on effectue de nombreuses mesures.
 <!--SR:!2024-04-22,137,250-->

@@ -17,7 +17,7 @@ $$\Large{P=\frac{F}{A}}$$
 - $P$ en pascal ($Nm^{-2}$)
 - $F$ en newton ($N$)
 - $A$ en $m^{2}$
-<!--SR:!2023-12-11,49,250-->
+<!--SR:!2024-04-11,122,250-->
 
 Sachant que $U=\text{somme de la chaleur }(E_{c})+\text{énergie potentielle }(E_{p})$ et qu'il n'ya pas d'énergie intermoléculaire, alors la formule de l'énergie d'un gaz parfait est (4):
 ?

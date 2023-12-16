@@ -16,7 +16,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2024-01-26,153,250-->
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
-<!--SR:!2023-12-14,125,250-->
+<!--SR:!2024-10-21,312,250-->
 - $\Large{\sin 60}=$::$\Large{\frac{\sqrt{3}}{2}}$
 <!--SR:!2024-01-24,148,250-->
 - $\Large{\sin 90}=$::$1$
@@ -80,6 +80,6 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
 <!--SR:!2023-12-23,90,228-->
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
-<!--SR:!2023-12-13,81,228-->
+<!--SR:!2024-01-21,39,208-->
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$
 <!--SR:!2024-03-26,177,248-->

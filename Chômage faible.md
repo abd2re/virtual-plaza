@@ -13,7 +13,7 @@ Toute personne en âge de travailler qui cherche du travail mais qui n'en trouve
 - Lors de la publication de statistiques sur le chômage, il est plus simple d'exprimer le nombre de chômeurs en pourcentage de:: la **population active**.
 <!--SR:!2024-05-15,185,230-->
 - La population active est:: l'ensemble des personnes en âge de travailler (environ entre 18 et 65 ans) qui sont soit en emploi, soit au chômage et à la recherche d'un emploi.
-<!--SR:!2023-12-12,75,210-->
+<!--SR:!2024-01-18,37,190-->
 - Le taux de chômage est:: le pourcentage de la population active qui recherche activement du travail mais qui est sans emploi.
 <!--SR:!2024-01-12,93,190-->
 
@@ -21,7 +21,7 @@ Formule du taux de chômage::$\Large{\text{Taux de chômage}=\frac{\text{Nombre 
 <!--SR:!2023-12-22,107,242-->
 
 Formule de la population active::$$\large{\text{Population active}=\text{travailleurs}+\text{chômeurs}}$$
-<!--SR:!2023-12-14,59,255-->
+<!--SR:!2024-05-11,149,255-->
 
 - Il est important de se rappeler que la définition de chômeur est toute personne dans la population active qui est sans emploi mais qui recherche activement un emploi. Ainsi, les personnes qui ont arrêté leur recherche d'emploi ne seraient:: pas considérées comme des chômeurs, et la population active n'est pas non plus constituée de l'ensemble de la population ou de toutes les personnes en âge de travailler.
 <!--SR:!2024-06-18,210,242-->

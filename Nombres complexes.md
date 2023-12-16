@@ -49,12 +49,12 @@ $$\Large{2a}$$
 $z-z^{*}$=
 ?
 $$\Large{2bi}$$
-<!--SR:!2023-12-15,82,230-->
+<!--SR:!2024-06-20,188,230-->
 
 $zz^{*}$=
 ?
 $$\Large{a^{2}+b^{2}}$$
-<!--SR:!2023-12-13,15,190-->
+<!--SR:!2023-12-23,10,170-->
 
 ---
 $|z|$=
@@ -75,7 +75,7 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 ## Forme polaire
 
 Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
-<!--SR:!2023-12-13,31,141-->
+<!--SR:!2024-01-29,47,141-->
 
 - $\cos\theta$=::$\frac{a}{|z|}$
 <!--SR:!2024-01-26,56,236-->
@@ -86,7 +86,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
 <!--SR:!2024-02-12,65,236-->
 - $zw$=::$|z||w|[\cos(\theta+\alpha)+i\sin(\theta+\alpha)]$
-<!--SR:!2023-12-16,27,216-->
+<!--SR:!2024-02-11,57,216-->
 - $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$
 <!--SR:!2023-12-23,37,236-->
 - $z^{n}$=::$|z|^{n}(\cos n\theta+i\sin n\theta)$
@@ -105,16 +105,16 @@ $e^{i\pi}$=::$-1$
 <!--SR:!2023-12-20,35,234-->
 
 - $z^{n}+z^{-n}$=::$2\cos(n\theta)$
-<!--SR:!2023-12-12,29,234-->
+<!--SR:!2024-02-17,67,234-->
 - $z^{n}-z^{-n}$=::$2i\sin(n\theta)$
 <!--SR:!2023-12-20,34,234-->
 - $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
 <!--SR:!2023-12-22,35,234-->
 - $e^{in\theta}-e^{-in\theta}$=::$2i\sin(n\theta)$
-<!--SR:!2023-12-16,32,234-->
+<!--SR:!2024-02-28,74,234-->
 
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2023-12-12,7,150-->
+<!--SR:!2023-12-22,10,150-->
 

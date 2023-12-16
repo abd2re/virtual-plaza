@@ -14,7 +14,9 @@ Les politiques liées aux incitations comprennent (2):
 ## 1. Réductions de l'impôt sur le revenu des personnes physiques
 - Les réductions de l’impôt sur le revenu des particuliers encouragent les individus à:: travailler plus d’heures.
 - Ils inciteront également les chômeurs à trouver un emploi plus rapidement, car:: le coût d'opportunité du chômage est plus élevé.
+<!--SR:!2023-12-17,2,230-->
 - Si ces réductions d'impôts sont permanentes et que les individus maintiennent des heures de travail supplémentaires, l'offre globale à long terme:: augmentera.
+<!--SR:!2023-12-17,3,250-->
 
 Représentation de la courbe de Laffer:
 ?
@@ -27,3 +29,4 @@ Les entreprises gagnent de l’argent de deux manières:
 - Gains en capital via des investissements ou la vente d'actifs (comme des actions ou une usine)
 
 Un gouvernement peut réduire l'impôt sur les sociétés afin que les entreprises:: obtiennent une récompense plus élevée pour chaque unité supplémentaire produite et se retrouvent avec plus de bénéfices à investir dans une capacité de production supplémentaire . Cela augmentera l’offre de l’économie et fera croître l’économie.
+<!--SR:!2023-12-17,2,230-->

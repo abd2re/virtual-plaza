@@ -19,7 +19,7 @@ Les objectifs de la politique monétaire sont (3):
 - Taux d’inflation faible et stable
 - Promouvoir un environnement économique stable pour une croissance à long terme
 - Solde extérieur
-<!--SR:!2023-12-11,7,150-->
+<!--SR:!2023-12-21,10,150-->
 
 
 Le gouvernement peut augmenter ou diminuer la masse monétaire en (2):

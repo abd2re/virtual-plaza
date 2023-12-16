@@ -15,7 +15,7 @@ Ils sont (8):
 - Politiques fiscales et sociales du gouvernement
 - Mondialisation et changement technologique (moins de travails)
 - Politiques d’offre fondées sur le marché
-<!--SR:!2023-12-11,4,130-->
+<!--SR:!2023-12-23,7,130-->
 
 ## L’impact des inégalités de revenus et de richesse
 Ils sont (3):
@@ -23,4 +23,4 @@ Ils sont (3):
 - Croissance économique
 - Niveau de vie
 - Stabilité sociale
-<!--SR:!2023-12-11,14,150-->
+<!--SR:!2024-01-03,23,150-->

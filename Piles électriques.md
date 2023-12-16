@@ -25,7 +25,7 @@ $$U=e-rI$$- $U$ = tension dans la puissance électrique
 <!--SR:!2024-02-01,225,226-->
 
 Caractéristique intensité-tension d'une pile (graphe)::![[Piles électriques.png]]
-<!--SR:!2023-12-10,212,246-->
+<!--SR:!2024-03-24,105,226-->
 
 On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circuit caractéristique d'une pile]]
 <!--SR:!2024-03-11,103,226-->

@@ -10,7 +10,7 @@ Au total, il existe quatre types de chômage qui se répartissent en deux grande
 - **Chômage de déséquilibre** inclut:: le chômage cyclique (déficit de la demande) et le chômage réel.
 <!--SR:!2024-03-14,112,250-->
 - **Taux de chômage naturel** comprend:: le chômage frictionnel, saisonnier et structurel.
-<!--SR:!2023-12-12,50,210-->
+<!--SR:!2024-01-05,24,190-->
 
 ## Causes du chômage
 ### Cyclique (demande insuffisante)
@@ -30,7 +30,7 @@ La demande totale de main-d'œuvre passe de AD L à AD L1 . Au taux de sala
 ### Chômage réel
 ?
 Un salaire minimum imposé par le gouvernement peut également accroître le chômage, c'est ce qu'on appelle chômage au salaire réel, où il existe un écart entre le nombre d'emplois disponibles et le nombre de personnes désireuses et capables de travailler au taux de salaire en vigueur.
-<!--SR:!2023-12-16,60,250-->
+<!--SR:!2024-01-14,29,230-->
 
 Graphique avec axes et explication du nombre de chômeurs
 ?
@@ -52,13 +52,13 @@ Le chômage saisonnier se produit lorsque des personnes effectuent des types de 
 ### Structurel
 ?
 Le chômage structurel se produit lorsqu’il existe une inadéquation entre l’offre et la demande pour un ensemble particulier de compétences professionnelles.
-<!--SR:!2023-12-13,11,150-->
+<!--SR:!2023-12-29,16,150-->
 
 Il y a deux causes principales du chômage structurel:
 ?
 - Lorsqu’une **industrie déménage dans un pays ou dans un autre pays**, il est peu probable que les gens déménagent avec l’industrie.
 - Les **rigidités du marché du travail**, telles que la difficulté pour les gens de changer d'emploi et de type d'emploi, et la législation du travail qui empêche le licenciement facile des travailleurs inefficaces, réduiront l'offre de main-d'œuvre disponible
-<!--SR:!2023-12-15,53,222-->
+<!--SR:!2024-01-10,26,202-->
 
 3 étapes lorsqu'il y a un chômage structurel (graphiques):
 ?
@@ -74,7 +74,7 @@ Quels sont les coûts économiques du chômage (5) ?:
 3. Augmentation du coût des allocations de chômage
 4. Perte de revenus pour les particuliers
 5. De plus grandes disparités dans la répartition des revenus
-<!--SR:!2023-12-14,8,142-->
+<!--SR:!2023-12-24,10,142-->
 
 Quels sont les coûts personnels du chômage (2) ?:
 ?
@@ -86,7 +86,7 @@ Quels sont les coûts sociaux du chômage (2) ?:
 ?
 1. Augmentation du taux de criminalité
 2. Risques accrus pour la santé
-<!--SR:!2023-12-11,21,222-->
+<!--SR:!2024-01-26,46,222-->
 
 ## Solutions au chômage
 Graphes des deux causes principales (avec leur noms):

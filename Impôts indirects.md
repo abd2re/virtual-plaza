@@ -30,7 +30,7 @@ Il y a deux types d'impots indirects à considérer:
 Qu'advient-il du surplus du consommateur, du [[surplus du producteur]] et du bien-être social total après l'imposition d'une taxe indirecte sur un bien (courbes)?
 ?
 ![[image-20230118083024563.png]]
-<!--SR:!2023-12-13,197,244-->
+<!--SR:!2024-03-20,98,224-->
 
 ## Effet sur la société dans son ensemble
 ?
@@ -51,7 +51,7 @@ Les dépenses totales des consommateurs=>::Dépend du DEP
 Recettes du gouvernement=>::Augmente
 <!--SR:!2024-12-31,422,244-->
 Excédent communautaire=>::Diminue
-<!--SR:!2023-12-11,196,244-->
+<!--SR:!2025-04-01,477,244-->
 
 
 

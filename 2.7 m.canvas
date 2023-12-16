@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"fb759e7b5467da4f","type":"file","file":"Chapitre 7 - Politiques du côté de l'Offre.md","x":-260,"y":-360,"width":400,"height":191,"color":"5"},
+		{"id":"662b487885dc38e8","type":"file","file":"Efficacité des politiques d’offre.md","x":-460,"y":-112,"width":840,"height":747},
+		{"id":"5010672c901d96e6","type":"file","file":"Effets sur la demande des politiques axées sur l’offre.md","x":-417,"y":-860,"width":755,"height":400},
+		{"id":"540836b4b8d4fbba","type":"file","file":"Politiques d’offre fondées sur le marché pour le marché du travail.md","x":-1037,"y":-440,"width":620,"height":261},
+		{"id":"ee0132e9b61ca5b1","type":"file","file":"Politiques d’offre fondées sur le marché pour le marché du travail.md","x":338,"y":-399,"width":655,"height":230},
+		{"id":"332c6d9cb3e66308","type":"file","file":"Politiques interventionnistes du côté de l’offre.md","x":420,"y":-112,"width":460,"height":400},
+		{"id":"7b2390c3fb7da6d2","type":"file","file":"Politiques d’offre liées aux incitations.md","x":-927,"y":-112,"width":400,"height":320},
+		{"id":"6528f27e42fd4670","type":"file","file":"Effets des politiques budgétaires sur l’offre.md","x":380,"y":-681,"width":427,"height":221},
+		{"id":"6c664168c0870880","type":"file","file":"Objectifs des politiques d’offre.md","x":-860,"y":-860,"width":400,"height":335}
+	],
+	"edges":[
+		{"id":"cb071ffb7e402dd0","fromNode":"fb759e7b5467da4f","fromSide":"bottom","toNode":"662b487885dc38e8","toSide":"top"},
+		{"id":"8c4cade820e78b95","fromNode":"fb759e7b5467da4f","fromSide":"top","toNode":"5010672c901d96e6","toSide":"bottom"},
+		{"id":"b8b5b32c04d3567b","fromNode":"fb759e7b5467da4f","fromSide":"left","toNode":"540836b4b8d4fbba","toSide":"right"},
+		{"id":"ab9c7647cfffbb48","fromNode":"fb759e7b5467da4f","fromSide":"right","toNode":"ee0132e9b61ca5b1","toSide":"left"},
+		{"id":"60b9dac6b0a188ff","fromNode":"fb759e7b5467da4f","fromSide":"left","toNode":"7b2390c3fb7da6d2","toSide":"right"},
+		{"id":"9001ccb6fe0cb372","fromNode":"fb759e7b5467da4f","fromSide":"right","toNode":"332c6d9cb3e66308","toSide":"top"},
+		{"id":"cab05166f9e00d0d","fromNode":"fb759e7b5467da4f","fromSide":"right","toNode":"6528f27e42fd4670","toSide":"left"},
+		{"id":"3cced42d90236920","fromNode":"fb759e7b5467da4f","fromSide":"left","toNode":"6c664168c0870880","toSide":"right"}
+	]
+}

@@ -24,7 +24,7 @@ La politique budgétaire peut être constamment ajustée pour créer un taux d'i
 
 ## 3. Promouvoir un environnement économique stable pour une croissance à long terme
 Les gouvernements peuvent utiliser la politique budgétaire pour garantir un environnement stable propice à la croissance à long terme. Grâce à une politique budgétaire expansionniste, les gouvernements peuvent:: construire des routes, des ports, des réseaux électriques, etc.
-<!--SR:!2023-12-10,4,206-->
+<!--SR:!2023-12-17,7,206-->
 
 ## 4. Réduire les fluctuations du cycle économique
 La politique budgétaire est un outil important pour atténuer les fluctuations. Les gouvernements peuvent recourir à des mesures de relance budgétaire en cas de:: crise du cycle économique pour aider l’économie à se redresser comme une injection de dépenses publiques peut contribuer à stimuler la demande globale et la croissance économique. Le gouvernement peut également ralentir l’économie en période de boom, s’il craint une surchauffe.
@@ -32,7 +32,7 @@ La politique budgétaire est un outil important pour atténuer les fluctuations.
 
 ## 5. Répartition équitable
 Les gouvernements peuvent améliorer répartition de salaire par (3):: les impôts (indirects et directs) et les paiements de transfert.
-<!--SR:!2023-12-15,7,206-->
+<!--SR:!2023-12-19,4,186-->
 
 Comment les impôts indirects peuvent être utilisées ?
 ?

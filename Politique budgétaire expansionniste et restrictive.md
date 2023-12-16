@@ -19,9 +19,9 @@ Lorsqu'il y a une politique budgétaire restrictives, qu'est-ce qui se passe aux
 <!--SR:!2023-12-17,10,228-->
 
 - Une politique budgétaire expansionniste peut combler:: un écart de récession.
-<!--SR:!2023-12-13,10,250-->
+<!--SR:!2024-01-08,26,250-->
 - Une politique budgétaire restrictive peut combler:: un écart inflationniste.
-<!--SR:!2023-12-11,8,268-->
+<!--SR:!2023-12-31,20,268-->
 
 La principale différence entre les keynésiens et les néo-classiques lors d'un écart de récession (avec graphiques):
 ?
@@ -31,7 +31,7 @@ Les néo-classiques  croient qu'un écart déflationniste ne se produit qu'à co
 
 
 L’objectif d'une politique budgétaire restrictive peut être soit (2):: de réduire l’inflation tirée par la demande dans l’économie, soit de réduire un déficit budgétaire.
-<!--SR:!2023-12-14,6,210-->
+<!--SR:!2023-12-25,11,210-->
 
 La principale différence entre les keynésiens et les néo-classiques lors d'un écart inflationniste (avec graphiques):
 ?

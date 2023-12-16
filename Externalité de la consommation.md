@@ -43,7 +43,7 @@ Réponses possibles du gouvernement (4):
 -   [[Prestation gouvernementale directe (Bénéfice)]]
 -   [[Publicité positive]]
 -   [[Législation pour rendre la consommation obligatoire]]
-<!--SR:!2023-12-10,160,210-->
+<!--SR:!2024-11-11,337,210-->
 
 Effets des réponses possibles du gouvernement sur la courbe BMP:
 ?

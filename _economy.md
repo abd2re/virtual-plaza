@@ -10,3 +10,4 @@ retour [[__dashboard]]
 ![[Theme 1-Micro-économie]]
 
 ![[Theme 2-Macro-économie]]
+![[Theme 3-Économie Mondiale]]

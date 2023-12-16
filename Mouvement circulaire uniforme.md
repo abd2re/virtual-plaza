@@ -21,7 +21,7 @@ $$\Large{\frac{v}{r}}$$
 <!--SR:!2024-01-21,289,250-->
 
 Dans le mouvement circulaire uniforme la période $T$ est égale a(2)::$$\Large{T=\frac{2\pi r}{v}=\frac{2\pi}{\omega}}$$
-<!--SR:!2023-12-10,68,190-->
+<!--SR:!2024-04-16,128,190-->
 
 Accélération normale d'un mouvement circulaire formules (3):
 ?
