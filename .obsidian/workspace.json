@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e136cff31a22ca95",
+        "id": "ec0d1ca4c85d3d1a",
         "type": "tabs",
         "children": [
           {
-            "id": "65fea63cf7e893b7",
+            "id": "31810d59aeb72cff",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,35 +18,101 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Amplitude et intensité d'une onde",
+                  "title": "Diagrammes de Sankey",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Amplitude et intensité d'une onde.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":6.905405405405405}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Diagrammes de Sankey.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Ressources énergétiques",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressources énergétiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":156},\"to\":{\"line\":9,\"ch\":156}}}"
+                },
+                {
+                  "title": "Chapitre 1 - Sources d'énergie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Sources d'énergie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Sources d'énergie primaire et secondaire",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources d'énergie primaire et secondaire.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":72},\"to\":{\"line\":11,\"ch\":72}}}"
+                },
+                {
+                  "title": "Theme 8-Production d'énergie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 8-Production d'énergie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Diagrammes de Sankey",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Diagrammes de Sankey.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Énergie spécifique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Énergie spécifique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 1 - Sources d'énergie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Sources d'énergie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":0}"
+                },
+                {
+                  "title": "Theme 8-Production d'énergie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 8-Production d'énergie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
                 },
                 {
                   "title": "Theme 4-Oscillations et ondes",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Oscillations et ondes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":6.03622392974753}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.042773124220282}"
                 },
                 {
-                  "title": "Interférence",
+                  "title": "_physics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Interférence.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":5},\"to\":{\"line\":27,\"ch\":5}},\"scroll\":13.6}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Énergie spécifique",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Énergie spécifique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Chapitre 1 - Sources d'énergie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Sources d'énergie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Theme 8-Production d'énergie",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 8-Production d'énergie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
                   "title": "_physics",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":13.004775280898876}"
+                  "eState": "{\"scroll\":16.449699289229088}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_economy.md",
+                "file": "Énergie spécifique.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -173,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_economy.md",
+                "file": "Énergie spécifique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Énergie spécifique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +317,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3985301046940444,
+                  "scale": 0.3451813642287911,
                   "close": true
                 }
               }
@@ -272,7 +338,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_economy.md",
+                "file": "Énergie spécifique.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -313,7 +379,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_economy.md"
+                "file": "Énergie spécifique.md"
               }
             }
           },
@@ -349,7 +415,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_economy.md"
+                "file": "Énergie spécifique.md"
               }
             }
           },
@@ -428,7 +494,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_economy.md",
+                "file": "Énergie spécifique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -508,54 +574,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65fea63cf7e893b7",
+  "active": "31810d59aeb72cff",
   "lastOpenFiles": [
-    "Theme 3-Économie Mondiale.md",
+    "Diagrammes de Sankey.md",
+    "assets/Diagrammes de Sankey/image-20231218111254285.png",
+    "Ressources énergétiques.md",
+    "Chapitre 1 - Sources d'énergie.md",
+    "Sources d'énergie primaire et secondaire.md",
+    "Énergie spécifique.md",
+    "Theme 8-Production d'énergie.md",
+    "assets/Diagrammes de Sankey",
+    "Theme 4-Oscillations et ondes.md",
+    "_physics.md",
+    "Interférence.md",
+    "assets/Interférence/image-20231217084846194.png",
+    "TP_physique1.md",
+    "Conceptes de base economie.md",
     "_economy.md",
+    "Dérivation.md",
+    "_math.md",
+    "assets/Interférence/image-20231217084823018.png",
+    "assets/Interférence/image-20231217084821388.png",
+    "Theme 7-Physique nucléaire.md",
+    "Chapitre 1 - La Demande.md",
+    "Theme 3-Économie Mondiale.md",
     "Theme 1-Micro-économie.md",
     "Amplitude et intensité d'une onde.md",
-    "Theme 4-Oscillations et ondes.md",
     "Chapitre 4 - Comportement des ondes.md",
-    "Interférence.md",
-    "_physics.md",
     "Grandeurs physiques fondamentales.md",
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "exercises/physics/theme 5/Cells & Internal Resistance.md",
     "exercises/physics/theme 2/Work, Energy, and Power.md",
     "exercises/physics/theme 2/Forces.md",
-    "Dérivation.md",
     "assets/Dérivation/image-20231128163111952.png",
-    "Politiques interventionnistes du côté de l’offre.md",
     "assets/Avantages du commerce international/image-20231214123330625.png",
-    "Avantages du commerce international.md",
     "assets/Avantages du commerce international/image-20231214123155139.png",
     "assets/Avantages du commerce international",
-    "Surplus social ou communautaire.md",
     "assets/Efficacité/image-20221108155959360.png",
-    "Chapitre 1 - Avantages du commerce international.md",
-    "Efficacité des politiques d’offre.md",
-    "template/MO.md",
-    "template/MOC.md",
-    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
-    "Effets sur la demande des politiques axées sur l’offre.md",
-    "Theme 2-Macro-économie.md",
     "2.7 m.canvas",
-    "Chapitre 7 - Politiques du côté de l'Offre.md",
-    "Politiques d’offre fondées sur le marché pour accroître la concurrence.md",
     "assets/Intranet/image-20230225140242368.png",
     "assets/Interférence/image-20231211112123487.png",
     "assets/Interférence",
-    "assets/Diffraction/image-20231204120001860.png",
-    "assets/Transmission et réfraction/image-20231201144322670.png",
-    "assets/Onde progressive/image-20231117200324111.png",
-    "assets/Polarisation/image-20231120115211923.png",
     "assets/Politiques d’offre liées aux incitations",
     "assets/Diffraction",
     "assets/Transmission et réfraction",
     "assets/Réflexion",
     "assets/Politique budgétaire expansionniste et restrictive",
     "assets/Dérivation",
-    "assets/Nouvelle expression de la deuxième loi de Newton",
-    "assets/Polarisation"
+    "assets/Nouvelle expression de la deuxième loi de Newton"
   ]
 }

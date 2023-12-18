@@ -1,28 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "_economy",
-      "path": "_economy.md"
+      "basename": "Énergie spécifique",
+      "path": "Énergie spécifique.md"
     },
     {
-      "basename": "Amplitude et intensité d'une onde",
-      "path": "Amplitude et intensité d'une onde.md"
+      "basename": "Diagrammes de Sankey",
+      "path": "Diagrammes de Sankey.md"
+    },
+    {
+      "basename": "Ressources énergétiques",
+      "path": "Ressources énergétiques.md"
+    },
+    {
+      "basename": "Chapitre 1 - Sources d'énergie",
+      "path": "Chapitre 1 - Sources d'énergie.md"
+    },
+    {
+      "basename": "Sources d'énergie primaire et secondaire",
+      "path": "Sources d'énergie primaire et secondaire.md"
+    },
+    {
+      "basename": "Theme 8-Production d'énergie",
+      "path": "Theme 8-Production d'énergie.md"
     },
     {
       "basename": "Theme 4-Oscillations et ondes",
       "path": "Theme 4-Oscillations et ondes.md"
     },
     {
-      "basename": "Chapitre 4 - Comportement des ondes",
-      "path": "Chapitre 4 - Comportement des ondes.md"
+      "basename": "_physics",
+      "path": "_physics.md"
     },
     {
       "basename": "Interférence",
       "path": "Interférence.md"
     },
     {
-      "basename": "_physics",
-      "path": "_physics.md"
+      "basename": "Conceptes de base economie",
+      "path": "Conceptes de base economie.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Dérivation",
+      "path": "Dérivation.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Amplitude et intensité d'une onde",
+      "path": "Amplitude et intensité d'une onde.md"
+    },
+    {
+      "basename": "Chapitre 4 - Comportement des ondes",
+      "path": "Chapitre 4 - Comportement des ondes.md"
     },
     {
       "basename": "Circuits & Kirchoff's Laws",
@@ -39,10 +75,6 @@
     {
       "basename": "Forces",
       "path": "exercises/physics/theme 2/Forces.md"
-    },
-    {
-      "basename": "Dérivation",
-      "path": "Dérivation.md"
     },
     {
       "basename": "Politiques interventionnistes du côté de l’offre",
@@ -141,10 +173,6 @@
       "path": "Nombres complexes.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
       "basename": "Ondes électromagnétiques et ondes sonores",
       "path": "Ondes électromagnétiques et ondes sonores.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Ressources du pool commun",
       "path": "Ressources du pool commun.md"
-    },
-    {
-      "basename": "Théorème de superposition",
-      "path": "Théorème de superposition.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
-      "basename": "Mouvement circulaire uniforme",
-      "path": "Mouvement circulaire uniforme.md"
-    },
-    {
-      "basename": "TP_physique1",
-      "path": "TP_physique1.md"
-    },
-    {
-      "basename": "culture religion",
-      "path": "culture religion.md"
-    },
-    {
-      "basename": "Untitled 16",
-      "path": "Untitled 16.md"
     }
   ],
   "omittedPaths": [],

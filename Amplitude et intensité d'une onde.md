@@ -16,8 +16,8 @@ $$\large{I\propto r^{-2}}$$
 - $r$ = distance de la source ponctuelle en mètres ($m$)
 <!--SR:!2023-12-24,23,250-->
 
-Formule de l'inetnsité pour une onde circulaire::$$\large{I=\frac{\text{puissance}}{\text{surface}}}$$
-<!--SR:!2023-12-17,17,250-->
+Formule de l'intensité pour une onde circulaire::$$\large{I=\frac{\text{puissance}}{\text{surface}}}$$
+<!--SR:!2024-02-01,46,250-->
 
 Formule de l'intensité pour une onde sphérique::$$\large{I=\frac{\text{puissance}}{4\pi r^{2}}}$$
 <!--SR:!2023-12-20,8,210-->
@@ -25,6 +25,6 @@ Formule de l'intensité pour une onde sphérique::$$\large{I=\frac{\text{puissan
 ## Variation de l'intensité en fonction de l'amplitude
 
 Par définition, l'intensité d'une onde (sa puissance par unité de surface) est proportionnelle à l'énergie transférée par l'onde, et comme l'énergie est égale à $\frac{1}{2}kA^{2}$ alors l'intensité d'une onde est proportionnelle:: au carré de l'amplitude.$$I\propto A^{2}$$avec $I$ représentant l'intensité en $Wm^{-2}$ et $A$ représentant l'amplitude en $m$.
-<!--SR:!2023-12-17,17,250-->
+<!--SR:!2024-01-31,45,250-->
 
 

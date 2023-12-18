@@ -31,4 +31,4 @@ Réponses du gouvernement aux menaces à  la durabilité:
 -   [[Subventions]] pour promotion d'énergie renouvelables
 -   [[Législation]]
 -   Auto-gouvernance collective
-<!--SR:!2023-12-18,3,130-->
+<!--SR:!2023-12-22,4,130-->

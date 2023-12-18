@@ -10,13 +10,13 @@ Le gouvernement peut gérer les hauts et les bas du cycle économique grâce à 
 ?
 - Recettes fiscales
 - Dépenses publiques
-<!--SR:!2023-12-17,8,228-->
+<!--SR:!2024-01-03,17,228-->
 
 Lorsqu'il y a une politique budgétaire expansionniste, qu'est-ce qui se passe aux dépenses gouvernementales et aux impôts ?:: dépenses gouvernementales augmentent, impôts diminuent.
-<!--SR:!2023-12-18,11,248-->
+<!--SR:!2024-01-13,26,248-->
 
 Lorsqu'il y a une politique budgétaire restrictives, qu'est-ce qui se passe aux dépenses gouvernementales et aux impôts ?:: dépenses gouvernementales diminuent, impôts augmentent.
-<!--SR:!2023-12-17,10,228-->
+<!--SR:!2024-01-08,22,228-->
 
 - Une politique budgétaire expansionniste peut combler:: un écart de récession.
 <!--SR:!2024-01-08,26,250-->

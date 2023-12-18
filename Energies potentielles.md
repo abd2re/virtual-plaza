@@ -12,7 +12,7 @@ Les trois types d'énergie potentielles sont:
 - L'Energie potentielle de pesanteur
 - L'Energie potentielle élastique
 - L'Energie potentielle électrique
-<!--SR:!2023-12-18,58,250-->
+<!--SR:!2024-05-10,144,250-->
 
 ## Formules
 - Energie potentielle de pesanteur::$$\large{\Delta E_{Pp}=E_{Pp_{B}}-E_{Pp_{A}}=mg\Delta h=mg(z_{B}-z_{A})}$$

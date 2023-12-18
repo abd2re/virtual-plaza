@@ -15,10 +15,10 @@ Formule::$$\Large{E_{M}=E_{c}+E_{P}}$$
 ## Conservation de l'énergie mécanique
 ?
 L'énergie mécanique d'un solide soumis qu'a des [[Force conservative|forces conservatives]] se conserve.
-<!--SR:!2023-12-18,4,130-->
+<!--SR:!2023-12-23,5,130-->
 
 Formule::$$\large{\sum E_{M}=0\leftrightarrow{E_{M_{B}}=E_{M_{A}}}}$$
-<!--SR:!2023-12-17,58,250-->
+<!--SR:!2024-01-14,28,230-->
 
 ## Non-conservation de l'énergie mécanique
 ?

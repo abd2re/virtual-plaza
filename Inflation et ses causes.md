@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2023-12-17,9,130-->
+<!--SR:!2023-12-28,11,130-->
 

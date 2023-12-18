@@ -10,7 +10,7 @@ Les politiques de l'offre sont conçues pour (2):
 ?
 - Encourager les forces du marché et accroître la concurrence
 - Accroître la qualité et la quantité des facteurs de production
-<!--SR:!2023-12-18,2,210-->
+<!--SR:!2023-12-22,4,210-->
 
 Le gouvernement mène des politiques axées sur l’offre pour contribuer à la croissance de l’économie. Les objectifs des politiques du côté de l’offre comprennent (5):
 ?
@@ -22,9 +22,9 @@ Le gouvernement mène des politiques axées sur l’offre pour contribuer à l
 
 ## 1. Augmenter la capacité productive de l’économie pour parvenir à une croissance à long terme
 - La capacité productive comprend toutes les ressources par exemple::, la terre, la main-d'œuvre, les moteurs, les machines, la technologie, le savoir-faire et le stock de capital de l'économie.
-<!--SR:!2023-12-17,2,230-->
+<!--SR:!2023-12-21,4,230-->
 - L’augmentation du stock de main-d’œuvre et du nombre de machines augmentera:: la capacité de production, et donc la production.
-<!--SR:!2023-12-17,1,224-->
+<!--SR:!2023-12-19,2,224-->
 
 La population active peut être augmentée en (4):
 ?
@@ -32,7 +32,7 @@ La population active peut être augmentée en (4):
 - Abaissant l'âge de travailler
 - Élevant l'âge de la retraite
 - Offrant davantage de possibilités aux individus d'entrer sur le marché du travail, par exemple en proposant des services de garde d'enfants subventionnés.
-<!--SR:!2023-12-17,2,230-->
+<!--SR:!2023-12-23,6,230-->
 
 Le facteur capital peut être augmenté en (2):
 ?
@@ -41,9 +41,9 @@ Le facteur capital peut être augmenté en (2):
 
 ## 2. Améliorer la concurrence et l’efficacité
 - La concurrence oblige:: les entreprises à s’améliorer.
-<!--SR:!2023-12-17,3,250-->
+<!--SR:!2023-12-25,8,250-->
 - La concurrence oblige également les entreprises à baisser:: leurs prix.
-<!--SR:!2023-12-17,3,250-->
+<!--SR:!2023-12-26,9,250-->
 - Une concurrence accrue fera:: baisser les prix et augmentera la production à long-terme.
 
 ## 3. Réduire les coûts du travail et le chômage grâce à  la flexibilité du marché du travail
@@ -55,7 +55,7 @@ Un marché du travail plus flexible permet aux entreprises d’ajuster les salai
 - Réduire ou supprimer le salaire minimum
 - Réduire le bien-être pour augmenter le coût d'opportunité d'être au chômage
 - Augmenter le nombre d'agences pour l'emploi pour mettre en relation les chômeurs avec des postes vacants appropriés
-<!--SR:!2023-12-17,2,230-->
+<!--SR:!2023-12-22,5,230-->
 
 ## 4. Réduire l’inflation pour améliorer la compétitivité internationale
 Si le taux d’inflation d’un pays est inférieur à celui du reste du monde, cela signifie que:: les prix intérieurs augmentent plus lentement que dans le reste du monde. En conséquence, ses exportations seront relativement compétitives.

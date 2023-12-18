@@ -71,7 +71,7 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 - Si $a+bi\,(b\neq0)$ est un zéro d'un polynôme réel, alors son complexe conjugué $a-bi$ est:: également un zéro si les coefficients sont réels.
 <!--SR:!2024-01-30,57,250-->
 - Tout polynôme réel de degré impair possède:: au moins un zéro réel.
-<!--SR:!2023-12-17,15,230-->
+<!--SR:!2024-01-22,36,230-->
 
 ## Somme et produit des racines
 Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factorisée sera dont les racines sont $r_{1}\,,r_{2}\,,\dots\,,r_{n}$::$$P(x)=a_{n}(x-r_{1})(x-r_{2})\dots(x-r_{n})$$
@@ -79,7 +79,7 @@ Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factoris
 - La somme des racines est égale à:: $$r_{1}+r_{2}+\dots+r_{n-1}+r_{n}=-\frac{a_{n-1}}{a_{n}}$$
 <!--SR:!2024-01-07,42,250-->
 - Le produit des racines est égale à::$$r_{1}\times r_{2}\times\dots\times r_{n-1}\times r_{n}=\frac{(-1)^{n}a_{0}}{a_{n}}$$
-<!--SR:!2023-12-18,29,230-->
+<!--SR:!2024-02-24,68,230-->
 - La somme de toutes les pairs de racines est égale à::$$\sum r_{i}r_{j}=-\frac{a_{n-2}}{a_{n}}$$
 <!--SR:!2024-01-06,41,250-->
 - La somme de toutes les triplets de racines est égale à::$$\sum r_{i}r_{j}r_{k}=-\frac{a_{n-3}}{a_{n}}$$
@@ -89,4 +89,4 @@ Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factoris
 - $x^{3}-1$=::$(x-1)(x^{2}+x+1)$
 <!--SR:!2023-12-25,20,262-->
 - $x^{3}+1$=::$(x+1)(x^{2}-x+1)$
-<!--SR:!2023-12-17,14,242-->
+<!--SR:!2024-01-19,33,242-->

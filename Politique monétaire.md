@@ -12,7 +12,7 @@ La politique monétaire fait référence à la banque centrale qui utilise le re
 - La politique monétaire permet aux pays de stimuler leur économie tout en évitant de:: s’endetter.
 <!--SR:!2023-12-25,24,230-->
 - La politique monétaire est un moyen pour les gouvernements de:: gérer l’économie.
-<!--SR:!2023-12-18,22,250-->
+<!--SR:!2024-03-03,76,270-->
 - La banque centrale détermine la politique monétaire en:: contrôlant la masse monétaire et en fixant le taux d’intérêt.
 <!--SR:!2024-01-06,31,230-->
 
@@ -30,12 +30,12 @@ Ils sont 5:
 3. Prêteur de dernier recours
 4. Émet des obligations et d’autres instruments financiers
 5. Régule le système bancaire
-<!--SR:!2023-12-17,12,170-->
+<!--SR:!2024-01-05,19,170-->
 
 
 ### 1. Détermine la masse monétaire et le taux d’intérêt
 À un moment donné, la masse monétaire est fixe ; nous avons une somme d’argent définie dans nos poches et nos soldes bancaires. Par conséquent, la masse monétaire est considérée comme:: parfaitement inélastique.
-<!--SR:!2023-12-18,18,210-->
+<!--SR:!2024-01-24,37,210-->
 
 Lorsque la banque centrale augmente la masse monétaire, alors en conséquence le taux d'intérêt:: diminue.
 <!--SR:!2023-12-19,23,250-->

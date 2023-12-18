@@ -23,7 +23,7 @@ Les facteurs de productions de l'OGLT sont (4):
 - Amélioration de la technologie
 - Augmentation de l'efficacité
 - [[Changement dans les institutions]]
-<!--SR:!2023-12-18,60,170-->
+<!--SR:!2024-03-28,101,170-->
 
 Une augmentation de la quantité de **capital** implique:: une augmentation des machines, des routes, des ports, des outils, des équipements, etc.
 <!--SR:!2024-03-02,128,192-->
@@ -36,4 +36,4 @@ Les ressources naturelles (la terre) peuvent être divisées en deux parties ess
 ?
 - **Terres pour la production de produits commercialisables**, tels que le bois, les minéraux et le gaz naturel
 - **Ressources écologiques**, comme les lacs, les rivières, la qualité des sols et la biodiversité
-<!--SR:!2023-12-17,46,172-->
+<!--SR:!2024-03-04,78,172-->

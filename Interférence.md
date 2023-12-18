@@ -21,5 +21,27 @@ Différence de chemin d'une interférence destructive (formule)=::$\left(n+\frac
 
 ## Experience des fentes de Young
 Deux sources sont dites cohérentes lorsque:: les ondes qu'elles émettent ont la même fréquence et une différence de phase constante.
-<!--SR:!2023-12-17,1,230-->
+<!--SR:!2023-12-19,1,190-->
+
+Formule avec angle:
+?
+$$\large{\sin\theta=\frac{n\lambda}{d}}$$
+- $\theta$ = angle entre la distance entre les deux plaques et la médiatrice
+- $n\lambda$ = déphasage des deux ondes
+- $d$ = distance entre les deux fentes
+<!--SR:!2023-12-19,1,227-->
+
+Formule de la frange:
+?
+$$\large{s=\frac{n\lambda D}{d}}$$
+- $s$ = distance de l'interfrange
+- $n\lambda$ = déphasage des deux ondes
+- $D$ = distance entre les deux plaques
+- $d$ = distance entre les deux fentes
+<!--SR:!2023-12-20,2,247-->
+
+Représentation:
+?
+![[image-20231217084846194.png|center|525]]
+<!--SR:!2023-12-19,1,227-->
 

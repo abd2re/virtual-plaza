@@ -10,7 +10,7 @@ Created: 2023-11-28
 - Autre notation de $f'(x)$::$\frac{dy}{dx}$
 <!--SR:!2023-12-31,21,250-->
 - Autre notation de $f''(x)$::$\frac{d^{2}y}{dx^{2}}$
-<!--SR:!2023-12-17,3,225-->
+<!--SR:!2023-12-19,2,205-->
 
 Tangente et normale pour une fonction représente:
 ?
@@ -40,7 +40,7 @@ Tangente et normale pour une fonction représente:
 - $f(x)=e^{x}\rightarrow f'(x)=$::$e^{x}$
 <!--SR:!2024-01-04,24,250-->
 - $f(x)=\log_{a}(x)\rightarrow f'(x)=$::$\frac{1}{\ln(a)x}$
-<!--SR:!2023-12-18,4,190-->
+<!--SR:!2023-12-28,10,190-->
 - $f(x)=\ln(x)\rightarrow f'(x)=$::$\frac{1}{x}$
 <!--SR:!2023-12-26,17,250-->
 - $f(x)=\sin(x)\rightarrow f'(x)=$::$\cos(x)$
@@ -60,3 +60,12 @@ Tangente et normale pour une fonction représente:
 - $h(x)=f(g(x))\rightarrow h'(x)=$::$f'(g(x))g'(x)$
 <!--SR:!2023-12-20,11,230-->
 
+### Première et seconde dérivée
+- Si $f'(x)=0$ alors ce point est:: un extremum local
+<!--SR:!2023-12-20,2,240-->
+- Si $f''(x)=0$ alors ce point est:: un point d'inflextion
+<!--SR:!2023-12-20,2,240-->
+- Si $f'(x)=0$ et $f''(x)<0$ alors ce point est:: un maximum local
+<!--SR:!2023-12-20,2,240-->
+- Si $f'(x)=0$ et $f''(x)>0$ alors ce point est:: un minimum local
+<!--SR:!2023-12-20,2,240-->

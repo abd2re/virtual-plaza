@@ -15,7 +15,7 @@ $$\Large{\sum \vec{F}_{ext}=\frac{\Delta p}{\Delta t}}$$
 Formule de l'impulsion:
 ?
 $$\large{\text{impulsion}=\Delta p = F\Delta t}$$
-<!--SR:!2023-12-18,13,230-->
+<!--SR:!2024-01-17,30,230-->
 
 Graphique force par rapport avec temps avec aire:
 ?

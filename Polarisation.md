@@ -8,7 +8,7 @@ Created: 2023-11-20
 - La polarisation ne se produit que pour les ondes:: transversales.
 <!--SR:!2023-12-22,9,228-->
 - La polarisation de la lumière fait référence à:: l'orientation de l'oscillation dans le champ électrique sous-jacent.
-<!--SR:!2023-12-17,3,150-->
+<!--SR:!2023-12-23,6,150-->
 
 Représentation d'une lumière non-polarisée à une lumière polarisée:
 ?
@@ -20,7 +20,7 @@ Différence entre lumière polarisée et lumière non-polarisée:
 ?
 - Pour une lumière non-polarisée le vecteur champ électrique peut vibrer dans n'imprte quel plan perpendiculaire à la direction de propagation.
 - Pour une lumière polarisée le vecteur champ électrique vibre seulement dans un seul plan.
-<!--SR:!2023-12-17,5,164-->
+<!--SR:!2023-12-27,10,164-->
 
 
 Formule Loi de Malus (s'applique seulement à une lumière polarisée):
@@ -28,7 +28,7 @@ Formule Loi de Malus (s'applique seulement à une lumière polarisée):
 $$\large{I=I_{0}\cos^{2}\theta}$$
 - $I_{0}$ = intensité de la lumière polarisée
 - $\theta$ = angle entre analyseur et l'analyseur/polariseur précédent
-<!--SR:!2023-12-18,14,238-->
+<!--SR:!2023-12-27,9,218-->
 
 - Quand une lumière non-polarisée passe par un polariseur alors son intensité est:: divisée par 2.
 <!--SR:!2023-12-19,15,238-->
