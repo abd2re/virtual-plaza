@@ -118,8 +118,48 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "62b627e6737e5611",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8f600b8b5b0c5f4d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 18.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,7 +279,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Énergie spécifique.md",
+                "file": "Untitled 18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +305,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Énergie spécifique.md",
+                "file": "Untitled 18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -338,7 +378,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Énergie spécifique.md",
+                "file": "Untitled 18.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -379,7 +419,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Énergie spécifique.md"
+                "file": "Untitled 18.md"
               }
             }
           },
@@ -415,7 +455,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Énergie spécifique.md"
+                "file": "Untitled 18.md"
               }
             }
           },
@@ -494,7 +534,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Énergie spécifique.md",
+                "file": "Untitled 18.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -574,14 +614,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "31810d59aeb72cff",
+  "active": "8f600b8b5b0c5f4d",
   "lastOpenFiles": [
+    "Untitled 18.md",
+    "Énergie spécifique.md",
+    "Untitled 17.md",
     "Diagrammes de Sankey.md",
     "assets/Diagrammes de Sankey/image-20231218111254285.png",
     "Ressources énergétiques.md",
     "Chapitre 1 - Sources d'énergie.md",
     "Sources d'énergie primaire et secondaire.md",
-    "Énergie spécifique.md",
     "Theme 8-Production d'énergie.md",
     "assets/Diagrammes de Sankey",
     "Theme 4-Oscillations et ondes.md",
@@ -605,7 +647,6 @@
     "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
     "exercises/physics/theme 5/Cells & Internal Resistance.md",
     "exercises/physics/theme 2/Work, Energy, and Power.md",
-    "exercises/physics/theme 2/Forces.md",
     "assets/Dérivation/image-20231128163111952.png",
     "assets/Avantages du commerce international/image-20231214123330625.png",
     "assets/Avantages du commerce international/image-20231214123155139.png",
