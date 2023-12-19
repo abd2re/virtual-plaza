@@ -4,123 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec0d1ca4c85d3d1a",
+        "id": "d601bbf254889801",
         "type": "tabs",
         "children": [
           {
-            "id": "31810d59aeb72cff",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Diagrammes de Sankey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Diagrammes de Sankey.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Ressources énergétiques",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ressources énergétiques.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":156},\"to\":{\"line\":9,\"ch\":156}}}"
-                },
-                {
-                  "title": "Chapitre 1 - Sources d'énergie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Sources d'énergie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Sources d'énergie primaire et secondaire",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sources d'énergie primaire et secondaire.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":72},\"to\":{\"line\":11,\"ch\":72}}}"
-                },
-                {
-                  "title": "Theme 8-Production d'énergie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 8-Production d'énergie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Diagrammes de Sankey",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Diagrammes de Sankey.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Énergie spécifique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Énergie spécifique.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 1 - Sources d'énergie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Sources d'énergie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":0}"
-                },
-                {
-                  "title": "Theme 8-Production d'énergie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 8-Production d'énergie.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Theme 4-Oscillations et ondes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Oscillations et ondes.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":5.042773124220282}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Énergie spécifique",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Énergie spécifique.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Chapitre 1 - Sources d'énergie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 1 - Sources d'énergie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 8-Production d'énergie",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 8-Production d'énergie.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "_physics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":16.449699289229088}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Énergie spécifique.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62b627e6737e5611",
+            "id": "69f657ac55839c0f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -135,31 +23,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "8f600b8b5b0c5f4d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 18.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +169,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -378,7 +241,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 18.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -418,9 +280,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled 18.md"
-              }
+              "state": {}
             }
           },
           {
@@ -454,9 +314,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Untitled 18.md"
-              }
+              "state": {}
             }
           },
           {
@@ -534,7 +392,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 18.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -614,10 +471,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f600b8b5b0c5f4d",
+  "active": "69f657ac55839c0f",
   "lastOpenFiles": [
-    "Untitled 18.md",
     "Énergie spécifique.md",
+    "Untitled 18.md",
     "Untitled 17.md",
     "Diagrammes de Sankey.md",
     "assets/Diagrammes de Sankey/image-20231218111254285.png",
