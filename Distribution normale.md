@@ -11,7 +11,7 @@ Created: 2023-11-16
 - $P(x\leq k)$=::$P(x<k)$
 <!--SR:!2024-01-11,33,250-->
 - Si $X$ suit une distribution normale, on note ça:: $X\sim N(\mu,\sigma^{2})$
-<!--SR:!2023-12-19,15,230-->
+<!--SR:!2023-12-29,10,210-->
 - Les trois pourcentage des écarts types dans une distribution normale sont:: 68%, 95%, et 99.7%
 <!--SR:!2024-01-24,42,250-->
 - $P(X <\mu) =P(X >\mu)$=::$0.5$

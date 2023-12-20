@@ -20,7 +20,7 @@ Il existe deux types d'ondes progressives (avec définition):
 ?
 - les ondes mécaniques, qui se propagent dans un milieu et ne peuvent pas se produire dans le vide
 - les ondes électromagnétiques, qui peuvent se propager dans le vide.
-<!--SR:!2023-12-19,14,207-->
+<!--SR:!2024-01-16,28,207-->
 
 La longueur d'onde est (2):: la distance entre deux crêtes ou deux creux de deux ondes consécutives (transversale), la distance entre deux points de compression ou deux points de raréfaction (longitudinale).
 <!--SR:!2024-01-01,19,218-->
@@ -37,13 +37,13 @@ Les ondes mécaniques progressives ont la propriété de pouvoir se propager dan
 
 ## Ondes transversales et longitudinales
 Une onde transversale est:: une onde dans laquelle les particules oscillent perpendiculairement à la direction du mouvement et où le transfert d'énergie se fait perpendiculairement aussi.
-<!--SR:!2023-12-19,4,130-->
+<!--SR:!2023-12-25,6,130-->
 - Les ondes transversales présentent des zones de:: pics et de creux
 <!--SR:!2024-01-09,29,230-->
 - Exemples d'ondes transversales:: Ondes électromagnétiques, par exemple radio, lumière visible, UV. Vibrations sur une corde de guitare
 <!--SR:!2023-12-22,20,250-->
 - Une onde transversale peut voyager dans le vide, oui ou non ?:: oui
-<!--SR:!2023-12-20,20,267-->
+<!--SR:!2024-02-10,52,267-->
 
 Représentation d'une onde transversale::![[image-20231117200324111.png]]
 <!--SR:!2023-12-23,21,250-->

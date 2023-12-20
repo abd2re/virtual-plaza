@@ -30,7 +30,7 @@ Si le gouvernement souhaite stimuler l’économie, il doit opérer un déficit 
 <!--SR:!2023-12-31,19,250-->
 
 Si un gouvernement continue d’enregistrer un déficit budgétaire et d’emprunter de l’argent, le montant total emprunté augmentera. Le montant total emprunté est appelé:: la dette du secteur public ou la dette nationale.
-<!--SR:!2023-12-20,11,230-->
+<!--SR:!2024-01-13,24,230-->
 
 De nombreux pays ont réagi aux niveaux élevés d’endettement en mettant en œuvre austérité programmes. L'austérité est un terme économique utilisé pour définir:: une réduction des dépenses, généralement associée aux dépenses publiques.
 <!--SR:!2023-12-28,17,250-->

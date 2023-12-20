@@ -22,7 +22,7 @@ $$\Large{\Delta E=\sum\limits E_{l(\text{produits})}-\sum\limits E_{l(\text{réa
 ## Energie de liaison
 ?
 L'énergie que doit fournir le milieu extérieur pour séparer ce noyau au repos en ses nucléons libres au repos.
-<!--SR:!2023-12-20,9,130-->
+<!--SR:!2024-01-03,14,130-->
 
 Lorsqu'on brise le noyau, sa masse augmente de $\Delta m$ et son énergie de $\Delta mc^{2}$. On en déduit que l'énergie de liaison d'un noyau a pour expression:
 ?
@@ -32,13 +32,13 @@ $$\Large{E_{l}=\Delta mc^{2}}$$
 - $c$ = célérité de la lumière dans le vide (en $ms^{-1}$)
 <!--SR:!2024-02-23,79,230-->
 
-L'énergie de liaison par nucléon d'un noyau est le quotient de son énergie de liaison par le nombre de ses nucléons. On la note: 
+L'énergie de liaison par nucléon d'un noyau est le quotient de son énergie de liaison par le nombre de ses nucléons. On la note:
 ?
 $$\large{E_{A}=\frac{E_{l}}{A}}$$
 - $E_{A}$ = énergie de liaison par nucléon (en MeV/nucléon)
 - $E_{l}$ = énergie de liaison du noyau (en MeV)
 - A = nombre de nucléons du noyau
-<!--SR:!2023-12-20,168,250-->
+<!--SR:!2024-03-15,86,230-->
 
 - L'énergie de liaison par nucléon permet de comparer la stabilité des noyaux entre eux. Les noyaux dont l'énergie de liaison par nucléon est la plus grande sont:: les plus stables.
 <!--SR:!2024-07-22,296,250-->

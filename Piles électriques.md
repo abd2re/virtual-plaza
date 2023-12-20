@@ -80,7 +80,7 @@ Pour avoir plus de tension.
 $$V_{PN}=e_{1}-r_{1}I+e_{2}-r_{2}I+e_{3}-r_{3}I$$
 $$V_{PN}=e_{1}+e_{2}+e_{3}-(r_{1}+r_{2}+r_{3})I$$
 $$e_s=\sum{e}$$$$r_s=\sum\limits{r}$$
-<!--SR:!2023-12-19,201,240-->
+<!--SR:!2024-03-28,100,220-->
 
 **En parallèle** (Avantage, branchement et formule)
 ?

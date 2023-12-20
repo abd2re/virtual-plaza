@@ -32,12 +32,12 @@ La politique budgétaire est un outil important pour atténuer les fluctuations.
 
 ## 5. Répartition équitable
 Les gouvernements peuvent améliorer répartition de salaire par (3):: les impôts (indirects et directs) et les paiements de transfert.
-<!--SR:!2023-12-19,4,186-->
+<!--SR:!2023-12-21,2,166-->
 
 Comment les impôts indirects peuvent être utilisées ?
 ?
 Les gouvernements peuvent lever des taxes plus élevées sur les produits de luxe comme le caviar et le parfum. Dans le même temps, le gouvernement peut lever des impôts moins élevés sur des produits essentiels tels que la nourriture, l’électricité ou l’eau. Ainsi, les consommateurs qui ont la plus grande capacité de payer paieront davantage d’impôts indirects. De cette manière, le gouvernement peut redistribuer les revenus des segments les plus riches de la société vers ceux qui sont moins aisés.
-<!--SR:!2023-12-20,13,246-->
+<!--SR:!2024-01-19,30,246-->
 
 Comment les impôts directs peuvent être utilisées ?
 ?

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d601bbf254889801",
+        "id": "d3aefff7afa91eeb",
         "type": "tabs",
         "children": [
           {
-            "id": "69f657ac55839c0f",
+            "id": "6ce4f0c3872c6600",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,12 +16,29 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 2 - Types de protection commerciale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Types de protection commerciale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Theme 3-Économie Mondiale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 3-Économie Mondiale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tarifs.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -144,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tarifs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +187,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Tarifs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,6 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tarifs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -280,7 +300,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tarifs.md"
+              }
             }
           },
           {
@@ -314,7 +336,9 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Tarifs.md"
+              }
             }
           },
           {
@@ -392,6 +416,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Tarifs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -471,8 +496,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "69f657ac55839c0f",
+  "active": "6ce4f0c3872c6600",
   "lastOpenFiles": [
+    "assets/Tarifs/image-20231220095125824.png",
+    "Tarifs.md",
+    "assets/Tarifs",
+    "Chapitre 2 - Types de protection commerciale.md",
+    "Theme 3-Économie Mondiale.md",
+    "Avantages du commerce international.md",
+    "Politique monétaire.md",
+    "assets/Politique monétaire/image-20231108093711743.png",
+    "assets/Politique monétaire/image-20231108093526578.png",
+    "Theme 2-Macro-économie.md",
+    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
+    "Chapitre 6 - Gestion de la demande – Politique budgétaire.md",
+    "_economy.md",
+    "Statistiques I.md",
+    "_math.md",
+    "_french B.md",
     "Énergie spécifique.md",
     "Untitled 18.md",
     "Untitled 17.md",
@@ -489,36 +530,19 @@
     "assets/Interférence/image-20231217084846194.png",
     "TP_physique1.md",
     "Conceptes de base economie.md",
-    "_economy.md",
-    "Dérivation.md",
-    "_math.md",
     "assets/Interférence/image-20231217084823018.png",
     "assets/Interférence/image-20231217084821388.png",
-    "Theme 7-Physique nucléaire.md",
-    "Chapitre 1 - La Demande.md",
-    "Theme 3-Économie Mondiale.md",
-    "Theme 1-Micro-économie.md",
-    "Amplitude et intensité d'une onde.md",
-    "Chapitre 4 - Comportement des ondes.md",
-    "Grandeurs physiques fondamentales.md",
-    "exercises/physics/theme 5/Circuits & Kirchoff's Laws.md",
-    "exercises/physics/theme 5/Cells & Internal Resistance.md",
-    "exercises/physics/theme 2/Work, Energy, and Power.md",
     "assets/Dérivation/image-20231128163111952.png",
     "assets/Avantages du commerce international/image-20231214123330625.png",
     "assets/Avantages du commerce international/image-20231214123155139.png",
     "assets/Avantages du commerce international",
-    "assets/Efficacité/image-20221108155959360.png",
     "2.7 m.canvas",
-    "assets/Intranet/image-20230225140242368.png",
-    "assets/Interférence/image-20231211112123487.png",
     "assets/Interférence",
     "assets/Politiques d’offre liées aux incitations",
     "assets/Diffraction",
     "assets/Transmission et réfraction",
     "assets/Réflexion",
     "assets/Politique budgétaire expansionniste et restrictive",
-    "assets/Dérivation",
-    "assets/Nouvelle expression de la deuxième loi de Newton"
+    "assets/Dérivation"
   ]
 }

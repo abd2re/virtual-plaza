@@ -6,7 +6,7 @@ Created: 2023-11-23
 
 # Politique budgétaire
 La politique budgétaire est:: lorsque le gouvernement intervient sur le marché et utilise les dépenses publiques et/ou les impôts pour gérer l'économie.
-<!--SR:!2023-12-19,8,170-->
+<!--SR:!2024-01-01,13,170-->
 
 La politique fiscale fait parti de:: la politique budgétaire.
 <!--SR:!2023-12-30,15,190-->

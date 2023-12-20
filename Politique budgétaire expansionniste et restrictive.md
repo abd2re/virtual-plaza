@@ -27,7 +27,7 @@ La principale différence entre les keynésiens et les néo-classiques lors d'un
 ?
 Les néo-classiques  croient qu'un écart déflationniste ne se produit qu'à court terme et que l'économie reviendra naturellement au plein emploi, tandis que les keynésiens croient qu'un écart déflationniste peut se produire à court et à long terme et que l’intervention du gouvernement est nécessaire pour que l’économie revienne au plein emploi.
 ![[image-20231129091737586.png]]
-<!--SR:!2023-12-20,13,248-->
+<!--SR:!2024-01-18,29,248-->
 
 
 L’objectif d'une politique budgétaire restrictive peut être soit (2):: de réduire l’inflation tirée par la demande dans l’économie, soit de réduire un déficit budgétaire.

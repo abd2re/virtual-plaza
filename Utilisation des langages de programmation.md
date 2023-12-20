@@ -12,7 +12,7 @@ Created: 2023-10-03
 <!--SR:!2024-02-25,82,230-->
 
 - Une constante est:: un identificateur avec une valeur associée qui ne peut pas être modifiée par le programme pendant l'exécution normale : la valeur est constante.
-<!--SR:!2023-12-19,45,250-->
+<!--SR:!2024-04-09,112,250-->
 
 - Un objet est composé:: de données et d'actions. Les actions font référence aux opérations qui peuvent être effectuées par l'objet.
 <!--SR:!2023-12-31,54,250-->

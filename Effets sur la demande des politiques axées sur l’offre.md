@@ -12,3 +12,4 @@ Certains outils politiques du côté de l’offre auront également des effets d
 - Réduire les impôts sur le revenu des personnes physiques (augmente les revenus des travailleurs)
 - Réduire les allocations de chômage (réduit la consommation des chômeurs)
 - Abolir le salaire minimum (diminution des revenus des travailleurs les plus pauvres)
+<!--SR:!2023-12-21,1,230-->

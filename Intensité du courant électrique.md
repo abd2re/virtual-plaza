@@ -6,7 +6,7 @@ Created: 2022-12-05
 # Intensité du courant électrique
 ?
 L'intensité du courant électrique est une grandeur physique qui mesure la quantité d'électricité qui traverse une section d'un circuit par unité de temps. On l'a mesure a l'aide d'un:: ampèremètre branché en série avec le dipole dont un veut connaître l'intensité.
-<!--SR:!2023-12-19,89,230-->
+<!--SR:!2024-02-01,44,210-->
 
 Formule de l'intensité électrique:
 ?

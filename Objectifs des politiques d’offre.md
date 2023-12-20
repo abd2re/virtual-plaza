@@ -19,12 +19,13 @@ Le gouvernement mène des politiques axées sur l’offre pour contribuer à l
 - Réduire les coûts du travail et le chômage grâce à la flexibilité du marché du travail
 - Réduire l'inflation pour améliorer la compétitivité internationale
 - Accroître les incitations des entreprises à investir dans l'innovation en réduisant les coûts.
+<!--SR:!2023-12-21,1,222-->
 
 ## 1. Augmenter la capacité productive de l’économie pour parvenir à une croissance à long terme
 - La capacité productive comprend toutes les ressources par exemple::, la terre, la main-d'œuvre, les moteurs, les machines, la technologie, le savoir-faire et le stock de capital de l'économie.
 <!--SR:!2023-12-21,4,230-->
 - L’augmentation du stock de main-d’œuvre et du nombre de machines augmentera:: la capacité de production, et donc la production.
-<!--SR:!2023-12-19,2,224-->
+<!--SR:!2023-12-23,4,224-->
 
 La population active peut être augmentée en (4):
 ?
@@ -38,6 +39,7 @@ Le facteur capital peut être augmenté en (2):
 ?
 - Abaissant les taux d'intérêt et rendre moins coûteux pour les entreprises d'emprunter de l'argent pour acheter des machines (augmente l'investissement)
 - Donnant des allégements fiscaux aux entreprises qui investissent dans de nouvelles machines
+<!--SR:!2023-12-21,1,222-->
 
 ## 2. Améliorer la concurrence et l’efficacité
 - La concurrence oblige:: les entreprises à s’améliorer.
@@ -45,9 +47,11 @@ Le facteur capital peut être augmenté en (2):
 - La concurrence oblige également les entreprises à baisser:: leurs prix.
 <!--SR:!2023-12-26,9,250-->
 - Une concurrence accrue fera:: baisser les prix et augmentera la production à long-terme.
+<!--SR:!2023-12-22,2,242-->
 
 ## 3. Réduire les coûts du travail et le chômage grâce à  la flexibilité du marché du travail
 Un marché du travail flexible permet aux entreprises d::’embaucher plus facilement des travailleurs lorsqu’elles ont besoin d’augmenter leur production, mais également de licencier des travailleurs dans un contexte de crise.
+<!--SR:!2023-12-22,2,242-->
 
 Un marché du travail plus flexible permet aux entreprises d’ajuster les salaires rapidement et facilement. Ceci peut être réalisé par (4):
 ?

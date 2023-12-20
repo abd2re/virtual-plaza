@@ -19,7 +19,7 @@ Dans le cas d'une récession, une réduction de la [[demande globale]] entraîne
 <!--SR:!2023-12-26,61,230-->
 
 Les récessions peuvent également provoquer un [[choc d'offre]] lorsque l'[[offre]] globale diminue, entraînant une hausse des [[coûts de production]] et entraînant ce que l'on appelle:: une baisse de l'offre globale (stagflation).
-<!--SR:!2023-12-20,63,250-->
+<!--SR:!2024-01-20,31,230-->
 
 Graphique avec axes et explication du nombre de chômeurs
 ?

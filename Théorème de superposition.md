@@ -14,5 +14,5 @@ Lorsque deux ou plusieurs ondes se rencontrent, le déplacement résultant est l
 - Le principe de superposition s'applique aussi bien aux:: ondes transversales qu'aux ondes longitudinales.
 <!--SR:!2024-01-06,30,248-->
 - L'interférence se produit lorsque:: deux ondes se superposent
-<!--SR:!2023-12-20,19,250-->
+<!--SR:!2024-02-06,48,250-->
 

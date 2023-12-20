@@ -102,12 +102,12 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 Si $|z|=1$ alors $z^{*}$=::$z^{-1}$
 <!--SR:!2024-01-26,55,234-->
 $e^{i\pi}$=::$-1$
-<!--SR:!2023-12-20,35,234-->
+<!--SR:!2024-03-10,81,234-->
 
 - $z^{n}+z^{-n}$=::$2\cos(n\theta)$
 <!--SR:!2024-02-17,67,234-->
 - $z^{n}-z^{-n}$=::$2i\sin(n\theta)$
-<!--SR:!2023-12-20,34,234-->
+<!--SR:!2024-03-08,79,234-->
 - $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
 <!--SR:!2023-12-22,35,234-->
 - $e^{in\theta}-e^{-in\theta}$=::$2i\sin(n\theta)$

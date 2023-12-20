@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Tarifs",
+      "path": "Tarifs.md"
+    },
+    {
+      "basename": "Chapitre 2 - Types de protection commerciale",
+      "path": "Chapitre 2 - Types de protection commerciale.md"
+    },
+    {
+      "basename": "Theme 3-Économie Mondiale",
+      "path": "Theme 3-Économie Mondiale.md"
+    },
+    {
+      "basename": "Avantages du commerce international",
+      "path": "Avantages du commerce international.md"
+    },
+    {
+      "basename": "Politique monétaire",
+      "path": "Politique monétaire.md"
+    },
+    {
+      "basename": "Theme 2-Macro-économie",
+      "path": "Theme 2-Macro-économie.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "Statistiques I",
+      "path": "Statistiques I.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
       "basename": "Énergie spécifique",
       "path": "Énergie spécifique.md"
     },
@@ -49,16 +89,8 @@
       "path": "Conceptes de base economie.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
       "basename": "Dérivation",
       "path": "Dérivation.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "Amplitude et intensité d'une onde",
@@ -89,20 +121,12 @@
       "path": "Politiques interventionnistes du côté de l’offre.md"
     },
     {
-      "basename": "Avantages du commerce international",
-      "path": "Avantages du commerce international.md"
-    },
-    {
       "basename": "Surplus social ou communautaire",
       "path": "Surplus social ou communautaire.md"
     },
     {
       "basename": "Chapitre 1 - Avantages du commerce international",
       "path": "Chapitre 1 - Avantages du commerce international.md"
-    },
-    {
-      "basename": "Theme 3-Économie Mondiale",
-      "path": "Theme 3-Économie Mondiale.md"
     },
     {
       "basename": "Theme 1-Micro-économie",
@@ -119,10 +143,6 @@
     {
       "basename": "MOC",
       "path": "template/MOC.md"
-    },
-    {
-      "basename": "Theme 2-Macro-économie",
-      "path": "Theme 2-Macro-économie.md"
     },
     {
       "basename": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
@@ -165,10 +185,6 @@
       "path": "oral cid 1.md"
     },
     {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
       "basename": "Intranet",
       "path": "Intranet.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Ondes électromagnétiques et ondes sonores",
       "path": "Ondes électromagnétiques et ondes sonores.md"
-    },
-    {
-      "basename": "Diffraction",
-      "path": "Diffraction.md"
-    },
-    {
-      "basename": "Onde progressive",
-      "path": "Onde progressive.md"
-    },
-    {
-      "basename": "Chapitre 3 - Caractéristiques des ondes",
-      "path": "Chapitre 3 - Caractéristiques des ondes.md"
-    },
-    {
-      "basename": "Polarisation",
-      "path": "Polarisation.md"
     }
   ],
   "omittedPaths": [],

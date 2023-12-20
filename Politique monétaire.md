@@ -19,7 +19,7 @@ La politique monétaire fait référence à la banque centrale qui utilise le re
 - Définition de **taux d’intérêt**:: **Coût d’emprunt de l’argent.**
 <!--SR:!2023-12-24,22,210-->
 - Définition de la **masse monétaire**:: **La quantité totale de monnaie en circulation** ; il se compose de toutes les pièces, billets et soldes bancaires.
-<!--SR:!2023-12-19,13,170-->
+<!--SR:!2024-01-09,21,170-->
 
 
 ## Les fonctions d'une banque centrale
@@ -38,7 +38,7 @@ Ils sont 5:
 <!--SR:!2024-01-24,37,210-->
 
 Lorsque la banque centrale augmente la masse monétaire, alors en conséquence le taux d'intérêt:: diminue.
-<!--SR:!2023-12-19,23,250-->
+<!--SR:!2024-02-14,57,250-->
 Graphique
 ?
 ![[image-20231108093526578.png]]
@@ -69,4 +69,4 @@ La Banque centrale peut émettre obligations pour:: lever des fonds pour finance
 - Un rôle important de la banque centrale est de réglementer banques commerciales pour s’assurer:: qu’elles ne prennent pas trop de risques.
 <!--SR:!2024-01-04,29,230-->
 - Le pouvoir de régulation le plus important d’une banque centrale est de:: fixer des réserves obligatoires.
-<!--SR:!2023-12-20,14,170-->
+<!--SR:!2024-01-15,26,170-->

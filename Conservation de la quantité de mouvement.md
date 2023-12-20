@@ -22,5 +22,5 @@ $$\Large{\vec{p}_{i}=\vec{p}_{f}}$$
 - Pour un choc élastique, on a:: conservation de la quantité de mouvement et de l'énergie cinétique.
 <!--SR:!2024-02-21,70,230-->
 - Pour un choc inélastique, on a:: conservation de la quantité de mouvement mais pas de l'énergie cinétique.
-<!--SR:!2023-12-20,37,230-->
+<!--SR:!2024-03-13,84,230-->
 

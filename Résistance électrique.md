@@ -53,7 +53,7 @@ La puissance dissipé par effet joule est proportionnelle:: au carré de l'inten
 Un appareil de mesure modifie le circuit et a un effet sur la mesure. 
 
 - Utilisation d'un ampèremètre: un ampèremètre idéal:: a une résistance interne nulle
-<!--SR:!2023-12-20,207,263-->
+<!--SR:!2024-04-01,103,243-->
 
 <!--SR:!2023-03-31,65,242-->
 - Utilisation d'un voltmètre: un voltmètre idéal:: a une résistance interne infinie
