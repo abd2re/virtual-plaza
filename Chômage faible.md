@@ -18,7 +18,7 @@ Toute personne en âge de travailler qui cherche du travail mais qui n'en trouve
 <!--SR:!2024-01-12,93,190-->
 
 Formule du taux de chômage::$\Large{\text{Taux de chômage}=\frac{\text{Nombre de chômeurs}}{\text{Population active totale}}\times100}$
-<!--SR:!2023-12-22,107,242-->
+<!--SR:!2024-09-05,258,242-->
 
 Formule de la population active::$$\large{\text{Population active}=\text{travailleurs}+\text{chômeurs}}$$
 <!--SR:!2024-05-11,149,255-->
@@ -33,4 +33,4 @@ Les raisons de l'apparition d'erreurs d'échantillonnage et d'inexactitudes dan
 - Travailleurs découragés
 - Disparités régionales, ethniques, d'âge et de sexe
 - Économie informelle
-<!--SR:!2023-12-21,33,170-->
+<!--SR:!2024-02-14,55,170-->

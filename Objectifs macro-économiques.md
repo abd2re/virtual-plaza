@@ -9,7 +9,7 @@ Quels sont les 3 objectifs macro-économiques:
 - Une [[Croissance économique a court et a long terme|croissance économique stable]]
 - [[Chômage faible|Faible taux de chômage]]
 - [[Inflation et ses causes|Taux d'inflation faible et stable]]
-<!--SR:!2023-12-29,105,210-->
+<!--SR:!2024-08-05,220,210-->
 
 Quatre composantes de la santé économique des pays soutiennent le concept de carré magique:
 ?

@@ -23,10 +23,10 @@ Le calcul du IPC implique:: la sélection d'un panier de biens et services typiq
 <!--SR:!2024-03-29,104,210-->
 
 Formule IPC::$$\large{\text{IPC}_{n}=\frac{\text{valeur du panier de l'année }n}{\text{valeur de panier de l'année de base}}\times100}$$
-<!--SR:!2023-12-24,64,250-->
+<!--SR:!2024-01-24,31,230-->
 
 Formule du taux d'inflation avec IPC::$$\large{T_{i}=\frac{\text{IPC}_{f}-\text{IPC}_{d}}{\text{IPC}_{d}}\times100}$$
-<!--SR:!2023-12-27,65,250-->
+<!--SR:!2024-06-06,162,250-->
 
 ## Limites de l’IPC pour mesurer l’inflation
 Ils sont (4):
@@ -35,13 +35,13 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2023-12-25,6,130-->
+<!--SR:!2024-01-02,8,130-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2024-01-06,69,263-->
 
 IPP veut dire:: Indice prix de la production
-<!--SR:!2023-12-29,69,263-->
+<!--SR:!2024-06-26,180,263-->
 
 Alors que l'IPC s'interesse au produits de la consummation, l'IPP:: s'interesse aux facteurs de production qui nous permet de prévoir une augmentation/baisse future de l'IPC.
 <!--SR:!2024-02-27,82,203-->
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2023-12-28,11,130-->
+<!--SR:!2024-01-02,5,130-->
 

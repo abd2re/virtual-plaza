@@ -45,7 +45,7 @@ Quelques conséquences positives et négative de la croissance économique sont 
 - L'impact sur le niveau de vie
 - L'impact sur l'environment
 - L'impact sur la répartition des revenus
-<!--SR:!2023-12-22,3,130-->
+<!--SR:!2023-12-31,5,130-->
 
 ---
 - La richesse et le revenu ne sont pas des termes interchangeables. Le revenu est un flux et fait référence aux gains d'une semaine à l'autre ou d'un mois à l'autre. Alors que la richesse est:: un stock et se réfère à une accumulation d'argent et d'actifs. Les individus ayant des revenus élevés et des niveaux de consommation élevés ne disposent pas nécessairement d'un stock de richesse important !

@@ -11,4 +11,4 @@ Il existe de nombreux types d’inégalités économiques. Les mesures les plus
 ?
 - répartition inégale des revenus
 - répartition inégale des richesses.
-<!--SR:!2023-12-26,33,210-->
+<!--SR:!2024-01-13,18,190-->

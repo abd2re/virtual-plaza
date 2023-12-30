@@ -33,7 +33,7 @@ Si un gouvernement continue d’enregistrer un déficit budgétaire et d’empru
 <!--SR:!2024-01-13,24,230-->
 
 De nombreux pays ont réagi aux niveaux élevés d’endettement en mettant en œuvre austérité programmes. L'austérité est un terme économique utilisé pour définir:: une réduction des dépenses, généralement associée aux dépenses publiques.
-<!--SR:!2023-12-28,17,250-->
+<!--SR:!2024-02-08,42,250-->
 
 Même s’il peut être financièrement judicieux pour un gouvernement de réduire ses dépenses lorsque les emprunts ont trop augmenté, il est important de garder à l’esprit que cela peut avoir un impact négatif sur:: la demande globale d’une économie.
 <!--SR:!2024-01-05,23,250-->

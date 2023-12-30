@@ -28,4 +28,4 @@ Les trois types d'énergie potentielles sont:
 - $E_{Pe}=$::$\frac{1}{2}kx^{2}$
 <!--SR:!2024-02-03,64,190-->
 - $E_{P\text{elec}}=$::$qV$
-<!--SR:!2023-12-28,64,250-->
+<!--SR:!2024-06-04,159,250-->

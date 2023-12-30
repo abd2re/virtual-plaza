@@ -15,7 +15,7 @@ Created: 2023-06-05
 - $\cos(a-b)=$::$\cos a\cos b+\sin a\sin b$
 <!--SR:!2024-02-21,79,210-->
 - $\sin(a+b)=$::$\sin a\cos b+\sin b\cos a$
-<!--SR:!2023-12-28,125,250-->
+<!--SR:!2024-02-28,62,230-->
 - $\sin(a-b)=$::$\sin a\cos b-\sin b\cos a$
 <!--SR:!2024-02-02,147,250-->
 - $\tan(a+b)=$::$\frac{\tan a+\tan b}{1-\tan a\tan b}$

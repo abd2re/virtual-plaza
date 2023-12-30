@@ -40,7 +40,7 @@ Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un lang
 
 ### Processus de traduction d'un langage de niveau supérieur vers un code exécutable
 - Ce processus de traduction convertira le programme dans:: le langage machine de l'ordinateur.
-<!--SR:!2023-12-25,60,250-->
+<!--SR:!2024-05-22,149,250-->
 - Le programme original développé dans un langage de haut niveau sélectionné est appelé:: programme source ou code source.
 <!--SR:!2024-03-06,87,210-->
 - Le programme traduit en langage machine est appelé:: programme objet ou programme cible.

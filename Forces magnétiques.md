@@ -18,7 +18,7 @@ $$\Large{F_{m}=|q|vB\sin\theta}$$
 - $v$ = vitesse de la particule
 - $B$ = champ magnétique
 - $\theta$ = $\angle(\vec{v},\vec{B})$ (aigu), si $\sin(\theta)<0$ alors on prend sa valeur absolue
-<!--SR:!2023-12-21,31,170-->
+<!--SR:!2024-02-08,49,170-->
 
 Règle de la paume de la main droite.
 ?
@@ -38,7 +38,7 @@ $$\Large{a=\frac{|q|vB\sin\theta}{m}}$$
 La formule du rayon d'une particule est égale:
 ?
 $$\Large{r=\frac{mv}{|q|B}}$$
-<!--SR:!2023-12-25,22,202-->
+<!--SR:!2024-02-07,44,202-->
 
 
 ## Force magnétique s'exerçcant sur un courant électrique placée dans un champ magnétique (loi de Laplace)

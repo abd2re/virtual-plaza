@@ -11,4 +11,4 @@ Des politiques visant à créer une plus grande flexibilité sur le marché du t
 - Réduire le pouvoir des syndicats
 - Réduire les allocations de chômage
 - Abolir le salaire minimum
-<!--SR:!2023-12-22,2,170-->
+<!--SR:!2023-12-31,2,150-->

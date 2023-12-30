@@ -26,7 +26,7 @@ truth=::In accord with fact or reality, or faithfulness to a standard
 
 <!--SR:!2023-04-30,96,230-->
 evidence=::Signs that you can see, hear, experienced or read to support the truth of a statement
-<!--SR:!2023-12-21,90,210-->
+<!--SR:!2024-06-26,188,210-->
 polymath=::a person of wide knowledge or learning.
 <!--SR:!2024-05-11,312,240-->
 values=::principles or standards of behavior; one's judgement of what is important in life.

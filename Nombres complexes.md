@@ -22,7 +22,7 @@ $$\Large{(ac-bd)+i(ad+bc)}$$
 $(a+bi)^{2}$=
 ?
 $$\Large{a^{2}-b^{2}+i2ab}$$
-<!--SR:!2023-12-29,37,210-->
+<!--SR:!2024-03-15,77,210-->
 
 $(a-bi)^{2}$=
 ?
@@ -39,7 +39,7 @@ $$\Large{a^{2}+b^{2}}$$
 $z^{*}$=
 ?
 $$\Large{a-ib}$$
-<!--SR:!2023-12-23,146,250-->
+<!--SR:!2024-12-23,366,250-->
 
 $z+z^*$=
 ?
@@ -54,7 +54,7 @@ $$\Large{2bi}$$
 $zz^{*}$=
 ?
 $$\Large{a^{2}+b^{2}}$$
-<!--SR:!2023-12-23,10,170-->
+<!--SR:!2024-01-05,8,150-->
 
 ---
 $|z|$=
@@ -65,7 +65,7 @@ $$\Large{\sqrt{a^{2}+b^{2}}}$$
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
-<!--SR:!2023-12-22,29,170-->
+<!--SR:!2024-01-07,16,150-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
@@ -80,7 +80,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $\cos\theta$=::$\frac{a}{|z|}$
 <!--SR:!2024-01-26,56,236-->
 - $\sin\theta$=::$\frac{b}{|z|}$
-<!--SR:!2023-12-22,37,236-->
+<!--SR:!2024-01-12,21,216-->
 - $|zw|$=::$|z||w|$
 <!--SR:!2024-03-16,98,276-->
 - $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
@@ -88,15 +88,15 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $zw$=::$|z||w|[\cos(\theta+\alpha)+i\sin(\theta+\alpha)]$
 <!--SR:!2024-02-11,57,216-->
 - $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$
-<!--SR:!2023-12-23,37,236-->
+<!--SR:!2024-03-20,88,236-->
 - $z^{n}$=::$|z|^{n}(\cos n\theta+i\sin n\theta)$
 <!--SR:!2024-01-27,53,216-->
 - $\theta$=::$\tan^{-1}(\frac{b}{a})$
-<!--SR:!2023-12-22,36,236-->
+<!--SR:!2024-03-15,84,236-->
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
 <!--SR:!2024-01-15,40,196-->
 - $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
-<!--SR:!2023-12-23,36,234-->
+<!--SR:!2024-01-09,17,214-->
 
 ## Formules d'Euler (module=1)
 Si $|z|=1$ alors $z^{*}$=::$z^{-1}$
@@ -109,12 +109,12 @@ $e^{i\pi}$=::$-1$
 - $z^{n}-z^{-n}$=::$2i\sin(n\theta)$
 <!--SR:!2024-03-08,79,234-->
 - $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
-<!--SR:!2023-12-22,35,234-->
+<!--SR:!2024-03-14,83,234-->
 - $e^{in\theta}-e^{-in\theta}$=::$2i\sin(n\theta)$
 <!--SR:!2024-02-28,74,234-->
 
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2023-12-22,10,150-->
+<!--SR:!2024-01-06,15,150-->
 

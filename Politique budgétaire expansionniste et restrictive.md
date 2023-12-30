@@ -31,13 +31,13 @@ Les néo-classiques  croient qu'un écart déflationniste ne se produit qu'à co
 
 
 L’objectif d'une politique budgétaire restrictive peut être soit (2):: de réduire l’inflation tirée par la demande dans l’économie, soit de réduire un déficit budgétaire.
-<!--SR:!2023-12-25,11,210-->
+<!--SR:!2024-01-18,24,210-->
 
 La principale différence entre les keynésiens et les néo-classiques lors d'un écart inflationniste (avec graphiques):
 ?
 Les monétaristes estiment qu’un écart inflationniste ne se produit qu’à court terme et que ça va s'ajuster lui-même. Les keynésiens estiment que toute tentative de pousser la production au-delà du plein emploi ne fera que créer davantage d’inflation. L’intervention du gouvernement est nécessaire pour refroidir l’économie.
 ![[image-20231129092655523.png]]
-<!--SR:!2023-12-22,14,248-->
+<!--SR:!2024-01-27,36,248-->
 
 
 

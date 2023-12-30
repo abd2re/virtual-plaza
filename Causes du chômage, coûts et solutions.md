@@ -16,7 +16,7 @@ Au total, il existe quatre types de chômage qui se répartissent en deux grande
 ### Cyclique (demande insuffisante)
 ?
 Dans le cas d'une récession, une réduction de la [[demande globale]] entraînerait une baisse de la production nationale, une baisse des revenus des entreprises et des particuliers, une augmentation du chômage et, potentiellement, une baisse du niveau général des prix également. Ce type de chômage est connu sous le nom de chômage cyclique ou un **chômage insuffisant par rapport à la demande**.
-<!--SR:!2023-12-26,61,230-->
+<!--SR:!2024-01-25,30,210-->
 
 Les récessions peuvent également provoquer un [[choc d'offre]] lorsque l'[[offre]] globale diminue, entraînant une hausse des [[coûts de production]] et entraînant ce que l'on appelle:: une baisse de l'offre globale (stagflation).
 <!--SR:!2024-01-20,31,230-->
@@ -25,7 +25,7 @@ Graphique avec axes et explication du nombre de chômeurs
 ?
 ![[image-20230908090941045.png]]
 La demande totale de main-d'œuvre passe de AD L à AD L1 . Au taux de salaire du marché W E , les entreprises ne sont pas disposées à employer la totalité de la main-d’œuvre, il existe donc un déséquilibre. Le nombre de chômeurs est représenté par l'écart entre A et B, ou Q E et Q 1.
-<!--SR:!2023-12-28,69,250-->
+<!--SR:!2024-01-31,34,230-->
 
 ### Chômage réel
 ?
@@ -52,7 +52,7 @@ Le chômage saisonnier se produit lorsque des personnes effectuent des types de 
 ### Structurel
 ?
 Le chômage structurel se produit lorsqu’il existe une inadéquation entre l’offre et la demande pour un ensemble particulier de compétences professionnelles.
-<!--SR:!2023-12-29,16,150-->
+<!--SR:!2024-01-21,23,150-->
 
 Il y a deux causes principales du chômage structurel:
 ?
@@ -74,7 +74,7 @@ Quels sont les coûts économiques du chômage (5) ?:
 3. Augmentation du coût des allocations de chômage
 4. Perte de revenus pour les particuliers
 5. De plus grandes disparités dans la répartition des revenus
-<!--SR:!2023-12-24,10,142-->
+<!--SR:!2023-12-30,6,130-->
 
 Quels sont les coûts personnels du chômage (2) ?:
 ?
@@ -92,7 +92,7 @@ Quels sont les coûts sociaux du chômage (2) ?:
 Graphes des deux causes principales (avec leur noms):
 ?
 ![[image-20230913113530424.png]]
-<!--SR:!2023-12-24,21,202-->
+<!--SR:!2024-02-03,41,202-->
 
 
 

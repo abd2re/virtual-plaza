@@ -10,14 +10,14 @@ La politique monétaire fait référence à la banque centrale qui utilise le re
 <!--SR:!2023-12-30,14,150-->
 
 - La politique monétaire permet aux pays de stimuler leur économie tout en évitant de:: s’endetter.
-<!--SR:!2023-12-25,24,230-->
+<!--SR:!2024-02-17,54,230-->
 - La politique monétaire est un moyen pour les gouvernements de:: gérer l’économie.
 <!--SR:!2024-03-03,76,270-->
 - La banque centrale détermine la politique monétaire en:: contrôlant la masse monétaire et en fixant le taux d’intérêt.
 <!--SR:!2024-01-06,31,230-->
 
 - Définition de **taux d’intérêt**:: **Coût d’emprunt de l’argent.**
-<!--SR:!2023-12-24,22,210-->
+<!--SR:!2024-02-07,45,210-->
 - Définition de la **masse monétaire**:: **La quantité totale de monnaie en circulation** ; il se compose de toutes les pièces, billets et soldes bancaires.
 <!--SR:!2024-01-09,21,170-->
 
@@ -55,7 +55,7 @@ La banque centrale imprime des billets et frappe des pièces pour (2) :
 <!--SR:!2024-01-08,25,190-->
 
 Les banques centrales veillent à inclure des éléments de sécurité pour:: garantir l'intégrité de la monnaie et pour rendre billets de banque contrefaits moins probable.
-<!--SR:!2023-12-27,24,230-->
+<!--SR:!2024-02-19,54,230-->
 
 ### 3. Prêteur de dernier recours
 En cas de crise financière, les consommateurs peuvent perdre confiance dans leur banque et se précipiter pour retirer leur argent. C'est ce qu'on appelle un:: courir sur la banque.

@@ -20,7 +20,7 @@ Déterminants de l'offre globale à court terme (OGCT):
 -   Intervention gouvernementale
 -   Subventions gouvernementales
 -   Chocs d'approvisionnement (externe)
-<!--SR:!2023-12-26,12,130-->
+<!--SR:!2024-01-10,15,130-->
 
 Les deux vues alternatives de l'offre globale:
 ?
@@ -31,7 +31,7 @@ Les deux vues alternatives de l'offre globale:
 Qu'est-ce qui déplace la courbe OGCT ?
 ?
 Le changement les coûts de production.
-<!--SR:!2023-12-25,113,222-->
+<!--SR:!2024-02-19,56,202-->
 
 ---
 [[exo economie]]

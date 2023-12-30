@@ -6,7 +6,7 @@ Created: 2023-05-15
 # Équilibre à court terme
 ?
 L'équilibre à court terme est déterminé par l'intersection de la demande globale et de l'offre globale à court terme.![[image-20230515115646980.png]]
-<!--SR:!2023-12-26,47,170-->
+<!--SR:!2024-03-14,79,170-->
 
 **Un écart récessif ou déflationniste** (Définition et graphe)
 ?

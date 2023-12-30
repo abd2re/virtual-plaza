@@ -20,4 +20,4 @@ Created: 2023-10-13
 - $u=E(x)$=::$\sum xf(x)$ avec $E(x)$ comprise entre les valeurs extrêmes de $X$.
 <!--SR:!2024-01-02,41,210-->
 - $\text{var}(x)$=::$\sigma^{2}$=$E(x^2)-E(x)^2$=$\sum x^{2}f(x)-E(x)^{2}$
-<!--SR:!2023-12-28,8,150-->
+<!--SR:!2024-01-10,13,150-->

@@ -6,9 +6,9 @@ Created: 2023-11-20
 
 # Fronts d'onde et rayons
 - **Fronts d'onde**:: lignes joignant tous les points qui oscillent en phase et sont perpendiculaires à la direction du mouvement (et du transfert d'énergie).
-<!--SR:!2023-12-25,8,150-->
+<!--SR:!2024-01-07,13,150-->
 - **Rayons**:: lignes indiquant la direction du mouvement (et le transfert d'énergie) de l'onde, perpendiculaires au front de l'onde.
-<!--SR:!2023-12-22,9,164-->
+<!--SR:!2024-01-06,15,164-->
 
 Représentation des fronts d'onde et rayons:
 ?
@@ -16,5 +16,5 @@ Représentation des fronts d'onde et rayons:
 <!--SR:!2023-12-30,22,228-->
 
 - La distance entre les fronts d'onde successifs est égale à:: la longueur d'onde des ondes.
-<!--SR:!2023-12-22,16,208-->
+<!--SR:!2024-01-24,33,208-->
 

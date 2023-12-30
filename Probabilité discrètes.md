@@ -9,9 +9,9 @@ Created: 2023-09-23
 Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
 <!--SR:!2024-03-31,130,290-->
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
-<!--SR:!2023-12-23,57,250-->
+<!--SR:!2024-05-15,144,250-->
 On appelle événement:: toute partie de l'univers (sous-ensemble)
-<!--SR:!2023-12-27,16,190-->
+<!--SR:!2024-01-25,29,190-->
 
 ### Définitions
 - Evénement élémentaire:: a une seule issue
@@ -33,9 +33,9 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
-<!--SR:!2023-12-24,36,230-->
+<!--SR:!2024-03-15,82,230-->
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a:: équiprobabilité ou équi-répartition.
-<!--SR:!2023-12-21,56,250-->
+<!--SR:!2024-05-08,139,250-->
 
 ### Propriété
 - $\frac{n(X)}{n(U)}$=::$P(X)$
@@ -44,8 +44,8 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 <!--SR:!2024-05-07,139,250-->
 - $P(0)$=::0
 <!--SR:!2024-03-01,104,270-->
-- $P(A)+P(A')$=::1 
-<!--SR:!2023-12-24,57,250-->
+- $P(A)+P(A')$=::1
+<!--SR:!2024-05-14,142,250-->
 - $P(A\cup B)$ (2)=::$P(A)+P(B)-P(A\cap B)=P(A\cap B')+P(A\cap B)+P(A'\cap B)$
 <!--SR:!2024-01-19,37,210-->
 - $P(A\Delta B)$=::$P(A\cap B')\cup P(A'\cap B)$

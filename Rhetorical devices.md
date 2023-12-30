@@ -3,10 +3,10 @@ tags: [english]
 ---
 Created: 2022-10-17
 
- 1. Anaphora :: is the repetition of words or phrases at the beginning of a sentence. Such as "I have dream" (Martin Luther King) 
-<!--SR:!2023-12-24,101,230-->
+1. Anaphora :: is the repetition of words or phrases at the beginning of a sentence. Such as "I have dream" (Martin Luther King)
+<!--SR:!2024-08-11,231,230-->
 2. Diacope :: is the repetition of a phrase after an intervening word or phrase. Such as "free at last, free at last; thank God almighty, free at last"
-<!--SR:!2023-12-27,21,150-->
+<!--SR:!2024-01-31,35,150-->
  3. Antithesis :: is when contrasting two opposing ideas in consecutive sentences. Such as "Many are called but few are chosen" (J.C) 
 <!--SR:!2024-10-21,445,250-->
 4. Chiasmus :: is the inversion of parts of sentences in sequence. Such as "fair is fool and fool is fair"
@@ -24,12 +24,12 @@ Created: 2022-10-17
  9. Tricolon :: is a list of three or a sentence with three parts or clauses. Such as "vine, vidi,  vici" (Julius Cesar) 
 <!--SR:!2024-06-27,370,250-->
 - Allegory :: A narrative in which characters, events, and settings represents abstract ideas or moral qualities. *For example George Orwell's "Animal Farm" is an allegory for the Russian Revolution and rise of totalitarianism.*
-<!--SR:!2023-12-23,20,158-->
+<!--SR:!2024-01-22,30,158-->
 - Allusion :: A brief and indirect reference to a person, place, thing, or idea of historical, cultural, literary, or political significance. *For example, referring to someone as a "Romeo" is an allusion to Shakespeare's character*
 <!--SR:!2024-01-01,51,218-->
 - Irony :: A contrast between expectation and reality. *Ex: dramatic irony, situational irony and verbal irony*
 <!--SR:!2024-01-23,67,238-->
 - Metaphor :: A figure of speech that makes a direct comparaison between two unrelated things, suggesting that they are alike in some way, often using "is" or "was". *Ex: "The world is a stage"*
-<!--SR:!2023-12-29,54,238-->
+<!--SR:!2024-05-05,128,238-->
 - Simile :: A figure of speech that compares two unlike things using "like" or "as". *Ex: "Her smile was as bright as the sun"*
 <!--SR:!2024-02-10,78,238-->

@@ -20,7 +20,7 @@ Comment les déterminants affecte la courbe ? (représentation):
 5. **Impôts personnels**
 6. **Niveau d'endettement des ménages**
 7. **Attentes quant au niveau futur des prix**
-<!--SR:!2023-12-27,22,130-->
+<!--SR:!2024-01-23,27,130-->
 
 ## Déterminants de l'investissement
 (5)
@@ -30,7 +30,7 @@ Comment les déterminants affecte la courbe ? (représentation):
 3. **Technologie**
 4. **Taxes professionnelles**
 5. **Niveau d'endettement des entreprises**
-<!--SR:!2023-12-23,19,130-->
+<!--SR:!2024-01-16,24,130-->
 
 ## Déterminants des exportations nettes
 (4)
@@ -39,4 +39,4 @@ Comment les déterminants affecte la courbe ? (représentation):
 2. **Taux d'échange**
 3. **Changements dans politiques commerciales**
 4. **Manipulation des taux de change/exigences en matière de santé et de sécurité**
-<!--SR:!2023-12-28,11,130-->
+<!--SR:!2024-01-04,7,130-->

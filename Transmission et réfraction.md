@@ -7,11 +7,11 @@ Created: 2023-11-29
 # Transmission et réfraction
 ## Transmission
 La transmission c'est:: le passage d'une onde d'un milieu à un autre sans changement de direction de propagation.
-<!--SR:!2023-12-22,8,170-->
+<!--SR:!2024-01-04,13,170-->
 - L'onde transmise aura une amplitude:: plus faible si une certaine absorption s'est produite
 <!--SR:!2024-01-02,21,250-->
 - L'onde transmise aura une période/fréquence différente. Vrai ou faux ?:: faux, elle reste pareil.
-<!--SR:!2023-12-23,13,241-->
+<!--SR:!2024-01-24,32,241-->
 
 Représentation:
 ?
@@ -22,11 +22,11 @@ Représentation:
 La période depend pas du milieu ? Vrai ou faux ?:: Vrai, elle dépend de l'impulsion ($T_{1}=T_{2}=T$).
 <!--SR:!2023-12-31,14,210-->
 - Lors du passage dans la direction normale (perpendiculaire), la lumière ne se plie pas du tout. Cela serait décrit comme:: une transmission.
-<!--SR:!2023-12-22,13,230-->
+<!--SR:!2023-12-30,8,210-->
 - Lorsque la lumière passe d'un milieu moins dense à un milieu plus dense, comme de l'air au verre, la lumière réfractée a une vitesse plus faible et une longueur d'onde plus courte que la lumière incidente. Vrai ou faux ?:: Vrai.
 <!--SR:!2024-01-07,25,250-->
 - Lorsque la lumière passe d'un milieu plus dense à un milieu moins dense, comme du verre à l'air, la lumière réfractée a une vitesse plus faible et une longueur d'onde plus courte que la lumière incidente. Vrai ou faux ?:: Faux, la lumière réfractée a une vitesse plus élevée et une longueur d'onde plus longue que la lumière incidente.
-<!--SR:!2023-12-28,18,250-->
+<!--SR:!2024-02-12,46,250-->
 
 
 Formule d'indice de réfraction absolue d'un milieu:
@@ -53,7 +53,7 @@ Représentation (avec éléments):
 Un angle critique est:: un angle incident au delà duquel l'angle réfracté n'existe plus, il n'ya plus de réfraction: on a une réflexion totale.
 <!--SR:!2024-01-08,21,223-->
 - La réflexion interne totale ne se produit que lorsque la lumière passe d'un:: indice de réfraction supérieur à un indice de réfraction inférieur ($n_{1}>n_{2}$)
-<!--SR:!2023-12-26,15,241-->
+<!--SR:!2024-01-30,35,241-->
 
 Formule angle critique::$$\sin\theta_{1}=\frac{n_{2}}{n_{1}}$$
 <!--SR:!2023-12-31,13,239-->

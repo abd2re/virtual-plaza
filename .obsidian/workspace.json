@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3aefff7afa91eeb",
+        "id": "7add44e5ce50097d",
         "type": "tabs",
         "children": [
           {
-            "id": "6ce4f0c3872c6600",
+            "id": "d0a0e57fad731bdd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,29 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 2 - Types de protection commerciale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Types de protection commerciale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Theme 3-Économie Mondiale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 3-Économie Mondiale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tarifs.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -161,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarifs.md",
+                "file": "Inflation et ses causes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tarifs.md",
+                "file": "Inflation et ses causes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +222,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3451813642287911,
+                  "scale": 0.5539876975269353,
                   "close": true
                 }
               }
@@ -260,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tarifs.md",
+                "file": "Inflation et ses causes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -301,7 +284,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tarifs.md"
+                "file": "Inflation et ses causes.md"
               }
             }
           },
@@ -337,7 +320,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Tarifs.md"
+                "file": "Inflation et ses causes.md"
               }
             }
           },
@@ -356,7 +339,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -393,6 +378,23 @@
               "type": "mathpad-view",
               "state": {}
             }
+          },
+          {
+            "id": "1cc898be6e317146",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -416,7 +418,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tarifs.md",
+                "file": "Inflation et ses causes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -496,45 +498,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ce4f0c3872c6600",
+  "active": "1b9db96793cc1a3f",
   "lastOpenFiles": [
-    "assets/Tarifs/image-20231220095125824.png",
-    "Tarifs.md",
-    "assets/Tarifs",
-    "Chapitre 2 - Types de protection commerciale.md",
-    "Theme 3-Économie Mondiale.md",
-    "Avantages du commerce international.md",
-    "Politique monétaire.md",
-    "assets/Politique monétaire/image-20231108093711743.png",
-    "assets/Politique monétaire/image-20231108093526578.png",
+    "Untitled 20.md",
+    "Politiques monétaires expansionnistes et restrictives.md",
+    "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192814757.png",
+    "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192926653.png",
+    "Objectifs des politiques d’offre.md",
+    "Chapitre 7 - Politiques du côté de l'Offre.md",
+    "Politiques d’offre liées aux incitations.md",
+    "assets/Politiques d’offre liées aux incitations/image-20231207140020679.png",
+    "Politiques interventionnistes du côté de l’offre.md",
     "Theme 2-Macro-économie.md",
     "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
-    "Chapitre 6 - Gestion de la demande – Politique budgétaire.md",
+    "Efficacité de la politique monétaire.md",
+    "Objectifs de la politique monétaire.md",
+    "Politique monétaire.md",
+    "Taux d’intérêt nominaux et taux d’intérêt réels.md",
+    "assets/Politique monétaire/image-20231108093711743.png",
+    "assets/Politique monétaire/image-20231108093526578.png",
+    "Effet taux d'intérêt.md",
+    "Activité économique.md",
+    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
     "_economy.md",
+    "Theme 1-Micro-économie.md",
     "Statistiques I.md",
     "_math.md",
-    "_french B.md",
-    "Énergie spécifique.md",
-    "Untitled 18.md",
-    "Untitled 17.md",
-    "Diagrammes de Sankey.md",
+    "Dérivation.md",
+    "Piles.md",
+    "Chapitre 2 - Structure de données abstraites.md",
+    "Theme 5 - Structures de données abstraites.md",
+    "_computer science.md",
+    "Chapitre 1 - Penser de manière de récursive.md",
+    "Lois des sinus et cosinus.md",
+    "assets/Tarifs/image-20231220095125824.png",
+    "assets/12 TOK Concepts/12 TOK Concepts.png",
+    "assets/Tarifs",
     "assets/Diagrammes de Sankey/image-20231218111254285.png",
-    "Ressources énergétiques.md",
-    "Chapitre 1 - Sources d'énergie.md",
-    "Sources d'énergie primaire et secondaire.md",
-    "Theme 8-Production d'énergie.md",
     "assets/Diagrammes de Sankey",
-    "Theme 4-Oscillations et ondes.md",
-    "_physics.md",
-    "Interférence.md",
     "assets/Interférence/image-20231217084846194.png",
-    "TP_physique1.md",
-    "Conceptes de base economie.md",
     "assets/Interférence/image-20231217084823018.png",
-    "assets/Interférence/image-20231217084821388.png",
-    "assets/Dérivation/image-20231128163111952.png",
-    "assets/Avantages du commerce international/image-20231214123330625.png",
-    "assets/Avantages du commerce international/image-20231214123155139.png",
     "assets/Avantages du commerce international",
     "2.7 m.canvas",
     "assets/Interférence",

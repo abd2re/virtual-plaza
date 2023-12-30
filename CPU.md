@@ -13,7 +13,7 @@ Le CPU peut également être appelé processeur ou puce.
 ?
 L'unité centrale fonctionne dans la phase de traitement du modèle entrée, traitement, sortie et stockage.
 Son rôle est de récupérer, de décoder et d'exécuter des instructions de programme depuis et vers la mémoire principale (RAM).
-<!--SR:!2023-12-24,75,190-->
+<!--SR:!2024-05-14,142,190-->
 
 ## Elements du CPU et représentation (avec RAM/IO)
 ?

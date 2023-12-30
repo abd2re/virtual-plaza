@@ -14,7 +14,7 @@ Pour des ondes sphériques/circulaires émises par une source ponctuelle dans to
 $$\large{I\propto r^{-2}}$$
 - $I$ = intensité de l'onde en watts par mètre carré ($Wm^{-2}$)
 - $r$ = distance de la source ponctuelle en mètres ($m$)
-<!--SR:!2023-12-24,23,250-->
+<!--SR:!2024-01-07,14,230-->
 
 Formule de l'intensité pour une onde circulaire::$$\large{I=\frac{\text{puissance}}{\text{surface}}}$$
 <!--SR:!2024-02-01,46,250-->

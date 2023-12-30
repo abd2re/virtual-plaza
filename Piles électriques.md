@@ -13,7 +13,7 @@ Une pile convertit l'énergie chimique en énergie électrique avec dissipation/
 
 <!--SR:!2023-02-27,33,190-->
 - $e$ fem =>:: force électromotrice; travail par unité de charge pour faire circular les charges
-<!--SR:!2023-12-29,223,246-->
+<!--SR:!2024-04-20,113,226-->
 
 Formule de la tension aux bornes d'une pile est:
 ?
@@ -42,7 +42,7 @@ circuit équivalent d'une pile réel::![[equivalent e;r]]
 
 ## Circuits avec des piles
 formule emf::$$e=(r+R)I$$
-<!--SR:!2023-12-28,27,166-->
+<!--SR:!2024-01-12,15,146-->
 
 
 ## Circuits simples comportant des piles, récepteurs et resistors

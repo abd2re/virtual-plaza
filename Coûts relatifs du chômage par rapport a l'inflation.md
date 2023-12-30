@@ -20,7 +20,7 @@ Les objectifs macro-économiques peuvent parfois donner lieu à des conflits pot
 <!--SR:!2024-01-18,43,230-->
 
 Le taux de chomage au plein emploi est:: le taux de chomage naturel.
-<!--SR:!2023-12-23,44,250-->
+<!--SR:!2024-04-10,109,250-->
 
 Les conflits potentiel entre les objectifs macroéconomiques sont (4):
 ?
@@ -28,4 +28,4 @@ Les conflits potentiel entre les objectifs macroéconomiques sont (4):
 - Croissance économique élevée et inflation faible
 - Croissance économique élevée et durabilité environnementale
 - Croissance économique élevée et répartition équitable des revenus
-<!--SR:!2023-12-28,24,210-->
+<!--SR:!2024-02-15,49,210-->

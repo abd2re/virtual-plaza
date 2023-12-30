@@ -8,7 +8,7 @@ Created: 2023-03-21
 - Les protons se repoussent a cause de :: l'intéraction électrostatique.
 <!--SR:!2024-04-04,171,230-->
 - Les neutrons et les protons s'attirent a cause de :: l'intéraction forte.
-<!--SR:!2023-12-22,172,250-->
+<!--SR:!2024-03-19,88,230-->
 
 ## Défaut de masse du noyau
 Expérimentalement, on a constaté que la masse du noyau atomique est inférieure à la somme des masses des nucléons qui le constituent. Donc la formule pour le défaut de masse de noyau est:

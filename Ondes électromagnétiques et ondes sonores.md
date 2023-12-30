@@ -12,7 +12,7 @@ Une onde électromagnétique est générée par:: l'oscillation combinée d'un c
 <!--SR:!2024-01-12,25,210-->
 
 - Quelle que soit leur fréquence, les ondes électromagnétiques se déplacent à la vitesse de:: la lumière dans le vide.
-<!--SR:!2023-12-29,26,250-->
+<!--SR:!2024-03-01,63,250-->
 
 ## Ondes sonores
 
@@ -20,4 +20,4 @@ Les ondes sonores sont des ondes longitudinales ou transversales ?:: longitudina
 <!--SR:!2024-02-08,50,250-->
 
 Les ondes sonores nécessitent:: un support dans lequel elles se propagent.
-<!--SR:!2023-12-24,22,250-->
+<!--SR:!2024-02-16,54,250-->

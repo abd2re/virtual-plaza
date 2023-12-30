@@ -14,7 +14,7 @@ Les pays qui ne souffrent pas de pauvreté absolue devront définir un niveau de
 
 ## Mesurer la pauvreté
 Les deux types d'indicateurs sont:: les indicateurs uniques et composites.
-<!--SR:!2023-12-25,45,250-->
+<!--SR:!2024-04-15,112,250-->
 
 ### Indicateurs uniques
 Ils sont (5):
@@ -44,4 +44,4 @@ Ils sont (4):
 - Pauvreté au sein du ménage
 - Pauvreté urbaine
 - Données ventilées sur la pauvreté (démographie)
-<!--SR:!2023-12-27,13,130-->
+<!--SR:!2024-01-13,17,130-->

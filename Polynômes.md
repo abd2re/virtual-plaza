@@ -9,7 +9,7 @@ Created: 2023-10-27
 - $(x - k)$ est un facteur de $P(x)$ si:: $P(k)= 0$
 <!--SR:!2024-01-19,51,250-->
 - $P(k)=0$ si:: $(x-k)$ est un facteur de $P(x)$
-<!--SR:!2023-12-24,24,190-->
+<!--SR:!2024-01-04,11,170-->
 - $P(x)$=::$(x-k)\times Q(x)$, où $Q(x)$ est un polynôme qui est un facteur de $P(x)$
 <!--SR:!2024-01-14,46,250-->
 - $\frac{P(x)}{x-k}$=::$Q(x)$
@@ -26,7 +26,7 @@ Created: 2023-10-27
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
 <!--SR:!2024-02-19,71,250-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
-<!--SR:!2023-12-29,18,190-->
+<!--SR:!2024-01-08,10,170-->
 
 ## Division polynomiale
 Formule générale::$$\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$$
@@ -87,6 +87,6 @@ Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factoris
 
 ## Formules
 - $x^{3}-1$=::$(x-1)(x^{2}+x+1)$
-<!--SR:!2023-12-25,20,262-->
+<!--SR:!2024-02-14,51,262-->
 - $x^{3}+1$=::$(x+1)(x^{2}-x+1)$
 <!--SR:!2024-01-19,33,242-->

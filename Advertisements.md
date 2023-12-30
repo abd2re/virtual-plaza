@@ -3,7 +3,7 @@ tags: [english]
 ---
 Created: 2022-10-17
 
-The advertisement text types are:
+The advertisement elements are:
 ?
 1. **Visual narrative:** advertisement usually include a photograph or image which tells a story.
 2. **Copy:** this is the term used to describe the text or words in the advertisement.

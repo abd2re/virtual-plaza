@@ -6,7 +6,7 @@ Created: 2022-11-15
 # Loi des gaz parfait
 ?
 Un gaz parfait est un modèle simplifié du gaz réel où les atomes et les molécules n'interagissent pas.
-<!--SR:!2023-12-27,19,168-->
+<!--SR:!2024-01-05,9,148-->
 
 Les seuls interactions considérées sont les rares chocs entre les molécules et les chocs élastiques (entre les molécules et la paroi).
 

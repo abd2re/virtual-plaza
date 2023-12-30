@@ -25,7 +25,7 @@ Pour le réduire:: on effectue de nombreuses mesures.
 ## Erreurs systématiques
 ?
 Les composants de l'erreur de mesure qui lors de mesures répétées varient de manière prévisible.
-<!--SR:!2023-12-24,22,206-->
+<!--SR:!2024-01-03,10,186-->
 
 Les erreurs systématiques ont souvent pour origine:: un matériel imparfait ou une méthode de mesure inappropriée.
 <!--SR:!2024-01-24,77,230-->

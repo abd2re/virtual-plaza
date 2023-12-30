@@ -49,7 +49,7 @@
   "CodeMirror Options@@cm-attribute@@dark": "#C792EA",
   "CodeMirror Options@@cm-attribute-in-comment@@dark": "#773AA0",
   "CodeMirror Options@@cm-font-size": "14px",
-  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
-  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-lavender"
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-sky"
 }

@@ -12,5 +12,5 @@ Created: 2023-03-12
 [[Modèle OSI]] vs [[Modèle TCP-IP]] représentation des couches:
 ?
 ![[image-20230312205118741.png]]
-<!--SR:!2023-12-21,5,130-->
+<!--SR:!2023-12-31,2,130-->
 

@@ -14,11 +14,11 @@ Les objectifs sont (6):
 - Réduire les fluctuations du cycle économique
 - Répartition équitable des revenus
 - Solde extérieur
-<!--SR:!2023-12-22,13,226-->
+<!--SR:!2024-01-19,28,226-->
 
 ## 1. Inflation faible et stable
 La politique budgétaire peut être constamment ajustée pour créer un taux d'inflation faible et stable. La stabilité des prix donne une:: plus grande certitude aux entreprises.
-<!--SR:!2023-12-23,14,230-->
+<!--SR:!2024-01-23,31,230-->
 
 ## 2. Faible taux de chômage
 
@@ -28,11 +28,11 @@ Les gouvernements peuvent utiliser la politique budgétaire pour garantir un env
 
 ## 4. Réduire les fluctuations du cycle économique
 La politique budgétaire est un outil important pour atténuer les fluctuations. Les gouvernements peuvent recourir à des mesures de relance budgétaire en cas de:: crise du cycle économique pour aider l’économie à se redresser comme une injection de dépenses publiques peut contribuer à stimuler la demande globale et la croissance économique. Le gouvernement peut également ralentir l’économie en période de boom, s’il craint une surchauffe.
-<!--SR:!2023-12-24,15,230-->
+<!--SR:!2024-01-27,34,230-->
 
 ## 5. Répartition équitable
 Les gouvernements peuvent améliorer répartition de salaire par (3):: les impôts (indirects et directs) et les paiements de transfert.
-<!--SR:!2023-12-21,2,166-->
+<!--SR:!2023-12-30,2,166-->
 
 Comment les impôts indirects peuvent être utilisées ?
 ?
@@ -42,7 +42,7 @@ Les gouvernements peuvent lever des taxes plus élevées sur les produits de lux
 Comment les impôts directs peuvent être utilisées ?
 ?
 Les gouvernements peuvent recourir à un système fiscal progressif pour transférer le fardeau du paiement des impôts sur les riches.
-<!--SR:!2023-12-21,14,246-->
+<!--SR:!2024-01-23,33,246-->
 
 
 ## 6. Solde extérieur
@@ -53,5 +53,5 @@ Il est possible pour le gouvernement d’utiliser la politique budgétaire de de
 ?
 - Les gouvernements peuvent utiliser tarifs (taxes sur les importations) pour décourager les consommateurs nationaux d’acheter des importations.
 - À travers politique budgétaire restrictive, le gouvernement peut décourager la consommation de biens nationaux et importés.
-<!--SR:!2023-12-22,5,206-->
+<!--SR:!2024-01-03,12,206-->
 
