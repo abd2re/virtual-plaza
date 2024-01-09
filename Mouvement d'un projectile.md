@@ -19,7 +19,7 @@ $a_{y}$=::-g
 $v_{0}$=::vitesse initiale
 <!--SR:!2024-02-16,67,230-->
 $\theta$=::angle de projection
-<!--SR:!2024-01-04,57,230-->
+<!--SR:!2024-05-13,130,230-->
 
 - Equation de x::$$\large{x=v_{0}\cos(\theta)t}$$
 <!--SR:!2024-02-25,183,250-->

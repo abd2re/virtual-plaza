@@ -29,15 +29,15 @@ Scientific knowledge is based on observations and experimentation, along with th
 - **Scientific methods**:: a method of procedure for the way scientifique investigation's are conducted 
 <!--SR:!2024-04-11,233,210-->
 
-We often refer to the scientific method as if were a single way of correctly doing sciences or acquiring reliable knowledge, there is no set of fixed steps that scientist always follows. Instead, there are many different ways of doing science. What they share is an empirical approach that involves lots of practices including : 
+We often refer to the scientific method as if were a single way of correctly doing sciences or acquiring reliable knowledge, there is no set of fixed steps that scientist always follows. Instead, there are many different ways of doing science. What they share is an empirical approach that involves lots of practices including :
 ?
 - asking question or defining problems
-- planning and cutting out investigation 
+- planning and cutting out investigation
 - designing and creating models
-- and analyzing and interpreting data 
-- looking for patterns 
-- building possible explanation 
+- and analyzing and interpreting data
+- looking for patterns
+- building possible explanation
 - making generalization
-- assessing results and theories 
+- assessing results and theories
 - communicating results
-<!--SR:!2024-01-07,194,222-->
+<!--SR:!2025-03-12,430,222-->

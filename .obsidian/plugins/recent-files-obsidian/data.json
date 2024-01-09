@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "Caractéristiques d'un MHS",
+      "path": "Caractéristiques d'un MHS.md"
+    },
+    {
+      "basename": "Theme 4-Oscillations et ondes",
+      "path": "Theme 4-Oscillations et ondes.md"
+    },
+    {
+      "basename": "Période d'un pendule simple et élastique",
+      "path": "Période d'un pendule simple et élastique.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Diffraction",
+      "path": "Diffraction.md"
+    },
+    {
+      "basename": "Dérivation",
+      "path": "Dérivation.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Interférence",
+      "path": "Interférence.md"
+    },
+    {
+      "basename": "Mouvement harmonique simple (MHS)",
+      "path": "Mouvement harmonique simple (MHS).md"
+    },
+    {
+      "basename": "Files",
+      "path": "Files.md"
+    },
+    {
+      "basename": "Chapitre 2 - Structure de données abstraites",
+      "path": "Chapitre 2 - Structure de données abstraites.md"
+    },
+    {
+      "basename": "Piles",
+      "path": "Piles.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "Fission et fusion nucléaire",
+      "path": "Fission et fusion nucléaire.md"
+    },
+    {
+      "basename": "Theme 7-Physique nucléaire",
+      "path": "Theme 7-Physique nucléaire.md"
+    },
+    {
+      "basename": "Energie de liaison du noyau",
+      "path": "Energie de liaison du noyau.md"
+    },
+    {
+      "basename": "Theme 8-Production d'énergie",
+      "path": "Theme 8-Production d'énergie.md"
+    },
+    {
+      "basename": "Drawing 2024-01-08 08.24.38.excalidraw",
+      "path": "Excalidraw/Drawing 2024-01-08 08.24.38.excalidraw.md"
+    },
+    {
+      "basename": "Politique monétaire",
+      "path": "Politique monétaire.md"
+    },
+    {
+      "basename": "Énergie spécifique",
+      "path": "Énergie spécifique.md"
+    },
+    {
+      "basename": "Théorème Binomial",
+      "path": "Théorème Binomial.md"
+    },
+    {
+      "basename": "Ressources énergétiques",
+      "path": "Ressources énergétiques.md"
+    },
+    {
+      "basename": "Sources d'énergie primaire et secondaire",
+      "path": "Sources d'énergie primaire et secondaire.md"
+    },
+    {
+      "basename": "Diagrammes de Sankey",
+      "path": "Diagrammes de Sankey.md"
+    },
+    {
+      "basename": "Statistiques I",
+      "path": "Statistiques I.md"
+    },
+    {
+      "basename": "Untitled 21",
+      "path": "Untitled 21.md"
+    },
+    {
       "basename": "Inflation et ses causes",
       "path": "Inflation et ses causes.md"
     },
@@ -41,10 +145,6 @@
       "path": "Objectifs de la politique monétaire.md"
     },
     {
-      "basename": "Politique monétaire",
-      "path": "Politique monétaire.md"
-    },
-    {
       "basename": "Taux d’intérêt nominaux et taux d’intérêt réels",
       "path": "Taux d’intérêt nominaux et taux d’intérêt réels.md"
     },
@@ -65,28 +165,8 @@
       "path": "_economy.md"
     },
     {
-      "basename": "Statistiques I",
-      "path": "Statistiques I.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "Piles",
-      "path": "Piles.md"
-    },
-    {
-      "basename": "Chapitre 2 - Structure de données abstraites",
-      "path": "Chapitre 2 - Structure de données abstraites.md"
-    },
-    {
       "basename": "Theme 5 - Structures de données abstraites",
       "path": "Theme 5 - Structures de données abstraites.md"
-    },
-    {
-      "basename": "_computer science",
-      "path": "_computer science.md"
     },
     {
       "basename": "Chapitre 1 - Penser de manière de récursive",
@@ -99,10 +179,6 @@
     {
       "basename": "Drawing 2023-12-21 14.54.04.excalidraw",
       "path": "Excalidraw/Drawing 2023-12-21 14.54.04.excalidraw.md"
-    },
-    {
-      "basename": "Dérivation",
-      "path": "Dérivation.md"
     },
     {
       "basename": "Theme 3-Économie Mondiale",
@@ -123,82 +199,6 @@
     {
       "basename": "Chapitre 3 - Travail d'une force",
       "path": "Chapitre 3 - Travail d'une force.md"
-    },
-    {
-      "basename": "Chapitre 4 - Quantité de mouvement",
-      "path": "Chapitre 4 - Quantité de mouvement.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Tarifs",
-      "path": "Tarifs.md"
-    },
-    {
-      "basename": "Chapitre 2 - Types de protection commerciale",
-      "path": "Chapitre 2 - Types de protection commerciale.md"
-    },
-    {
-      "basename": "Chapitre 5 - Elasticités de la demande",
-      "path": "Chapitre 5 - Elasticités de la demande.md"
-    },
-    {
-      "basename": "Revenu total des entreprises",
-      "path": "Revenu total des entreprises.md"
-    },
-    {
-      "basename": "Déterminants de l'élasticité-prix de la demande",
-      "path": "Déterminants de l'élasticité-prix de la demande.md"
-    },
-    {
-      "basename": "Fourchette des valeurs de l'élasticité-prix de la demande",
-      "path": "Fourchette des valeurs de l'élasticité-prix de la demande.md"
-    },
-    {
-      "basename": "Formule de l'élasticité prix demande",
-      "path": "Formule de l'élasticité prix demande.md"
-    },
-    {
-      "basename": "Untitled 19",
-      "path": "Untitled 19.md"
-    },
-    {
-      "basename": "Types de protection commerciale",
-      "path": "Types de protection commerciale.md"
-    },
-    {
-      "basename": "Théorie cinétique des gaz parfaits",
-      "path": "Théorie cinétique des gaz parfaits.md"
-    },
-    {
-      "basename": "Energie cinétique",
-      "path": "Energie cinétique.md"
-    },
-    {
-      "basename": "Advertisements",
-      "path": "Advertisements.md"
-    },
-    {
-      "basename": "_english",
-      "path": "_english.md"
-    },
-    {
-      "basename": "12 TOK Concepts",
-      "path": "12 TOK Concepts.md"
-    },
-    {
-      "basename": "Avantages du commerce international",
-      "path": "Avantages du commerce international.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "Énergie spécifique",
-      "path": "Énergie spécifique.md"
     }
   ],
   "omittedPaths": [],

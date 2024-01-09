@@ -74,7 +74,7 @@ $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U
 
 ## Montage potentiométrique
 Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe. ![[image-20230116161558430.png|400]]
-<!--SR:!2024-01-05,36,223-->
+<!--SR:!2024-01-21,16,203-->
 
 <!--SR:!2023-02-03,9,198-->
 

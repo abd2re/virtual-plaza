@@ -14,10 +14,10 @@ Formule:
 ?
 $$\Large{T=kx=-k|l_{0}-l|}$$
 - $T$ = tension en Newton
-- $k$ = constante 
+- $k$ = constante
 - $l$ = longueur finale
 - $l_{0}$ = longueur initiale
-<!--SR:!2024-01-04,148,250-->
+<!--SR:!2024-03-17,73,230-->
 
 Représentations
 ?

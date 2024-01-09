@@ -7,7 +7,7 @@ Created: 2023-12-07
 # Politiques interventionnistes du côté de l’offre
 
 Les politiques interventionnistes du côté de l’offre impliquent que:: le gouvernement intervienne directement dans l’économie pour augmenter la quantité ou la qualité des facteurs de production. (augmente l'offre globale a court terme)
-<!--SR:!2023-12-30,9,230-->
+<!--SR:!2024-01-19,20,230-->
 
 Les politiques interventionnistes comprennent (5):
 ?
@@ -16,7 +16,7 @@ Les politiques interventionnistes comprennent (5):
 - Recherche et développement
 - Provision d'infrastructure
 - Politiques industrielles
-<!--SR:!2023-12-30,1,144-->
+<!--SR:!2024-01-09,1,144-->
 
 ## 1. Éducation et formation
 Les dépenses publiques en matière d’éducation et de formation pourraient améliorer:: le capital humain.
@@ -36,7 +36,7 @@ Une infrastructure solide facilite grandement:: le transport des matières prem
 
 ## 5. Politiques industrielles
 Les politiques industrielles consistent en:: des interventions gouvernementales ciblées pour stimuler le développement de secteurs économiques spécifiques.
-<!--SR:!2024-01-03,7,224-->
+<!--SR:!2024-01-20,17,224-->
 
 L'objectif est:: d'augmenter la productivité de ces industries spécifiques et d'en faire des moteurs de croissance et d'emploi
-<!--SR:!2024-01-02,11,228-->
+<!--SR:!2024-01-28,26,228-->

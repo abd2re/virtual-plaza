@@ -24,7 +24,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - T =:: Taxes
 <!--SR:!2025-05-10,529,310-->
 - S =:: Epargnes
-<!--SR:!2024-01-05,198,310-->
+<!--SR:!2025-09-09,613,310-->
 - M =:: Importations
 <!--SR:!2024-02-28,257,330-->
 - G =:: Dépenses gouvernementales
@@ -50,7 +50,7 @@ Injection =:: Dépenses gouvernementales(G) + Investissements(I) + Exportations(
 - Si T < G $\rightarrow$:: Défaut budgétaire
 <!--SR:!2024-01-29,175,230-->
 - Si T > G $\rightarrow$:: Excédent budgétaire
-<!--SR:!2023-12-31,170,250-->
+<!--SR:!2025-02-27,424,250-->
 - Si S < I $\rightarrow$:: Il faut emprunter
 <!--SR:!2024-06-04,244,230-->
 - Si S > I $\rightarrow$:: Excédent d'épargnes

@@ -14,12 +14,12 @@ Les rares impacts sont des particules $\alpha$ qui ont heurté un noyau ou se so
 <!--SR:!2024-01-09,17,130-->
 
 D'apres Ruthford, un atome positif est constitué:: d'un noyau positif contenant Z protons autour duquel tourne Z électrons. Entre les électrons et le noyau il y a du vide.
-<!--SR:!2024-01-07,92,170-->
+<!--SR:!2024-02-23,47,150-->
 
 Inconvenient du modèle de Rutherford:
 ?
-Toute particule électrisée animé d'un mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électro-magnétique et l'électron devrait tomber sur le noyau. 
-<!--SR:!2024-01-03,114,150-->
+Toute particule électrisée animé d'un mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électro-magnétique et l'électron devrait tomber sur le noyau.
+<!--SR:!2024-03-02,59,130-->
 
 ### Interaction forte 
 ?

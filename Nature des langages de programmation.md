@@ -17,7 +17,7 @@ Les quatre opérations les plus fondamentales:
 ## Opérations composées
 ?
 Une opération composée est une opération qui implique un certain nombre d'étapes/autres opérations. Il s'agit d'un groupe d'opérations qui se combinent pour former une opération.
-<!--SR:!2024-01-07,69,250-->
+<!--SR:!2024-06-27,172,250-->
 
 ## Caractéristiques essentielles d'un langage informatique
 Un langage de programmation est décrit comme la combinaison de:
@@ -34,7 +34,7 @@ Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un lang
 - L’évolution de la programmation a été le remplacement du code binaire pour le développement des instructions. Ces langages informatiques de bas niveau ont été appelés:: mnémoniques et plus tard langages d'assemblage.
 <!--SR:!2024-01-25,52,170-->
 - Le manque d'abstraction, la nécessité de se concentrer sur la résolution de problèmes et l'amélioration de l'efficacité ont conduit au développement de:: langages de haut niveau.
-<!--SR:!2024-01-01,63,250-->
+<!--SR:!2024-06-06,157,250-->
 - Un langage de programmation de haut niveau est un langage de programmation qui:: utilise des éléments du langage naturel, qui est facile à utiliser, qui facilite l'abstraction en masquant des domaines importants des systèmes informatiques et qui rend le développement de programmes plus simple, plus rapide et plus compréhensible.
 <!--SR:!2024-03-25,112,250-->
 

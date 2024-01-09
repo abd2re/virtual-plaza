@@ -10,7 +10,7 @@ Created: 2023-11-15
  <!--SR:!2023-11-29,1,147-->
  
 La propagation d'une onde progressive s’effectue:: sans transport de matière mais avec un transport d’énergie.
-<!--SR:!2023-12-30,14,180-->
+<!--SR:!2024-01-22,15,160-->
 
 
 - L'énergie est transférée par les ondes, mais la matière:: ne l'est pas
@@ -23,13 +23,13 @@ Il existe deux types d'ondes progressives (avec définition):
 <!--SR:!2024-01-16,28,207-->
 
 La longueur d'onde est (2):: la distance entre deux crêtes ou deux creux de deux ondes consécutives (transversale), la distance entre deux points de compression ou deux points de raréfaction (longitudinale).
-<!--SR:!2024-01-01,19,218-->
+<!--SR:!2024-02-09,39,218-->
 
 La longueur d'onde $\lambda$ est égale à (2):: $\frac{v}{f}=vT$
-<!--SR:!2023-12-30,27,250-->
+<!--SR:!2024-03-08,69,250-->
 
 La vitesse d'une onde dépend du:: milieu de propagation.
-<!--SR:!2024-01-04,20,238-->
+<!--SR:!2024-02-20,47,238-->
 
 ## Dimensions de la propagation
 Les ondes mécaniques progressives ont la propriété de pouvoir se propager dans toutes les directions qui lui sont offertes et à partir de leur source. Ainsi, on distingue (3):: les ondes progressives à une, deux ou trois dimensions.
@@ -37,7 +37,7 @@ Les ondes mécaniques progressives ont la propriété de pouvoir se propager dan
 
 ## Ondes transversales et longitudinales
 Une onde transversale est:: une onde dans laquelle les particules oscillent perpendiculairement à la direction du mouvement et où le transfert d'énergie se fait perpendiculairement aussi.
-<!--SR:!2024-01-02,8,130-->
+<!--SR:!2024-01-11,9,130-->
 - Les ondes transversales présentent des zones de:: pics et de creux
 <!--SR:!2024-01-09,29,230-->
 - Exemples d'ondes transversales:: Ondes électromagnétiques, par exemple radio, lumière visible, UV. Vibrations sur une corde de guitare

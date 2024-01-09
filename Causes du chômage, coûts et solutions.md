@@ -10,7 +10,7 @@ Au total, il existe quatre types de chômage qui se répartissent en deux grande
 - **Chômage de déséquilibre** inclut:: le chômage cyclique (déficit de la demande) et le chômage réel.
 <!--SR:!2024-03-14,112,250-->
 - **Taux de chômage naturel** comprend:: le chômage frictionnel, saisonnier et structurel.
-<!--SR:!2024-01-05,24,190-->
+<!--SR:!2024-01-15,10,170-->
 
 ## Causes du chômage
 ### Cyclique (demande insuffisante)
@@ -36,7 +36,7 @@ Graphique avec axes et explication du nombre de chômeurs
 ?
 ![[image-20230908092552939.png|525]]
 Avec un salaire supérieur au salaire d’équilibre du marché, les entreprises ne demanderont que Q D de travail, mais il y aura une offre de travail de Q S car les individus sont plus disposés et capables de travailler pour un salaire plus élevé.
-<!--SR:!2024-01-04,67,230-->
+<!--SR:!2024-06-05,153,230-->
 
 ## Taux de chômage naturel
 ### Frictionnel
@@ -74,7 +74,7 @@ Quels sont les coûts économiques du chômage (5) ?:
 3. Augmentation du coût des allocations de chômage
 4. Perte de revenus pour les particuliers
 5. De plus grandes disparités dans la répartition des revenus
-<!--SR:!2023-12-30,6,130-->
+<!--SR:!2024-01-19,11,130-->
 
 Quels sont les coûts personnels du chômage (2) ?:
 ?
@@ -98,6 +98,6 @@ Graphes des deux causes principales (avec leur noms):
 
 
 - Pour chômage cyclique =>:: Le gouvernement devra s’attaquer directement à la baisse de la demande globale en stimulant la demande globale avec des politiques fiscales et monétaires.
-<!--SR:!2024-01-01,66,242-->
+<!--SR:!2024-02-04,34,222-->
 - Pour chômage structurel =>:: Le chômage structurel peuvent être réduits grâce à des politiques qui améliorent la flexibilité de la main-d’œuvre (**Education**)
 <!--SR:!2024-01-26,66,202-->

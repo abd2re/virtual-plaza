@@ -19,11 +19,11 @@ Représentation d'une réflexion d'un rayon incident avec éléments
 
 
 - L'angle incident = l'angle réfléchi ? Vrai ou faux ?:: vrai.
-<!--SR:!2024-01-03,22,250-->
+<!--SR:!2024-03-19,76,270-->
 - La longueur d'onde incidente = la longueur d'onde incidente réfléchie ? Vrai ou faux ?:: vrai.
 <!--SR:!2024-02-11,44,250-->
 - La distance entre les fronts d'onde égale à:: la longueur d'onde.
-<!--SR:!2023-12-30,19,250-->
+<!--SR:!2024-02-19,51,250-->
 - Les fronts d'ondes sont perpendiculaires au:: rayon incident et au rayon réfléchi
-<!--SR:!2023-12-30,19,250-->
+<!--SR:!2024-02-15,47,250-->
 

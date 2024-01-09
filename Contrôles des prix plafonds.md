@@ -6,7 +6,7 @@ Created: 2023-01-06
 # Contrôles des prix maximaux
 ?
 Le prix du marché pour un bien ou un service est parfois inabordable. Ceci est courant pour les biens et services essentiels, tels que les logements locatifs ou la nourriture. Le gouvernement peut fixer un prix maximum, également appelé prix plafond, en dessous du prix d'équilibre pour empêcher les producteurs de vendre leur produit au-dessus. Ceci est fait pour protéger les consommateurs et est généralement appliqué aux biens de nécessité et/ou de mérite.
-<!--SR:!2023-12-30,99,190-->
+<!--SR:!2024-07-04,187,190-->
 
 Les objectifs des prix plafonds sont généralement de:
 ?
@@ -24,5 +24,5 @@ Deux situations courantes où **contrôles des prix maximaux** sont utilisés po
 Figure de contrôles des prix maximaux:
 ?
 ![[Pourquoi les gouvernements interviennent-ils.png]]
-<!--SR:!2024-01-05,38,210-->
+<!--SR:!2024-03-24,79,210-->
 

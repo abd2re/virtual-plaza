@@ -12,7 +12,7 @@ L'inflation est une augmentation durable du niveau des prix dans une économie.
 <!--SR:!2024-02-13,73,190-->
 
 - Lorsque l'argent perd de la valeur, les prix:: augmentent en conséquence.
-<!--SR:!2023-12-31,68,250-->
+<!--SR:!2024-06-17,169,250-->
 - Lorsque le taux d'inflation dépasse 50% par mois, on dit:: hyperinflation.
 <!--SR:!2024-01-22,94,290-->
 
@@ -35,10 +35,10 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2024-01-02,8,130-->
+<!--SR:!2024-01-12,10,130-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
-<!--SR:!2024-01-06,69,263-->
+<!--SR:!2024-07-04,180,263-->
 
 IPP veut dire:: Indice prix de la production
 <!--SR:!2024-06-26,180,263-->
@@ -81,7 +81,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 - les modifications des lois sur le salaire minimum
 - l'augmentation du coût des matières premières importées
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
-<!--SR:!2024-01-03,34,183-->
+<!--SR:!2024-01-22,19,163-->
 
 Graphique avec explications
 ?
@@ -97,7 +97,7 @@ Graphique avec explications
 Graphique
 ?
 ![[image-20230921082320448.png]]
-<!--SR:!2024-01-08,65,243-->
+<!--SR:!2024-06-13,157,243-->
 
 - Pour les nouveaux économistes classiques, toute tentative de stimuler la demande globale n’aboutira qu’à:: l'inflation sans aucune augmentation du revenu national.
 <!--SR:!2024-03-10,88,203-->
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2024-01-02,5,130-->
+<!--SR:!2024-01-10,8,130-->
 

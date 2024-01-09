@@ -14,7 +14,7 @@ On distingue deux types d'erreurs:: les erreurs **aléatoires** et **systématiq
 ## Erreurs aléatoires
 ?
 Composant de l'erreur de mesure dont on ne peut prévoir la tendance.
-<!--SR:!2024-01-05,62,210-->
+<!--SR:!2024-05-12,128,210-->
 
 Elle est pour cause:: **l'opérateur**.
 <!--SR:!2024-05-10,147,250-->
@@ -25,7 +25,7 @@ Pour le réduire:: on effectue de nombreuses mesures.
 ## Erreurs systématiques
 ?
 Les composants de l'erreur de mesure qui lors de mesures répétées varient de manière prévisible.
-<!--SR:!2024-01-03,10,186-->
+<!--SR:!2024-01-09,6,166-->
 
 Les erreurs systématiques ont souvent pour origine:: un matériel imparfait ou une méthode de mesure inappropriée.
 <!--SR:!2024-01-24,77,230-->

@@ -54,7 +54,7 @@ $$\Large{2bi}$$
 $zz^{*}$=
 ?
 $$\Large{a^{2}+b^{2}}$$
-<!--SR:!2024-01-05,8,150-->
+<!--SR:!2024-01-17,12,150-->
 
 ---
 $|z|$=
@@ -65,7 +65,7 @@ $$\Large{\sqrt{a^{2}+b^{2}}}$$
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
-<!--SR:!2024-01-07,16,150-->
+<!--SR:!2024-01-30,23,150-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
@@ -116,5 +116,5 @@ $e^{i\pi}$=::$-1$
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2024-01-06,15,150-->
+<!--SR:!2024-01-29,23,150-->
 

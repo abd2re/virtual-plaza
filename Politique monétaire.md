@@ -7,14 +7,14 @@ Created: 2023-11-08
 # Politique monétaire
 ?
 La politique monétaire fait référence à la banque centrale qui utilise le rentrée d'argent et les taux d’intérêt pour gérer l’économie.
-<!--SR:!2023-12-30,14,150-->
+<!--SR:!2024-01-18,19,150-->
 
 - La politique monétaire permet aux pays de stimuler leur économie tout en évitant de:: s’endetter.
 <!--SR:!2024-02-17,54,230-->
 - La politique monétaire est un moyen pour les gouvernements de:: gérer l’économie.
 <!--SR:!2024-03-03,76,270-->
 - La banque centrale détermine la politique monétaire en:: contrôlant la masse monétaire et en fixant le taux d’intérêt.
-<!--SR:!2024-01-06,31,230-->
+<!--SR:!2024-01-21,15,210-->
 
 - Définition de **taux d’intérêt**:: **Coût d’emprunt de l’argent.**
 <!--SR:!2024-02-07,45,210-->
@@ -30,7 +30,7 @@ Ils sont 5:
 3. Prêteur de dernier recours
 4. Émet des obligations et d’autres instruments financiers
 5. Régule le système bancaire
-<!--SR:!2024-01-05,19,170-->
+<!--SR:!2024-02-05,31,170-->
 
 
 ### 1. Détermine la masse monétaire et le taux d’intérêt
@@ -42,17 +42,17 @@ Lorsque la banque centrale augmente la masse monétaire, alors en conséquence l
 Graphique
 ?
 ![[image-20231108093526578.png]]
-<!--SR:!2024-01-07,31,230-->
+<!--SR:!2024-03-17,70,230-->
 
 Si l'économie est dans un écart de recession, alors pour le combler il faut:: baisser les taux d'intérêts pour augmenter la demande et ramener la production d'équilibre au plein emploi.![[image-20231108093711743.png]]
-<!--SR:!2023-12-31,18,190-->
+<!--SR:!2024-01-23,15,170-->
 
 ### 2. Imprime de l'argent physique et frappe des pièces de monnaie
 La banque centrale imprime des billets et frappe des pièces pour (2) :
 ?
 - Permettre à l’augmentation de la masse monétaire de s’aligner sur l’augmentation du PIB
 - Remplacer les vieux billets de banque déchirés
-<!--SR:!2024-01-08,25,190-->
+<!--SR:!2024-02-24,47,190-->
 
 Les banques centrales veillent à inclure des éléments de sécurité pour:: garantir l'intégrité de la monnaie et pour rendre billets de banque contrefaits moins probable.
 <!--SR:!2024-02-19,54,230-->
@@ -67,6 +67,6 @@ La Banque centrale peut émettre obligations pour:: lever des fonds pour finance
 
 ### 5. Régule le système bancaire
 - Un rôle important de la banque centrale est de réglementer banques commerciales pour s’assurer:: qu’elles ne prennent pas trop de risques.
-<!--SR:!2024-01-04,29,230-->
+<!--SR:!2024-03-10,66,230-->
 - Le pouvoir de régulation le plus important d’une banque centrale est de:: fixer des réserves obligatoires.
 <!--SR:!2024-01-15,26,170-->

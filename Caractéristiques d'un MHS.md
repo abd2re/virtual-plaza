@@ -30,7 +30,6 @@ Période et amplitude dans un graphe déplacement-temps:
 Longueur d'onde et amplitude dans un graphe déplacement-distance:
 ?
 ![[image-20231117193925638.png|center|600]]
-<!--SR:!2024-01-07,29,244-->
+<!--SR:!2024-03-17,70,244-->
 
-
-
+Distance parcouru durant une période est égale à:: $4A$.

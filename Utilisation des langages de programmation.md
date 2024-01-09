@@ -15,4 +15,4 @@ Created: 2023-10-03
 <!--SR:!2024-04-09,112,250-->
 
 - Un objet est composé:: de données et d'actions. Les actions font référence aux opérations qui peuvent être effectuées par l'objet.
-<!--SR:!2023-12-31,54,250-->
+<!--SR:!2024-05-13,134,250-->

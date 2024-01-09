@@ -13,7 +13,7 @@ Avantages du PIB (3):
 - **Permet la comparaison entre les pays**
 - **Informe les décideurs**
 - **Donne une indication du revenu moyen**
-<!--SR:!2024-01-08,163,230-->
+<!--SR:!2024-03-29,81,210-->
 
 Inconvénients du PIB (4):
 ?
@@ -33,7 +33,7 @@ Les trois méthodes de calculer le PIB sont:
 Les gouvernements peuvent comptabiliser le revenu national en additionnant toutes les catégories de revenus (loyers, salaires, intérêts et bénéfices), la valeur ajoutée de chaque catégorie de production (des industries primaires, secondaires et tertiaires) ou les catégories de dépenses d'une économie. En d'autres termes:
 ?
 Revenu = Production = Dépenses
-<!--SR:!2024-01-06,62,201-->
+<!--SR:!2024-02-05,30,181-->
 
 ## PIB nominal et PIB réel
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation

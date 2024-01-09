@@ -11,6 +11,6 @@ Le frottement statique est celui qui empêche les objets de commencer à se dép
 Formule:
 ?
 $$\Large{f\le\mu_{s}\times R}$$
-- $\mu_{s}=$ coefficient de frottement statique 
+- $\mu_{s}=$ coefficient de frottement statique
 - $R=$ Force normale
-<!--SR:!2024-01-05,122,224-->
+<!--SR:!2024-03-07,62,204-->

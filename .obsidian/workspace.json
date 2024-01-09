@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7add44e5ce50097d",
+        "id": "77301c9c628a5382",
         "type": "tabs",
         "children": [
           {
-            "id": "d0a0e57fad731bdd",
+            "id": "cbe3372c8b498862",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,12 +16,35 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Theme 4-Oscillations et ondes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Oscillations et ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":2.948356807511737}"
+                },
+                {
+                  "title": "_physics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":10.929336769293368}"
+                },
+                {
+                  "title": "Diffraction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Diffraction.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":7.054545454545455}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Caractéristiques d'un MHS.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -144,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Caractéristiques d'un MHS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +193,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Caractéristiques d'un MHS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -222,7 +245,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5539876975269353,
+                  "scale": 0.24861777094475018,
                   "close": true
                 }
               }
@@ -243,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Caractéristiques d'un MHS.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -284,7 +307,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inflation et ses causes.md"
+                "file": "Caractéristiques d'un MHS.md"
               }
             }
           },
@@ -320,7 +343,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Inflation et ses causes.md"
+                "file": "Caractéristiques d'un MHS.md"
               }
             }
           },
@@ -418,7 +441,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Inflation et ses causes.md",
+                "file": "Caractéristiques d'un MHS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -498,46 +521,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1b9db96793cc1a3f",
+  "active": "cbe3372c8b498862",
   "lastOpenFiles": [
-    "Untitled 20.md",
-    "Politiques monétaires expansionnistes et restrictives.md",
+    "Theme 4-Oscillations et ondes.md",
+    "Caractéristiques d'un MHS.md",
+    "Chapitre 1 - Mouvement harmonique simple (MHS).md",
+    "Période d'un pendule simple et élastique.md",
+    "_physics.md",
+    "Chapitre 4 - Quantité de mouvement.md",
+    "Diffraction.md",
+    "assets/Diffraction/image-20231204120001860.png",
+    "Dérivation.md",
+    "_math.md",
+    "Interférence.md",
+    "assets/Interférence/image-20231217084846194.png",
+    "assets/Changement d'énergies au cour d'un MHS/image-20231113103206092.png",
+    "Mouvement harmonique simple (MHS).md",
+    "Chapitre 1 - Analyse dimensionnelle.md",
+    "Files.md",
+    "Chapitre 2 - Structure de données abstraites.md",
+    "Piles.md",
+    "_computer science.md",
+    "assets/Dérivation/image-20231128163111952.png",
+    "Fission et fusion nucléaire.md",
+    "Theme 7-Physique nucléaire.md",
+    "Energie de liaison du noyau.md",
+    "Theme 8-Production d'énergie.md",
+    "Chapitre 1 - Sources d'énergie.md",
+    "Excalidraw/Drawing 2024-01-08 08.24.38.excalidraw.md",
+    "Politique monétaire.md",
+    "assets/Politique monétaire/image-20231108093526578.png",
+    "Énergie spécifique.md",
+    "Theme 3-Physique thermique.md",
+    "Chapitre 4 - Comportement des ondes.md",
     "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192814757.png",
     "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192926653.png",
-    "Objectifs des politiques d’offre.md",
-    "Chapitre 7 - Politiques du côté de l'Offre.md",
-    "Politiques d’offre liées aux incitations.md",
     "assets/Politiques d’offre liées aux incitations/image-20231207140020679.png",
-    "Politiques interventionnistes du côté de l’offre.md",
-    "Theme 2-Macro-économie.md",
-    "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md",
-    "Efficacité de la politique monétaire.md",
-    "Objectifs de la politique monétaire.md",
-    "Politique monétaire.md",
-    "Taux d’intérêt nominaux et taux d’intérêt réels.md",
     "assets/Politique monétaire/image-20231108093711743.png",
-    "assets/Politique monétaire/image-20231108093526578.png",
-    "Effet taux d'intérêt.md",
-    "Activité économique.md",
-    "Chapitre 2 - Variations de l'Activité Economique — Demande Globale et Offre Globale.md",
-    "_economy.md",
-    "Theme 1-Micro-économie.md",
-    "Statistiques I.md",
-    "_math.md",
-    "Dérivation.md",
-    "Piles.md",
-    "Chapitre 2 - Structure de données abstraites.md",
-    "Theme 5 - Structures de données abstraites.md",
-    "_computer science.md",
-    "Chapitre 1 - Penser de manière de récursive.md",
-    "Lois des sinus et cosinus.md",
     "assets/Tarifs/image-20231220095125824.png",
-    "assets/12 TOK Concepts/12 TOK Concepts.png",
     "assets/Tarifs",
-    "assets/Diagrammes de Sankey/image-20231218111254285.png",
     "assets/Diagrammes de Sankey",
-    "assets/Interférence/image-20231217084846194.png",
-    "assets/Interférence/image-20231217084823018.png",
     "assets/Avantages du commerce international",
     "2.7 m.canvas",
     "assets/Interférence",

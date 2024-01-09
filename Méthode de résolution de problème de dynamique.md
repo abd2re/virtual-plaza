@@ -12,7 +12,7 @@ Created: 2023-05-09
 - Inventaire des forces
 - Application d'une loi de Newton
 - Définir un repère et faire des projections puis des calculs
-<!--SR:!2024-01-02,27,150-->
+<!--SR:!2024-02-11,40,150-->
 
 
 Tableau pour résoudre problème de dynamique:
@@ -24,5 +24,5 @@ Tableau pour résoudre problème de dynamique:
 Tension dans un ascenseur pour les trois cas (repos, acceleration, deceleration):
 ?
 ![[image-20231106110821177.png]]
-<!--SR:!2024-01-01,24,201-->
+<!--SR:!2024-02-19,49,201-->
 

@@ -9,7 +9,7 @@ Created: 2023-09-22
 C'est quoi la pression ?
 ?
 La pression c'est la force par unité de surface qu'exercent les molécules sur la paroi.
-<!--SR:!2024-01-05,17,130-->
+<!--SR:!2024-01-27,22,130-->
 
 Formule de la pression:
 ?
@@ -27,4 +27,4 @@ $R$ = $8.3145 J\text{mol}^{-1}K^{-1}$ constante des gaz parfaits
 $T$ = température (en kelvin)
 $N$ = Nombre de molécules
 $k_{B}$ = $1.38\cdot 10^{-23} JK^{-1}$ constante de Boltzmann
-<!--SR:!2024-01-02,64,250-->
+<!--SR:!2024-02-02,31,230-->

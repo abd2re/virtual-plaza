@@ -11,7 +11,7 @@ Un diagramme de flux de données (DFD) est une représentation graphique du "flu
 ## Elements d'un Un diagramme de flux de données
 ?
 ![[image-20221118104549801.png]]
-<!--SR:!2024-01-06,41,190-->
+<!--SR:!2024-03-23,77,190-->
 
 ![[image-20221118104558682.png]]
 
