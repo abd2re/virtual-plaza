@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Quotas",
-      "path": "Quotas.md"
+      "basename": "Intégration",
+      "path": "Intégration.md"
+    },
+    {
+      "basename": "Dérivation",
+      "path": "Dérivation.md"
     },
     {
       "basename": "Tarifs",
       "path": "Tarifs.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Quotas",
+      "path": "Quotas.md"
     },
     {
       "basename": "Avantages du commerce international",
@@ -59,14 +71,6 @@
     {
       "basename": "Diffraction",
       "path": "Diffraction.md"
-    },
-    {
-      "basename": "Dérivation",
-      "path": "Dérivation.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "Interférence",
@@ -195,10 +199,6 @@
     {
       "basename": "Effet taux d'intérêt",
       "path": "Effet taux d'intérêt.md"
-    },
-    {
-      "basename": "Activité économique",
-      "path": "Activité économique.md"
     }
   ],
   "omittedPaths": [],

@@ -27,8 +27,6 @@ Tangente et normale pour une fonction représente:
 ### Fondamentales
 - $f(x)=c\rightarrow f'(x)=$::$0$
 <!--SR:!2024-02-03,39,250-->
-- $g(x)=c\cdot f(x)\rightarrow g'(x)=$::$c\cdot f'(x)$
-<!--SR:!2024-02-01,39,250-->
 - $f(x)=x^{n}\rightarrow f'(x)=$::$nx^{n-1}$
 <!--SR:!2024-03-08,62,250-->
 - $f(x)=x^{-n}=\frac{1}{x^{n}}\rightarrow f'(x)=$::$\frac{-n}{x^{n+1}}$
@@ -51,6 +49,8 @@ Tangente et normale pour une fonction représente:
 <!--SR:!2024-02-01,39,250-->
 
 ### Opérations
+- $g(x)=c\cdot f(x)\rightarrow g'(x)=$::$c\cdot f'(x)$
+<!--SR:!2024-02-01,39,250-->
 - $h(x)=f(x)\pm g(x)\rightarrow h'(x)=$::$f'(x)\pm g'(x)$
 <!--SR:!2024-02-05,41,250-->
 - $h(x)=f(x)g(x)\rightarrow h'(x)=$::$f'(x)g(x)+f(x)g'(x)$
