@@ -15,7 +15,7 @@ Différence entre un réflexion d'une extrémité fixe et extrémité libre (1d)
 Représentation d'une réflexion d'un rayon incident avec éléments
 ?
 ![[image-20231129110409022.png]]
-<!--SR:!2024-01-09,27,250-->
+<!--SR:!2024-03-14,65,250-->
 
 
 - L'angle incident = l'angle réfléchi ? Vrai ou faux ?:: vrai.

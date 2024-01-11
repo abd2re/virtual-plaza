@@ -35,5 +35,5 @@ Ils sont 8:
 - Augmentation de la valeur réelle de la dette
 - Allocation inefficace des ressources (consommation différée et niveau de prix faussé)
 - Inefficacité des politiques (gouvernementale)
-<!--SR:!2024-01-09,8,130-->
+<!--SR:!2024-01-18,9,130-->
 

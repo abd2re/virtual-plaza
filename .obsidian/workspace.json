@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "77301c9c628a5382",
+        "id": "374cbafc22c54614",
         "type": "tabs",
         "children": [
           {
-            "id": "cbe3372c8b498862",
+            "id": "a9cf9757e9924b03",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,30 +18,94 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Theme 4-Oscillations et ondes",
+                  "title": "Tarifs",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Theme 4-Oscillations et ondes.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":2.948356807511737}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tarifs.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"scroll\":9.945454545454545}"
                 },
                 {
-                  "title": "_physics",
+                  "title": "Quotas",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_physics.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":10.929336769293368}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quotas.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "Diffraction",
+                  "title": "Tarifs",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Diffraction.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":7.054545454545455}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tarifs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Quotas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quotas.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Chapitre 2 - Types de protection commerciale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Types de protection commerciale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Quotas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quotas.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Chapitre 2 - Types de protection commerciale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Types de protection commerciale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Quotas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quotas.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Chapitre 2 - Types de protection commerciale",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Types de protection commerciale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Quotas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quotas.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":5},\"to\":{\"line\":1,\"ch\":5}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Caractéristiques d'un MHS.md",
+                "file": "Quotas.md",
                 "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "160dee1a850860fa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tarifs.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -167,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Caractéristiques d'un MHS.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +257,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Caractéristiques d'un MHS.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +309,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.24861777094475018,
+                  "scale": 0.6179253401359609,
                   "close": true
                 }
               }
@@ -266,7 +330,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Caractéristiques d'un MHS.md",
+                "file": "_physics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -307,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Caractéristiques d'un MHS.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -343,7 +407,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Caractéristiques d'un MHS.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -441,7 +505,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Caractéristiques d'un MHS.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -493,7 +557,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.49299935205677764,
+                  "scale": 0.6344926684047997,
                   "close": true
                 }
               }
@@ -521,10 +585,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cbe3372c8b498862",
+  "active": "0a9d2ecdd6f02419",
   "lastOpenFiles": [
-    "Theme 4-Oscillations et ondes.md",
+    "Quotas.md",
+    "assets/Quotas/image-20240110084154805.png",
+    "Tarifs.md",
+    "assets/Quotas/image-20240110083125478.png",
+    "assets/Tarifs/image-20231220095125824.png",
+    "Avantages du commerce international.md",
+    "assets/Avantages du commerce international/image-20231214123330625.png",
+    "assets/Quotas",
+    "Theme 3-Économie Mondiale.md",
+    "Chapitre 1 - Avantages du commerce international.md",
+    "Chapitre 2 - Types de protection commerciale.md",
+    "Types de protection commerciale.md",
+    "_economy.md",
+    "Transmission et réfraction.md",
     "Caractéristiques d'un MHS.md",
+    "Theme 4-Oscillations et ondes.md",
     "Chapitre 1 - Mouvement harmonique simple (MHS).md",
     "Période d'un pendule simple et élastique.md",
     "_physics.md",
@@ -543,22 +621,8 @@
     "Piles.md",
     "_computer science.md",
     "assets/Dérivation/image-20231128163111952.png",
-    "Fission et fusion nucléaire.md",
-    "Theme 7-Physique nucléaire.md",
-    "Energie de liaison du noyau.md",
-    "Theme 8-Production d'énergie.md",
-    "Chapitre 1 - Sources d'énergie.md",
-    "Excalidraw/Drawing 2024-01-08 08.24.38.excalidraw.md",
-    "Politique monétaire.md",
     "assets/Politique monétaire/image-20231108093526578.png",
-    "Énergie spécifique.md",
-    "Theme 3-Physique thermique.md",
-    "Chapitre 4 - Comportement des ondes.md",
     "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192814757.png",
-    "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192926653.png",
-    "assets/Politiques d’offre liées aux incitations/image-20231207140020679.png",
-    "assets/Politique monétaire/image-20231108093711743.png",
-    "assets/Tarifs/image-20231220095125824.png",
     "assets/Tarifs",
     "assets/Diagrammes de Sankey",
     "assets/Avantages du commerce international",
@@ -568,7 +632,6 @@
     "assets/Diffraction",
     "assets/Transmission et réfraction",
     "assets/Réflexion",
-    "assets/Politique budgétaire expansionniste et restrictive",
-    "assets/Dérivation"
+    "assets/Politique budgétaire expansionniste et restrictive"
   ]
 }

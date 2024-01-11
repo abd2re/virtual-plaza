@@ -29,4 +29,4 @@ Les caractéristiques communes à la plupart des programmes sont  4:
 - [[Menus]]
 - [[Boîtes de dialogue]]
 - [[Composants de l'interface graphique]]
-<!--SR:!2024-01-09,83,248-->
+<!--SR:!2024-02-19,41,228-->

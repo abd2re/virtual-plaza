@@ -58,12 +58,12 @@ Il y a deux causes principales du chômage structurel:
 ?
 - Lorsqu’une **industrie déménage dans un pays ou dans un autre pays**, il est peu probable que les gens déménagent avec l’industrie.
 - Les **rigidités du marché du travail**, telles que la difficulté pour les gens de changer d'emploi et de type d'emploi, et la législation du travail qui empêche le licenciement facile des travailleurs inefficaces, réduiront l'offre de main-d'œuvre disponible
-<!--SR:!2024-01-10,26,202-->
+<!--SR:!2024-03-02,52,202-->
 
 3 étapes lorsqu'il y a un chômage structurel (graphiques):
 ?
 ![[image-20230913103815676.png|center|550]]
-<!--SR:!2024-01-09,44,162-->
+<!--SR:!2024-03-19,70,162-->
 
 ## Coûts du chômage
 
@@ -80,7 +80,7 @@ Quels sont les coûts personnels du chômage (2) ?:
 ?
 1. Augmentation de l’endettement, du sans-abrisme et de l’éclatement des famille
 2. Niveaux de stress accrus
-<!--SR:!2024-01-10,70,242-->
+<!--SR:!2024-02-13,34,222-->
 
 Quels sont les coûts sociaux du chômage (2) ?:
 ?

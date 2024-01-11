@@ -6,7 +6,7 @@ Created: 2023-11-20
 
 # Polarisation
 - La polarisation ne se produit que pour les ondes:: transversales.
-<!--SR:!2024-01-09,12,208-->
+<!--SR:!2024-02-02,24,208-->
 - La polarisation de la lumière fait référence à:: l'orientation de l'oscillation dans le champ électrique sous-jacent.
 <!--SR:!2024-01-19,17,150-->
 
@@ -28,7 +28,7 @@ Formule Loi de Malus (s'applique seulement à une lumière polarisée):
 $$\large{I=I_{0}\cos^{2}\theta}$$
 - $I_{0}$ = intensité de la lumière polarisée
 - $\theta$ = angle entre analyseur et l'analyseur/polariseur précédent
-<!--SR:!2024-01-10,10,198-->
+<!--SR:!2024-02-01,22,198-->
 
 - Quand une lumière non-polarisée passe par un polariseur alors son intensité est:: divisée par 2.
 <!--SR:!2024-01-22,34,238-->
@@ -41,4 +41,4 @@ Représentation
 <!--SR:!2024-02-07,31,196-->
 
 Cet angle incident $\theta_{1}$ est égale à::$$\theta_{1}=\tan^{-1}\left(\frac{n_{2}}{n_{1}}\right)$$
-<!--SR:!2024-01-09,6,196-->
+<!--SR:!2024-01-20,11,196-->

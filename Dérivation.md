@@ -70,6 +70,6 @@ Tangente et normale pour une fonction représente:
 - Si $f'(x)=0$ et $f''(x)>0$ alors ce point est:: un minimum local
 <!--SR:!2024-02-13,36,240-->
 - $f$ est concave haut si $f''(x)$::$>0$
-<!--SR:!2024-01-09,4,219-->
+<!--SR:!2024-01-11,2,199-->
 - $f$ est concave bas si $f''(x)$::$<0$
-<!--SR:!2024-01-10,6,239-->
+<!--SR:!2024-01-23,13,239-->

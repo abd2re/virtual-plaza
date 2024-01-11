@@ -9,4 +9,4 @@ Created: 2023-11-13
 - Formule période d'un pendule simple::$$\large{T=2\pi\sqrt{\frac{l}{g}}}$$
 <!--SR:!2024-01-12,29,190-->
 - Formule période d'un pendule élastique::$$\large{T=2\pi\sqrt{\frac{m}{k}}}$$
-<!--SR:!2024-01-10,26,190-->
+<!--SR:!2024-03-01,51,190-->

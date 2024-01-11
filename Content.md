@@ -11,4 +11,4 @@ What type of questions should you ask yourself ?
 - What is the writer's message ?
 - What is the writer's attitude (tone) ?
 - How does that affect your reading of the text (mood) ?
-<!--SR:!2024-01-09,67,230-->
+<!--SR:!2024-06-10,153,230-->

@@ -7,7 +7,7 @@ Created: 2023-10-03
 # Utilisation des langages de programmation
 
 - Une variable est utilisée pour:: stocker un élément de données d'un programme. La valeur stockée peut être modifiée pendant l'exécution du programme.
-<!--SR:!2024-01-10,59,250-->
+<!--SR:!2024-06-05,147,250-->
 - Le type de la variable peut être:: un entier, un double, une chaîne de caractères, etc.
 <!--SR:!2024-02-25,82,230-->
 

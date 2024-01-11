@@ -6,36 +6,36 @@ Created: 2023-12-19
 
 # Statistiques I
 En statistiques, $\sigma$ est noté:: $S$.
-<!--SR:!2024-01-10,6,242-->
+<!--SR:!2024-01-26,16,242-->
 
 - $Q_{2}$ si $n$ est impair =:: $$\frac{x_{n+1}}{2}$$
-<!--SR:!2024-01-10,4,210-->
+<!--SR:!2024-01-17,7,210-->
 - $Q_{2}$ si $n$ est pair =::$$\frac{x_{n/2}+x_{1+n/2}}{2}$$
 <!--SR:!2024-01-12,13,230-->
 
 ## Données non groupées
 - Le mode est:: la valeur qui a la fréquence la plus élevée
-<!--SR:!2024-01-10,6,242-->
+<!--SR:!2024-01-27,17,242-->
 - La médiane est:: la valeur milieu
-<!--SR:!2024-01-10,6,242-->
+<!--SR:!2024-01-24,14,242-->
 - $\mu=$::$$\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}}{\sum\limits_{i=1}^{k}f_{i}}$$
 <!--SR:!2024-01-12,4,202-->
 - $\text{IQR}=$::$Q_{3}-Q_{1}$
 <!--SR:!2024-01-11,5,242-->
 - $S^{2}=$::$$\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}^{2}}{\sum\limits_{i=1}^{k}f_{i}}-\mu^{2}$$
-<!--SR:!2024-01-10,4,202-->
+<!--SR:!2024-01-18,8,202-->
 - $S=$::$$\sqrt{\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}^{2}}{\sum\limits_{i=1}^{k}f_{i}}-\mu^{2}}$$
-<!--SR:!2024-01-09,4,222-->
+<!--SR:!2024-01-18,9,222-->
 
 ## Données groupées
 - La classe modale est:: la classe dont la fréquence est la plus élevée. (Il s'agit uniquement d'intervalles de la classe de qualification)
-<!--SR:!2024-01-10,4,202-->
+<!--SR:!2024-01-16,6,202-->
 - La médiane est la valeur milieu. La valeur exacte ne peut pas être calculée mais peut être estimée à l'aide d::'un graphique de fréquence cumulée.
 <!--SR:!2024-01-11,4,222-->
 - La moyenne exacte ne peut être calculée car:: on ne dispose pas des données de base.
-<!--SR:!2024-01-09,5,242-->
+<!--SR:!2024-01-20,11,242-->
 - Pour les données groupées, $x_{i}$ est:: la valeur du milieu de l'intervalle (point médian) pour chaque classe.
-<!--SR:!2024-01-09,4,222-->
+<!--SR:!2024-01-19,10,222-->
 
 ## Transformations linéaires des données
 - Si l'on ajoute ou soustrait une constante a à toutes les valeurs, la variance et l'écart-type:: restent les mêmes.

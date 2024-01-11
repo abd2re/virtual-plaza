@@ -20,7 +20,7 @@ A systematic examination of a text or aspects.
 What is to analyze
 ?
 To break down in order to bring out essential elements or structure.
-<!--SR:!2024-01-10,65,210-->
+<!--SR:!2024-05-25,136,210-->
 
 Analyzing texts: 5 keys considerations
 ?

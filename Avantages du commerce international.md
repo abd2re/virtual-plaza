@@ -14,7 +14,7 @@ Le commerce nous permet d’accéder à:: des biens difficiles, voire impossible
 Avantages du commerce pour les exportateurs et les importateurs (graphiques avec surplus):
 ?
 ![[image-20231214123330625.png]]
-<!--SR:!2024-01-10,12,226-->
+<!--SR:!2024-02-05,26,226-->
 
 Avantages du commerce international, ils sont (9):
 ?

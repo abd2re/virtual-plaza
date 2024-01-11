@@ -39,7 +39,7 @@ Les ondes mécaniques progressives ont la propriété de pouvoir se propager dan
 Une onde transversale est:: une onde dans laquelle les particules oscillent perpendiculairement à la direction du mouvement et où le transfert d'énergie se fait perpendiculairement aussi.
 <!--SR:!2024-01-11,9,130-->
 - Les ondes transversales présentent des zones de:: pics et de creux
-<!--SR:!2024-01-09,29,230-->
+<!--SR:!2024-03-17,68,230-->
 - Exemples d'ondes transversales:: Ondes électromagnétiques, par exemple radio, lumière visible, UV. Vibrations sur une corde de guitare
 <!--SR:!2024-02-10,50,250-->
 - Une onde transversale peut voyager dans le vide, oui ou non ?:: oui
@@ -64,5 +64,5 @@ Lorsqu'une onde longitudinale se propage, on peut observer des zones de basse et
 ?
 - Une raréfaction est une zone de faible pression, les particules étant plus éloignées les unes des autres. l'une à l'autre
 - Une compression est une zone de haute pression, où les particules sont plus proches les unes des autres.
-<!--SR:!2024-01-10,31,247-->
+<!--SR:!2024-03-29,79,247-->
 

@@ -12,7 +12,7 @@ Contraintes des politiques d’offre fondées sur le marché. Ils sont (4):
 - Décalages temporels
 - Droits acquis
 - Impacts environnementaux
-<!--SR:!2024-01-09,1,133-->
+<!--SR:!2024-01-11,2,153-->
 
 Contraintes des politiques interventionnistes du côté de l’offre comprennent (2):
 ?
@@ -43,4 +43,4 @@ Plus de production nécessite plus de travailleurs, donc les politiques axées s
 <!--SR:!2024-01-31,25,233-->
 
 Les politiques du côté de l'offre encouragent la concurrence, ce qui encouragera les entreprises à:: innover, à réduire leurs coûts et à faire baisser les prix.
-<!--SR:!2024-01-10,17,250-->
+<!--SR:!2024-02-21,42,250-->

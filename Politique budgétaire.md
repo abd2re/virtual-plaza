@@ -16,7 +16,7 @@ Le budget décrit la manière dont:: le gouvernement dépensera les recettes fis
 - Un excédent budgétaire se produit lorsqu::’un gouvernement dépense moins que ce qu’il reçoit en impôts au cours d’une année.
 <!--SR:!2024-01-29,38,230-->
 - Un déficit budgétaire se produit lorsqu::’un gouvernement dépense plus que ce qu’il reçoit en impôts au cours d’une année
-<!--SR:!2024-01-09,25,230-->
+<!--SR:!2024-03-06,57,230-->
 - La dette publique est:: le montant total emprunté au fil des années qui n’a pas été remboursé.
 <!--SR:!2024-02-01,31,190-->
 

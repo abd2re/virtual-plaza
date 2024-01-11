@@ -24,4 +24,4 @@ Pour un support inclinée la normale est égale a:
 $\Large{\vec{P_{n}}=\vec{P}\cos(\theta)}$
 - Avec $\vec{P}$ = Poids (mg)
 - Avec $\theta$ = Angle de la pente
-<!--SR:!2024-01-10,129,226-->
+<!--SR:!2024-10-27,291,226-->
