@@ -25,7 +25,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement A ou B (disjonction d'événement):: événement constitué de toutes les issues des deux événements
 <!--SR:!2024-04-20,129,250-->
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
-<!--SR:!2024-01-12,70,250-->
+<!--SR:!2024-07-04,174,250-->
 - Evénement certain:: toutes les issues
 <!--SR:!2024-03-26,112,250-->
 - Evénement impossible:: aucune issue
@@ -55,7 +55,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 Deux événements sont indépendants si: : l'occurrence de chacun d'eux n'affecte pas la probabilité que l'autre se produise. Un exemple de ceci est l'échantillonnage à 1s avec remplacement.
 
 Pour des événements indépendants A et B, $P(A\cap B)$=:: $P(A)P(B)$
-<!--SR:!2024-01-12,65,252-->
+<!--SR:!2024-06-23,163,252-->
 
 ## Événements dépendants
 Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
@@ -66,7 +66,7 @@ Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
 
 ## Probabilité conditionnelle
 Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}$
-<!--SR:!2024-01-11,66,252-->
+<!--SR:!2024-02-11,31,232-->
 
 Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2024-02-11,33,232-->

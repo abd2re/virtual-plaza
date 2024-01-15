@@ -69,4 +69,4 @@ La Banque centrale peut émettre obligations pour:: lever des fonds pour finance
 - Un rôle important de la banque centrale est de réglementer banques commerciales pour s’assurer:: qu’elles ne prennent pas trop de risques.
 <!--SR:!2024-03-10,66,230-->
 - Le pouvoir de régulation le plus important d’une banque centrale est de:: fixer des réserves obligatoires.
-<!--SR:!2024-01-15,26,170-->
+<!--SR:!2024-01-27,12,150-->

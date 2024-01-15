@@ -32,7 +32,7 @@ La politique budgétaire est un outil important pour atténuer les fluctuations.
 
 ## 5. Répartition équitable
 Les gouvernements peuvent améliorer répartition de salaire par (3):: les impôts (indirects et directs) et les paiements de transfert.
-<!--SR:!2024-01-12,6,166-->
+<!--SR:!2024-01-23,11,166-->
 
 Comment les impôts indirects peuvent être utilisées ?
 ?
@@ -47,7 +47,7 @@ Les gouvernements peuvent recourir à un système fiscal progressif pour transf�
 
 ## 6. Solde extérieur
 Le solde extérieur est atteint lorsque:: les exportations d’un pays sont égales à ses importations.
-<!--SR:!2024-01-15,28,246-->
+<!--SR:!2024-03-23,68,246-->
 
 Il est possible pour le gouvernement d’utiliser la politique budgétaire de deux manières pour créer un équilibre extérieur (cas où balance commerciale est négative):
 ?

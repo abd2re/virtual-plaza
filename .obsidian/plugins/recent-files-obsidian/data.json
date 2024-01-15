@@ -1,20 +1,128 @@
 {
   "recentFiles": [
     {
+      "basename": "Lentilles convergentes et divergentes",
+      "path": "Lentilles convergentes et divergentes.md"
+    },
+    {
+      "basename": "Application de la conservation de la quantité de mouvement",
+      "path": "Application de la conservation de la quantité de mouvement.md"
+    },
+    {
+      "basename": "Fission et fusion nucléaire",
+      "path": "Fission et fusion nucléaire.md"
+    },
+    {
+      "basename": "Theme 2-Mécanique",
+      "path": "Theme 2-Mécanique.md"
+    },
+    {
+      "basename": "Chapitre 1 - Introduction à l'imagerie",
+      "path": "Chapitre 1 - Introduction à l'imagerie.md"
+    },
+    {
+      "basename": "Option - Imagerie",
+      "path": "Option - Imagerie.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Intégration",
       "path": "Intégration.md"
+    },
+    {
+      "basename": "Amplitude et intensité d'une onde",
+      "path": "Amplitude et intensité d'une onde.md"
+    },
+    {
+      "basename": "Theme 1-Mesures et incertitudes",
+      "path": "Theme 1-Mesures et incertitudes.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage",
+      "path": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md"
     },
     {
       "basename": "Dérivation",
       "path": "Dérivation.md"
     },
     {
+      "basename": "Identités trigonométriques",
+      "path": "Identités trigonométriques.md"
+    },
+    {
+      "basename": "Chapitre 4 - Comportement des ondes",
+      "path": "Chapitre 4 - Comportement des ondes.md"
+    },
+    {
+      "basename": "Interférence",
+      "path": "Interférence.md"
+    },
+    {
+      "basename": "Diffraction",
+      "path": "Diffraction.md"
+    },
+    {
+      "basename": "Transmission et réfraction",
+      "path": "Transmission et réfraction.md"
+    },
+    {
+      "basename": "Réflexion",
+      "path": "Réflexion.md"
+    },
+    {
+      "basename": "Polarisation",
+      "path": "Polarisation.md"
+    },
+    {
+      "basename": "Theme 4-Oscillations et ondes",
+      "path": "Theme 4-Oscillations et ondes.md"
+    },
+    {
+      "basename": "Theme 7-Physique nucléaire",
+      "path": "Theme 7-Physique nucléaire.md"
+    },
+    {
+      "basename": "Conservation de la quantité de mouvement",
+      "path": "Conservation de la quantité de mouvement.md"
+    },
+    {
+      "basename": "Chapitre 4 - Quantité de mouvement",
+      "path": "Chapitre 4 - Quantité de mouvement.md"
+    },
+    {
+      "basename": "Nouvelle expression de la deuxième loi de Newton",
+      "path": "Nouvelle expression de la deuxième loi de Newton.md"
+    },
+    {
+      "basename": "Quantité de mouvement",
+      "path": "Quantité de mouvement.md"
+    },
+    {
+      "basename": "Chapitre 2 - Types de protection commerciale",
+      "path": "Chapitre 2 - Types de protection commerciale.md"
+    },
+    {
       "basename": "Tarifs",
       "path": "Tarifs.md"
     },
     {
-      "basename": "_math",
-      "path": "_math.md"
+      "basename": "Subventions (protection commerciale)",
+      "path": "Subventions (protection commerciale).md"
+    },
+    {
+      "basename": "Theme 3-Économie Mondiale",
+      "path": "Theme 3-Économie Mondiale.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
     },
     {
       "basename": "Quotas",
@@ -25,16 +133,8 @@
       "path": "Avantages du commerce international.md"
     },
     {
-      "basename": "Theme 3-Économie Mondiale",
-      "path": "Theme 3-Économie Mondiale.md"
-    },
-    {
       "basename": "image-20231220095125824",
       "path": "assets/Tarifs/image-20231220095125824.png"
-    },
-    {
-      "basename": "Chapitre 2 - Types de protection commerciale",
-      "path": "Chapitre 2 - Types de protection commerciale.md"
     },
     {
       "basename": "Chapitre 1 - Avantages du commerce international",
@@ -45,36 +145,12 @@
       "path": "Types de protection commerciale.md"
     },
     {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Transmission et réfraction",
-      "path": "Transmission et réfraction.md"
-    },
-    {
       "basename": "Caractéristiques d'un MHS",
       "path": "Caractéristiques d'un MHS.md"
     },
     {
-      "basename": "Theme 4-Oscillations et ondes",
-      "path": "Theme 4-Oscillations et ondes.md"
-    },
-    {
       "basename": "Période d'un pendule simple et élastique",
       "path": "Période d'un pendule simple et élastique.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Diffraction",
-      "path": "Diffraction.md"
-    },
-    {
-      "basename": "Interférence",
-      "path": "Interférence.md"
     },
     {
       "basename": "Mouvement harmonique simple (MHS)",
@@ -95,14 +171,6 @@
     {
       "basename": "_computer science",
       "path": "_computer science.md"
-    },
-    {
-      "basename": "Fission et fusion nucléaire",
-      "path": "Fission et fusion nucléaire.md"
-    },
-    {
-      "basename": "Theme 7-Physique nucléaire",
-      "path": "Theme 7-Physique nucléaire.md"
     },
     {
       "basename": "Energie de liaison du noyau",
@@ -131,74 +199,6 @@
     {
       "basename": "Ressources énergétiques",
       "path": "Ressources énergétiques.md"
-    },
-    {
-      "basename": "Sources d'énergie primaire et secondaire",
-      "path": "Sources d'énergie primaire et secondaire.md"
-    },
-    {
-      "basename": "Diagrammes de Sankey",
-      "path": "Diagrammes de Sankey.md"
-    },
-    {
-      "basename": "Statistiques I",
-      "path": "Statistiques I.md"
-    },
-    {
-      "basename": "Untitled 21",
-      "path": "Untitled 21.md"
-    },
-    {
-      "basename": "Inflation et ses causes",
-      "path": "Inflation et ses causes.md"
-    },
-    {
-      "basename": "Untitled 20",
-      "path": "Untitled 20.md"
-    },
-    {
-      "basename": "Politiques monétaires expansionnistes et restrictives",
-      "path": "Politiques monétaires expansionnistes et restrictives.md"
-    },
-    {
-      "basename": "Objectifs des politiques d’offre",
-      "path": "Objectifs des politiques d’offre.md"
-    },
-    {
-      "basename": "Chapitre 7 - Politiques du côté de l'Offre",
-      "path": "Chapitre 7 - Politiques du côté de l'Offre.md"
-    },
-    {
-      "basename": "Politiques d’offre liées aux incitations",
-      "path": "Politiques d’offre liées aux incitations.md"
-    },
-    {
-      "basename": "Theme 2-Macro-économie",
-      "path": "Theme 2-Macro-économie.md"
-    },
-    {
-      "basename": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire",
-      "path": "Chapitre 5 - Gestion de la Demande (Politiques axées sur la Demande) – Politique Monétaire.md"
-    },
-    {
-      "basename": "Efficacité de la politique monétaire",
-      "path": "Efficacité de la politique monétaire.md"
-    },
-    {
-      "basename": "Objectifs de la politique monétaire",
-      "path": "Objectifs de la politique monétaire.md"
-    },
-    {
-      "basename": "Taux d’intérêt nominaux et taux d’intérêt réels",
-      "path": "Taux d’intérêt nominaux et taux d’intérêt réels.md"
-    },
-    {
-      "basename": "image-20231108093711743",
-      "path": "assets/Politique monétaire/image-20231108093711743.png"
-    },
-    {
-      "basename": "Effet taux d'intérêt",
-      "path": "Effet taux d'intérêt.md"
     }
   ],
   "omittedPaths": [],

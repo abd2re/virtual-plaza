@@ -15,7 +15,7 @@ Toute personne en âge de travailler qui cherche du travail mais qui n'en trouve
 - La population active est:: l'ensemble des personnes en âge de travailler (environ entre 18 et 65 ans) qui sont soit en emploi, soit au chômage et à la recherche d'un emploi.
 <!--SR:!2024-01-18,37,190-->
 - Le taux de chômage est:: le pourcentage de la population active qui recherche activement du travail mais qui est sans emploi.
-<!--SR:!2024-01-12,93,190-->
+<!--SR:!2024-02-27,46,170-->
 
 Formule du taux de chômage::$\Large{\text{Taux de chômage}=\frac{\text{Nombre de chômeurs}}{\text{Population active totale}}\times100}$
 <!--SR:!2024-09-05,258,242-->

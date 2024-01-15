@@ -34,7 +34,7 @@ Tangente et normale pour une fonction représente:
 - $f(x)=x^{1/n}=\sqrt[n]{x}\rightarrow f'(x)=$::$\frac{\sqrt[n]{x^{1-n}}}{n}$
 <!--SR:!2024-01-22,19,225-->
 - $f(x)=a^{x}\rightarrow f'(x)=$::$\ln(a)a^{x}$
-<!--SR:!2024-01-14,17,190-->
+<!--SR:!2024-02-16,33,190-->
 - $f(x)=e^{x}\rightarrow f'(x)=$::$e^{x}$
 <!--SR:!2024-03-03,59,250-->
 - $f(x)=\log_{a}(x)\rightarrow f'(x)=$::$\frac{1}{\ln(a)x}$
@@ -58,18 +58,18 @@ Tangente et normale pour une fonction représente:
 - $h(x)=\frac{f(x)}{g(x)}\rightarrow h'(x)=$::$\frac{f'(x)g(x)-f(x)g'(x)}{g(x)^{2}}$
 <!--SR:!2024-02-10,40,230-->
 - $h(x)=f(g(x))\rightarrow h'(x)=$::$f'(g(x))g'(x)$
-<!--SR:!2024-01-14,25,230-->
+<!--SR:!2024-03-10,56,230-->
 
 ### Première et seconde dérivée
 - Si $f'(x)=0$ alors ce point est:: un extremum local
 <!--SR:!2024-01-25,23,240-->
 - Si $f''(x)=0$ alors ce point est:: un point d'inflextion
-<!--SR:!2024-01-11,16,240-->
+<!--SR:!2024-02-17,37,240-->
 - Si $f'(x)=0$ et $f''(x)<0$ alors ce point est:: un maximum local
 <!--SR:!2024-01-19,18,240-->
 - Si $f'(x)=0$ et $f''(x)>0$ alors ce point est:: un minimum local
 <!--SR:!2024-02-13,36,240-->
 - $f$ est concave haut si $f''(x)$::$>0$
-<!--SR:!2024-01-11,2,199-->
+<!--SR:!2024-01-24,9,199-->
 - $f$ est concave bas si $f''(x)$::$<0$
 <!--SR:!2024-01-23,13,239-->

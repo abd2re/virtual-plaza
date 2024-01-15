@@ -11,9 +11,9 @@ Created: 2023-10-27
 - $P(k)=0$ si:: $(x-k)$ est un facteur de $P(x)$
 <!--SR:!2024-01-21,17,170-->
 - $P(x)$=::$(x-k)\times Q(x)$, où $Q(x)$ est un polynôme qui est un facteur de $P(x)$
-<!--SR:!2024-01-14,46,250-->
+<!--SR:!2024-05-07,114,250-->
 - $\frac{P(x)}{x-k}$=::$Q(x)$
-<!--SR:!2024-01-11,44,250-->
+<!--SR:!2024-04-29,109,250-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors il faut que:: $P\left(\frac{b}{a}\right)=0$
 <!--SR:!2024-02-23,66,230-->
 ## Théorème des restes
@@ -61,7 +61,7 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 - $ax^{2}+bx+c$ est le diviseur ($\deg 2$)
 - $Q(x)$ est le quotient ($\deg n-2$)
 - $ex+f$ est le reste ($\deg <2$)
-<!--SR:!2024-01-15,47,250-->
+<!--SR:!2024-02-07,23,230-->
 
 ### Résolution d'équations polynomiales
 - Tout polynôme réel peut être exprimé comme un produit:: de facteurs linéaires réels et de facteurs quadratiques irréductibles réels.

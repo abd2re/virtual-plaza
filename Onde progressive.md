@@ -37,7 +37,7 @@ Les ondes mécaniques progressives ont la propriété de pouvoir se propager dan
 
 ## Ondes transversales et longitudinales
 Une onde transversale est:: une onde dans laquelle les particules oscillent perpendiculairement à la direction du mouvement et où le transfert d'énergie se fait perpendiculairement aussi.
-<!--SR:!2024-01-11,9,130-->
+<!--SR:!2024-01-22,11,130-->
 - Les ondes transversales présentent des zones de:: pics et de creux
 <!--SR:!2024-03-17,68,230-->
 - Exemples d'ondes transversales:: Ondes électromagnétiques, par exemple radio, lumière visible, UV. Vibrations sur une corde de guitare

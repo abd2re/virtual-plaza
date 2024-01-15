@@ -35,7 +35,7 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2024-01-12,10,130-->
+<!--SR:!2024-01-24,12,130-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2024-07-04,180,263-->
@@ -86,7 +86,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 Graphique avec explications
 ?
 ![[image-20230921082031502.png]]
-<!--SR:!2024-01-14,31,203-->
+<!--SR:!2024-03-16,62,203-->
 
 ### Spirale inflationniste salaires-prix
 - Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs.

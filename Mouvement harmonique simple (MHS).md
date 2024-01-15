@@ -11,7 +11,7 @@ Un mouvement oscillatoire qui s'effectue de part et d'autre d'une position d'éq
 
 ## Définition de quelques grandeurs
 - Période ($T$) en seconde ($s$)=>:: Temps mis pour faire une oscillation.
-<!--SR:!2024-01-14,37,250-->
+<!--SR:!2024-04-18,95,250-->
 - Fréquence ($f$) en hertz ($Hz$) ou ($s^{-1}$)=>:: Nombre d'oscillations par unité de temps.
 <!--SR:!2024-01-29,48,250-->
 - Déplacement ($x$ ou $\theta$)=>:: Représente la distance maximale du système par rapport à la position d'équilibre. Il peut être représenté par une longueur ou un angle (c'est une grandeur algébrique).

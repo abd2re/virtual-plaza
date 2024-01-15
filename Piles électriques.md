@@ -33,7 +33,7 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 - $U=e$ si:: $I=0$
 <!--SR:!2025-01-31,460,246-->
 - $e$ c'est la tension aux bornes de la pile quand:: elle ne fournit pas de courant
-<!--SR:!2024-01-11,231,246-->
+<!--SR:!2024-05-07,117,226-->
 - Un pile idéale est une pile qui:: n'a pas de résistance interne $r=0$ (le graphe intensité-tension est constante en $e$)
 <!--SR:!2024-02-24,98,226-->
 
@@ -42,7 +42,7 @@ circuit équivalent d'une pile réel::![[equivalent e;r]]
 
 ## Circuits avec des piles
 formule emf::$$e=(r+R)I$$
-<!--SR:!2024-01-12,15,146-->
+<!--SR:!2024-01-18,6,130-->
 
 
 ## Circuits simples comportant des piles, récepteurs et resistors

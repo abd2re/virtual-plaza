@@ -17,7 +17,7 @@ L'interférence se produit lorsque:: deux ou plusieurs ondes se combinent pour p
 Différence de chemin d'une interférence constructive (formule)=::$|S_{2}-S_{1}|=n\lambda$
 <!--SR:!2024-02-25,47,250-->
 Différence de chemin d'une interférence destructive (formule)=::$|S_{2}-S_{1}|=\left(n+\frac{1}{2}\right)\lambda$
-<!--SR:!2024-01-14,23,250-->
+<!--SR:!2024-03-09,55,250-->
 
 ## Experience des fentes de Young
 Deux sources sont dites cohérentes lorsque:: les ondes qu'elles émettent ont la même fréquence et une différence de phase constante.
@@ -29,7 +29,7 @@ $$\large{\sin\theta=\frac{n\lambda}{d}}$$
 - $\theta$ = angle entre la distance entre les deux plaques et la médiatrice
 - $n\lambda$ = déphasage des deux ondes
 - $d$ = distance entre les deux fentes
-<!--SR:!2024-01-13,7,207-->
+<!--SR:!2024-01-27,14,207-->
 
 Formule de la frange:
 ?
@@ -38,10 +38,10 @@ $$\large{s=\frac{n\lambda D}{d}}$$
 - $n\lambda$ = déphasage des deux ondes
 - $D$ = distance entre les deux plaques
 - $d$ = distance entre les deux fentes
-<!--SR:!2024-01-12,7,227-->
+<!--SR:!2024-01-28,16,227-->
 
 Représentation:
 ?
 ![[image-20231217084846194.png|center|525]]
-<!--SR:!2024-01-11,8,187-->
+<!--SR:!2024-01-24,13,187-->
 

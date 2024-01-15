@@ -23,7 +23,7 @@ Représentation supplémentaires du Fetch-execute cycle:
 ?
 ![[image-20230113135949209.png]]
 ![[image-20230113135958071.png]]
-<!--SR:!2024-01-13,206,228-->
+<!--SR:!2024-04-24,102,208-->
 
 
 

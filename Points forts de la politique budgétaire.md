@@ -11,5 +11,5 @@ Les points forts sont (3):
 - Capacité à cibler des secteurs spécifiques de l’économie
 - Dépenses publiques efficaces en période de profonde récession
 - Garantir une croissance économique, et inflation faible & chômage faible et stable
-<!--SR:!2024-01-14,9,190-->
+<!--SR:!2024-01-19,5,170-->
 

@@ -8,7 +8,7 @@ Created: 2023-09-08
 ## Précision
 ?
 La précision d'une expérience montre comment cette expérience est reproductible. Les valeurs des mesures sont poches les une des autres.
-<!--SR:!2024-01-14,19,130-->
+<!--SR:!2024-02-11,28,130-->
 
 ## Exactitude
 ?

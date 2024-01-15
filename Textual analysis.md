@@ -49,7 +49,7 @@ Key terms:
 - Diction:: the words chosen in a text
 <!--SR:!2024-04-07,126,250-->
 - Tone:: the attitude of the writer or speaker towards his or her subject
-<!--SR:!2024-01-12,64,210-->
+<!--SR:!2024-05-24,133,210-->
 - Figurative language:: language that uses figures of speech, such as metaphors or symbols, to embellish meaning beyond the literal
 <!--SR:!2024-03-02,98,230-->
 

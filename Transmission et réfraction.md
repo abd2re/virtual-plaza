@@ -48,7 +48,7 @@ $$\large{\frac{n_{1}}{n_{2}}=\frac{\sin\theta_{2}}{\sin\theta_{1}}=\frac{v_{2}}{
 Représentation (avec éléments):
 ?
 ![[image-20231201144322670.png|center|700]]
-<!--SR:!2024-01-15,12,230-->
+<!--SR:!2024-02-11,27,230-->
 
 Un angle critique est:: un angle incident au delà duquel l'angle réfracté n'existe plus, il n'ya plus de réfraction: on a une réflexion totale.
 <!--SR:!2024-02-21,44,223-->

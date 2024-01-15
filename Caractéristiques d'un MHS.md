@@ -15,7 +15,7 @@ Un mouvement harmonique simple a les caractéristiques suivantes (5):
 <!--SR:!2024-02-20,61,250-->
 
 La période est indépendante de:: l'amplitude.
-<!--SR:!2024-01-11,29,210-->
+<!--SR:!2024-03-11,60,210-->
 
 Graphiques position-vitesse-accélération en fonction du temps
 ?
@@ -33,3 +33,4 @@ Longueur d'onde et amplitude dans un graphe déplacement-distance:
 <!--SR:!2024-03-17,70,244-->
 
 Distance parcouru durant une période est égale à:: $4A$.
+<!--SR:!2024-01-17,2,244-->

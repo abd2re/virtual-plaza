@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "374cbafc22c54614",
+        "id": "39d014f8688ab579",
         "type": "tabs",
         "children": [
           {
-            "id": "a9cf9757e9924b03",
+            "id": "f6aeedc6ffef769d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,117 +16,12 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "_math",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_math.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":21.1}"
-                },
-                {
-                  "title": "Quotas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quotas.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Tarifs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tarifs.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"scroll\":9.945454545454545}"
-                },
-                {
-                  "title": "Quotas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quotas.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Tarifs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tarifs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Quotas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quotas.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
-                },
-                {
-                  "title": "Chapitre 2 - Types de protection commerciale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Types de protection commerciale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Quotas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quotas.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Chapitre 2 - Types de protection commerciale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Types de protection commerciale.md\",\"mode\":\"preview\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Quotas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quotas.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Chapitre 2 - Types de protection commerciale",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Chapitre 2 - Types de protection commerciale.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                },
-                {
-                  "title": "Quotas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Quotas.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":5},\"to\":{\"line\":1,\"ch\":5}}}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Intégration.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "160dee1a850860fa",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Tarifs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Tarifs.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dérivation.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -249,7 +144,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intégration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,7 +169,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Intégration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -327,7 +220,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6688979128884832,
+                  "scale": 0.34664776449741763,
                   "close": true
                 }
               }
@@ -348,7 +241,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Intégration.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -388,9 +280,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Intégration.md"
-              }
+              "state": {}
             }
           },
           {
@@ -424,9 +314,7 @@
             },
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Intégration.md"
-              }
+              "state": {}
             }
           },
           {
@@ -523,7 +411,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Intégration.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -575,7 +462,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8565962844624975,
+                  "scale": 0.4696494293307539,
                   "close": true
                 }
               }
@@ -603,45 +490,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9cf9757e9924b03",
+  "active": "f6aeedc6ffef769d",
   "lastOpenFiles": [
-    "Dérivation.md",
-    "Intégration.md",
-    "Tarifs.md",
-    "_math.md",
-    "Formules de Viète.md",
-    "Quotas.md",
-    "assets/Quotas/image-20240110084154805.png",
+    "Lentilles convergentes et divergentes.md",
+    "Application de la conservation de la quantité de mouvement.md",
+    "Fission et fusion nucléaire.md",
+    "assets/Application de la conservation de la quantité de mouvement/image-20231019112159997.png",
+    "Theme 2-Mécanique.md",
+    "Chapitre 2 - Forces et lois de Newton.md",
+    "Chapitre 1 - Cinématique.md",
+    "Chapitre 1 - Introduction à l'imagerie.md",
+    "Option - Imagerie.md",
     "_physics.md",
-    "assets/Quotas/image-20240110083125478.png",
-    "assets/Tarifs/image-20231220095125824.png",
-    "Avantages du commerce international.md",
-    "assets/Avantages du commerce international/image-20231214123330625.png",
-    "assets/Quotas",
-    "Theme 3-Économie Mondiale.md",
-    "Chapitre 1 - Avantages du commerce international.md",
-    "Chapitre 2 - Types de protection commerciale.md",
-    "Types de protection commerciale.md",
-    "_economy.md",
-    "Transmission et réfraction.md",
-    "Caractéristiques d'un MHS.md",
-    "Theme 4-Oscillations et ondes.md",
-    "Chapitre 1 - Mouvement harmonique simple (MHS).md",
-    "Période d'un pendule simple et élastique.md",
-    "Chapitre 4 - Quantité de mouvement.md",
-    "Diffraction.md",
-    "assets/Diffraction/image-20231204120001860.png",
-    "Interférence.md",
-    "assets/Interférence/image-20231217084846194.png",
-    "assets/Changement d'énergies au cour d'un MHS/image-20231113103206092.png",
-    "Mouvement harmonique simple (MHS).md",
     "Chapitre 1 - Analyse dimensionnelle.md",
-    "Files.md",
-    "Chapitre 2 - Structure de données abstraites.md",
-    "Piles.md",
+    "Theme 1-Mesures et incertitudes.md",
+    "Intégration.md",
+    "Amplitude et intensité d'une onde.md",
+    "Chapitre 3 - Caractéristiques des ondes.md",
+    "Chapitre 3 - Travail d'une force.md",
+    "_math.md",
+    "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
+    "Chapitre 1 - Mouvement harmonique simple (MHS).md",
+    "Chapitre 2 - Ondes progressives périodiques.md",
+    "Theme 4-Oscillations et ondes.md",
+    "Dérivation.md",
     "assets/Dérivation/image-20231128163111952.png",
-    "assets/Politique monétaire/image-20231108093526578.png",
-    "assets/Politiques monétaires expansionnistes et restrictives/image-20231117192814757.png",
+    "Position relative parabole et droite.md",
+    "Identités trigonométriques.md",
+    "Theme 7-Physique nucléaire.md",
+    "Chapitre 4 - Comportement des ondes.md",
+    "assets/Diffraction/image-20231204120001860.png",
+    "assets/Transmission et réfraction/image-20231201144322670.png",
+    "assets/Transmission et réfraction/image-20231129211352056.png",
+    "assets/Réflexion/image-20231129110409022.png",
+    "assets/Réflexion/image-20231129103258954.png",
+    "assets/Polarisation/image-20231120115211923.png",
+    "assets/Interférence/image-20231217084846194.png",
+    "assets/Nouvelle expression de la deuxième loi de Newton/image-20231125155327494.png",
+    "assets/Subventions (protection commerciale)",
+    "assets/Quotas",
     "assets/Tarifs",
     "assets/Diagrammes de Sankey",
     "assets/Avantages du commerce international",
@@ -650,7 +537,6 @@
     "assets/Politiques d’offre liées aux incitations",
     "assets/Diffraction",
     "assets/Transmission et réfraction",
-    "assets/Réflexion",
-    "assets/Politique budgétaire expansionniste et restrictive"
+    "assets/Réflexion"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "cssTheme": "Catppuccin",
-  "baseFontSize": 21,
+  "baseFontSize": 25,
   "theme": "moonstone",
   "accentColor": "#ffffff",
   "enabledCssSnippets": [

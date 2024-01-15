@@ -80,7 +80,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $\cos\theta$=::$\frac{a}{|z|}$
 <!--SR:!2024-01-26,56,236-->
 - $\sin\theta$=::$\frac{b}{|z|}$
-<!--SR:!2024-01-12,21,216-->
+<!--SR:!2024-02-25,44,216-->
 - $|zw|$=::$|z||w|$
 <!--SR:!2024-03-16,98,276-->
 - $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
@@ -94,7 +94,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $\theta$=::$\tan^{-1}(\frac{b}{a})$
 <!--SR:!2024-03-15,84,236-->
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
-<!--SR:!2024-01-15,40,196-->
+<!--SR:!2024-02-04,20,176-->
 - $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
 <!--SR:!2024-01-19,10,194-->
 

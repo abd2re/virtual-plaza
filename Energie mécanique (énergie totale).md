@@ -18,7 +18,7 @@ L'énergie mécanique d'un solide soumis qu'a des [[Force conservative|forces co
 <!--SR:!2024-01-17,10,130-->
 
 Formule::$$\large{\sum E_{M}=0\leftrightarrow{E_{M_{B}}=E_{M_{A}}}}$$
-<!--SR:!2024-01-14,28,230-->
+<!--SR:!2024-03-19,65,230-->
 
 ## Non-conservation de l'énergie mécanique
 ?

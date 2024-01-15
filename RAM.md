@@ -18,9 +18,9 @@ RAM c'est une abbreviation pour:: Random Access Memory
 
 Il existe deux principaux types de RAM :
 ?
-- la RAM dynamique (DRAM) 
+- la RAM dynamique (DRAM)
 - la RAM statique (SRAM)
-<!--SR:!2024-01-14,220,250-->
+<!--SR:!2025-07-16,549,250-->
 
 Différence entre DRAM et SRAM:: La SRAM est plus rapide mais plus chère que la DRAM, et c'est pourquoi la DRAM est préférée pour la RAM principale d'un système informatique.
 <!--SR:!2025-01-26,442,250-->

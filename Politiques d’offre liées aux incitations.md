@@ -18,12 +18,12 @@ Les politiques liées aux incitations comprennent (2):
 - Ils inciteront également les chômeurs à trouver un emploi plus rapidement, car:: le coût d'opportunité du chômage est plus élevé.
 <!--SR:!2024-02-05,32,230-->
 - Si ces réductions d'impôts sont permanentes et que les individus maintiennent des heures de travail supplémentaires, l'offre globale à long terme:: augmentera.
-<!--SR:!2024-01-14,20,250-->
+<!--SR:!2024-03-03,49,250-->
 
 Représentation de la courbe de Laffer:
 ?
 ![[image-20231207140020679.png]]
-<!--SR:!2024-01-12,4,237-->
+<!--SR:!2024-01-19,7,237-->
 
 ## 2. Baisse de l'impôt sur les sociétés et de l'impôt sur les plus-values
 <!--SR:!2023-12-21,1,226-->

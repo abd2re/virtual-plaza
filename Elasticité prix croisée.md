@@ -11,7 +11,7 @@ L'elasticé prix croisée du bien $j$ par rapport au bien $i$ est la réactivit�
 Formule de l'elasticté prix croisée:
 ?
 $$EPC_{j/i}=\frac{\% \Delta Q_{j}}{\% \Delta P_{i}}$$
-<!--SR:!2024-01-15,96,230-->
+<!--SR:!2024-03-01,46,210-->
 
 - L'EPC détermine les relations entre les biens a partir:: de son signe
 <!--SR:!2024-07-25,312,210-->

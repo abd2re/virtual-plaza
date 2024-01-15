@@ -38,7 +38,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 Fuites =:: Taxes(T) + Epargnes(S) + Importations(M)
 <!--SR:!2024-05-03,184,230-->
 Injection =:: Dépenses gouvernementales(G) + Investissements(I) + Exportations(X)
-<!--SR:!2024-01-14,117,221-->
+<!--SR:!2024-03-12,58,201-->
 
 ### Fuites et injections
 - Si fuites = injections alors :: on est dans une économie équilibrée

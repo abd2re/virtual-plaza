@@ -14,4 +14,4 @@ La courbe keynésienne est divisée en trois sections :
 -   La section en pente ascendante, où:: il y a une certaine capacité de réserve mais nous commençons à voir une certaine concurrence pour les ressources rares
 <!--SR:!2024-03-30,186,230-->
 -   La section verticale, où:: le plein emploi est atteint
-<!--SR:!2024-01-15,155,250-->
+<!--SR:!2024-04-01,77,230-->

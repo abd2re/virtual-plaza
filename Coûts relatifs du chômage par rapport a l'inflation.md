@@ -7,7 +7,7 @@ Created: 2023-10-04
 # Coûts relatifs du chômage par rapport a l'inflation
 
 - Une baisse du chômage cause:: une hausse de l'inflation.
-<!--SR:!2024-01-14,62,250-->
+<!--SR:!2024-06-16,154,250-->
 - Une hausse de chômage cause:: une baisse de l'inflation.
 <!--SR:!2024-02-20,96,270-->
 - Une hausse de l'inflation cause:: une baisse de chômage.

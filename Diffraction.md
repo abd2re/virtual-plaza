@@ -19,7 +19,7 @@ Représentation
 - La diffraction est la plus importante lorsque la largeur de la fente est:: approximativement égale ou inférieure à la longueur d'onde.
 <!--SR:!2024-01-20,23,215-->
 - Au fur et à mesure que la taille de l'espace augmente, l'effet s'atténue progressivement jusqu'à ce que, dans le cas où l'espace est beaucoup plus grand que la longueur d'onde, les ondes:: ne sont plus réparties.
-<!--SR:!2024-01-13,7,155-->
+<!--SR:!2024-01-25,12,155-->
 - La seule propriété d'une onde qui change lorsqu'elle est diffractée est:: son amplitude parce qu'une partie de l'énergie est dissipée lorsqu'une onde est déviée à travers un espace.
 <!--SR:!2024-01-30,30,235-->
 

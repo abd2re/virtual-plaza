@@ -39,7 +39,7 @@ $$q=ne$$
 - Un isolant:: ne laisse pas passer le courant électrique
 <!--SR:!2024-03-30,151,210-->
 Le courant électrique est:: un déplacement de charges.
-<!--SR:!2024-01-15,207,247-->
+<!--SR:!2024-04-27,103,227-->
 
 <!--SR:!2023-05-07,94,230-->
 Les isolants ne conduisent pas l'électricité car:: les charges électriques y sont localisés contrairement aux conducteurs où les charges se déplacent.

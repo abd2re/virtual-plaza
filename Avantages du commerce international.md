@@ -27,4 +27,4 @@ Avantages du commerce international, ils sont (9):
 - Économies d'échelle
 - Allocation plus efficace des ressources
 - Production plus efficace
-<!--SR:!2024-01-11,6,166-->
+<!--SR:!2024-01-20,9,166-->
