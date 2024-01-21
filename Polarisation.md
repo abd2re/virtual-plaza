@@ -8,7 +8,7 @@ Created: 2023-11-20
 - La polarisation ne se produit que pour les ondes:: transversales.
 <!--SR:!2024-02-02,24,208-->
 - La polarisation de la lumière fait référence à:: l'orientation de l'oscillation dans le champ électrique sous-jacent.
-<!--SR:!2024-01-19,17,150-->
+<!--SR:!2024-02-13,25,150-->
 
 Représentation d'une lumière non-polarisée à une lumière polarisée:
 ?
@@ -41,4 +41,4 @@ Représentation
 <!--SR:!2024-02-07,31,196-->
 
 Cet angle incident $\theta_{1}$ est égale à::$$\theta_{1}=\tan^{-1}\left(\frac{n_{2}}{n_{1}}\right)$$
-<!--SR:!2024-01-20,11,196-->
+<!--SR:!2024-02-10,21,196-->

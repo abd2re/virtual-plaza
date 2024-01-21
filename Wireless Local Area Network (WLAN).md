@@ -11,7 +11,7 @@ Created: 2023-02-25
 <!--SR:!2024-03-13,129,230-->
 
 - Un WLAN est parfois appelé:: réseau Wi-Fi, mais peut inclure d'autres technologies de transmission.
-<!--SR:!2024-01-17,182,230-->
+<!--SR:!2024-04-16,90,210-->
 
 Représentation de la différence entre [[Local Area Network (LAN)]] et [[Wireless Local Area Network (WLAN)]]:
 ?

@@ -7,7 +7,7 @@ Created: 2023-10-27
 # Polynômes
 ## Théorème des facteurs
 - $(x - k)$ est un facteur de $P(x)$ si:: $P(k)= 0$
-<!--SR:!2024-01-19,51,250-->
+<!--SR:!2024-05-27,129,250-->
 - $P(k)=0$ si:: $(x-k)$ est un facteur de $P(x)$
 <!--SR:!2024-01-21,17,170-->
 - $P(x)$=::$(x-k)\times Q(x)$, où $Q(x)$ est un polynôme qui est un facteur de $P(x)$
@@ -83,10 +83,10 @@ Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factoris
 - La somme de toutes les pairs de racines est égale à::$$\sum r_{i}r_{j}=-\frac{a_{n-2}}{a_{n}}$$
 <!--SR:!2024-04-17,102,250-->
 - La somme de toutes les triplets de racines est égale à::$$\sum r_{i}r_{j}r_{k}=-\frac{a_{n-3}}{a_{n}}$$
-<!--SR:!2024-01-17,16,190-->
+<!--SR:!2024-02-15,29,190-->
 
 ## Formules
 - $x^{3}-1$=::$(x-1)(x^{2}+x+1)$
 <!--SR:!2024-02-14,51,262-->
 - $x^{3}+1$=::$(x+1)(x^{2}-x+1)$
-<!--SR:!2024-01-19,33,242-->
+<!--SR:!2024-04-07,79,242-->

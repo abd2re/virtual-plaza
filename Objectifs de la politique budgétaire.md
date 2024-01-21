@@ -14,7 +14,7 @@ Les objectifs sont (6):
 - Réduire les fluctuations du cycle économique
 - Répartition équitable des revenus
 - Solde extérieur
-<!--SR:!2024-01-19,28,226-->
+<!--SR:!2024-01-31,12,206-->
 
 ## 1. Inflation faible et stable
 La politique budgétaire peut être constamment ajustée pour créer un taux d'inflation faible et stable. La stabilité des prix donne une:: plus grande certitude aux entreprises.
@@ -37,7 +37,7 @@ Les gouvernements peuvent améliorer répartition de salaire par (3):: les impô
 Comment les impôts indirects peuvent être utilisées ?
 ?
 Les gouvernements peuvent lever des taxes plus élevées sur les produits de luxe comme le caviar et le parfum. Dans le même temps, le gouvernement peut lever des impôts moins élevés sur des produits essentiels tels que la nourriture, l’électricité ou l’eau. Ainsi, les consommateurs qui ont la plus grande capacité de payer paieront davantage d’impôts indirects. De cette manière, le gouvernement peut redistribuer les revenus des segments les plus riches de la société vers ceux qui sont moins aisés.
-<!--SR:!2024-01-19,30,246-->
+<!--SR:!2024-04-01,73,246-->
 
 Comment les impôts directs peuvent être utilisées ?
 ?

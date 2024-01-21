@@ -4,24 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "39d014f8688ab579",
+        "id": "dd0f22a6240736f3",
         "type": "tabs",
         "children": [
           {
-            "id": "f6aeedc6ffef769d",
+            "id": "03c5b16a168cdaf4",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Statistiques I.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -40,15 +36,6 @@
           {
             "id": "7fce6f75be454948",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "recent-files",
               "state": {}
@@ -57,15 +44,6 @@
           {
             "id": "51dda0e5e23afe95",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "file-explorer",
               "state": {
@@ -76,15 +54,6 @@
           {
             "id": "556621205f93e4a8",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "search",
               "state": {
@@ -100,15 +69,6 @@
           {
             "id": "0cfede8ba06a9bab",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "bookmarks",
               "state": {}
@@ -132,18 +92,10 @@
           {
             "id": "a02fa047337fe061",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statistiques I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,18 +109,10 @@
           {
             "id": "1b9db96793cc1a3f",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Statistiques I.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +164,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.34664776449741763,
+                  "scale": 0.4767936074178061,
                   "close": true
                 }
               }
@@ -229,18 +173,10 @@
           {
             "id": "568ec310769fde46",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Statistiques I.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -249,15 +185,6 @@
           {
             "id": "ec10837750f36722",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "tag",
               "state": {
@@ -269,32 +196,16 @@
           {
             "id": "6a6729bd158b8628",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Statistiques I.md"
+              }
             }
           },
           {
             "id": "e110d8833e800e55",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "calendar",
               "state": {}
@@ -303,32 +214,16 @@
           {
             "id": "efb1b92f0b3bf94d",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Statistiques I.md"
+              }
             }
           },
           {
             "id": "bc7761aa47b39f34",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "all-properties",
               "state": {
@@ -341,15 +236,6 @@
           {
             "id": "b3fd0fd03faf8b8c",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "review-queue-list-view",
               "state": {}
@@ -358,15 +244,6 @@
           {
             "id": "66003aabcb3ef8f7",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "mathpad-view",
               "state": {}
@@ -375,15 +252,6 @@
           {
             "id": "1cc898be6e317146",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
@@ -399,18 +267,10 @@
           {
             "id": "d878fbac49dc6db2",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Statistiques I.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -462,7 +322,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4696494293307539,
+                  "scale": 0.5157255647587218,
                   "close": true
                 }
               }
@@ -484,49 +344,51 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "open-vscode:VSCode": false
     }
   },
-  "active": "f6aeedc6ffef769d",
+  "active": "03c5b16a168cdaf4",
   "lastOpenFiles": [
-    "Lentilles convergentes et divergentes.md",
-    "Application de la conservation de la quantité de mouvement.md",
-    "Fission et fusion nucléaire.md",
-    "assets/Application de la conservation de la quantité de mouvement/image-20231019112159997.png",
-    "Theme 2-Mécanique.md",
-    "Chapitre 2 - Forces et lois de Newton.md",
-    "Chapitre 1 - Cinématique.md",
-    "Chapitre 1 - Introduction à l'imagerie.md",
-    "Option - Imagerie.md",
+    "Énergie spécifique.md",
     "_physics.md",
-    "Chapitre 1 - Analyse dimensionnelle.md",
-    "Theme 1-Mesures et incertitudes.md",
+    "Chapitre 1 - Sources d'énergie.md",
+    "Option - Imagerie.md",
+    "Theme 2-Mécanique.md",
+    "Cycle Fetch-Execute.md",
+    "assets/Cycle Fetch-Execute/image-20230113135958071.png",
+    "assets/Cycle Fetch-Execute/image-20230113135949209.png",
+    "assets/Cycle Fetch-Execute/image-20230112221910659.png",
+    "Avantages et inconvénients des blocs commerciaux.md",
+    "Chapitre 4 - Intégration économique.md",
+    "Blocs commerciaux.md",
+    "assets/Blocs commerciaux/image-20240120162728341.png",
+    "assets/Blocs commerciaux/image-20240120162714043.png",
+    "assets/Blocs commerciaux",
+    "Theme 3-Économie Mondiale.md",
+    "Accords commerciaux préférentiels.md",
+    "Chapitre 2 - Types de protection commerciale.md",
+    "_economy.md",
+    "Theme 1-Micro-économie.md",
+    "Chapitre 1 - La Demande.md",
     "Intégration.md",
-    "Amplitude et intensité d'une onde.md",
-    "Chapitre 3 - Caractéristiques des ondes.md",
-    "Chapitre 3 - Travail d'une force.md",
-    "_math.md",
-    "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md",
-    "Chapitre 1 - Mouvement harmonique simple (MHS).md",
-    "Chapitre 2 - Ondes progressives périodiques.md",
-    "Theme 4-Oscillations et ondes.md",
-    "Dérivation.md",
-    "assets/Dérivation/image-20231128163111952.png",
-    "Position relative parabole et droite.md",
+    "Sources d'énergie primaire et secondaire.md",
+    "Diagrammes de Sankey.md",
+    "Theme 8-Production d'énergie.md",
+    "Lentilles convergentes et divergentes.md",
+    "Untitled 22.md",
+    "Excalidraw/Drawing 2024-01-18 16.47.36.excalidraw.md",
+    "Barrières administratives.md",
+    "Libre-échange contre protection commerciale.md",
+    "Chapitre 3 - Arguments pour et contre le contrôle et la protection des échanges.md",
     "Identités trigonométriques.md",
-    "Theme 7-Physique nucléaire.md",
-    "Chapitre 4 - Comportement des ondes.md",
-    "assets/Diffraction/image-20231204120001860.png",
-    "assets/Transmission et réfraction/image-20231201144322670.png",
-    "assets/Transmission et réfraction/image-20231129211352056.png",
-    "assets/Réflexion/image-20231129110409022.png",
-    "assets/Réflexion/image-20231129103258954.png",
-    "assets/Polarisation/image-20231120115211923.png",
-    "assets/Interférence/image-20231217084846194.png",
-    "assets/Nouvelle expression de la deuxième loi de Newton/image-20231125155327494.png",
+    "assets/Arguments en faveur de la protection commerciale/image-20240117085813390.png",
+    "assets/Arguments en faveur de la protection commerciale/image-20240117082014593.png",
+    "assets/Arguments en faveur de la protection commerciale",
+    "assets/Quotas/image-20240110084154805.png",
+    "assets/Subventions (protection commerciale)/image-20240111123109352.png",
+    "assets/Application de la conservation de la quantité de mouvement/image-20231019112159997.png",
     "assets/Subventions (protection commerciale)",
     "assets/Quotas",
     "assets/Tarifs",
@@ -535,8 +397,6 @@
     "2.7 m.canvas",
     "assets/Interférence",
     "assets/Politiques d’offre liées aux incitations",
-    "assets/Diffraction",
-    "assets/Transmission et réfraction",
-    "assets/Réflexion"
+    "assets/Diffraction"
   ]
 }

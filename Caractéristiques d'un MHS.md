@@ -33,4 +33,4 @@ Longueur d'onde et amplitude dans un graphe déplacement-distance:
 <!--SR:!2024-03-17,70,244-->
 
 Distance parcouru durant une période est égale à:: $4A$.
-<!--SR:!2024-01-17,2,244-->
+<!--SR:!2024-01-23,6,244-->

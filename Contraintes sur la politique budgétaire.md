@@ -11,7 +11,7 @@ Les contraintes sont (3):
 - Pression politique
 - Décalages temporels
 - Dette viable
-<!--SR:!2024-01-16,13,230-->
+<!--SR:!2024-02-14,29,230-->
 
 ## 1. Pression politique
 ?
@@ -36,4 +36,4 @@ De nombreux pays ont réagi aux niveaux élevés d’endettement en mettant en �
 <!--SR:!2024-02-08,42,250-->
 
 Même s’il peut être financièrement judicieux pour un gouvernement de réduire ses dépenses lorsque les emprunts ont trop augmenté, il est important de garder à l’esprit que cela peut avoir un impact négatif sur:: la demande globale d’une économie.
-<!--SR:!2024-01-17,12,230-->
+<!--SR:!2024-01-23,6,210-->

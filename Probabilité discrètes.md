@@ -47,7 +47,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(A)+P(A')$=::1
 <!--SR:!2024-05-14,142,250-->
 - $P(A\cup B)$ (2)=::$P(A)+P(B)-P(A\cap B)=P(A\cap B')+P(A\cap B)+P(A'\cap B)$
-<!--SR:!2024-01-19,37,210-->
+<!--SR:!2024-04-05,77,210-->
 - $P(A\Delta B)$=::$P(A\cap B')\cup P(A'\cap B)$
 <!--SR:!2024-02-04,59,250-->
 
@@ -59,7 +59,7 @@ Pour des événements indépendants A et B, $P(A\cap B)$=:: $P(A)P(B)$
 
 ## Événements dépendants
 Deux événements sont dépendants si:: la survenance de l'un d'entre eux affecte la probabilité que l'autre se produise. L'échantillonnage sans remplacement en est un exemple.
-<!--SR:!2024-01-17,69,252-->
+<!--SR:!2024-07-08,173,252-->
 
 Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
 <!--SR:!2024-03-01,89,232-->

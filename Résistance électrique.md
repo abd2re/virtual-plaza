@@ -22,7 +22,7 @@ $$R=\frac{\rho l}{A}$$
 Caractéristique intensité-tension du resistor a comme graphe::![[Résistance électrique.png]]
 <!--SR:!2024-04-12,154,210-->
 - Formule de la loi d'Ohm::$$U=RI$$ car $U$ et $I$ sont proportionnelles.
-<!--SR:!2024-01-20,90,210-->
+<!--SR:!2024-03-04,44,190-->
 
 - Loi d'Ohm:: A [[température]] constante la tension et l'intensité aux bornes d'un conducteurs sont proportionnelles
 <!--SR:!2024-04-06,104,243-->

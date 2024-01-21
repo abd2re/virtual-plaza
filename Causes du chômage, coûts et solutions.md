@@ -19,7 +19,7 @@ Dans le cas d'une récession, une réduction de la [[demande globale]] entraîne
 <!--SR:!2024-01-25,30,210-->
 
 Les récessions peuvent également provoquer un [[choc d'offre]] lorsque l'[[offre]] globale diminue, entraînant une hausse des [[coûts de production]] et entraînant ce que l'on appelle:: une baisse de l'offre globale (stagflation).
-<!--SR:!2024-01-20,31,230-->
+<!--SR:!2024-02-06,17,210-->
 
 Graphique avec axes et explication du nombre de chômeurs
 ?
@@ -74,7 +74,7 @@ Quels sont les coûts économiques du chômage (5) ?:
 3. Augmentation du coût des allocations de chômage
 4. Perte de revenus pour les particuliers
 5. De plus grandes disparités dans la répartition des revenus
-<!--SR:!2024-01-19,11,130-->
+<!--SR:!2024-02-01,13,130-->
 
 Quels sont les coûts personnels du chômage (2) ?:
 ?

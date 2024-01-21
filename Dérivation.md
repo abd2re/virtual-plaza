@@ -10,7 +10,7 @@ Created: 2023-11-28
 - Autre notation de $f'(x)$::$\frac{dy}{dx}$
 <!--SR:!2024-02-20,51,250-->
 - Autre notation de $f''(x)$::$\frac{d^{2}y}{dx^{2}}$
-<!--SR:!2024-01-16,14,185-->
+<!--SR:!2024-02-10,25,185-->
 
 Tangente et normale pour une fonction représente:
 ?
@@ -38,7 +38,7 @@ Tangente et normale pour une fonction représente:
 - $f(x)=e^{x}\rightarrow f'(x)=$::$e^{x}$
 <!--SR:!2024-03-03,59,250-->
 - $f(x)=\log_{a}(x)\rightarrow f'(x)=$::$\frac{1}{\ln(a)x}$
-<!--SR:!2024-01-17,20,190-->
+<!--SR:!2024-01-29,12,170-->
 - $f(x)=\ln(x)\rightarrow f'(x)=$::$\frac{1}{x}$
 <!--SR:!2024-02-04,40,250-->
 - $f(x)=\sin(x)\rightarrow f'(x)=$::$\cos(x)$
@@ -66,7 +66,7 @@ Tangente et normale pour une fonction représente:
 - Si $f''(x)=0$ alors ce point est:: un point d'inflextion
 <!--SR:!2024-02-17,37,240-->
 - Si $f'(x)=0$ et $f''(x)<0$ alors ce point est:: un maximum local
-<!--SR:!2024-01-19,18,240-->
+<!--SR:!2024-03-01,42,240-->
 - Si $f'(x)=0$ et $f''(x)>0$ alors ce point est:: un minimum local
 <!--SR:!2024-02-13,36,240-->
 - $f$ est concave haut si $f''(x)$::$>0$

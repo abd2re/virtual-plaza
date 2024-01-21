@@ -10,7 +10,7 @@ Les politiques de l'offre sont conçues pour (2):
 ?
 - Encourager les forces du marché et accroître la concurrence
 - Accroître la qualité et la quantité des facteurs de production
-<!--SR:!2024-01-16,9,150-->
+<!--SR:!2024-01-26,6,130-->
 
 Le gouvernement mène des politiques axées sur l’offre pour contribuer à la croissance de l’économie. Les objectifs des politiques du côté de l’offre comprennent (5):
 ?
@@ -19,13 +19,13 @@ Le gouvernement mène des politiques axées sur l’offre pour contribuer à l
 - Réduire les coûts du travail et le chômage grâce à la flexibilité du marché du travail
 - Réduire l'inflation pour améliorer la compétitivité internationale
 - Accroître les incitations des entreprises à investir dans l'innovation en réduisant les coûts.
-<!--SR:!2024-01-18,3,162-->
+<!--SR:!2024-01-23,3,142-->
 
 ## 1. Augmenter la capacité productive de l’économie pour parvenir à une croissance à long terme
 - La capacité productive comprend toutes les ressources par exemple::, la terre, la main-d'œuvre, les moteurs, les machines, la technologie, le savoir-faire et le stock de capital de l'économie.
 <!--SR:!2024-02-17,36,230-->
 - L’augmentation du stock de main-d’œuvre et du nombre de machines augmentera:: la capacité de production, et donc la production.
-<!--SR:!2024-01-20,19,224-->
+<!--SR:!2024-03-02,42,224-->
 
 La population active peut être augmentée en (4):
 ?
@@ -39,7 +39,7 @@ Le facteur capital peut être augmenté en (2):
 ?
 - Abaissant les taux d'intérêt et rendre moins coûteux pour les entreprises d'emprunter de l'argent pour acheter des machines (augmente l'investissement)
 - Donnant des allégements fiscaux aux entreprises qui investissent dans de nouvelles machines
-<!--SR:!2024-01-17,4,130-->
+<!--SR:!2024-01-23,6,130-->
 
 ## 2. Améliorer la concurrence et l’efficacité
 - La concurrence oblige:: les entreprises à s’améliorer.

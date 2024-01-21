@@ -6,7 +6,7 @@ Created: 2022-11-18
 # Objectif des prototypes pour présenter un système au client
 ?
 Un prototype est soit une version préliminaire, fonctionnelle ou non, du produit final, soit une version simple du système final, utilisée dans le cadre de la phase de conception pour montrer comment le produit final fonctionnera. La création d'un prototype présente de nombreux avantages.
-<!--SR:!2024-01-18,242,230-->
+<!--SR:!2024-05-17,120,210-->
 
 Avantages des prototypes au client:
 ?

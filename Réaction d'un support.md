@@ -6,7 +6,7 @@ Created: 2023-05-04
 # Réaction d'un support
 ?
 La force qu'exerce le support sur l'objet.
-<!--SR:!2024-01-19,44,190-->
+<!--SR:!2024-04-13,85,190-->
 
 Formule::$$\Large{\vec{R}=-\vec{P}}$$ ([[Première loi de Newton]])
 <!--SR:!2024-09-16,299,250-->

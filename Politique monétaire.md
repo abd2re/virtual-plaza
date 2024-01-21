@@ -7,7 +7,7 @@ Created: 2023-11-08
 # Politique monétaire
 ?
 La politique monétaire fait référence à la banque centrale qui utilise le rentrée d'argent et les taux d’intérêt pour gérer l’économie.
-<!--SR:!2024-01-18,19,150-->
+<!--SR:!2024-01-27,9,130-->
 
 - La politique monétaire permet aux pays de stimuler leur économie tout en évitant de:: s’endetter.
 <!--SR:!2024-02-17,54,230-->

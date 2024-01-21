@@ -22,8 +22,8 @@ $$\lambda=\frac{\ln\left(\frac{A_{0}}{A}\right)}{t}=\frac{\ln2}{T_{1/2}}$$
 - $N$ = Masse finale d'une substance radioactive
 - $N_0$ = Masse de départ d'une substance radioactive
 - $t$ =  temps passé
-- $\lambda$ =:: Constante de désintégration d'un noyau, probabilité de désintégration par unite de temps 
-<!--SR:!2024-01-20,108,223-->
+- $\lambda$ =:: Constante de désintégration d'un noyau, probabilité de désintégration par unite de temps
+<!--SR:!2024-03-13,53,203-->
 - $T_{1/2}$ = période radioactive de la substance (constant)
 <!--SR:!2023-03-29,23,250-->
 

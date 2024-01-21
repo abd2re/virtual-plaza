@@ -32,4 +32,4 @@ Dépenses publiques (3):
 - Dépenses courantes (salaire, fournitures, etc...)
 - Dépenses en capital (infrastructure, grands projets)
 - Paiements de transfert (pensions)
-<!--SR:!2024-01-16,11,190-->
+<!--SR:!2024-02-07,22,190-->

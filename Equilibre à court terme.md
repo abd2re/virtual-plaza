@@ -30,7 +30,7 @@ C'est lorsque la production d'équilibre est supérieure a la production de plei
 C'est lorsque l'économie produit moins de PIB réel mais le niveau des prix augmente. (Offre globale a court terme se déplace vers la gauche)
 ![[image-20230515124321837.png]]
 Lorsque le SRAS se déplace vers la droite en raison de changements dans l'un des déterminants du SRAS, cela indique:: une expansion du PIB réel et une baisse du niveau des prix.
-<!--SR:!2024-01-17,37,170-->
+<!--SR:!2024-03-19,62,170-->
 
 ## Conséquences du mouvement de la demande globale ou de l'offre globale a court terme (inflation, croissance économique, chômage)
 - Augmentation de l'OGCT:: Déflation, Croissance économique, Chômage diminue

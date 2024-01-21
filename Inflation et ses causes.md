@@ -56,7 +56,7 @@ Les deux principaux types d’inflation sont:
 ### Inflation attisée par la demande
 ?
 L’inflation tirée par la demande se produit lorsqu’il y a une augmentation de la demande globale dans l’économie. Afin de fournir le nombre croissant de biens et de services désormais requis, des prix plus élevés sont nécessaires.
-<!--SR:!2024-01-16,69,243-->
+<!--SR:!2024-07-01,167,243-->
 
 - Selon la nouvelle théorie classique, l’augmentation de la demande globale est suivie:: d’une pression à la hausse sur les salaires, de sorte qu’il n’y aura pas d’augmentation de la production à long terme.![[image-20230921081541285.png]]
 <!--SR:!2024-01-28,64,203-->
@@ -72,7 +72,7 @@ L’inflation tirée par la demande se produit lorsqu’il y a une augmentation 
 ### Inflation par les coûts de production
 ?
 L’inflation poussée par les coûts se produit lorsque l’offre globale diminue. Cela sera toujours dû à une augmentation des coûts de production ou à une forte perturbation de la disponibilité des facteurs de production.
-<!--SR:!2024-01-16,39,223-->
+<!--SR:!2024-04-11,86,223-->
 
 De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tels que (5):
 ?
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2024-01-18,8,130-->
+<!--SR:!2024-01-30,12,130-->
 

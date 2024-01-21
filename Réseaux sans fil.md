@@ -25,6 +25,6 @@ Inconvénients (5):
 - Points d'accès
 	- ils peuvent être utilisés pour voler des données
 - Problèmes de santé
-<!--SR:!2024-01-16,65,210-->
+<!--SR:!2024-05-31,136,210-->
 
 1. [[Composants matériels et logiciels d'un réseau sans fil.]]

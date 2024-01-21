@@ -14,3 +14,6 @@ tags: [M]
 [[oral mademba 2]]
 [[oral mademba 3]]
 [[oral cid 1]]
+
+[[Compréhension orale 1]]
+[[Compréhension écrite 1]]

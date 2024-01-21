@@ -1,7 +1,7 @@
 ---
 tags: [MOC]
 ---
-### Chapitre 3 - Travail, Puissance et Energie
+## Chapitre 3 - Travail, Puissance et Energie
 ### 1. Travail d'une force
 1. [[Travail d'une force constante]]
 2. [[Travail du poids d'un corps]]

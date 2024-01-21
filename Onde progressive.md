@@ -20,7 +20,7 @@ Il existe deux types d'ondes progressives (avec définition):
 ?
 - les ondes mécaniques, qui se propagent dans un milieu et ne peuvent pas se produire dans le vide
 - les ondes électromagnétiques, qui peuvent se propager dans le vide.
-<!--SR:!2024-01-16,28,207-->
+<!--SR:!2024-03-13,57,207-->
 
 La longueur d'onde est (2):: la distance entre deux crêtes ou deux creux de deux ondes consécutives (transversale), la distance entre deux points de compression ou deux points de raréfaction (longitudinale).
 <!--SR:!2024-02-09,39,218-->
@@ -58,7 +58,7 @@ Représentation d'une onde longitudinale::![[image-20231117200436216.png]]
 - Exemple d'onde longitudinale:: Ondes sonore
 <!--SR:!2024-02-23,56,247-->
 - Une onde longitudinale peut voyager dans le vide, oui ou non et pourquoi ?:: non, les ondes longitudinales ont besoin de particules pour se propager.
-<!--SR:!2024-01-16,36,247-->
+<!--SR:!2024-04-13,88,247-->
 
 Lorsqu'une onde longitudinale se propage, on peut observer des zones de basse et de haute pression:
 ?

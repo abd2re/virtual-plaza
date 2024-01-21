@@ -28,7 +28,7 @@ Les trois méthodes de calculer le PIB sont:
 - [[Méthode de sortie (production)]]
 - [[Méthode du revenu]]
 - [[Méthode des dépenses (demande)]]
-<!--SR:!2024-01-16,105,221-->
+<!--SR:!2024-03-08,52,201-->
 
 Les gouvernements peuvent comptabiliser le revenu national en additionnant toutes les catégories de revenus (loyers, salaires, intérêts et bénéfices), la valeur ajoutée de chaque catégorie de production (des industries primaires, secondaires et tertiaires) ou les catégories de dépenses d'une économie. En d'autres termes:
 ?
@@ -49,7 +49,7 @@ Revenu = Production = Dépenses
 ## PNB
 ?
 Le PNB/RNB est la **valeur** des biens et services **produits** par les **nationaux** au cours d'une **période donnée**.
-<!--SR:!2024-01-19,50,181-->
+<!--SR:!2024-02-15,27,161-->
 
 Différence entre PIB et PNB:
 ?

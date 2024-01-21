@@ -52,12 +52,12 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
 <!--SR:!2024-04-01,177,230-->
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2024-01-20,56,230-->
+<!--SR:!2024-05-27,128,230-->
 <!--SR:!2023-05-26,3,250-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
 <!--SR:!2024-03-21,175,230-->
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
-<!--SR:!2024-01-19,55,230-->
+<!--SR:!2024-05-24,126,230-->
 <!--SR:!2023-05-26,3,250-->
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$
