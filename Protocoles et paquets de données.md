@@ -9,7 +9,7 @@ Définition de protocole:
 ?
 **Ensemble de règles pour la communication de données sur un réseau.** Un protocole définit le format et l'ordre des messages échangés entre deux ou plusieurs entités communicantes, ainsi que les actions entreprises lors de la transmission et/ou de la réception d'un message ou d'un autre événement.
 - Un protocole reconnu comme la norme pour un type de transfert spécifique est appelé protocole standard. *Exemple : le protocole TCP/IP*
-<!--SR:!2024-01-21,84,204-->
+<!--SR:!2024-07-09,170,204-->
 
 Définition de paquet de donnée:
 ?
@@ -34,4 +34,4 @@ Par exemple, le transfert de données sur internet nécessite la décomposition 
 - L'adresse IP de destination, qui est la machine ou l'appareil auquel les données sont envoyées.
 - Le numéro de séquence des paquets, un numéro qui place les paquets dans un ordre tel qu'ils sont réassemblés de manière à retrouver les données originales telles qu'elles étaient avant la transmission.
 - Le type de service, les drapeaux et d'autres données techniques
-<!--SR:!2024-01-25,59,170-->
+<!--SR:!2024-02-23,29,150-->

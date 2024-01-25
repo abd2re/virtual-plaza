@@ -14,7 +14,6 @@ Created: 2023-01-11
 RAM c'est une abbreviation pour:: Random Access Memory
 <!--SR:!2024-12-01,408,250-->
 
-<!--SR:!2023-02-16,22,250-->
 
 Il existe deux principaux types de RAM :
 ?
@@ -25,5 +24,4 @@ Il existe deux principaux types de RAM :
 Différence entre DRAM et SRAM:: La SRAM est plus rapide mais plus chère que la DRAM, et c'est pourquoi la DRAM est préférée pour la RAM principale d'un système informatique.
 <!--SR:!2025-01-26,442,250-->
 
-<!--SR:!2023-02-18,24,250-->
 

@@ -14,14 +14,12 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 - $E$ = Intensité du champ électrique en $NC^{-1}$
 - $F$ = Force en Newton 
 - $|q|$ = Charge électrique en Coulomb
----
 <!--SR:!2024-02-23,237,210-->
 
-- L'intensité du champ électrique est:: la force par unité de charge qui s'exerce sur une charge ponctuelle.
+L'intensité du champ électrique est:: la force par unité de charge qui s'exerce sur une charge ponctuelle.
 <!--SR:!2024-01-27,38,219-->
 
-<!--SR:!2023-02-12,14,130-->
-- Le champ électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
+Le champ électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
 <!--SR:!2024-03-14,269,230-->
 
 ## Champ électrique créer par une charge ponctuelle
@@ -32,7 +30,7 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 
 
 - Champ crée pas plusieurs charges c'est:: la somme vectorielle de chacun des champs
-<!--SR:!2024-01-23,29,156-->
+<!--SR:!2024-03-09,46,156-->
 
 ## Lignes de champ
 ?

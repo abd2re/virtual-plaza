@@ -7,7 +7,7 @@ Created: 2023-02-25
 ?
 - Un réseau local virtuel (VLAN) est un groupe logique de stations de travail, de serveurs et de périphériques réseau qui semblent appartenir au même réseau local malgré leur répartition géographique.
 - Les VLAN sont mis en œuvre pour assurer l'évolutivité, la sécurité et la facilité de gestion du réseau et peuvent s'adapter rapidement aux changements des exigences du réseau et au déplacement des stations de travail et des nœuds de serveur.
-<!--SR:!2024-01-25,76,230-->
+<!--SR:!2024-03-02,37,210-->
 
 Représentation du VLAN:
 ?

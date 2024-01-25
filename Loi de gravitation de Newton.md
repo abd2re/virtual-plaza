@@ -26,5 +26,3 @@ La loi de gravitation universelle s'applique aux masses ponctuelles et aux objet
 
 Constante $G$ =:: $6.67\cdot 10^{-11}$
 <!--SR:!2024-01-27,8,130-->
-
-<!--SR:!2023-02-08,14,250-->

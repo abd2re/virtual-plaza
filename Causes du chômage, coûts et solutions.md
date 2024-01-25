@@ -42,7 +42,7 @@ Avec un salaire supérieur au salaire d’équilibre du marché, les entreprises
 ### Frictionnel
 ?
 Chômage frictionnel c'est quand les gens sont entre deux emplois. (Exemple: étudiants)
-<!--SR:!2024-01-21,76,230-->
+<!--SR:!2024-07-13,174,230-->
 
 ### Saisonnier
 ?
@@ -52,7 +52,7 @@ Le chômage saisonnier se produit lorsque des personnes effectuent des types de 
 ### Structurel
 ?
 Le chômage structurel se produit lorsqu’il existe une inadéquation entre l’offre et la demande pour un ensemble particulier de compétences professionnelles.
-<!--SR:!2024-01-21,23,150-->
+<!--SR:!2024-02-24,34,150-->
 
 Il y a deux causes principales du chômage structurel:
 ?

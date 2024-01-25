@@ -6,7 +6,7 @@ Created: 2023-12-04
 
 # Diffraction
 La diffraction d’une onde est:: la propriété d’une onde de se propager au-delà d’une ouverture ou de contourner un obstacle de dimension comparable à la longueur d’onde de l’onde.
-<!--SR:!2024-01-24,15,150-->
+<!--SR:!2024-02-16,23,150-->
 
 Représentation
 ?

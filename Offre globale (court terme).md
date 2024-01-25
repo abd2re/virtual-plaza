@@ -9,7 +9,7 @@ L'offre globale est la **quantité totale** de biens et de services **produits**
 <!--SR:!2024-03-27,77,210-->
 
 - Le court terme en **macroéconomie** est considéré comme:: la durée pendant laquelle les **prix des ressources** restent relativement **constants**, en particulier les salaires.
-<!--SR:!2024-01-21,35,190-->
+<!--SR:!2024-03-27,66,190-->
 
 Graphe de l'offre globale à court terme (OGCT)::![[image-20230505082645978.png|500]]
 <!--SR:!2024-05-15,148,210-->
@@ -26,7 +26,7 @@ Les deux vues alternatives de l'offre globale:
 ?
 - [[Néo-classique (monétariste)]] (OGLT)
 - [[Keynésienne]] (OGLT)
-<!--SR:!2024-01-22,158,250-->
+<!--SR:!2024-04-09,78,230-->
 
 Qu'est-ce qui déplace la courbe OGCT ?
 ?

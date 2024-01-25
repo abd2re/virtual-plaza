@@ -6,11 +6,11 @@ Created: 2023-11-15
 
 # Onde progressive
 ?
- Une onde est dite progressive si elle correspond à la propagation _dans l'espace_ et _au cours du temps_ d'une perturbation (variation d'une grandeur physique).
- <!--SR:!2023-11-29,1,147-->
+Une onde est dite progressive si elle correspond à la propagation _dans l'espace_ et _au cours du temps_ d'une perturbation (variation d'une grandeur physique).
+<!--SR:!2023-11-29,1,147-->
  
 La propagation d'une onde progressive s’effectue:: sans transport de matière mais avec un transport d’énergie.
-<!--SR:!2024-01-22,15,160-->
+<!--SR:!2024-02-14,23,160-->
 
 
 - L'énergie est transférée par les ondes, mais la matière:: ne l'est pas
@@ -33,11 +33,11 @@ La vitesse d'une onde dépend du:: milieu de propagation.
 
 ## Dimensions de la propagation
 Les ondes mécaniques progressives ont la propriété de pouvoir se propager dans toutes les directions qui lui sont offertes et à partir de leur source. Ainsi, on distingue (3):: les ondes progressives à une, deux ou trois dimensions.
-<!--SR:!2024-01-23,38,250-->
+<!--SR:!2024-04-26,94,250-->
 
 ## Ondes transversales et longitudinales
 Une onde transversale est:: une onde dans laquelle les particules oscillent perpendiculairement à la direction du mouvement et où le transfert d'énergie se fait perpendiculairement aussi.
-<!--SR:!2024-01-22,11,130-->
+<!--SR:!2024-02-05,14,130-->
 - Les ondes transversales présentent des zones de:: pics et de creux
 <!--SR:!2024-03-17,68,230-->
 - Exemples d'ondes transversales:: Ondes électromagnétiques, par exemple radio, lumière visible, UV. Vibrations sur une corde de guitare

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "dd0f22a6240736f3",
+        "id": "23c6a6445faa5b3e",
         "type": "tabs",
         "children": [
           {
-            "id": "03c5b16a168cdaf4",
+            "id": "477d2ce1e5f6442e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistiques I.md",
+                "file": "Theme 3-Économie Mondiale.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:MOC",
+                "query": "<!--SR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistiques I.md",
+                "file": "Theme 3-Économie Mondiale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Statistiques I.md",
+                "file": "Theme 3-Économie Mondiale.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +164,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4767936074178061,
+                  "scale": 0.2934186103572993,
                   "close": true
                 }
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistiques I.md",
+                "file": "Theme 3-Économie Mondiale.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistiques I.md"
+                "file": "Theme 3-Économie Mondiale.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Statistiques I.md"
+                "file": "Theme 3-Économie Mondiale.md"
               }
             }
           },
@@ -270,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Statistiques I.md",
+                "file": "Theme 3-Économie Mondiale.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -349,46 +349,47 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "03c5b16a168cdaf4",
+  "active": "477d2ce1e5f6442e",
   "lastOpenFiles": [
-    "Énergie spécifique.md",
+    "Organisation mondiale du commerce (OMC).md",
+    "Theme 3-Économie Mondiale.md",
+    "Avantages et inconvénients des blocs commerciaux.md",
+    "Chapitre 2 - Types de protection commerciale.md",
+    "Chapitre 1 - Avantages du commerce international.md",
+    "_economy.md",
+    "Distribution normale.md",
+    "_math.md",
+    "Probabilité discrètes.md",
+    "Distribution binomiale.md",
+    "Intégration.md",
+    "Dérivation.md",
+    "assets/Dérivation/image-20231128163111952.png",
+    "Fonctions quadratiques.md",
+    "Nombres complexes.md",
+    "Champ électrique.md",
+    "Equilibre à court terme.md",
+    "assets/Equilibre à court terme/image-20230515115646980.png",
+    "Champ électrique_tmp.html",
+    "Utilisation des aires.md",
+    "assets/Utilisation des aires/image-20230328093918736.png",
+    "AB testing.md",
+    "Loi de décroissance radioactive.md",
+    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
+    "Theme 7-Physique nucléaire.md",
+    "Conservation masse-énergie.md",
+    "Energie de liaison du noyau.md",
+    "Fission et fusion nucléaire.md",
+    "Chapitre 4 - Intégration économique.md",
+    "Theme 1-Micro-économie.md",
     "_physics.md",
-    "Chapitre 1 - Sources d'énergie.md",
-    "Option - Imagerie.md",
-    "Theme 2-Mécanique.md",
-    "Cycle Fetch-Execute.md",
+    "assets/CPU/CPU-8.png",
+    "assets/CPU/CPU-7.png",
     "assets/Cycle Fetch-Execute/image-20230113135958071.png",
     "assets/Cycle Fetch-Execute/image-20230113135949209.png",
     "assets/Cycle Fetch-Execute/image-20230112221910659.png",
-    "Avantages et inconvénients des blocs commerciaux.md",
-    "Chapitre 4 - Intégration économique.md",
-    "Blocs commerciaux.md",
     "assets/Blocs commerciaux/image-20240120162728341.png",
-    "assets/Blocs commerciaux/image-20240120162714043.png",
     "assets/Blocs commerciaux",
-    "Theme 3-Économie Mondiale.md",
-    "Accords commerciaux préférentiels.md",
-    "Chapitre 2 - Types de protection commerciale.md",
-    "_economy.md",
-    "Theme 1-Micro-économie.md",
-    "Chapitre 1 - La Demande.md",
-    "Intégration.md",
-    "Sources d'énergie primaire et secondaire.md",
-    "Diagrammes de Sankey.md",
-    "Theme 8-Production d'énergie.md",
-    "Lentilles convergentes et divergentes.md",
-    "Untitled 22.md",
-    "Excalidraw/Drawing 2024-01-18 16.47.36.excalidraw.md",
-    "Barrières administratives.md",
-    "Libre-échange contre protection commerciale.md",
-    "Chapitre 3 - Arguments pour et contre le contrôle et la protection des échanges.md",
-    "Identités trigonométriques.md",
-    "assets/Arguments en faveur de la protection commerciale/image-20240117085813390.png",
-    "assets/Arguments en faveur de la protection commerciale/image-20240117082014593.png",
     "assets/Arguments en faveur de la protection commerciale",
-    "assets/Quotas/image-20240110084154805.png",
-    "assets/Subventions (protection commerciale)/image-20240111123109352.png",
-    "assets/Application de la conservation de la quantité de mouvement/image-20231019112159997.png",
     "assets/Subventions (protection commerciale)",
     "assets/Quotas",
     "assets/Tarifs",
@@ -396,7 +397,6 @@
     "assets/Avantages du commerce international",
     "2.7 m.canvas",
     "assets/Interférence",
-    "assets/Politiques d’offre liées aux incitations",
-    "assets/Diffraction"
+    "assets/Politiques d’offre liées aux incitations"
   ]
 }

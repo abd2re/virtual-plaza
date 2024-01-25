@@ -17,7 +17,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - Le mode est:: la valeur qui a la fréquence la plus élevée
 <!--SR:!2024-01-27,17,242-->
 - La médiane est:: la valeur milieu
-<!--SR:!2024-01-24,14,242-->
+<!--SR:!2024-02-26,33,242-->
 - $\mu=$::$$\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}}{\sum\limits_{i=1}^{k}f_{i}}$$
 <!--SR:!2024-02-03,14,202-->
 - $\text{IQR}=$::$Q_{3}-Q_{1}$
@@ -25,7 +25,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - $S^{2}=$::$$\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}^{2}}{\sum\limits_{i=1}^{k}f_{i}}-\mu^{2}$$
 <!--SR:!2024-02-02,15,202-->
 - $S=$::$$\sqrt{\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}^{2}}{\sum\limits_{i=1}^{k}f_{i}}-\mu^{2}}$$
-<!--SR:!2024-01-24,6,202-->
+<!--SR:!2024-02-06,13,202-->
 
 ## Données groupées
 - La classe modale est:: la classe dont la fréquence est la plus élevée. (Il s'agit uniquement d'intervalles de la classe de qualification)
@@ -41,7 +41,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - Si l'on ajoute ou soustrait une constante a à toutes les valeurs, la variance et l'écart-type:: restent les mêmes.
 <!--SR:!2024-02-05,21,242-->
 - $\text{E}(aX+b)=$::$a\text{E}(X)+b$
-<!--SR:!2024-01-23,4,182-->
+<!--SR:!2024-01-30,7,182-->
 - $\text{Var}(aX+b)=$::$a^{2}\text{Var}(x)$
 <!--SR:!2024-02-04,18,208-->
 - $x$ est une valeur aberrante si:: $$x\notin [Q_{1}-1.5\times\text{IQR},\,Q_{3}+1.5\times\text{IQR}]$$

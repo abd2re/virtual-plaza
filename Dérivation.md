@@ -32,7 +32,7 @@ Tangente et normale pour une fonction représente:
 - $f(x)=x^{-n}=\frac{1}{x^{n}}\rightarrow f'(x)=$::$\frac{-n}{x^{n+1}}$
 <!--SR:!2024-02-02,31,225-->
 - $f(x)=x^{1/n}=\sqrt[n]{x}\rightarrow f'(x)=$::$\frac{\sqrt[n]{x^{1-n}}}{n}$
-<!--SR:!2024-01-22,19,225-->
+<!--SR:!2024-03-06,44,225-->
 - $f(x)=a^{x}\rightarrow f'(x)=$::$\ln(a)a^{x}$
 <!--SR:!2024-02-16,33,190-->
 - $f(x)=e^{x}\rightarrow f'(x)=$::$e^{x}$
@@ -47,7 +47,18 @@ Tangente et normale pour une fonction représente:
 <!--SR:!2024-03-01,57,250-->
 - $f(x)=\tan(x)\rightarrow f'(x)=$::$\sec^{2}(x)$
 <!--SR:!2024-02-01,39,250-->
-
+- $f(x)=\sec(x)\rightarrow f'(x)=$::$\sec(x)\tan(x)$
+<!--SR:!2024-01-25,1,217-->
+- $f(x)=\csc(x)\rightarrow f'(x)=$::$-\csc(x)\cot(x)$
+<!--SR:!2024-01-25,1,217-->
+- $f(x)=\cot(x)\rightarrow f'(x)=$::$-\csc^{2}(x)$
+<!--SR:!2024-01-25,1,217-->
+- $f(x)=\sin^{-1}(x)\rightarrow f'(x)=$::$\frac{1}{\sqrt{1-x^{2}}}$
+<!--SR:!2024-01-26,2,237-->
+- $f(x)=\cos^{-1}(x)\rightarrow f'(x)=$::$\frac{-1}{\sqrt{1-x^{2}}}$
+<!--SR:!2024-01-26,2,237-->
+- $f(x)=\tan^{-1}(x)\rightarrow f'(x)=$::$\frac{1}{1+x^{2}}$
+<!--SR:!2024-01-26,2,237-->
 ### Opérations
 - $g(x)=c\cdot f(x)\rightarrow g'(x)=$::$c\cdot f'(x)$
 <!--SR:!2024-02-01,39,250-->
@@ -70,6 +81,28 @@ Tangente et normale pour une fonction représente:
 - Si $f'(x)=0$ et $f''(x)>0$ alors ce point est:: un minimum local
 <!--SR:!2024-02-13,36,240-->
 - $f$ est concave haut si $f''(x)$::$>0$
-<!--SR:!2024-01-24,9,199-->
+<!--SR:!2024-02-09,16,199-->
 - $f$ est concave bas si $f''(x)$::$<0$
-<!--SR:!2024-01-23,13,239-->
+<!--SR:!2024-02-22,30,239-->
+
+## Dérivation implicite
+$\frac{df(y)}{dx}=$::$\frac{df(y)}{dy}\cdot \frac{dy}{dx}=f'(y)\frac{dy}{dx}$
+<!--SR:!2024-01-26,2,237-->
+$\frac{d}{dx}(f(x)g(y))=$::$g(y)\frac{df(x)}{dx}+f(x)\frac{dg(y)}{dx}=g(y)f'(x)+f(x)g'(y)\frac{dy}{dx}$
+<!--SR:!2024-01-26,2,237-->
+
+Si on a $f(x,\,y)$ et on veut $\frac{dy}{dx}$ alors les étapes sont :
+?
+- Appliquer $\frac{d}{dx}$ pour chaque terme
+- Appliquer la règle en chaîne pour les termes avec une variable $y$ pour obtenir $\frac{dy}{dx}$ en facteur
+- Factoriser par $\frac{dy}{dx}$ et l'isoler
+ou
+- Appliquer la dérivée pour chaque terme
+- Factoriser par $dy$ et $dx$
+- Diviser $dy$ par $dx$
+<!--SR:!2024-01-26,2,237-->
+
+$df(x)=$::$f'(x)dx$
+<!--SR:!2024-01-26,2,237-->
+
+

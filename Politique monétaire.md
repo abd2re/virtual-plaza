@@ -14,7 +14,7 @@ La politique monétaire fait référence à la banque centrale qui utilise le re
 - La politique monétaire est un moyen pour les gouvernements de:: gérer l’économie.
 <!--SR:!2024-03-03,76,270-->
 - La banque centrale détermine la politique monétaire en:: contrôlant la masse monétaire et en fixant le taux d’intérêt.
-<!--SR:!2024-01-21,15,210-->
+<!--SR:!2024-02-21,31,210-->
 
 - Définition de **taux d’intérêt**:: **Coût d’emprunt de l’argent.**
 <!--SR:!2024-02-07,45,210-->
@@ -35,7 +35,7 @@ Ils sont 5:
 
 ### 1. Détermine la masse monétaire et le taux d’intérêt
 À un moment donné, la masse monétaire est fixe ; nous avons une somme d’argent définie dans nos poches et nos soldes bancaires. Par conséquent, la masse monétaire est considérée comme:: parfaitement inélastique.
-<!--SR:!2024-01-24,37,210-->
+<!--SR:!2024-04-10,77,210-->
 
 Lorsque la banque centrale augmente la masse monétaire, alors en conséquence le taux d'intérêt:: diminue.
 <!--SR:!2024-02-14,57,250-->
@@ -45,7 +45,7 @@ Graphique
 <!--SR:!2024-03-17,70,230-->
 
 Si l'économie est dans un écart de recession, alors pour le combler il faut:: baisser les taux d'intérêts pour augmenter la demande et ramener la production d'équilibre au plein emploi.![[image-20231108093711743.png]]
-<!--SR:!2024-01-23,15,170-->
+<!--SR:!2024-02-17,25,170-->
 
 ### 2. Imprime de l'argent physique et frappe des pièces de monnaie
 La banque centrale imprime des billets et frappe des pièces pour (2) :
@@ -63,7 +63,7 @@ En cas de crise financière, les consommateurs peuvent perdre confiance dans leu
 
 ### 4. Émet des obligations et d’autres instruments financiers
 La Banque centrale peut émettre obligations pour:: lever des fonds pour financer une gamme de projets allant de la construction d'infrastructures au financement d'une guerre.
-<!--SR:!2024-01-22,42,250-->
+<!--SR:!2024-05-05,104,250-->
 
 ### 5. Régule le système bancaire
 - Un rôle important de la banque centrale est de réglementer banques commerciales pour s’assurer:: qu’elles ne prennent pas trop de risques.

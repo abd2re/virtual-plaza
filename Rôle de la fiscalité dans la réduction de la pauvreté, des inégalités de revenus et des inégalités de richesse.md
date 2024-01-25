@@ -11,7 +11,7 @@ Il existe trois systèmes principaux d'imposition des revenus :
 - progressif
 - régressif
 - proportionnel.
-<!--SR:!2024-01-25,47,250-->
+<!--SR:!2024-05-21,117,250-->
 
 Les impôts ont la capacité de rediriger l’argent:: de ceux qui ont plus de moyens de se permettre un niveau de vie élevé vers ceux qui en sont empêchés pour une raison quelconque.
 <!--SR:!2024-02-25,61,230-->

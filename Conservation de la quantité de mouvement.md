@@ -18,11 +18,11 @@ $$\Large{\vec{p}_{i}=\vec{p}_{f}}$$
 - $p_{a+b}^{2}$ (parfaitement inélastique)=::$p_{a}^{2}+2p_{a}p_{b}\cos(\alpha-\beta)+p_{b}^{2}$
 <!--SR:!2024-04-19,90,222-->
 - $v_{a}'$ (élastique)=::$\left(\frac{m_{a}-m_{b}}{m_{a}+m_{b}}\right)v_{a}+\left(\frac{2m_{b}}{m_{a}+m_{b}}\right)v_{b}$
-<!--SR:!2024-01-22,2,234-->
+<!--SR:!2024-01-27,5,234-->
 
 
 Pour une collision élastique, si les masses des deux objets sont identiques, la vitesse finale de chacun d'eux sera:: échangée.
-<!--SR:!2024-01-22,2,234-->
+<!--SR:!2024-01-27,5,234-->
 
 ## Conservation de la quantité de mouvement et de l'[[Energie cinétique|énergie cinétique]]
 - Pour un choc élastique, on a:: conservation de la quantité de mouvement et de l'énergie cinétique.

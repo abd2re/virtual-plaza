@@ -19,4 +19,3 @@ Les gouvernements souhaitent intervenir sur les marchés pour de nombreuses rais
 bien nuisible:: bien demerit/bien d'inaptitude
 <!--SR:!2024-03-05,257,270-->
 
-<!--SR:!2023-03-11,45,210-->

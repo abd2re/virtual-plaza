@@ -8,9 +8,9 @@ Created: 2023-10-13
 - $\sum f(x)$=::$1$
 <!--SR:!2024-06-26,164,270-->
 - $P(X=x)$=::$f(x)$
-<!--SR:!2024-01-23,9,170-->
+<!--SR:!2024-02-06,14,170-->
 - Mode de $X$ est:: la valeur de $x$ pour laquelle $f(x)$ est maximum.
-<!--SR:!2024-01-21,62,250-->
+<!--SR:!2024-02-23,33,230-->
 - Médiane de $X$ est:: la valeur de $x_{i}$ pour laquelle $P_{1}+P_{2}...+P_{i}\geq \frac{1}{2}$ pour la première fois.
 <!--SR:!2024-02-05,22,190-->
 - Moyenne peut être aussi appelé:: Espérance.

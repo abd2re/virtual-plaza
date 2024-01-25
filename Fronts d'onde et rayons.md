@@ -16,5 +16,5 @@ Représentation des fronts d'onde et rayons:
 <!--SR:!2024-02-17,49,228-->
 
 - La distance entre les fronts d'onde successifs est égale à:: la longueur d'onde des ondes.
-<!--SR:!2024-01-24,33,208-->
+<!--SR:!2024-04-01,68,208-->
 

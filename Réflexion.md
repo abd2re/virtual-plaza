@@ -9,7 +9,7 @@ Created: 2023-11-29
 Différence entre un réflexion d'une extrémité fixe et extrémité libre (1d) (représentation):
 ?
 ![[image-20231129103258954.png]]
-<!--SR:!2024-01-21,29,230-->
+<!--SR:!2024-03-26,65,230-->
 
 
 Représentation d'une réflexion d'un rayon incident avec éléments

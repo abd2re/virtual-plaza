@@ -14,7 +14,7 @@ L'inflation est une augmentation durable du niveau des prix dans une économie.
 - Lorsque l'argent perd de la valeur, les prix:: augmentent en conséquence.
 <!--SR:!2024-06-17,169,250-->
 - Lorsque le taux d'inflation dépasse 50% par mois, on dit:: hyperinflation.
-<!--SR:!2024-01-22,94,290-->
+<!--SR:!2024-10-20,272,290-->
 
 Quel outil les gouvernements utilisent pour calculer l'inflation ?:: indice des prix à la consommation (IPC).
 <!--SR:!2024-04-07,124,250-->
@@ -23,7 +23,7 @@ Le calcul du IPC implique:: la sélection d'un panier de biens et services typiq
 <!--SR:!2024-03-29,104,210-->
 
 Formule IPC::$$\large{\text{IPC}_{n}=\frac{\text{valeur du panier de l'année }n}{\text{valeur de panier de l'année de base}}\times100}$$
-<!--SR:!2024-01-24,31,230-->
+<!--SR:!2024-02-11,18,210-->
 
 Formule du taux d'inflation avec IPC::$$\large{T_{i}=\frac{\text{IPC}_{f}-\text{IPC}_{d}}{\text{IPC}_{d}}\times100}$$
 <!--SR:!2024-06-06,162,250-->
@@ -35,7 +35,7 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2024-01-24,12,130-->
+<!--SR:!2024-02-08,15,130-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2024-07-04,180,263-->
@@ -81,7 +81,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 - les modifications des lois sur le salaire minimum
 - l'augmentation du coût des matières premières importées
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
-<!--SR:!2024-01-22,19,163-->
+<!--SR:!2024-02-21,30,163-->
 
 Graphique avec explications
 ?

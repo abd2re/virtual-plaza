@@ -6,7 +6,7 @@ Created: 2023-12-08
 
 # Interférence
 L'interférence se produit lorsque:: deux ou plusieurs ondes se combinent pour produire une onde résultante avec un nouveau déplacement résultant.
-<!--SR:!2024-01-24,25,230-->
+<!--SR:!2024-03-21,57,230-->
 - Les ondes se combinent selon le principe de:: superposition
 <!--SR:!2024-03-26,67,270-->
 - L'interférence constructive se produit lorsque:: l'onde résultante a un déplacement plus important que n'importe lequel des déplacements individuels.
@@ -43,5 +43,5 @@ $$\large{s=\frac{n\lambda D}{d}}$$
 Représentation:
 ?
 ![[image-20231217084846194.png|center|525]]
-<!--SR:!2024-01-24,13,187-->
+<!--SR:!2024-02-14,21,187-->
 

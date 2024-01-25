@@ -11,7 +11,6 @@ Created: 2023-01-11
 - La ROM est non-volatile =:: ne perd pas son contenu en cas de coupure de courant.
 <!--SR:!2025-02-04,450,252-->
 
-<!--SR:!2023-02-11,17,230-->
 
 ROM est une abbreviation pour:: Read Only Memory
 <!--SR:!2024-02-19,257,270-->

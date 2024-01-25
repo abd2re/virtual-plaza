@@ -18,7 +18,7 @@ Les objectifs sont (6):
 
 ## 1. Inflation faible et stable
 La politique budgétaire peut être constamment ajustée pour créer un taux d'inflation faible et stable. La stabilité des prix donne une:: plus grande certitude aux entreprises.
-<!--SR:!2024-01-23,31,230-->
+<!--SR:!2024-04-02,70,230-->
 
 ## 2. Faible taux de chômage
 
@@ -32,7 +32,7 @@ La politique budgétaire est un outil important pour atténuer les fluctuations.
 
 ## 5. Répartition équitable
 Les gouvernements peuvent améliorer répartition de salaire par (3):: les impôts (indirects et directs) et les paiements de transfert.
-<!--SR:!2024-01-23,11,166-->
+<!--SR:!2024-02-09,17,166-->
 
 Comment les impôts indirects peuvent être utilisées ?
 ?
@@ -42,7 +42,7 @@ Les gouvernements peuvent lever des taxes plus élevées sur les produits de lux
 Comment les impôts directs peuvent être utilisées ?
 ?
 Les gouvernements peuvent recourir à un système fiscal progressif pour transférer le fardeau du paiement des impôts sur les riches.
-<!--SR:!2024-01-23,33,246-->
+<!--SR:!2024-02-08,16,226-->
 
 
 ## 6. Solde extérieur

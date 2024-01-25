@@ -11,7 +11,6 @@ Une pile convertit l'énergie chimique en énergie électrique avec dissipation/
 - Une pile est caractérisée par:: sa fem $e$ et sa résistance interne $r$. $e$ en volt et $r$ en ohm.
 <!--SR:!2024-06-05,326,286-->
 
-<!--SR:!2023-02-27,33,190-->
 - $e$ fem =>:: force électromotrice; travail par unité de charge pour faire circular les charges
 <!--SR:!2024-04-20,113,226-->
 

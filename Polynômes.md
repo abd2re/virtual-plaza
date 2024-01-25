@@ -9,7 +9,7 @@ Created: 2023-10-27
 - $(x - k)$ est un facteur de $P(x)$ si:: $P(k)= 0$
 <!--SR:!2024-05-27,129,250-->
 - $P(k)=0$ si:: $(x-k)$ est un facteur de $P(x)$
-<!--SR:!2024-01-21,17,170-->
+<!--SR:!2024-02-17,27,170-->
 - $P(x)$=::$(x-k)\times Q(x)$, où $Q(x)$ est un polynôme qui est un facteur de $P(x)$
 <!--SR:!2024-05-07,114,250-->
 - $\frac{P(x)}{x-k}$=::$Q(x)$
@@ -26,7 +26,7 @@ Created: 2023-10-27
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
 <!--SR:!2024-02-19,71,250-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
-<!--SR:!2024-01-24,16,170-->
+<!--SR:!2024-02-18,25,170-->
 
 ## Division polynomiale
 Formule générale::$$\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$$
@@ -71,7 +71,7 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 - Si $a+bi\,(b\neq0)$ est un zéro d'un polynôme réel, alors son complexe conjugué $a-bi$ est:: également un zéro si les coefficients sont réels.
 <!--SR:!2024-01-30,57,250-->
 - Tout polynôme réel de degré impair possède:: au moins un zéro réel.
-<!--SR:!2024-01-22,36,230-->
+<!--SR:!2024-04-13,82,230-->
 
 ## Somme et produit des racines
 Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factorisée sera dont les racines sont $r_{1}\,,r_{2}\,,\dots\,,r_{n}$::$$P(x)=a_{n}(x-r_{1})(x-r_{2})\dots(x-r_{n})$$

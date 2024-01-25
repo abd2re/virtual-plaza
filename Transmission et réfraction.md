@@ -11,7 +11,7 @@ La transmission c'est:: le passage d'une onde d'un milieu à un autre sans chang
 - L'onde transmise aura une amplitude:: plus faible si une certaine absorption s'est produite
 <!--SR:!2024-02-23,52,250-->
 - L'onde transmise aura une période/fréquence différente. Vrai ou faux ?:: faux, elle reste pareil.
-<!--SR:!2024-01-24,32,241-->
+<!--SR:!2024-04-09,76,241-->
 
 Représentation:
 ?

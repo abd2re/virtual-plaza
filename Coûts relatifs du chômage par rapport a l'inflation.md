@@ -11,7 +11,7 @@ Created: 2023-10-04
 - Une hausse de chômage cause:: une baisse de l'inflation.
 <!--SR:!2024-02-20,96,270-->
 - Une hausse de l'inflation cause:: une baisse de chômage.
-<!--SR:!2024-01-22,67,250-->
+<!--SR:!2024-07-07,167,250-->
 - Une baisse de l'inflation cause:: une hausse du chômage.
 <!--SR:!2024-01-28,75,270-->
 ## Conflit potentiel entre les objectifs macro-économiques

@@ -7,10 +7,10 @@ Created: 2023-12-20
 # Tarifs
 
 Le protectionnisme fait référence à:: des outils politiques, tels que les tarifs douaniers, les quotas et les subventions, conçus pour restreindre le commerce.
-<!--SR:!2024-01-22,2,190-->
+<!--SR:!2024-01-25,2,170-->
 
 Un tarif fait référence à:: une taxe prélevée par unité sur le prix des biens et services importés. Un pays peut choisir d'imposer un droit de douane pour protéger une industrie nationale.
-<!--SR:!2024-01-21,1,170-->
+<!--SR:!2024-01-26,2,150-->
 
 Graphique de l'effet des tarifs sur les importations (tout les éléments):
 ?

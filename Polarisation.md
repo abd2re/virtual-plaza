@@ -31,7 +31,7 @@ $$\large{I=I_{0}\cos^{2}\theta}$$
 <!--SR:!2024-02-01,22,198-->
 
 - Quand une lumière non-polarisée passe par un polariseur alors son intensité est:: divisée par 2.
-<!--SR:!2024-01-22,34,238-->
+<!--SR:!2024-04-15,84,238-->
 
 ## Polarisation par réflexion (angle de Brewster)
 

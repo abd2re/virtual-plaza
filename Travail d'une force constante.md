@@ -8,7 +8,7 @@ Représentation:
 ?
 ![[image-20230612165341015.png]]
 Le travail d'une force constante $\vec{F}$ dont le point d'application se déplace de A a B est $W_{A\rightarrow B}(\vec{F})$.
-<!--SR:!2024-01-24,80,190-->
+<!--SR:!2024-03-03,39,170-->
 
 - Le travail est un changement d::'énergie.
 <!--SR:!2024-01-27,78,238-->

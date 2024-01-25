@@ -6,7 +6,7 @@ Created: 2023-04-10
 # Algorithme
 ?
 Un algorithme est une **série d'instructions non ambiguës** conçues pour **résoudre un problème** et **atteindre un certain objectif** en un **nombre fini d'étapes**.
-<!--SR:!2024-01-21,25,130-->
+<!--SR:!2024-02-22,32,130-->
 
 Un algorithme doit posséder les propriétés suivantes(5):
 ?
