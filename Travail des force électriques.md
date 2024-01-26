@@ -15,5 +15,5 @@ $$\Large{W_{A\rightarrow B}(\vec{F_{E}})=F_{e}(x_{B}-x_{A})=qE(x_{B}-x_{A})}$$
 Représentation:
 ?
 ![[image-20230619093235708.png|center]]
-<!--SR:!2024-01-25,120,230-->
+<!--SR:!2024-03-24,59,210-->
 

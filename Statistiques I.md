@@ -6,7 +6,7 @@ Created: 2023-12-19
 
 # Statistiques I
 En statistiques, $\sigma$ est noté:: $S$.
-<!--SR:!2024-01-26,16,242-->
+<!--SR:!2024-03-03,37,242-->
 
 - $Q_{2}$ si $n$ est impair =:: $$\frac{x_{n+1}}{2}$$
 <!--SR:!2024-02-02,16,210-->
@@ -21,7 +21,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - $\mu=$::$$\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}}{\sum\limits_{i=1}^{k}f_{i}}$$
 <!--SR:!2024-02-03,14,202-->
 - $\text{IQR}=$::$Q_{3}-Q_{1}$
-<!--SR:!2024-01-25,14,242-->
+<!--SR:!2024-02-29,35,242-->
 - $S^{2}=$::$$\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}^{2}}{\sum\limits_{i=1}^{k}f_{i}}-\mu^{2}$$
 <!--SR:!2024-02-02,15,202-->
 - $S=$::$$\sqrt{\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}^{2}}{\sum\limits_{i=1}^{k}f_{i}}-\mu^{2}}$$

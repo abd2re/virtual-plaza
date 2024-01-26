@@ -39,7 +39,7 @@ Un bon exemple de marché commun est:: l'UE.
 
 ## Unions monétaires
 Une union monétaire est créée lorsque:: des pays forment un bloc commercial dans lequel existent le libre-échange, une politique extérieure commune, la libre circulation des facteurs de production et une **monnaie partagée**
-<!--SR:!2024-01-26,2,210-->
+<!--SR:!2024-01-30,4,210-->
 
 Une union monétaire en activité aujourd'hui est:: la zone euro ou Union monétaire européenne,
 <!--SR:!2024-01-30,7,250-->

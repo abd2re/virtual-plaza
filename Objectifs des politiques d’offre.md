@@ -10,7 +10,7 @@ Les politiques de l'offre sont conçues pour (2):
 ?
 - Encourager les forces du marché et accroître la concurrence
 - Accroître la qualité et la quantité des facteurs de production
-<!--SR:!2024-01-26,6,130-->
+<!--SR:!2024-02-02,7,130-->
 
 Le gouvernement mène des politiques axées sur l’offre pour contribuer à la croissance de l’économie. Les objectifs des politiques du côté de l’offre comprennent (5):
 ?
@@ -39,7 +39,7 @@ Le facteur capital peut être augmenté en (2):
 ?
 - Abaissant les taux d'intérêt et rendre moins coûteux pour les entreprises d'emprunter de l'argent pour acheter des machines (augmente l'investissement)
 - Donnant des allégements fiscaux aux entreprises qui investissent dans de nouvelles machines
-<!--SR:!2024-01-26,3,130-->
+<!--SR:!2024-01-30,4,130-->
 
 ## 2. Améliorer la concurrence et l’efficacité
 - La concurrence oblige:: les entreprises à s’améliorer.
@@ -51,7 +51,7 @@ Le facteur capital peut être augmenté en (2):
 
 ## 3. Réduire les coûts du travail et le chômage grâce à  la flexibilité du marché du travail
 Un marché du travail flexible permet aux entreprises d::’embaucher plus facilement des travailleurs lorsqu’elles ont besoin d’augmenter leur production, mais également de licencier des travailleurs dans un contexte de crise.
-<!--SR:!2024-01-26,19,222-->
+<!--SR:!2024-03-07,41,222-->
 
 Un marché du travail plus flexible permet aux entreprises d’ajuster les salaires rapidement et facilement. Ceci peut être réalisé par (4):
 ?

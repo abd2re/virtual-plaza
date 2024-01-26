@@ -39,7 +39,7 @@ Key terms:
 - Audience:: the intended readership of a text
 <!--SR:!2024-02-04,74,210-->
 - Purpose:: what the text set out to achieve; why the text is created
-<!--SR:!2024-01-26,77,230-->
+<!--SR:!2024-07-22,178,230-->
 - Mood:: the feeling that is evoked in the reader (audience) which is  a result of the tone which is set.
 <!--SR:!2024-04-21,115,210-->
 - Semantic fields:: A collection of words or phrases that are related to each other in meaning and connotation, for example, safety, welcome, support, shelter, structure and warmth would all be part of the same semantic field in relation to the word home

@@ -24,7 +24,7 @@ Un industrie naissante (ou en plein essor) est celui:: qui vient de s'ouvrir e
 <!--SR:!2024-01-29,9,250-->
 
 Economie d'échelle:: Capacité d'une entreprise à produire avec des coûts moyens inférieurs lorsque sa taille augmente.
-<!--SR:!2024-01-26,4,190-->
+<!--SR:!2024-02-02,7,190-->
 
 Graphique de l'économie d'échelle:
 ?
@@ -34,7 +34,7 @@ Graphique de l'économie d'échelle:
 
 
 Le dumping:: fait référence aux entreprises qui exportent leurs biens à un prix inférieur au coût de production.
-<!--SR:!2024-01-25,4,210-->
+<!--SR:!2024-02-01,7,210-->
 
 La balance des paiements est:: l'enregistrement des transactions commerciales, des flux de capitaux et des flux financiers entre un pays et le reste du monde.
 <!--SR:!2024-01-28,8,250-->

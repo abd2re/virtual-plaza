@@ -48,17 +48,17 @@ Tangente et normale pour une fonction représente:
 - $f(x)=\tan(x)\rightarrow f'(x)=$::$\sec^{2}(x)$
 <!--SR:!2024-02-01,39,250-->
 - $f(x)=\sec(x)\rightarrow f'(x)=$::$\sec(x)\tan(x)$
-<!--SR:!2024-01-25,1,217-->
+<!--SR:!2024-01-27,1,177-->
 - $f(x)=\csc(x)\rightarrow f'(x)=$::$-\csc(x)\cot(x)$
-<!--SR:!2024-01-25,1,217-->
+<!--SR:!2024-01-27,1,177-->
 - $f(x)=\cot(x)\rightarrow f'(x)=$::$-\csc^{2}(x)$
-<!--SR:!2024-01-25,1,217-->
+<!--SR:!2024-01-27,1,177-->
 - $f(x)=\sin^{-1}(x)\rightarrow f'(x)=$::$\frac{1}{\sqrt{1-x^{2}}}$
-<!--SR:!2024-01-26,2,237-->
+<!--SR:!2024-02-01,6,237-->
 - $f(x)=\cos^{-1}(x)\rightarrow f'(x)=$::$\frac{-1}{\sqrt{1-x^{2}}}$
-<!--SR:!2024-01-26,2,237-->
+<!--SR:!2024-02-01,6,237-->
 - $f(x)=\tan^{-1}(x)\rightarrow f'(x)=$::$\frac{1}{1+x^{2}}$
-<!--SR:!2024-01-26,2,237-->
+<!--SR:!2024-02-01,6,237-->
 ### Opérations
 - $g(x)=c\cdot f(x)\rightarrow g'(x)=$::$c\cdot f'(x)$
 <!--SR:!2024-02-01,39,250-->
@@ -73,7 +73,7 @@ Tangente et normale pour une fonction représente:
 
 ### Première et seconde dérivée
 - Si $f'(x)=0$ alors ce point est:: un extremum local
-<!--SR:!2024-01-25,23,240-->
+<!--SR:!2024-03-21,56,240-->
 - Si $f''(x)=0$ alors ce point est:: un point d'inflextion
 <!--SR:!2024-02-17,37,240-->
 - Si $f'(x)=0$ et $f''(x)<0$ alors ce point est:: un maximum local
@@ -87,9 +87,9 @@ Tangente et normale pour une fonction représente:
 
 ## Dérivation implicite
 $\frac{df(y)}{dx}=$::$\frac{df(y)}{dy}\cdot \frac{dy}{dx}=f'(y)\frac{dy}{dx}$
-<!--SR:!2024-01-26,2,237-->
+<!--SR:!2024-01-30,4,237-->
 $\frac{d}{dx}(f(x)g(y))=$::$g(y)\frac{df(x)}{dx}+f(x)\frac{dg(y)}{dx}=g(y)f'(x)+f(x)g'(y)\frac{dy}{dx}$
-<!--SR:!2024-01-26,2,237-->
+<!--SR:!2024-01-31,5,237-->
 
 Si on a $f(x,\,y)$ et on veut $\frac{dy}{dx}$ alors les étapes sont :
 ?
@@ -100,9 +100,10 @@ ou
 - Appliquer la dérivée pour chaque terme
 - Factoriser par $dy$ et $dx$
 - Diviser $dy$ par $dx$
-<!--SR:!2024-01-26,2,237-->
+<!--SR:!2024-02-01,6,237-->
 
 $df(x)=$::$f'(x)dx$
-<!--SR:!2024-01-26,2,237-->
+<!--SR:!2024-01-30,4,237-->
+
 
 

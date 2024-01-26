@@ -18,7 +18,7 @@ Les inconvénients sont (2):
 ?
 - Perte de souveraineté
 - Difficultés de s’engager dans des négociations commerciales multilatérales
-<!--SR:!2024-01-25,1,190-->
+<!--SR:!2024-01-27,2,190-->
 
 Facteurs qui contribuent à la mondialisation sont (5):
 ?

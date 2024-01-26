@@ -7,7 +7,7 @@ Created: 2023-11-29
 # Transmission et réfraction
 ## Transmission
 La transmission c'est:: le passage d'une onde d'un milieu à un autre sans changement de direction de propagation.
-<!--SR:!2024-01-25,21,170-->
+<!--SR:!2024-03-02,37,170-->
 - L'onde transmise aura une amplitude:: plus faible si une certaine absorption s'est produite
 <!--SR:!2024-02-23,52,250-->
 - L'onde transmise aura une période/fréquence différente. Vrai ou faux ?:: faux, elle reste pareil.

@@ -5,7 +5,7 @@ Created: 2023-06-02
 
 # Équilibre à long terme
 Dans la nouvelle perspective classique, parce que les prix sont totalement flexibles, l'économie tendra toujours:: vers le plein emploi.
-<!--SR:!2024-01-26,133,230-->
+<!--SR:!2024-11-26,305,230-->
 
 ## Baisse de la demande globale (néo-classique)
 (Graphique qui représente les transformations)

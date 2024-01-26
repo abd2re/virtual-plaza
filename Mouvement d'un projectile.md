@@ -15,7 +15,7 @@ Si on néglige la résistance de l'air, le projectile n'est soumis qu'a son poid
 $a_{x}$=::0
 <!--SR:!2024-03-08,72,230-->
 $a_{y}$=::-g
-<!--SR:!2024-01-25,163,250-->
+<!--SR:!2024-04-15,81,230-->
 $v_{0}$=::vitesse initiale
 <!--SR:!2024-02-16,67,230-->
 $\theta$=::angle de projection
@@ -32,4 +32,4 @@ $\theta$=::angle de projection
 - Equation de fleche (H):: $$\large{H=\frac{v_{0}^{2}\sin^2(\theta)}{2g}}$$
 <!--SR:!2024-02-16,160,230-->
 - Equation de portée (R):: $$\large{R=\frac{v_{0}^{2}\sin^{2}(2\theta)}{g}}$$
-<!--SR:!2024-01-25,11,130-->
+<!--SR:!2024-02-10,16,130-->

@@ -78,7 +78,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 <!--SR:!2024-01-29,47,141-->
 
 - $\cos\theta$=::$\frac{a}{|z|}$
-<!--SR:!2024-01-26,56,236-->
+<!--SR:!2024-06-05,131,236-->
 - $\sin\theta$=::$\frac{b}{|z|}$
 <!--SR:!2024-02-25,44,216-->
 - $|zw|$=::$|z||w|$
@@ -96,11 +96,11 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
 <!--SR:!2024-02-04,20,176-->
 - $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
-<!--SR:!2024-01-25,6,174-->
+<!--SR:!2024-01-28,3,154-->
 
 ## Formules d'Euler (module=1)
 Si $|z|=1$ alors $z^{*}$=::$z^{-1}$
-<!--SR:!2024-01-26,55,234-->
+<!--SR:!2024-06-02,128,234-->
 $e^{i\pi}$=::$-1$
 <!--SR:!2024-03-10,81,234-->
 

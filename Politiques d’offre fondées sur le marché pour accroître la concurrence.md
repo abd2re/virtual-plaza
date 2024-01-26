@@ -20,7 +20,7 @@ C'est:: enlever toutes les lois qui gênent le bon fonctionnement des entreprise
 
 ## 2. Privatisation
 La privatisation fait référence au moment où:: la propriété d'une entreprise est transférée du secteur public au secteur privé.
-<!--SR:!2024-01-25,21,246-->
+<!--SR:!2024-03-16,51,246-->
 
 ## 3. Libéralisation du commerce
 La libéralisation du commerce fait référence à:: la diminution des obstacles au commerce avec d’autres pays.

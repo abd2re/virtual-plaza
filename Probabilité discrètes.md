@@ -11,7 +11,7 @@ Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 <!--SR:!2024-05-15,144,250-->
 On appelle événement:: toute partie de l'univers (sous-ensemble)
-<!--SR:!2024-01-25,29,190-->
+<!--SR:!2024-03-22,57,190-->
 
 ### Définitions
 - Evénement élémentaire:: a une seule issue

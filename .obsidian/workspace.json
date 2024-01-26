@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "23c6a6445faa5b3e",
+        "id": "60845302eef59e3e",
         "type": "tabs",
         "children": [
           {
-            "id": "477d2ce1e5f6442e",
+            "id": "16c66dcd226e8291",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theme 3-Économie Mondiale.md",
+                "file": "Formule de la lentille.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ffe73d8d7a1d8038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Formation de l'image dans les lentilles convexes.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Theme 3-Économie Mondiale.md",
+                "file": "Formule de la lentille.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 3-Économie Mondiale.md",
+                "file": "Formule de la lentille.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Theme 3-Économie Mondiale.md",
+                "file": "Formule de la lentille.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -199,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Theme 3-Économie Mondiale.md"
+                "file": "Formule de la lentille.md"
               }
             }
           },
@@ -217,7 +230,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Theme 3-Économie Mondiale.md"
+                "file": "Formule de la lentille.md"
               }
             }
           },
@@ -270,7 +283,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Theme 3-Économie Mondiale.md",
+                "file": "Formule de la lentille.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -349,54 +362,55 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "477d2ce1e5f6442e",
+  "active": "16c66dcd226e8291",
   "lastOpenFiles": [
-    "Organisation mondiale du commerce (OMC).md",
+    "Formation de l'image dans les lentilles convexes.md",
+    "Lentilles.md",
+    "Option - Imagerie.md",
+    "Objets et images.md",
+    "Formule de la lentille.md",
+    "assets/Objets et images/image-20240126141547795.png",
+    "Chapitre 1 - Introduction à l'imagerie.md",
+    "assets/Lentilles/image-20240126135839487.png",
+    "assets/Lentilles/image-20240126135856063.png",
+    "assets/Objets et images/image-20240126141505704.png",
+    "assets/Formation de l'image dans les lentilles convexes/image-20240126143118883.png",
+    "Formation de l'image dans les lentilles concaves.md",
+    "assets/Formation de l'image dans les lentilles concaves/image-20240126180520227.png",
+    "assets/Formation de l'image dans les lentilles concaves",
+    "assets/Formation de l'image dans les lentilles convexes/image-20240126150519587.png",
+    "assets/Formation de l'image dans les lentilles convexes/image-20240126150618664.png",
+    "assets/Formation de l'image dans les lentilles convexes/image-20240126180100487.png",
+    "assets/Formation de l'image dans les lentilles convexes/image-20240126175554839.png",
+    "Untitled.canvas",
+    "assets/Formation de l'image dans les lentilles convexes",
+    "assets/Objets et images",
+    "Mouvement circulaire uniforme.md",
+    "Forces magnétiques.md",
+    "Energies potentielles.md",
+    "Intégration.md",
+    "Theme 5-Electricité et Magnétisme.md",
+    "Théorie cinétique des gaz parfaits.md",
+    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
+    "Chapitre 3 - Travail d'une force.md",
+    "Travail des force électriques.md",
+    "_math.md",
+    "Dérivation.md",
+    "assets/Lentilles",
+    "_physics.md",
     "Theme 3-Économie Mondiale.md",
+    "Chapitre 1 - Avantages du commerce international.md",
+    "Organisation mondiale du commerce (OMC).md",
     "Avantages et inconvénients des blocs commerciaux.md",
     "Chapitre 2 - Types de protection commerciale.md",
-    "Chapitre 1 - Avantages du commerce international.md",
     "_economy.md",
     "Distribution normale.md",
-    "_math.md",
-    "Probabilité discrètes.md",
-    "Distribution binomiale.md",
-    "Intégration.md",
-    "Dérivation.md",
-    "assets/Dérivation/image-20231128163111952.png",
-    "Fonctions quadratiques.md",
-    "Nombres complexes.md",
-    "Champ électrique.md",
-    "Equilibre à court terme.md",
-    "assets/Equilibre à court terme/image-20230515115646980.png",
     "Champ électrique_tmp.html",
-    "Utilisation des aires.md",
-    "assets/Utilisation des aires/image-20230328093918736.png",
-    "AB testing.md",
-    "Loi de décroissance radioactive.md",
-    "assets/Loi de décroissance radioactive/image-20230222134540381.png",
-    "Theme 7-Physique nucléaire.md",
-    "Conservation masse-énergie.md",
-    "Energie de liaison du noyau.md",
-    "Fission et fusion nucléaire.md",
-    "Chapitre 4 - Intégration économique.md",
-    "Theme 1-Micro-économie.md",
-    "_physics.md",
-    "assets/CPU/CPU-8.png",
-    "assets/CPU/CPU-7.png",
-    "assets/Cycle Fetch-Execute/image-20230113135958071.png",
-    "assets/Cycle Fetch-Execute/image-20230113135949209.png",
-    "assets/Cycle Fetch-Execute/image-20230112221910659.png",
-    "assets/Blocs commerciaux/image-20240120162728341.png",
     "assets/Blocs commerciaux",
     "assets/Arguments en faveur de la protection commerciale",
     "assets/Subventions (protection commerciale)",
     "assets/Quotas",
     "assets/Tarifs",
-    "assets/Diagrammes de Sankey",
-    "assets/Avantages du commerce international",
-    "2.7 m.canvas",
-    "assets/Interférence",
-    "assets/Politiques d’offre liées aux incitations"
+    "2.7 m.canvas"
   ]
 }

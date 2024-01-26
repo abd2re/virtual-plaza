@@ -14,7 +14,7 @@ La propagation d'une onde progressive s’effectue:: sans transport de matière 
 
 
 - L'énergie est transférée par les ondes, mais la matière:: ne l'est pas
-<!--SR:!2024-01-25,40,250-->
+<!--SR:!2024-05-03,99,250-->
 
 Il existe deux types d'ondes progressives (avec définition):
 ?

@@ -16,7 +16,7 @@ Au total, il existe quatre types de chômage qui se répartissent en deux grande
 ### Cyclique (demande insuffisante)
 ?
 Dans le cas d'une récession, une réduction de la [[demande globale]] entraînerait une baisse de la production nationale, une baisse des revenus des entreprises et des particuliers, une augmentation du chômage et, potentiellement, une baisse du niveau général des prix également. Ce type de chômage est connu sous le nom de chômage cyclique ou un **chômage insuffisant par rapport à la demande**.
-<!--SR:!2024-01-25,30,210-->
+<!--SR:!2024-02-08,14,190-->
 
 Les récessions peuvent également provoquer un [[choc d'offre]] lorsque l'[[offre]] globale diminue, entraînant une hausse des [[coûts de production]] et entraînant ce que l'on appelle:: une baisse de l'offre globale (stagflation).
 <!--SR:!2024-02-06,17,210-->
@@ -86,7 +86,7 @@ Quels sont les coûts sociaux du chômage (2) ?:
 ?
 1. Augmentation du taux de criminalité
 2. Risques accrus pour la santé
-<!--SR:!2024-01-26,46,222-->
+<!--SR:!2024-05-06,101,222-->
 
 ## Solutions au chômage
 Graphes des deux causes principales (avec leur noms):
@@ -100,4 +100,4 @@ Graphes des deux causes principales (avec leur noms):
 - Pour chômage cyclique =>:: Le gouvernement devra s’attaquer directement à la baisse de la demande globale en stimulant la demande globale avec des politiques fiscales et monétaires.
 <!--SR:!2024-02-04,34,222-->
 - Pour chômage structurel =>:: Le chômage structurel peuvent être réduits grâce à des politiques qui améliorent la flexibilité de la main-d’œuvre (**Education**)
-<!--SR:!2024-01-26,66,202-->
+<!--SR:!2024-02-27,32,182-->
