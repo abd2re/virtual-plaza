@@ -30,7 +30,7 @@ Created: 2023-10-27
 
 ## Division polynomiale
 Formule générale::$$\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$$
-<!--SR:!2024-01-27,50,230-->
+<!--SR:!2024-05-20,114,230-->
 
 - Cette méthode n'est généralement utile que lorsque le degré du dénominateur est:: inférieur ou égal au degré du numérateur.
 <!--SR:!2024-04-19,104,250-->
@@ -51,7 +51,7 @@ $$Q(x)+\frac{R}{ax+b}$$
 - $ax+b$ est le diviseur ($\deg 1$)
 - $Q(x)$ est le quotient ($\deg n-1$)
 - $R$ est le reste ($\deg 0$)
-<!--SR:!2024-01-27,22,230-->
+<!--SR:!2024-03-17,50,230-->
 
 ### Division par des fonctions quadratiques
 

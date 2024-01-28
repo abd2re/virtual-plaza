@@ -10,7 +10,7 @@ Le protectionnisme fait référence à:: des outils politiques, tels que les tar
 <!--SR:!2024-01-28,3,170-->
 
 Un tarif fait référence à:: une taxe prélevée par unité sur le prix des biens et services importés. Un pays peut choisir d'imposer un droit de douane pour protéger une industrie nationale.
-<!--SR:!2024-01-27,1,130-->
+<!--SR:!2024-01-28,1,130-->
 
 Graphique de l'effet des tarifs sur les importations (tout les éléments):
 ?

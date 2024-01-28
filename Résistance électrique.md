@@ -34,7 +34,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 - Association en série formule::$$R_{eqs}=R_1+R_2+\text{...}$$ l'association en série de plusieurs résistors est équivalent a un résistor $R_{eqs}$ dont la résistance est égale a la somme des résistances
 <!--SR:!2025-02-28,476,242-->
 - Association en parallèle formule::$$\frac{1}{R_{eqp}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\text{...}$$ $$R_{eqp}=\frac{R_{1}R_{2}}{R_{1}+R_{2}}$$
-<!--SR:!2024-01-27,41,201-->
+<!--SR:!2024-02-16,20,181-->
 
 ## Dissipation d'énergie électrique dans un resistor (effet joule)
 ?

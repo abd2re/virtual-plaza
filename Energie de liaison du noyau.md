@@ -43,10 +43,11 @@ $$\large{E_{A}=\frac{E_{l}}{A}}$$
 - L'énergie de liaison par nucléon permet de comparer la stabilité des noyaux entre eux. Les noyaux dont l'énergie de liaison par nucléon est la plus grande sont:: les plus stables.
 <!--SR:!2024-07-22,296,250-->
 
-##  Courbe d'Aston
+Représente la Courbe d'Aston
 ?
 La courbe d'Aston est la courbe $E_{A}$=f(A). Cette courbe permet de visualiser facilement les noyaux les plus stable puisque ceux-ci se trouvent en haut du graphe.
 ![[image-20230323182347196.png]]
 <!--SR:!2024-02-04,75,230-->
 
 
+La courte portée de la force implique qu'un nucléon donné ne peut interagir avec ses voisins immédiats et non avec tous les nucléons du noyau. Ainsi, pour les gros noyaux (c'est-à-dire approximativement A > 20), chaque nucléon est entouré du même nombre de voisins immédiats et l'énergie nécessaire pour retirer ce nucléon du noyau est la même. C'est pourquoi, la nature à courte portée de la force nucléaire explique pourquoi l'énergie de liaison par nucléon est à peu près constante au-delà d'une certaine valeur de A.

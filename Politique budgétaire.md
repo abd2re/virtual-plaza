@@ -9,7 +9,7 @@ La politique budgétaire est:: lorsque le gouvernement intervient sur le marché
 <!--SR:!2024-03-02,38,170-->
 
 La politique fiscale fait parti de:: la politique budgétaire.
-<!--SR:!2024-01-27,28,190-->
+<!--SR:!2024-03-21,54,190-->
 
 Le budget décrit la manière dont:: le gouvernement dépensera les recettes fiscales qu’il reçoit.
 <!--SR:!2024-01-29,31,210-->

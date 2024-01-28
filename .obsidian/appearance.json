@@ -1,12 +1,11 @@
 {
+  "accentColor": "",
   "cssTheme": "Catppuccin",
-  "baseFontSize": 20,
+  "textFontFamily": "cmu serif",
   "theme": "moonstone",
-  "accentColor": "#ffffff",
+  "baseFontSize": 22,
   "enabledCssSnippets": [
     "img",
     "export"
-  ],
-  "interfaceFontFamily": "",
-  "textFontFamily": "CMU Serif"
+  ]
 }

@@ -29,7 +29,7 @@ $$\large{\sin\theta=\frac{n\lambda}{d}}$$
 - $\theta$ = angle entre la distance entre les deux plaques et la médiatrice
 - $n\lambda$ = déphasage des deux ondes
 - $d$ = distance entre les deux fentes
-<!--SR:!2024-01-27,14,207-->
+<!--SR:!2024-02-24,28,207-->
 
 Formule de la frange:
 ?

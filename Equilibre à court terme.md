@@ -39,5 +39,5 @@ Lorsque le SRAS se déplace vers la droite en raison de changements dans l'un de
 <!--SR:!2024-01-30,146,230-->
 - Augmentation de la demande globale:: Inflation, Croissance économique, Chômage diminue 
 <!--SR:!2024-02-24,177,250-->
-- Baisse de la demande globale:: Déflation, Décroissance économique, Chômage augmente 
-<!--SR:!2024-01-27,157,250-->
+- Baisse de la demande globale:: Déflation, Décroissance économique, Chômage augmente
+<!--SR:!2025-02-22,392,250-->

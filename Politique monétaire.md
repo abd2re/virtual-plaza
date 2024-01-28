@@ -7,7 +7,7 @@ Created: 2023-11-08
 # Politique monétaire
 ?
 La politique monétaire fait référence à la banque centrale qui utilise le rentrée d'argent et les taux d’intérêt pour gérer l’économie.
-<!--SR:!2024-01-27,9,130-->
+<!--SR:!2024-02-08,12,130-->
 
 - La politique monétaire permet aux pays de stimuler leur économie tout en évitant de:: s’endetter.
 <!--SR:!2024-02-17,54,230-->
@@ -69,4 +69,4 @@ La Banque centrale peut émettre obligations pour:: lever des fonds pour finance
 - Un rôle important de la banque centrale est de réglementer banques commerciales pour s’assurer:: qu’elles ne prennent pas trop de risques.
 <!--SR:!2024-03-10,66,230-->
 - Le pouvoir de régulation le plus important d’une banque centrale est de:: fixer des réserves obligatoires.
-<!--SR:!2024-01-27,12,150-->
+<!--SR:!2024-02-15,19,150-->

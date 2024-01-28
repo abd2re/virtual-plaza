@@ -10,7 +10,7 @@ Une relance budgétaire peut (2) (négatif):
 ?
 - Faire reculer l’offre de l’économie
 - Entraîner une éviction
-<!--SR:!2024-01-27,12,166-->
+<!--SR:!2024-02-15,19,166-->
 
 Une éviction se produit lorsque:: les dépenses du secteur public remplacent les dépenses du secteur privé.
 <!--SR:!2024-02-17,33,210-->

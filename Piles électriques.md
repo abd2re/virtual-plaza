@@ -41,7 +41,7 @@ circuit équivalent d'une pile réel::![[equivalent e;r]]
 
 ## Circuits avec des piles
 formule emf::$$e=(r+R)I$$
-<!--SR:!2024-01-27,9,130-->
+<!--SR:!2024-02-07,11,130-->
 
 
 ## Circuits simples comportant des piles, récepteurs et resistors

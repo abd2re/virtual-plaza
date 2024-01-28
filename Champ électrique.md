@@ -17,7 +17,7 @@ $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 <!--SR:!2024-02-23,237,210-->
 
 L'intensité du champ électrique est:: la force par unité de charge qui s'exerce sur une charge ponctuelle.
-<!--SR:!2024-01-27,38,219-->
+<!--SR:!2024-02-14,18,199-->
 
 Le champ électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
 <!--SR:!2024-03-14,269,230-->

@@ -48,11 +48,11 @@ Tangente et normale pour une fonction représente:
 - $f(x)=\tan(x)\rightarrow f'(x)=$::$\sec^{2}(x)$
 <!--SR:!2024-02-01,39,250-->
 - $f(x)=\sec(x)\rightarrow f'(x)=$::$\sec(x)\tan(x)$
-<!--SR:!2024-01-27,1,177-->
+<!--SR:!2024-01-29,2,177-->
 - $f(x)=\csc(x)\rightarrow f'(x)=$::$-\csc(x)\cot(x)$
-<!--SR:!2024-01-27,1,177-->
+<!--SR:!2024-01-28,1,157-->
 - $f(x)=\cot(x)\rightarrow f'(x)=$::$-\csc^{2}(x)$
-<!--SR:!2024-01-27,1,177-->
+<!--SR:!2024-01-28,1,157-->
 - $f(x)=\sin^{-1}(x)\rightarrow f'(x)=$::$\frac{1}{\sqrt{1-x^{2}}}$
 <!--SR:!2024-02-01,6,237-->
 - $f(x)=\cos^{-1}(x)\rightarrow f'(x)=$::$\frac{-1}{\sqrt{1-x^{2}}}$

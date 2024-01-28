@@ -29,7 +29,7 @@ Economie d'échelle:: Capacité d'une entreprise à produire avec des coûts moy
 Graphique de l'économie d'échelle:
 ?
 ![[image-20240117085813390.png|center]]
-<!--SR:!2024-01-27,7,250-->
+<!--SR:!2024-02-12,16,250-->
 
 
 

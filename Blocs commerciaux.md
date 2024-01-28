@@ -6,7 +6,7 @@ Created: 2024-01-20
 
 # Blocs commerciaux
 Un bloc commercial s’agit d::’un niveau d’intégration économique plus étroit que les ACPr.
-<!--SR:!2024-01-27,2,190-->
+<!--SR:!2024-01-31,4,190-->
 
 Il existe quatre types de blocs commerciaux:
 ?
@@ -18,7 +18,7 @@ Il existe quatre types de blocs commerciaux:
 
 ## Zones de libre-échange
 Zones de libre-échange (ZLE) sont formés par un bloc commercial de pays signant des accords commerciaux pour:: éliminer la plupart ou la totalité des obstacles au commerce avec les autres pays impliqués dans l'accord.
-<!--SR:!2024-01-27,4,230-->
+<!--SR:!2024-02-06,10,230-->
 ![[image-20240120162714043.png]]
 
 

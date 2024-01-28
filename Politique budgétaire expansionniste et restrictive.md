@@ -37,7 +37,7 @@ La principale différence entre les keynésiens et les néo-classiques lors d'un
 ?
 Les monétaristes estiment qu’un écart inflationniste ne se produit qu’à court terme et que ça va s'ajuster lui-même. Les keynésiens estiment que toute tentative de pousser la production au-delà du plein emploi ne fera que créer davantage d’inflation. L’intervention du gouvernement est nécessaire pour refroidir l’économie.
 ![[image-20231129092655523.png]]
-<!--SR:!2024-01-27,36,248-->
+<!--SR:!2024-04-26,90,248-->
 
 
 

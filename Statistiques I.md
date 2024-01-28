@@ -15,7 +15,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 
 ## Données non groupées
 - Le mode est:: la valeur qui a la fréquence la plus élevée
-<!--SR:!2024-01-27,17,242-->
+<!--SR:!2024-03-07,40,242-->
 - La médiane est:: la valeur milieu
 <!--SR:!2024-02-26,33,242-->
 - $\mu=$::$$\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}}{\sum\limits_{i=1}^{k}f_{i}}$$
@@ -31,7 +31,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - La classe modale est:: la classe dont la fréquence est la plus élevée. (Il s'agit uniquement d'intervalles de la classe de qualification)
 <!--SR:!2024-01-28,12,202-->
 - La médiane est la valeur milieu. La valeur exacte ne peut pas être calculée mais peut être estimée à l'aide d::'un graphique de fréquence cumulée.
-<!--SR:!2024-01-27,10,202-->
+<!--SR:!2024-02-18,22,202-->
 - La moyenne exacte ne peut être calculée car:: on ne dispose pas des données de base.
 <!--SR:!2024-02-15,26,242-->
 - Pour les données groupées, $x_{i}$ est:: la valeur du milieu de l'intervalle (point médian) pour chaque classe.

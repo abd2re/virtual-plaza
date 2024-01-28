@@ -1,20 +1,4 @@
 {
-  "spellcheckLanguages": null,
-  "spellcheck": true,
-  "alwaysUpdateLinks": true,
-  "promptDelete": false,
-  "livePreview": true,
-  "attachmentFolderPath": "./assets/Formule de la lentille",
-  "fileSortOrder": "alphabetical",
-  "showInlineTitle": false,
-  "pdfExportSettings": {
-    "includeName": false,
-    "pageSize": "Letter",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 85
-  },
-  "readableLineLength": true,
-  "defaultViewMode": "preview",
-  "propertiesInDocument": "source"
+  "attachmentFolderPath": "./assets/Fission et fusion nucléaire",
+  "showInlineTitle": false
 }

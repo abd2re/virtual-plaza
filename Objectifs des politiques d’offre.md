@@ -19,7 +19,7 @@ Le gouvernement mène des politiques axées sur l’offre pour contribuer à l
 - Réduire les coûts du travail et le chômage grâce à la flexibilité du marché du travail
 - Réduire l'inflation pour améliorer la compétitivité internationale
 - Accroître les incitations des entreprises à investir dans l'innovation en réduisant les coûts.
-<!--SR:!2024-01-27,4,142-->
+<!--SR:!2024-02-02,6,142-->
 
 ## 1. Augmenter la capacité productive de l’économie pour parvenir à une croissance à long terme
 - La capacité productive comprend toutes les ressources par exemple::, la terre, la main-d'œuvre, les moteurs, les machines, la technologie, le savoir-faire et le stock de capital de l'économie.
@@ -63,6 +63,6 @@ Un marché du travail plus flexible permet aux entreprises d’ajuster les salai
 
 ## 4. Réduire l’inflation pour améliorer la compétitivité internationale
 Si le taux d’inflation d’un pays est inférieur à celui du reste du monde, cela signifie que:: les prix intérieurs augmentent plus lentement que dans le reste du monde. En conséquence, ses exportations seront relativement compétitives.
-<!--SR:!2024-01-27,26,244-->
+<!--SR:!2024-03-29,62,244-->
 
 ## 5. Accroître les incitations des entreprises à investir dans l'innovation en réduisant les coûts
