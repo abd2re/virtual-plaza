@@ -9,3 +9,5 @@ La fission spontanée est la division d'un noyau en deux noyaux à peu près ég
 
 ![[image-20240128195210111.png]]
 
+![[image-20240128195416027.png]]
+
