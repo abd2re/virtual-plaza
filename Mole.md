@@ -7,7 +7,7 @@ Created: 2022-11-15
 ?
 Une mole est un ensemble de $N_{A}$ entités identiques.
 $N_A$ représente le nombre d'Avogardo =:: $6.02 \cdot 10^{23}$
-<!--SR:!2024-01-28,4,130-->
+<!--SR:!2024-02-01,4,130-->
 
 Formule nombre de moles=
 ?

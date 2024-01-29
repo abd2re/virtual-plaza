@@ -37,4 +37,4 @@ Le dumping:: fait référence aux entreprises qui exportent leurs biens à un pr
 <!--SR:!2024-02-01,7,210-->
 
 La balance des paiements est:: l'enregistrement des transactions commerciales, des flux de capitaux et des flux financiers entre un pays et le reste du monde.
-<!--SR:!2024-01-28,8,250-->
+<!--SR:!2024-02-15,18,250-->

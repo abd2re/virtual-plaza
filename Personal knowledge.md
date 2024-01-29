@@ -6,7 +6,7 @@ Created: 2022-11-16
 # Personal knowledge
 ?
 Personal knowledge is the knowledge we personally have. Almost all of our personal knowledge is experiential. The exceptions would be any knowledge that is innate, that is knowledge we are born with, or things that we can know a priori, it means, purely by reason. An example of innate knowledge might be knowing how to breathe, how to cry, knowing to search for our mother's nipple. Some people would say we are born with an innate sense of God
-<!--SR:!2024-01-28,98,210-->
+<!--SR:!2024-11-15,292,230-->
 
 experiential=::based on experience
 <!--SR:!2024-06-21,330,230-->

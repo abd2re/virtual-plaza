@@ -6,7 +6,7 @@ Created: 2023-06-05
 # Identités trigonométriques
 ## Identité fondamentale
 - $\cos^{2}x+\sin^{2}x=$::$1$
-<!--SR:!2024-01-28,145,250-->
+<!--SR:!2025-01-24,362,250-->
 - $1+\tan^{2}x=$::$\frac{1}{cos^{2}x}$
 <!--SR:!2024-02-08,58,230-->
 ## Formules d'addition

@@ -53,5 +53,5 @@ Il est possible pour le gouvernement d’utiliser la politique budgétaire de de
 ?
 - Les gouvernements peuvent utiliser tarifs (taxes sur les importations) pour décourager les consommateurs nationaux d’acheter des importations.
 - À travers politique budgétaire restrictive, le gouvernement peut décourager la consommation de biens nationaux et importés.
-<!--SR:!2024-01-28,25,206-->
+<!--SR:!2024-03-19,51,206-->
 

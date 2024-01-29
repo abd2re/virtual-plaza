@@ -29,7 +29,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 
 ## Données groupées
 - La classe modale est:: la classe dont la fréquence est la plus élevée. (Il s'agit uniquement d'intervalles de la classe de qualification)
-<!--SR:!2024-01-28,12,202-->
+<!--SR:!2024-02-20,23,202-->
 - La médiane est la valeur milieu. La valeur exacte ne peut pas être calculée mais peut être estimée à l'aide d::'un graphique de fréquence cumulée.
 <!--SR:!2024-02-18,22,202-->
 - La moyenne exacte ne peut être calculée car:: on ne dispose pas des données de base.

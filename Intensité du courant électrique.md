@@ -5,8 +5,9 @@ Created: 2022-12-05
 
 # Intensité du courant électrique
 ?
+<!--SR:!2024-01-29,1,223-->
 L'intensité du courant électrique est une grandeur physique qui mesure la quantité d'électricité qui traverse une section d'un circuit par unité de temps. On l'a mesure a l'aide d'un:: ampèremètre branché en série avec le dipole dont un veut connaître l'intensité.
-<!--SR:!2024-01-28,2,243-->
+<!--SR:!2024-02-04,7,263-->
 
 <!--SR:!2024-02-01,44,210-->
 
@@ -46,9 +47,9 @@ $$
 
 ## Les lois de l'intensité
 - **Loi de l'unicité de l'intensité**:: Lorsque des dipoles sont branchés en série, ils sont parcourus par un courant de meme intensité
-<!--SR:!2024-01-28,2,230-->
+<!--SR:!2024-02-06,9,250-->
 - **Loi des nœuds ou de Kirchhoff pour l'intensité**:: Dans un nœud la somme des courants entrants est égale a la somme des courants sortants.
-<!--SR:!2024-01-28,2,230-->
+<!--SR:!2024-02-06,9,250-->
 - Un nœud est:: le point de rencontre de plus de deux fils de connexion
-<!--SR:!2024-01-28,2,230-->
+<!--SR:!2024-02-02,5,230-->
 

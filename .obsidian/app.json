@@ -1,4 +1,5 @@
 {
-  "attachmentFolderPath": "./assets/Fission et fusion nucléaire",
-  "showInlineTitle": false
+  "attachmentFolderPath": "./assets/Modes propres de vibration",
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }

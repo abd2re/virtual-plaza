@@ -39,4 +39,4 @@ Les politiques industrielles consistent en:: des interventions gouvernementales 
 <!--SR:!2024-02-26,37,224-->
 
 L'objectif est:: d'augmenter la productivité de ces industries spécifiques et d'en faire des moteurs de croissance et d'emploi
-<!--SR:!2024-01-28,26,228-->
+<!--SR:!2024-03-26,58,228-->

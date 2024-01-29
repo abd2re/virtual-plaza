@@ -13,7 +13,7 @@ Created: 2023-10-04
 - Une hausse de l'inflation cause:: une baisse de chômage.
 <!--SR:!2024-07-07,167,250-->
 - Une baisse de l'inflation cause:: une hausse du chômage.
-<!--SR:!2024-01-28,75,270-->
+<!--SR:!2024-08-17,202,270-->
 ## Conflit potentiel entre les objectifs macro-économiques
 ?
 Les objectifs macro-économiques peuvent parfois donner lieu à des conflits potentiels les uns avec les autres. Dans le cas où AD se déplace vers la droite, cela devrait entraîner une augmentation du PIB réel et une augmentation de l’emploi. Cependant, si la DA augmente trop,:: l’inflation peut devenir une menace à mesure que le niveau de plein emploi est atteint.

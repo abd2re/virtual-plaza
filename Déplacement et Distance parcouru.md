@@ -12,4 +12,4 @@ Souvent la longueur du déplacement est différent de la distance parcourue. Dif
 <!--SR:!2024-03-01,192,228-->
 
 Définition de trajectoire=:: L'ensemble des positions prises par le mobile au cours du temps.
-<!--SR:!2024-01-28,175,230-->
+<!--SR:!2024-04-24,87,210-->

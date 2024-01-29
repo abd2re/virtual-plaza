@@ -29,4 +29,4 @@ Types d'impôts directs (3):
 - Impôt sur le revenu
 - Impôt sur les sociétés
 - Impôt sur la fortune
-<!--SR:!2024-01-28,49,250-->
+<!--SR:!2024-05-29,122,250-->

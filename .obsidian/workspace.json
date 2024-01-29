@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6d9be92e767af547",
+        "id": "08bac86bd65060fc",
         "type": "tabs",
         "children": [
           {
-            "id": "d2121df1ca2ed3be",
+            "id": "7a77a9135b0f8840",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fission et fusion nucléaire.md",
-                "mode": "source",
+                "file": "Modes propres de vibration.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fission et fusion nucléaire.md",
+                "file": "Modes propres de vibration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fission et fusion nucléaire.md",
+                "file": "Modes propres de vibration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fission et fusion nucléaire.md",
+                "file": "Modes propres de vibration.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fission et fusion nucléaire.md"
+                "file": "Modes propres de vibration.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Fission et fusion nucléaire.md"
+                "file": "Modes propres de vibration.md"
               }
             }
           },
@@ -270,7 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Fission et fusion nucléaire.md",
+                "file": "Modes propres de vibration.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -349,55 +349,54 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "d2121df1ca2ed3be",
+  "active": "7a77a9135b0f8840",
   "lastOpenFiles": [
-    "assets/Fission et fusion nucléaire/image-20240128195416027.png",
-    "assets/Fission et fusion nucléaire/image-20240128195210111.png",
+    "assets/Modes propres de vibration/image-20240129113058890.png",
+    "Modes propres de vibration.md",
+    "assets/Modes propres de vibration/image-20240129113230833.png",
+    "Réflexion.md",
+    "assets/Modes propres de vibration/image-20240129113228427.png",
+    "assets/Modes propres de vibration/image-20240129113225521.png",
+    "assets/Modes propres de vibration/image-20240129112744264.png",
+    "assets/Modes propres de vibration",
+    "Chapitre 5 - Ondes stationnaires.md",
+    "Ondes stationnaires.md",
+    "assets/Ondes stationnaires/image-20240129103020326.png",
+    "assets/Ondes stationnaires/image-20240129102952375.png",
+    "assets/Ondes stationnaires",
+    "Loupe.md",
+    "Option - Imagerie.md",
+    "Aberrations de la lentille.md",
+    "Œil humain.md",
+    "_physics.md",
+    "Theme 4-Oscillations et ondes.md",
+    "Chapitre 4 - Comportement des ondes.md",
+    "Chapitre 1 - Introduction à l'imagerie.md",
+    "assets/Aberrations de la lentille/image-20240129100632114.png",
+    "assets/Aberrations de la lentille/image-20240129100731839.png",
+    "assets/Aberrations de la lentille/image-20240129100617204.png",
+    "assets/Aberrations de la lentille",
+    "Grossissement angulaire (M).md",
+    "Formule de la lentille.md",
+    "Formation de l'image dans les lentilles convexes.md",
+    "Formation de l'image dans les lentilles concaves.md",
+    "Objets et images.md",
+    "Lentilles.md",
+    "Signification de la pauvreté et comment la mesurer.md",
     "Fission et fusion nucléaire.md",
+    "Untitled 23.md",
     "assets/Fission et fusion nucléaire",
     "Theme 7-Physique nucléaire.md",
     "Energie de liaison du noyau.md",
-    "assets/Energie de liaison du noyau/image-20230323182347196.png",
     "Dérivation.md",
     "Chapitre 1 - Sources d'énergie.md",
-    "Ressources énergétiques.md",
-    "Sources d'énergie primaire et secondaire.md",
-    "_physics.md",
-    "Diagrammes de Sankey.md",
-    "Énergie spécifique.md",
-    "Theme 8-Production d'énergie.md",
-    "Theme 5-Electricité et Magnétisme.md",
-    "Intensité du courant électrique.md",
-    "Chapitre 1 - Introduction à l'imagerie.md",
-    "Option - Imagerie.md",
-    "Chapitre 2 - Incertitudes et erreurs.md",
-    "Taux de change flottants.md",
-    "Changements dans la demande et l'offre d'une monnaie.md",
-    "Chapitre 5 - Taux d'échange.md",
-    "assets/Taux de change flottants/image-20240127152920087.png",
-    "assets/Taux de change flottants/image-20240127152902331.png",
-    "assets/Taux de change flottants/image-20240127152845275.png",
-    "assets/Taux de change flottants/image-20240127152825962.png",
-    "assets/Taux de change flottants/image-20240127144909450.png",
     "assets/Taux de change flottants",
-    "Theme 3-Économie Mondiale.md",
-    "Chapitre 2 - Types de protection commerciale.md",
-    "Chapitre 4 - Intégration économique.md",
-    "Chapitre 3 - Arguments pour et contre le contrôle et la protection des échanges.md",
-    "Libre-échange contre protection commerciale.md",
-    "_economy.md",
-    "assets/Avantages du commerce international/image-20231214123330625.png",
-    "assets/Objets et images/image-20240126141547795.png",
-    "assets/Lentilles/image-20240126135839487.png",
     "assets/Formation de l'image dans les lentilles concaves",
     "Untitled.canvas",
     "assets/Formation de l'image dans les lentilles convexes",
     "assets/Objets et images",
     "assets/Lentilles",
     "Champ électrique_tmp.html",
-    "assets/Blocs commerciaux",
-    "assets/Arguments en faveur de la protection commerciale",
-    "assets/Subventions (protection commerciale)",
     "2.7 m.canvas"
   ]
 }
