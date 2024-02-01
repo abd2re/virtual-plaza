@@ -13,8 +13,6 @@ Représentation de l'expérience de Melde (explique éléments):
 
 
 
-
-
 Pour certaine fréquences, la corde a l'aspect de fuseaux équidistants; on dit qu'elle est le siège:: d'onde stationnaire.
 
 Une onde stationnaire résulte:: de la superposition de deux ondes progressives de même amplitude et de même fréquence se déplaçant en sens inverse.

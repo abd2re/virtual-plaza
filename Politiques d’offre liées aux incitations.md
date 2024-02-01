@@ -23,7 +23,7 @@ Les politiques liées aux incitations comprennent (2):
 Représentation de la courbe de Laffer:
 ?
 ![[image-20231207140020679.png]]
-<!--SR:!2024-01-31,8,217-->
+<!--SR:!2024-02-15,15,217-->
 
 ## 2. Baisse de l'impôt sur les sociétés et de l'impôt sur les plus-values
 
@@ -34,4 +34,4 @@ Les entreprises gagnent de l’argent de deux manières:
 <!--SR:!2024-02-01,24,226-->
 
 Un gouvernement peut réduire l'impôt sur les sociétés afin que les entreprises:: obtiennent une récompense plus élevée pour chaque unité supplémentaire produite et se retrouvent avec plus de bénéfices à investir dans une capacité de production supplémentaire . Cela augmentera l’offre de l’économie et fera croître l’économie.
-<!--SR:!2024-01-31,27,230-->
+<!--SR:!2024-04-01,61,230-->

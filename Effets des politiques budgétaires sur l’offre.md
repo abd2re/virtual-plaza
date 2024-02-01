@@ -16,4 +16,4 @@ Une éviction se produit lorsque:: les dépenses du secteur public remplacent le
 <!--SR:!2024-02-17,33,210-->
 
 Dans quelle mesure est-il préférable de laisser le mode de production entre les mains d’entreprises privées ?:: Selon les économistes de l’offre, motif de profit devrait inciter les entreprises privées à rechercher la méthode de production la moins coûteuse et, ce faisant, à devenir plus efficaces.
-<!--SR:!2024-01-31,23,226-->
+<!--SR:!2024-03-22,51,226-->

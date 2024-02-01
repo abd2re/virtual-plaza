@@ -30,7 +30,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2024-11-23,332,250-->
 - $\Large{\cos 90}=$::$0$
-<!--SR:!2024-01-31,156,250-->
+<!--SR:!2025-02-23,389,250-->
 
 ---
 
@@ -61,7 +61,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(x+2k\pi)=$::$\cos(x)$
 <!--SR:!2024-02-12,160,250-->
 - $\sin(x+2k\pi)=$::$\sin(x)$
-<!--SR:!2024-01-31,153,250-->
+<!--SR:!2025-02-16,382,250-->
 - $\tan(x+k\pi)=$::$\tan(x)$
 <!--SR:!2024-02-21,166,250-->
 ## Propriétés angles opposés

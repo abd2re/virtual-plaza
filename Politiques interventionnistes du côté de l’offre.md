@@ -16,7 +16,7 @@ Les politiques interventionnistes comprennent (5):
 - Recherche et développement
 - Provision d'infrastructure
 - Politiques industrielles
-<!--SR:!2024-01-31,5,150-->
+<!--SR:!2024-02-08,8,150-->
 
 ## 1. Éducation et formation
 Les dépenses publiques en matière d’éducation et de formation pourraient améliorer:: le capital humain.

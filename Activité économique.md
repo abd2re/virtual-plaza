@@ -6,7 +6,7 @@ Created: 2023-03-28
 # Activité économique
 ?
 C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain d'un pays.
-<!--SR:!2024-01-29,44,130-->
+<!--SR:!2024-02-19,21,130-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
 <!--SR:!2024-02-11,65,210-->
@@ -48,7 +48,7 @@ Injection =:: Dépenses gouvernementales(G) + Investissements(I) + Exportations(
 
 ### Conditions
 - Si T < G $\rightarrow$:: Défaut budgétaire
-<!--SR:!2024-01-29,175,230-->
+<!--SR:!2025-03-06,402,230-->
 - Si T > G $\rightarrow$:: Excédent budgétaire
 <!--SR:!2025-02-27,424,250-->
 - Si S < I $\rightarrow$:: Il faut emprunter

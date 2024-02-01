@@ -21,7 +21,6 @@ Représentation:
 
 - Longueur d'onde $\lambda=$::$2L$
 - Fréquence $f=$::$\frac{v}{2L}$
-- Période $T=$::$\frac{2L}{v}$
 
 ### Deuxième harmonique
 Représentation:
@@ -30,7 +29,6 @@ Représentation:
 
 - Longueur d'onde $\lambda=$::$L$
 - Fréquence $f=$::$\frac{v}{L}$
-- Période $T=$::$\frac{L}{v}$
 
 ### Troisième harmonique
 Représentation:
@@ -39,5 +37,22 @@ Représentation:
 
 - Longueur d'onde $\lambda=$::$\frac{2L}{3}$
 - Fréquence $f=$::$\frac{3v}{2L}$
-- Période $T=$::$\frac{2L}{3v}$
+
+### Nième harmonique
+- Longueur d'onde $\lambda=$::$\frac{2L}{n}$
+- Fréquence $f=$::$\frac{nv}{2L}$
+
+## Tube ouvert à ses deux extrémités
+
+Représentation de $\lambda_{1}$ à $\lambda_{n}$ (même formules que corde tendu à ses deux extrémités):
+?
+![[image-20240129115330389.png|center|350]]
+
+## Tube fermé à une de ses extrémités
+Représentation de $\lambda_{1}$, $\lambda_{3}$ et $\lambda_{5}$ avec leurs formules:
+?
+![[image-20240129120323144.png|center|400]]
+
+$\lambda_{n}$ avec $n$ impair =:: $\frac{4L}{n}$
+$f_{n}$ avec $n$ impair =:: $\frac{nv}{4L}$
 

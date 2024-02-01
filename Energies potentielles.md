@@ -24,7 +24,7 @@ Les trois types d'énergie potentielles sont:
 
 ### Expressions des énergies potentielles
 - $E_{Pp}=$::$mgz$
-<!--SR:!2024-01-31,79,230-->
+<!--SR:!2024-07-30,181,230-->
 - $E_{Pe}=$::$\frac{1}{2}kx^{2}$
 <!--SR:!2024-02-03,64,190-->
 - $E_{P\text{elec}}=$::$qV$

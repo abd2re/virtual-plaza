@@ -8,7 +8,7 @@ Created: 2023-11-20
 - **Fronts d'onde**:: lignes joignant tous les points qui oscillent en phase et sont perpendiculaires à la direction du mouvement (et du transfert d'énergie).
 <!--SR:!2024-02-20,26,150-->
 - **Rayons**:: lignes indiquant la direction du mouvement (et le transfert d'énergie) de l'onde, perpendiculaires au front de l'onde.
-<!--SR:!2024-01-30,24,164-->
+<!--SR:!2024-03-08,38,164-->
 
 Représentation des fronts d'onde et rayons:
 ?

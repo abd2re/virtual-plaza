@@ -59,7 +59,7 @@ Les banques centrales veillent à inclure des éléments de sécurité pour:: ga
 
 ### 3. Prêteur de dernier recours
 En cas de crise financière, les consommateurs peuvent perdre confiance dans leur banque et se précipiter pour retirer leur argent. C'est ce qu'on appelle un:: courir sur la banque.
-<!--SR:!2024-01-30,47,250-->
+<!--SR:!2024-05-26,117,250-->
 
 ### 4. Émet des obligations et d’autres instruments financiers
 La Banque centrale peut émettre obligations pour:: lever des fonds pour financer une gamme de projets allant de la construction d'infrastructures au financement d'une guerre.

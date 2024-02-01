@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "08bac86bd65060fc",
+        "id": "cb46ddb3d90ee9d3",
         "type": "tabs",
         "children": [
           {
-            "id": "7a77a9135b0f8840",
+            "id": "5205679ed3d7aae1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modes propres de vibration.md",
+                "file": "Equations différentielles.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48879e6700366fc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dérivation.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -57,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<!--SR",
+                "query": "tag:english",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Modes propres de vibration.md",
+                "file": "_physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Modes propres de vibration.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -176,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modes propres de vibration.md",
+                "file": "_physics.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -199,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Modes propres de vibration.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -217,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Modes propres de vibration.md"
+                "file": "_physics.md"
               }
             }
           },
@@ -270,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Modes propres de vibration.md",
+                "file": "_physics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -349,54 +363,54 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "7a77a9135b0f8840",
+  "active": "d44df164aa9a634b",
   "lastOpenFiles": [
-    "assets/Modes propres de vibration/image-20240129113058890.png",
+    "Dérivation.md",
+    "Intégration.md",
+    "Equations différentielles.md",
+    "_math.md",
+    "_physics.md",
     "Modes propres de vibration.md",
-    "assets/Modes propres de vibration/image-20240129113230833.png",
-    "Réflexion.md",
-    "assets/Modes propres de vibration/image-20240129113228427.png",
-    "assets/Modes propres de vibration/image-20240129113225521.png",
+    "assets/Modes propres de vibration/image-20240129120323144.png",
     "assets/Modes propres de vibration/image-20240129112744264.png",
-    "assets/Modes propres de vibration",
-    "Chapitre 5 - Ondes stationnaires.md",
+    "assets/Modes propres de vibration/image-20240129115330389.png",
     "Ondes stationnaires.md",
-    "assets/Ondes stationnaires/image-20240129103020326.png",
-    "assets/Ondes stationnaires/image-20240129102952375.png",
+    "Theme 4-Oscillations et ondes.md",
+    "assets/Modes propres de vibration/image-20240129113230833.png",
+    "Chapitre 1 - Sources d'énergie.md",
+    "Chapitre 5 - Ondes stationnaires.md",
+    "Taux de change flottants.md",
+    "assets/Taux de change flottants/image-20240127152845275.png",
+    "Séries et Séquences.md",
+    "assets/Taux de change flottants/image-20240127144909450.png",
+    "assets/Taux de change flottants/image-20240127152825962.png",
+    "assets/Taux de change flottants/image-20240127152920087.png",
+    "Chapitre 5 - Taux d'échange.md",
+    "Changements dans la demande et l'offre d'une monnaie.md",
+    "_economy.md",
+    "assets/Dérivation/image-20231128163111952.png",
+    "_french B.md",
+    "Excalidraw/article.md",
+    "Excalidraw/assets/article/Pasted Image 20240130090818_614.png",
+    "Excalidraw/assets/article",
+    "Compréhension orale 1.md",
+    "Article.md",
+    "Réflexion.md",
+    "assets/Modes propres de vibration",
     "assets/Ondes stationnaires",
     "Loupe.md",
     "Option - Imagerie.md",
     "Aberrations de la lentille.md",
     "Œil humain.md",
-    "_physics.md",
-    "Theme 4-Oscillations et ondes.md",
     "Chapitre 4 - Comportement des ondes.md",
-    "Chapitre 1 - Introduction à l'imagerie.md",
-    "assets/Aberrations de la lentille/image-20240129100632114.png",
-    "assets/Aberrations de la lentille/image-20240129100731839.png",
-    "assets/Aberrations de la lentille/image-20240129100617204.png",
     "assets/Aberrations de la lentille",
-    "Grossissement angulaire (M).md",
-    "Formule de la lentille.md",
-    "Formation de l'image dans les lentilles convexes.md",
-    "Formation de l'image dans les lentilles concaves.md",
-    "Objets et images.md",
-    "Lentilles.md",
-    "Signification de la pauvreté et comment la mesurer.md",
-    "Fission et fusion nucléaire.md",
-    "Untitled 23.md",
     "assets/Fission et fusion nucléaire",
-    "Theme 7-Physique nucléaire.md",
-    "Energie de liaison du noyau.md",
-    "Dérivation.md",
-    "Chapitre 1 - Sources d'énergie.md",
     "assets/Taux de change flottants",
     "assets/Formation de l'image dans les lentilles concaves",
     "Untitled.canvas",
     "assets/Formation de l'image dans les lentilles convexes",
     "assets/Objets et images",
     "assets/Lentilles",
-    "Champ électrique_tmp.html",
     "2.7 m.canvas"
   ]
 }

@@ -19,13 +19,13 @@ Created: 2023-11-16
 - $P(X<a)+P(X>a)$=::$1$
 <!--SR:!2024-05-13,109,250-->
 - $P(X>a)$=::$1-P(X<a)$
-<!--SR:!2024-01-29,25,230-->
+<!--SR:!2024-03-28,59,230-->
 - $P(a<X<b)$=::$P(x<b)-P(x<a)$
 <!--SR:!2024-02-14,47,230-->
 - Si $P(X<a)=P(X>b)$ alors $a+b=$::$2\mu$
 <!--SR:!2024-02-02,6,241-->
 - $Z$ suit une distribution normale standardisée, on note ça:: $Z\sim N(0,1^{2})$
-<!--SR:!2024-01-29,16,230-->
+<!--SR:!2024-03-07,38,230-->
 - $Z$=::$\frac{X-\mu}{\sigma}$
 <!--SR:!2024-02-10,22,190-->
 - $P(a<X<b)$ en forme standardisée est:: $P(\frac{a-\mu}{\sigma}<Z<\frac{b-\mu}{\sigma})$

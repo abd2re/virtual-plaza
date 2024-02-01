@@ -10,7 +10,7 @@ Au total, il existe quatre types de chômage qui se répartissent en deux grande
 - **Chômage de déséquilibre** inclut:: le chômage cyclique (déficit de la demande) et le chômage réel.
 <!--SR:!2024-03-14,112,250-->
 - **Taux de chômage naturel** comprend:: le chômage frictionnel, saisonnier et structurel.
-<!--SR:!2024-01-31,16,170-->
+<!--SR:!2024-02-25,25,170-->
 
 ## Causes du chômage
 ### Cyclique (demande insuffisante)
@@ -25,12 +25,12 @@ Graphique avec axes et explication du nombre de chômeurs
 ?
 ![[image-20230908090941045.png]]
 La demande totale de main-d'œuvre passe de AD L à AD L1 . Au taux de salaire du marché W E , les entreprises ne sont pas disposées à employer la totalité de la main-d’œuvre, il existe donc un déséquilibre. Le nombre de chômeurs est représenté par l'écart entre A et B, ou Q E et Q 1.
-<!--SR:!2024-01-31,34,230-->
+<!--SR:!2024-04-17,77,230-->
 
 ### Chômage réel
 ?
 Un salaire minimum imposé par le gouvernement peut également accroître le chômage, c'est ce qu'on appelle chômage au salaire réel, où il existe un écart entre le nombre d'emplois disponibles et le nombre de personnes désireuses et capables de travailler au taux de salaire en vigueur.
-<!--SR:!2024-01-30,16,210-->
+<!--SR:!2024-02-09,10,190-->
 
 Graphique avec axes et explication du nombre de chômeurs
 ?

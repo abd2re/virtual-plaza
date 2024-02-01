@@ -24,7 +24,7 @@ Ils sont (5):
 - [[Dépendance à l’égard du secteur primaire]]
 - [[Grande économie informelle]]
 - Normes de revenu minimum
-<!--SR:!2024-01-31,14,130-->
+<!--SR:!2024-02-17,17,130-->
 
 ### Indicateurs composites
 ?

@@ -6,7 +6,7 @@ Created: 2022-10-17
 1. Anaphora :: is the repetition of words or phrases at the beginning of a sentence. Such as "I have dream" (Martin Luther King)
 <!--SR:!2024-08-11,231,230-->
 2. Diacope :: is the repetition of a phrase after an intervening word or phrase. Such as "free at last, free at last; thank God almighty, free at last"
-<!--SR:!2024-01-31,35,150-->
+<!--SR:!2024-03-25,54,150-->
  3. Antithesis :: is when contrasting two opposing ideas in consecutive sentences. Such as "Many are called but few are chosen" (J.C) 
 <!--SR:!2024-10-21,445,250-->
 4. Chiasmus :: is the inversion of parts of sentences in sequence. Such as "fair is fool and fool is fair"

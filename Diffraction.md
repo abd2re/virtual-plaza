@@ -21,6 +21,6 @@ Représentation
 - Au fur et à mesure que la taille de l'espace augmente, l'effet s'atténue progressivement jusqu'à ce que, dans le cas où l'espace est beaucoup plus grand que la longueur d'onde, les ondes:: ne sont plus réparties.
 <!--SR:!2024-02-13,19,155-->
 - La seule propriété d'une onde qui change lorsqu'elle est diffractée est:: son amplitude parce qu'une partie de l'énergie est dissipée lorsqu'une onde est déviée à travers un espace.
-<!--SR:!2024-01-30,30,235-->
+<!--SR:!2024-04-09,70,235-->
 
 

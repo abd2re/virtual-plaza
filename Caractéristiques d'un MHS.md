@@ -20,7 +20,7 @@ La période est indépendante de:: l'amplitude.
 Graphiques position-vitesse-accélération en fonction du temps
 ?
 ![[image-20231113103206092.png|center]]
-<!--SR:!2024-01-31,49,250-->
+<!--SR:!2024-06-01,122,250-->
 
 Période et amplitude dans un graphe déplacement-temps:
 ?

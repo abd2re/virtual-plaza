@@ -18,7 +18,7 @@ Tangente et normale pour une fonction représente:
 <!--SR:!2024-02-18,51,250-->
 
 - Formule de la tangente $T:y$=:: $f'(a)(x-a)+f(a)$
-<!--SR:!2024-01-30,33,230-->
+<!--SR:!2024-04-14,75,230-->
 - Formule de la normale $N:y$=:: $\frac{-1}{f'(a)}(x-a)+f(a)$
 <!--SR:!2024-02-07,38,230-->
 
@@ -38,7 +38,7 @@ Tangente et normale pour une fonction représente:
 - $f(x)=e^{x}\rightarrow f'(x)=$::$e^{x}$
 <!--SR:!2024-03-03,59,250-->
 - $f(x)=\log_{a}(x)\rightarrow f'(x)=$::$\frac{1}{\ln(a)x}$
-<!--SR:!2024-01-29,12,170-->
+<!--SR:!2024-02-04,6,150-->
 - $f(x)=\ln(x)\rightarrow f'(x)=$::$\frac{1}{x}$
 <!--SR:!2024-02-04,40,250-->
 - $f(x)=\sin(x)\rightarrow f'(x)=$::$\cos(x)$
@@ -48,14 +48,14 @@ Tangente et normale pour une fonction représente:
 - $f(x)=\tan(x)\rightarrow f'(x)=$::$\sec^{2}(x)$
 <!--SR:!2024-02-01,39,250-->
 - $f(x)=\sec(x)\rightarrow f'(x)=$::$\sec(x)\tan(x)$
-<!--SR:!2024-01-29,2,177-->
+<!--SR:!2024-02-02,4,177-->
 - $f(x)=\csc(x)\rightarrow f'(x)=$::$-\csc(x)\cot(x)$
-<!--SR:!2024-01-29,1,137-->
+<!--SR:!2024-02-01,1,137-->
 - $f(x)=\cot(x)\rightarrow f'(x)=$::$-\csc^{2}(x)$
-<!--SR:!2024-01-29,1,137-->
-- $f(x)=\sin^{-1}(x)\rightarrow f'(x)=$::$\frac{1}{\sqrt{1-x^{2}}}$
+<!--SR:!2024-02-01,2,157-->
+- $f(x)=\sin^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{1}{\sqrt{a-x^{2}}}$
 <!--SR:!2024-02-01,6,237-->
-- $f(x)=\cos^{-1}(x)\rightarrow f'(x)=$::$\frac{-1}{\sqrt{1-x^{2}}}$
+- $f(x)=\cos^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{-1}{\sqrt{a-x^{2}}}$
 <!--SR:!2024-02-01,6,237-->
 - $f(x)=\tan^{-1}(x)\rightarrow f'(x)=$::$\frac{1}{1+x^{2}}$
 <!--SR:!2024-02-01,6,237-->
@@ -65,7 +65,7 @@ Tangente et normale pour une fonction représente:
 - $h(x)=f(x)\pm g(x)\rightarrow h'(x)=$::$f'(x)\pm g'(x)$
 <!--SR:!2024-02-05,41,250-->
 - $h(x)=f(x)g(x)\rightarrow h'(x)=$::$f'(x)g(x)+f(x)g'(x)$
-<!--SR:!2024-01-30,38,250-->
+<!--SR:!2024-05-03,94,250-->
 - $h(x)=\frac{f(x)}{g(x)}\rightarrow h'(x)=$::$\frac{f'(x)g(x)-f(x)g'(x)}{g(x)^{2}}$
 <!--SR:!2024-02-10,40,230-->
 - $h(x)=f(g(x))\rightarrow h'(x)=$::$f'(g(x))g'(x)$
@@ -87,9 +87,9 @@ Tangente et normale pour une fonction représente:
 
 ## Dérivation implicite
 $\frac{df(y)}{dx}=$::$\frac{df(y)}{dy}\cdot \frac{dy}{dx}=f'(y)\frac{dy}{dx}$
-<!--SR:!2024-01-30,4,237-->
+<!--SR:!2024-02-09,10,237-->
 $\frac{d}{dx}(f(x)g(y))=$::$g(y)\frac{df(x)}{dx}+f(x)\frac{dg(y)}{dx}=g(y)f'(x)+f(x)g'(y)\frac{dy}{dx}$
-<!--SR:!2024-01-31,5,237-->
+<!--SR:!2024-02-14,14,237-->
 
 Si on a $f(x,\,y)$ et on veut $\frac{dy}{dx}$ alors les étapes sont :
 ?
@@ -103,7 +103,8 @@ ou
 <!--SR:!2024-02-01,6,237-->
 
 $df(x)=$::$f'(x)dx$
-<!--SR:!2024-01-30,4,237-->
+<!--SR:!2024-02-10,11,237-->
 
+$\frac{d(xy)}{dx}=$::$y+x\frac{dy}{dx}$
 
 

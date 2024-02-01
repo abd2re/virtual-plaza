@@ -40,7 +40,7 @@ Les nouveaux économistes classiques croient fermement que la clé pour débloqu
 <!--SR:!2024-02-02,19,166-->
 
 Plus de production nécessite plus de travailleurs, donc les politiques axées sur l’offre réduiront:: le chômage.
-<!--SR:!2024-01-31,25,233-->
+<!--SR:!2024-03-28,57,233-->
 
 Les politiques du côté de l'offre encouragent la concurrence, ce qui encouragera les entreprises à:: innover, à réduire leurs coûts et à faire baisser les prix.
 <!--SR:!2024-02-21,42,250-->

@@ -28,7 +28,7 @@ $$
 ?
 Dans les métaux le courant électrique est dut a un déplacement d'électrons libres qui se déplacent du pole moins vers le pole plus. Le sens conventionnel a l'exterieur du générateur est de plus vers le moins.
 Dans les liquides qui conduisent l'eletricité, le courant électrique est dut a un déplacement des ions positifs (cations) et des ions négatifs (anions).
-<!--SR:!2024-01-29,3,263-->
+<!--SR:!2024-02-09,11,283-->
 
 
 ## Vitesse de dérive des porteurs de charges

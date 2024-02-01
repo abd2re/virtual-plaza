@@ -65,7 +65,7 @@ $$\Large{\sqrt{a^{2}+b^{2}}}$$
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
-<!--SR:!2024-01-30,23,150-->
+<!--SR:!2024-02-12,13,130-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
@@ -75,7 +75,7 @@ Propriétés des sommes, soustractions, multiplication et division de deux conju
 ## Forme polaire
 
 Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
-<!--SR:!2024-01-29,47,141-->
+<!--SR:!2024-04-05,67,141-->
 
 - $\cos\theta$=::$\frac{a}{|z|}$
 <!--SR:!2024-06-05,131,236-->
@@ -116,5 +116,5 @@ $e^{i\pi}$=::$-1$
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2024-01-29,23,150-->
+<!--SR:!2024-03-05,36,150-->
 

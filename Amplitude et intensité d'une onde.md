@@ -25,6 +25,6 @@ Formule de l'intensité pour une onde sphérique::$$\large{I=\frac{\text{puissan
 ## Variation de l'intensité en fonction de l'amplitude
 
 Par définition, l'intensité d'une onde (sa puissance par unité de surface) est proportionnelle à l'énergie transférée par l'onde, et comme l'énergie est égale à $\frac{1}{2}kA^{2}$ alors l'intensité d'une onde est proportionnelle:: au carré de l'amplitude.$$I\propto A^{2}$$avec $I$ représentant l'intensité en $Wm^{-2}$ et $A$ représentant l'amplitude en $m$.
-<!--SR:!2024-01-31,45,250-->
+<!--SR:!2024-05-22,112,250-->
 
 

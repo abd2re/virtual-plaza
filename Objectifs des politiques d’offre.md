@@ -39,7 +39,7 @@ Le facteur capital peut être augmenté en (2):
 ?
 - Abaissant les taux d'intérêt et rendre moins coûteux pour les entreprises d'emprunter de l'argent pour acheter des machines (augmente l'investissement)
 - Donnant des allégements fiscaux aux entreprises qui investissent dans de nouvelles machines
-<!--SR:!2024-01-30,4,130-->
+<!--SR:!2024-02-04,5,130-->
 
 ## 2. Améliorer la concurrence et l’efficacité
 - La concurrence oblige:: les entreprises à s’améliorer.

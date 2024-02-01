@@ -39,7 +39,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 
 ### Propriété
 - $\frac{n(X)}{n(U)}$=::$P(X)$
-<!--SR:!2024-01-30,56,250-->
+<!--SR:!2024-06-17,139,250-->
 - $P(U)$=::1
 <!--SR:!2024-05-07,139,250-->
 - $P(0)$=::0

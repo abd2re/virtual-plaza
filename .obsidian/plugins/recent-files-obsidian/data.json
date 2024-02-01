@@ -1,20 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "Dérivation",
+      "path": "Dérivation.md"
+    },
+    {
+      "basename": "Intégration",
+      "path": "Intégration.md"
+    },
+    {
+      "basename": "Equations différentielles",
+      "path": "Equations différentielles.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "Modes propres de vibration",
       "path": "Modes propres de vibration.md"
     },
     {
-      "basename": "Réflexion",
-      "path": "Réflexion.md"
+      "basename": "Ondes stationnaires",
+      "path": "Ondes stationnaires.md"
+    },
+    {
+      "basename": "Theme 4-Oscillations et ondes",
+      "path": "Theme 4-Oscillations et ondes.md"
     },
     {
       "basename": "Chapitre 5 - Ondes stationnaires",
       "path": "Chapitre 5 - Ondes stationnaires.md"
     },
     {
-      "basename": "Ondes stationnaires",
-      "path": "Ondes stationnaires.md"
+      "basename": "Taux de change flottants",
+      "path": "Taux de change flottants.md"
+    },
+    {
+      "basename": "Séries et Séquences",
+      "path": "Séries et Séquences.md"
+    },
+    {
+      "basename": "Chapitre 5 - Taux d'échange",
+      "path": "Chapitre 5 - Taux d'échange.md"
+    },
+    {
+      "basename": "Changements dans la demande et l'offre d'une monnaie",
+      "path": "Changements dans la demande et l'offre d'une monnaie.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_french B",
+      "path": "_french B.md"
+    },
+    {
+      "basename": "article",
+      "path": "Excalidraw/article.md"
+    },
+    {
+      "basename": "Réflexion",
+      "path": "Réflexion.md"
     },
     {
       "basename": "Loupe",
@@ -27,14 +79,6 @@
     {
       "basename": "Œil humain",
       "path": "Œil humain.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Theme 4-Oscillations et ondes",
-      "path": "Theme 4-Oscillations et ondes.md"
     },
     {
       "basename": "Chapitre 1 - Introduction à l'imagerie",
@@ -89,10 +133,6 @@
       "path": "Energie de liaison du noyau.md"
     },
     {
-      "basename": "Dérivation",
-      "path": "Dérivation.md"
-    },
-    {
       "basename": "Chapitre 1 - Sources d'énergie",
       "path": "Chapitre 1 - Sources d'énergie.md"
     },
@@ -101,28 +141,12 @@
       "path": "Intensité du courant électrique.md"
     },
     {
-      "basename": "Taux de change flottants",
-      "path": "Taux de change flottants.md"
-    },
-    {
-      "basename": "Changements dans la demande et l'offre d'une monnaie",
-      "path": "Changements dans la demande et l'offre d'une monnaie.md"
-    },
-    {
-      "basename": "Chapitre 5 - Taux d'échange",
-      "path": "Chapitre 5 - Taux d'échange.md"
-    },
-    {
       "basename": "Theme 3-Économie Mondiale",
       "path": "Theme 3-Économie Mondiale.md"
     },
     {
       "basename": "Chapitre 3 - Arguments pour et contre le contrôle et la protection des échanges",
       "path": "Chapitre 3 - Arguments pour et contre le contrôle et la protection des échanges.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
     },
     {
       "basename": "Chapitre 2 - Structure de données abstraites",
@@ -139,10 +163,6 @@
     {
       "basename": "_computer science",
       "path": "_computer science.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
     },
     {
       "basename": "Avantages du commerce international",
@@ -165,10 +185,6 @@
       "path": "Energies potentielles.md"
     },
     {
-      "basename": "Intégration",
-      "path": "Intégration.md"
-    },
-    {
       "basename": "Theme 5-Electricité et Magnétisme",
       "path": "Theme 5-Electricité et Magnétisme.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Chapitre 3 - Travail d'une force",
       "path": "Chapitre 3 - Travail d'une force.md"
-    },
-    {
-      "basename": "Travail des force électriques",
-      "path": "Travail des force électriques.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "Organisation mondiale du commerce (OMC)",
-      "path": "Organisation mondiale du commerce (OMC).md"
-    },
-    {
-      "basename": "Avantages et inconvénients des blocs commerciaux",
-      "path": "Avantages et inconvénients des blocs commerciaux.md"
     }
   ],
   "omittedPaths": [],

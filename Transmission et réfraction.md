@@ -20,7 +20,7 @@ Représentation:
 
 ## Réfraction
 La période depend pas du milieu ? Vrai ou faux ?:: Vrai, elle dépend de l'impulsion ($T_{1}=T_{2}=T$).
-<!--SR:!2024-01-29,29,210-->
+<!--SR:!2024-03-29,60,210-->
 - Lors du passage dans la direction normale (perpendiculaire), la lumière ne se plie pas du tout. Cela serait décrit comme:: une transmission.
 <!--SR:!2024-02-22,36,210-->
 - Lorsque la lumière passe d'un milieu moins dense à un milieu plus dense, comme de l'air au verre, la lumière réfractée a une vitesse plus faible et une longueur d'onde plus courte que la lumière incidente. Vrai ou faux ?:: Vrai.
@@ -53,7 +53,7 @@ Représentation (avec éléments):
 Un angle critique est:: un angle incident au delà duquel l'angle réfracté n'existe plus, il n'ya plus de réfraction: on a une réflexion totale.
 <!--SR:!2024-02-21,44,223-->
 - La réflexion interne totale ne se produit que lorsque la lumière passe d'un:: indice de réfraction supérieur à un indice de réfraction inférieur ($n_{1}>n_{2}$)
-<!--SR:!2024-01-30,35,241-->
+<!--SR:!2024-04-22,83,241-->
 
 Formule angle critique::$$\sin\theta_{1}=\frac{n_{2}}{n_{1}}$$
 <!--SR:!2024-02-02,33,239-->

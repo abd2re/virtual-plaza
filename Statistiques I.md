@@ -41,7 +41,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - Si l'on ajoute ou soustrait une constante a à toutes les valeurs, la variance et l'écart-type:: restent les mêmes.
 <!--SR:!2024-02-05,21,242-->
 - $\text{E}(aX+b)=$::$a\text{E}(X)+b$
-<!--SR:!2024-01-30,7,182-->
+<!--SR:!2024-02-12,13,182-->
 - $\text{Var}(aX+b)=$::$a^{2}\text{Var}(x)$
 <!--SR:!2024-02-04,18,208-->
 - $x$ est une valeur aberrante si:: $$x\notin [Q_{1}-1.5\times\text{IQR},\,Q_{3}+1.5\times\text{IQR}]$$

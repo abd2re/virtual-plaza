@@ -8,7 +8,7 @@ Created: 2023-01-18
 What is Science
 ?
 Science is both a body of knowledge and process of discovery. It explores the natural world from subatomic particles to the galaxies that make up our universe and everything that falls in between.
-<!--SR:!2024-01-29,211,230-->
+<!--SR:!2025-12-14,685,250-->
 
 What are the natural sciences
 ?
