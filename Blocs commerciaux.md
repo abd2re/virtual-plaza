@@ -14,7 +14,7 @@ Il existe quatre types de blocs commerciaux:
 - Unions douanières
 - Marchés communs
 - Unions monétaires
-<!--SR:!2024-02-03,3,170-->
+<!--SR:!2024-02-07,4,170-->
 
 ## Zones de libre-échange
 Zones de libre-échange (ZLE) sont formés par un bloc commercial de pays signant des accords commerciaux pour:: éliminer la plupart ou la totalité des obstacles au commerce avec les autres pays impliqués dans l'accord.
@@ -23,7 +23,7 @@ Zones de libre-échange (ZLE) sont formés par un bloc commercial de pays signan
 
 
 Les pays sont libres de:: définir leur propre politique extérieure à l’égard des pays non membres.
-<!--SR:!2024-02-01,9,250-->
+<!--SR:!2024-02-23,22,250-->
 
 ## Unions douanières
 Une union douanière est une autre forme d’intégration économique. Il ressemble beaucoup à une ZLE, mais présente une différence importante. Les pays participant à l’accord établissent:: une politique extérieure commune à l’égard des non-membres, tout en s’engageant dans le libre-échange entre eux.

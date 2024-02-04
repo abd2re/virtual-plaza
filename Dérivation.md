@@ -26,11 +26,11 @@ Tangente et normale pour une fonction représente:
 ## Identités
 ### Fondamentales
 - $f(x)=c\rightarrow f'(x)=$::$0$
-<!--SR:!2024-02-03,39,250-->
+<!--SR:!2024-05-10,97,250-->
 - $f(x)=x^{n}\rightarrow f'(x)=$::$nx^{n-1}$
 <!--SR:!2024-03-08,62,250-->
 - $f(x)=x^{-n}=\frac{1}{x^{n}}\rightarrow f'(x)=$::$\frac{-n}{x^{n+1}}$
-<!--SR:!2024-02-02,31,225-->
+<!--SR:!2024-04-11,69,225-->
 - $f(x)=x^{1/n}=\sqrt[n]{x}\rightarrow f'(x)=$::$\frac{\sqrt[n]{x^{1-n}}}{n}$
 <!--SR:!2024-03-06,44,225-->
 - $f(x)=a^{x}\rightarrow f'(x)=$::$\ln(a)a^{x}$
@@ -42,26 +42,26 @@ Tangente et normale pour une fonction représente:
 - $f(x)=\ln(x)\rightarrow f'(x)=$::$\frac{1}{x}$
 <!--SR:!2024-02-04,40,250-->
 - $f(x)=\sin(x)\rightarrow f'(x)=$::$\cos(x)$
-<!--SR:!2024-02-02,41,250-->
+<!--SR:!2024-05-14,102,250-->
 - $f(x)=\cos(x)\rightarrow f'(x)=$::$-\sin(x)$
 <!--SR:!2024-03-01,57,250-->
 - $f(x)=\tan(x)\rightarrow f'(x)=$::$\sec^{2}(x)$
-<!--SR:!2024-02-01,39,250-->
+<!--SR:!2024-05-07,96,250-->
 - $f(x)=\sec(x)\rightarrow f'(x)=$::$\sec(x)\tan(x)$
-<!--SR:!2024-02-02,4,177-->
+<!--SR:!2024-02-10,8,177-->
 - $f(x)=\csc(x)\rightarrow f'(x)=$::$-\csc(x)\cot(x)$
-<!--SR:!2024-02-01,1,137-->
+<!--SR:!2024-02-06,3,157-->
 - $f(x)=\cot(x)\rightarrow f'(x)=$::$-\csc^{2}(x)$
-<!--SR:!2024-02-01,2,157-->
+<!--SR:!2024-02-04,3,157-->
 - $f(x)=\sin^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{1}{\sqrt{a-x^{2}}}$
-<!--SR:!2024-02-01,6,237-->
+<!--SR:!2024-02-14,13,237-->
 - $f(x)=\cos^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{-1}{\sqrt{a-x^{2}}}$
-<!--SR:!2024-02-01,6,237-->
+<!--SR:!2024-02-15,14,237-->
 - $f(x)=\tan^{-1}(x)\rightarrow f'(x)=$::$\frac{1}{1+x^{2}}$
-<!--SR:!2024-02-01,6,237-->
+<!--SR:!2024-02-16,15,237-->
 ### Opérations
 - $g(x)=c\cdot f(x)\rightarrow g'(x)=$::$c\cdot f'(x)$
-<!--SR:!2024-02-01,39,250-->
+<!--SR:!2024-05-08,97,250-->
 - $h(x)=f(x)\pm g(x)\rightarrow h'(x)=$::$f'(x)\pm g'(x)$
 <!--SR:!2024-02-05,41,250-->
 - $h(x)=f(x)g(x)\rightarrow h'(x)=$::$f'(x)g(x)+f(x)g'(x)$
@@ -100,11 +100,12 @@ ou
 - Appliquer la dérivée pour chaque terme
 - Factoriser par $dy$ et $dx$
 - Diviser $dy$ par $dx$
-<!--SR:!2024-02-01,6,237-->
+<!--SR:!2024-02-13,12,237-->
 
 $df(x)=$::$f'(x)dx$
 <!--SR:!2024-02-10,11,237-->
 
 $\frac{d(xy)}{dx}=$::$y+x\frac{dy}{dx}$
+<!--SR:!2024-02-08,5,231-->
 
 

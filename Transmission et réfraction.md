@@ -56,6 +56,6 @@ Un angle critique est:: un angle incident au delà duquel l'angle réfracté n'e
 <!--SR:!2024-04-22,83,241-->
 
 Formule angle critique::$$\sin\theta_{1}=\frac{n_{2}}{n_{1}}$$
-<!--SR:!2024-02-02,33,239-->
+<!--SR:!2024-04-20,78,239-->
 
 

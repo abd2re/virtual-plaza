@@ -17,7 +17,7 @@ Quand il y a des [[Frottement]], la réaction est:: inclinée
 Représentations des deux cas:
 ?
 ![[image-20230509081429970.png]]
-<!--SR:!2024-02-01,163,250-->
+<!--SR:!2024-04-22,81,230-->
 
 Pour un support inclinée la normale est égale a:
 ?

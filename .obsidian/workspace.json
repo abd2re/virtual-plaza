@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cb46ddb3d90ee9d3",
+        "id": "1d47590b204ed3ba",
         "type": "tabs",
         "children": [
           {
-            "id": "5205679ed3d7aae1",
+            "id": "65546fe34c00fe63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equations différentielles.md",
+                "file": "Piles électriques.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -21,13 +21,13 @@
             }
           },
           {
-            "id": "48879e6700366fc5",
+            "id": "dd15e3f86e89d4b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dérivation.md",
-                "mode": "preview",
+                "file": "Fronts d'onde et rayons.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_physics.md",
+                "file": "Fronts d'onde et rayons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Fronts d'onde et rayons.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_physics.md",
+                "file": "Fronts d'onde et rayons.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_physics.md"
+                "file": "Fronts d'onde et rayons.md"
               }
             }
           },
@@ -231,7 +231,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "_physics.md"
+                "file": "Fronts d'onde et rayons.md"
               }
             }
           },
@@ -284,7 +284,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_physics.md",
+                "file": "Fronts d'onde et rayons.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -363,46 +363,47 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "d44df164aa9a634b",
+  "active": "dd15e3f86e89d4b7",
   "lastOpenFiles": [
-    "Dérivation.md",
-    "Intégration.md",
-    "Equations différentielles.md",
-    "_math.md",
-    "_physics.md",
-    "Modes propres de vibration.md",
-    "assets/Modes propres de vibration/image-20240129120323144.png",
-    "assets/Modes propres de vibration/image-20240129112744264.png",
-    "assets/Modes propres de vibration/image-20240129115330389.png",
-    "Ondes stationnaires.md",
     "Theme 4-Oscillations et ondes.md",
-    "assets/Modes propres de vibration/image-20240129113230833.png",
-    "Chapitre 1 - Sources d'énergie.md",
+    "Chapitre 3 - Caractéristiques des ondes.md",
+    "Chapitre 4 - Comportement des ondes.md",
+    "Théorème de superposition.md",
+    "Fronts d'onde et rayons.md",
+    "Theme 6-Mouvement circulaire uniforme et Gravitation.md",
+    "Champ de gravitation.md",
+    "Loi de gravitation de Newton.md",
+    "Mouvement circulaire uniforme.md",
+    "Piles électriques.md",
+    "assets/Piles électriques/Piles électriques.png",
+    "Theme 5-Electricité et Magnétisme.md",
+    "Forces magnétiques.md",
+    "Résistance électrique.md",
+    "assets/Résistance électrique/image-20230116161558430.png",
+    "assets/Piles électriques/image-20230109163848957.png",
+    "assets/Forces magnétiques/image-20231011081124820.png",
+    "Modes propres de vibration.md",
+    "assets/Modes propres de vibration/image-20240129113058890.png",
+    "assets/Modes propres de vibration/image-20240129112744264.png",
     "Chapitre 5 - Ondes stationnaires.md",
+    "Ondes stationnaires.md",
+    "Polarisation.md",
+    "assets/Polarisation/image-20231120115211923.png",
+    "_math.md",
+    "exo economie 2.md",
+    "Equations différentielles.md",
+    "Analyse.md",
+    "op.md",
+    "Untitled 26.md",
     "Taux de change flottants.md",
-    "assets/Taux de change flottants/image-20240127152845275.png",
-    "Séries et Séquences.md",
-    "assets/Taux de change flottants/image-20240127144909450.png",
     "assets/Taux de change flottants/image-20240127152825962.png",
-    "assets/Taux de change flottants/image-20240127152920087.png",
+    "assets/Taux de change flottants/image-20240127144909450.png",
+    "assets/Taux de change flottants/image-20240127152902331.png",
     "Chapitre 5 - Taux d'échange.md",
-    "Changements dans la demande et l'offre d'une monnaie.md",
     "_economy.md",
-    "assets/Dérivation/image-20231128163111952.png",
-    "_french B.md",
-    "Excalidraw/article.md",
-    "Excalidraw/assets/article/Pasted Image 20240130090818_614.png",
     "Excalidraw/assets/article",
-    "Compréhension orale 1.md",
-    "Article.md",
-    "Réflexion.md",
     "assets/Modes propres de vibration",
     "assets/Ondes stationnaires",
-    "Loupe.md",
-    "Option - Imagerie.md",
-    "Aberrations de la lentille.md",
-    "Œil humain.md",
-    "Chapitre 4 - Comportement des ondes.md",
     "assets/Aberrations de la lentille",
     "assets/Fission et fusion nucléaire",
     "assets/Taux de change flottants",

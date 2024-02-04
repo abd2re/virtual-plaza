@@ -6,7 +6,7 @@ Created: 2023-03-31
 # PIB
 ?
 Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
-<!--SR:!2024-02-01,23,130-->
+<!--SR:!2024-03-03,31,130-->
 
 Avantages du PIB (3):
 ?
@@ -39,7 +39,7 @@ Revenu = Production = Dépenses
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation
 <!--SR:!2024-03-22,73,181-->
 - PIB réel =:: C'est le PIB **corrigée** de l'inflation
-<!--SR:!2024-02-01,67,201-->
+<!--SR:!2024-06-14,134,201-->
 
 - Le PIB nominal est aussi appelé (3) :: PIB non-déflaté, PIB a prix courant, PIB a $ courant
 <!--SR:!2024-05-06,237,241-->

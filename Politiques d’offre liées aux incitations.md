@@ -10,7 +10,7 @@ Les politiques liées aux incitations comprennent (2):
 ?
 - Réductions de l'impôt sur le revenu des personnes physiques
 - Réduction de l'impôt sur les sociétés et sur les plus-values
-<!--SR:!2024-02-02,16,166-->
+<!--SR:!2024-02-28,26,166-->
 
 ## 1. Réductions de l'impôt sur le revenu des personnes physiques
 - Les réductions de l’impôt sur le revenu des particuliers encouragent les individus à:: travailler plus d’heures.
@@ -31,7 +31,7 @@ Les entreprises gagnent de l’argent de deux manières:
 ?
 - Bénéfices provenant de la vente de biens et de services
 - Gains en capital via des investissements ou la vente d'actifs (comme des actions ou une usine)
-<!--SR:!2024-02-01,24,226-->
+<!--SR:!2024-03-25,53,226-->
 
 Un gouvernement peut réduire l'impôt sur les sociétés afin que les entreprises:: obtiennent une récompense plus élevée pour chaque unité supplémentaire produite et se retrouvent avec plus de bénéfices à investir dans une capacité de production supplémentaire . Cela augmentera l’offre de l’économie et fera croître l’économie.
 <!--SR:!2024-04-01,61,230-->

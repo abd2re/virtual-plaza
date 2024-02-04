@@ -30,4 +30,5 @@ tags: [M]
 # Theme 5: Etude du fonction
 1. [[Dérivation]]
 2. [[Intégration]]
-3. [[Equations différentielles]]
+3. [[Cinématique]]
+4. [[Equations différentielles]]

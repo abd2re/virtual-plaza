@@ -7,7 +7,7 @@ Created: 2023-11-16
 # Distribution normale
 - Une distribution normale est une distribution de probabilité continue
 - $P(X =k)$=::0 pour toute valeur $k$
-<!--SR:!2024-02-03,49,250-->
+<!--SR:!2024-02-27,24,230-->
 - $P(x\leq k)$=::$P(x<k)$
 <!--SR:!2024-04-02,82,250-->
 - Si $X$ suit une distribution normale, on note ça:: $X\sim N(\mu,\sigma^{2})$
@@ -23,7 +23,7 @@ Created: 2023-11-16
 - $P(a<X<b)$=::$P(x<b)-P(x<a)$
 <!--SR:!2024-02-14,47,230-->
 - Si $P(X<a)=P(X>b)$ alors $a+b=$::$2\mu$
-<!--SR:!2024-02-02,6,241-->
+<!--SR:!2024-02-17,15,241-->
 - $Z$ suit une distribution normale standardisée, on note ça:: $Z\sim N(0,1^{2})$
 <!--SR:!2024-03-07,38,230-->
 - $Z$=::$\frac{X-\mu}{\sigma}$

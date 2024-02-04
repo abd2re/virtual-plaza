@@ -68,7 +68,7 @@ On sait que
 $$U_{1}=R_{1}\times I$$
 donc
 $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U}$$
-<!--SR:!2024-02-01,38,200-->
+<!--SR:!2024-02-19,18,180-->
 
 ## Montage potentiométrique
 Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe. ![[image-20230116161558430.png|400]]
@@ -86,7 +86,7 @@ Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. 
 - si C est en A $$R_{AC}=R_{AA}=0,\;U_{AC}=0$$
 - si C est en B $$R_{AC}=R_{AB},\;U_{AC}=\frac{R_{AB}}{R_{AB}}U_{AB}=U_{AB}$$
 - si C est entre A et B $$0<U_{S}<U_{AB}$$
-<!--SR:!2024-02-02,37,158-->
+<!--SR:!2024-02-22,20,138-->
 
 
 

@@ -70,13 +70,13 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(-\theta)=$::$-\sin(\theta)$
 <!--SR:!2024-02-19,164,250-->
 - $\tan(-\theta)=$::$-\tan(\theta)$
-<!--SR:!2024-02-01,153,250-->
+<!--SR:!2025-02-17,382,250-->
 ## Equations trigonométriques fondamentales
 Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 <!--SR:!2024-05-28,211,248-->
 
 - Si $\cos x=\cos\theta$, alors $x=$::$\theta+2k\pi$ ou $-\theta+2k\pi$
-<!--SR:!2024-02-03,42,208-->
+<!--SR:!2024-04-29,86,208-->
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
 <!--SR:!2024-04-10,80,208-->
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$

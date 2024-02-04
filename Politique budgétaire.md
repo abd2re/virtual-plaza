@@ -18,7 +18,7 @@ Le budget décrit la manière dont:: le gouvernement dépensera les recettes fis
 - Un déficit budgétaire se produit lorsqu::’un gouvernement dépense plus que ce qu’il reçoit en impôts au cours d’une année
 <!--SR:!2024-03-06,57,230-->
 - La dette publique est:: le montant total emprunté au fil des années qui n’a pas été remboursé.
-<!--SR:!2024-02-01,31,190-->
+<!--SR:!2024-03-30,58,190-->
 
 Sources de revenus (3):
 ?

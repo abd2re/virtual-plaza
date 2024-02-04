@@ -9,7 +9,7 @@ Created: 2023-11-17
 - Le taux d'intérêt nominal est le taux d’intérêt proposé par:: les banques commerciales.
 <!--SR:!2024-02-09,50,250-->
 - Le taux d'intérêt réel est:: le taux d’intérêt en tenant compte de l’inflation.
-<!--SR:!2024-02-03,47,250-->
+<!--SR:!2024-06-01,119,250-->
 
 Taux d'intérêt réel formule approximative::$$\text{Taux d’intérêt réel }\approx\text{ taux d’intérêt nominal }–\text{ taux d’inflation}$$
 <!--SR:!2024-02-14,54,250-->

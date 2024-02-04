@@ -34,8 +34,9 @@ $$\Large{a_{n}=\frac{v^{2}}{r}=\omega^{2}r=\frac{4\pi^{2}r}{T^{2}}}$$
 En utilisant la formule $F=ma$, dans le mouvement circulaire uniforme, la force centripète $F$ est égale a(2)::$$\Large{F=\frac{mv^{2}}{r}=m\omega^2r}$$
 <!--SR:!2024-02-24,62,230-->
 
-Représentation de ces éléments
+Représentation de ses éléments
 ?
-![[image-20230603143706376.png|425]]
+![[image-20230603143706376.png|center|425]]
 <!--SR:!2024-05-27,212,244-->
 
+Le travail de la force est nulle, ce qui explique pourquoi la vitesse est:: constante.

@@ -67,7 +67,7 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 - Tout polynôme réel peut être exprimé comme un produit:: de facteurs linéaires réels et de facteurs quadratiques irréductibles réels.
 <!--SR:!2024-02-09,63,250-->
 - Une quadratique irréductible est une quadratique qui n'a pas de:: racines réelles.
-<!--SR:!2024-02-02,59,250-->
+<!--SR:!2024-06-28,147,250-->
 - Si $a+bi\,(b\neq0)$ est un zéro d'un polynôme réel, alors son complexe conjugué $a-bi$ est:: également un zéro si les coefficients sont réels.
 <!--SR:!2024-06-20,142,250-->
 - Tout polynôme réel de degré impair possède:: au moins un zéro réel.

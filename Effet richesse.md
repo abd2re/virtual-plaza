@@ -6,4 +6,4 @@ Created: 2023-04-07
 # Effet richesse
 ?
 À mesure que le niveau moyen des prix baisse, la richesse des participants à l'économie augmente en termes réels à mesure que leur capacité à acheter des biens et des services s'améliore. La valeur réelle des actifs, comme la propriété ou les actions, est maintenant plus élevée.
-<!--SR:!2024-02-02,70,230-->
+<!--SR:!2024-07-11,160,230-->

@@ -18,10 +18,10 @@ Formule de la tension aux bornes d'une pile est:
 ?
 $$U=e-rI$$- $U$ = tension dans la puissance électrique
 - $e$ = fem de la puissance chimique
-- $r$ = résistance interne 
+- $r$ = résistance interne
 - $I$ = intensité
 - ![[Piles électriques-6.png]]
-<!--SR:!2024-02-01,225,226-->
+<!--SR:!2024-05-23,112,206-->
 
 Caractéristique intensité-tension d'une pile (graphe)::![[Piles électriques.png]]
 <!--SR:!2024-03-24,105,226-->
@@ -29,12 +29,15 @@ Caractéristique intensité-tension d'une pile (graphe)::![[Piles électriques.p
 On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circuit caractéristique d'une pile]]
 <!--SR:!2024-03-11,103,226-->
 
+
 - $U=e$ si:: $I=0$
 <!--SR:!2025-01-31,460,246-->
 - $e$ c'est la tension aux bornes de la pile quand:: elle ne fournit pas de courant
 <!--SR:!2024-05-07,117,226-->
 - Un pile idéale est une pile qui:: n'a pas de résistance interne $r=0$ (le graphe intensité-tension est constante en $e$)
 <!--SR:!2024-02-24,98,226-->
+- $I_{cc}=$::$\frac{e}{r}$
+<!--SR:!2024-02-05,2,226-->
 
 circuit équivalent d'une pile réel::![[equivalent e;r]]
 <!--SR:!2024-03-19,79,206-->
