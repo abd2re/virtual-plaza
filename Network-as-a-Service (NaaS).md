@@ -22,4 +22,4 @@ Le réseau devient un service public payé (comme l'életricté ou l'eau) avec q
 - Pas de maintenance
 - Associé a la sécurité
 - Economie des coûts
-<!--SR:!2024-02-04,49,190-->
+<!--SR:!2024-05-06,92,190-->

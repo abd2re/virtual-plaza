@@ -42,3 +42,12 @@ $$\Large{r=\frac{mv}{|q|B}}$$
 
 
 ## Force magnétique s'exerçcant sur un courant électrique placée dans un champ magnétique (loi de Laplace)
+
+Formule:
+?
+$$\large{F_{m}=BIL\sin\theta}$$
+- $B$ = champ magnétique
+- $I$ = intensité
+- $L$ = longueur du fil
+- $\theta$ = $\angle(\vec{L},\vec{B})$ (aigu)
+<!--SR:!2024-02-06,2,220-->

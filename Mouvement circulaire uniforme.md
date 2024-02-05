@@ -40,3 +40,4 @@ Représentation de ses éléments
 <!--SR:!2024-05-27,212,244-->
 
 Le travail de la force est nulle, ce qui explique pourquoi la vitesse est:: constante.
+<!--SR:!2024-02-06,2,225-->

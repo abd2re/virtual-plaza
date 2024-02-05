@@ -11,7 +11,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - $Q_{2}$ si $n$ est impair =:: $$\frac{x_{n+1}}{2}$$
 <!--SR:!2024-02-12,10,190-->
 - $Q_{2}$ si $n$ est pair =::$$\frac{x_{n/2}+x_{1+n/2}}{2}$$
-<!--SR:!2024-02-04,16,210-->
+<!--SR:!2024-03-10,35,210-->
 
 ## Données non groupées
 - Le mode est:: la valeur qui a la fréquence la plus élevée
@@ -43,7 +43,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - $\text{E}(aX+b)=$::$a\text{E}(X)+b$
 <!--SR:!2024-02-12,13,182-->
 - $\text{Var}(aX+b)=$::$a^{2}\text{Var}(x)$
-<!--SR:!2024-02-04,18,208-->
+<!--SR:!2024-02-13,9,188-->
 - $x$ est une valeur aberrante si:: $$x\notin [Q_{1}-1.5\times\text{IQR},\,Q_{3}+1.5\times\text{IQR}]$$
 <!--SR:!2024-02-23,34,248-->
 

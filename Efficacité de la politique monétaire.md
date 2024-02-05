@@ -22,7 +22,7 @@ Quels sont les atouts de la politique monétaire (3)?:
 <!--SR:!2024-02-08,6,130-->
 
 Il est très difficile pour le gouvernement d’atteindre simultanément les objectifs de (3):: croissance économique, de faible taux de chômage et de faible inflation.
-<!--SR:!2024-02-04,35,210-->
+<!--SR:!2024-04-17,73,210-->
 
 À long terme, si une politique monétaire expansionniste augmente la  capacité productive de l’économie (plein emploi), alors tous objectifs macro-économiques peuvent:: être atteints.
 <!--SR:!2024-05-12,99,250-->

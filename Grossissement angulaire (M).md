@@ -6,7 +6,7 @@ Created: 2024-01-29
 
 # Grossissement angulaire (M)
 Le grossissement angulaire nous indique à quel point:: un objet semble plus grand.
-<!--SR:!2024-02-04,3,250-->
+<!--SR:!2024-02-11,7,250-->
 
 Formule:
 ?

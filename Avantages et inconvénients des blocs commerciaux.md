@@ -27,4 +27,4 @@ Facteurs qui contribuent à la mondialisation sont (5):
 - Sociétés multinationales (MNC)
 - Nouvelle technologie
 - Fonds monétaire international (FMI) et le Banque mondiale
-<!--SR:!2024-02-04,8,230-->
+<!--SR:!2024-02-23,19,230-->

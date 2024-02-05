@@ -49,7 +49,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(A\cup B)$ (2)=::$P(A)+P(B)-P(A\cap B)=P(A\cap B')+P(A\cap B)+P(A'\cap B)$
 <!--SR:!2024-04-05,77,210-->
 - $P(A\Delta B)$=::$P(A\cap B')\cup P(A'\cap B)$
-<!--SR:!2024-02-04,59,250-->
+<!--SR:!2024-03-04,29,230-->
 
 ## Événements indépendants
 Deux événements sont indépendants si: : l'occurrence de chacun d'eux n'affecte pas la probabilité que l'autre se produise. Un exemple de ceci est l'échantillonnage à 1s avec remplacement.

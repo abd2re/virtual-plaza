@@ -7,7 +7,7 @@ Created: 2024-01-24
 # Organisation mondiale du commerce (OMC)
 
 L'objectif principal de l'Organisation mondiale du commerce (OMC) est:: d'améliorer et d'élargir le commerce international en établissant des règles et des pratiques visant à parvenir à un plus grand équilibre et à une plus grande transparence dans les négociations commerciales entre les pays.
-<!--SR:!2024-02-04,5,230-->
+<!--SR:!2024-02-16,12,230-->
 
 Les fonctions de l'organisation sont les suivantes (6):
 ?
@@ -27,4 +27,4 @@ L'OMC est guidée par l'ensemble de principes suivant (6):
 - **Promotion d’une concurrence loyale** : ce principe tente d’évaluer l’équité des transactions commerciales et d’orienter les réponses
 - **Privilégier les pays les moins développés** : cela vise à améliorer l’équité entre les pays plus développés (PMD) et les pays les moins développés (PMA)
 - **Protection de l'environnement** : les initiatives doivent avoir l'environnement au cœur, y compris la santé publique, la santé animale et la santé des plantes.
-<!--SR:!2024-02-04,4,210-->
+<!--SR:!2024-02-13,9,210-->

@@ -38,7 +38,7 @@ $$\large{m=\frac{h_{i}}{h_{o}}=-\frac{v}{u}}$$
 <!--SR:!2024-02-10,9,270-->
 
 Le grossissement linéaire correspond:: au rapport entre la longueur de l'image et la longueur de l'objet, mesuré dans des plans perpendiculaires à l'axe optique.
-<!--SR:!2024-02-04,2,227-->
+<!--SR:!2024-02-08,4,227-->
 
 
 ## Objets virtuels

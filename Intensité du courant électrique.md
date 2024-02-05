@@ -20,7 +20,6 @@ $$
 - $t$ = en secondes
 <!--SR:!2024-02-12,9,268-->
 
-<!--SR:!2025-01-14,437,230-->
 
 ## Nature du courant électrique
 

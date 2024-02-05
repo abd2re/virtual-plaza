@@ -50,7 +50,7 @@ Représentation d'une onde transversale::![[image-20231117200324111.png]]
 
 
 Une onde longitudinale est:: une onde dans laquelle les particules oscillent parallèlement à la direction de propagation de l'onde et le transfert d'énergie se fait dans la même direction.
-<!--SR:!2024-02-04,38,210-->
+<!--SR:!2024-04-23,79,210-->
 
 Représentation d'une onde longitudinale::![[image-20231117200436216.png]]
 <!--SR:!2024-02-05,43,230-->

@@ -32,7 +32,7 @@ $$\Large{a^{2}-b^{2}-i2ab}$$
 $(a+ib)(a-ib)$=
 ?
 $$\Large{a^{2}+b^{2}}$$
-<!--SR:!2024-02-04,173,250-->
+<!--SR:!2024-05-02,88,230-->
 
 ---
 
@@ -94,7 +94,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $\theta$=::$\tan^{-1}(\frac{b}{a})$
 <!--SR:!2024-03-15,84,236-->
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
-<!--SR:!2024-02-04,20,176-->
+<!--SR:!2024-02-14,10,156-->
 - $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
 <!--SR:!2024-02-05,8,174-->
 

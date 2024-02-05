@@ -18,3 +18,4 @@ Représentation des fronts d'onde et rayons:
 - La distance entre les fronts d'onde successifs est égale à:: la longueur d'onde des ondes.
 <!--SR:!2024-04-01,68,208-->
 - Un point de source est:: un point où des ondes est émis dans toutes les directions.
+<!--SR:!2024-02-06,2,227-->

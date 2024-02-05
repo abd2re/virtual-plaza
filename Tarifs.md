@@ -15,7 +15,7 @@ Un tarif fait référence à:: une taxe prélevée par unité sur le prix des 
 Graphique de l'effet des tarifs sur les importations (tout les éléments):
 ?
 ![[image-20231220095125824.png]]
-<!--SR:!2024-02-04,10,230-->
+<!--SR:!2024-02-28,24,230-->
 
 Les tarifs sont plus efficaces si un substitut proche est:: produit sur le marché intérieur et que la demande est donc élastique.
 <!--SR:!2024-02-14,17,250-->

@@ -37,7 +37,7 @@ Key terms:
 - Devices:: tools that an author use to achieve an intended effect, for example, metaphor or rhetoric
 <!--SR:!2024-05-09,125,210-->
 - Audience:: the intended readership of a text
-<!--SR:!2024-02-04,74,210-->
+<!--SR:!2024-07-07,154,210-->
 - Purpose:: what the text set out to achieve; why the text is created
 <!--SR:!2024-07-22,178,230-->
 - Mood:: the feeling that is evoked in the reader (audience) which is  a result of the tone which is set.

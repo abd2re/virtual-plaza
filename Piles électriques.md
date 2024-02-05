@@ -65,7 +65,7 @@ Formule des fem et fcem dans un circuit avec piles et récepteurs (+branchement)
 ?
 ![[image-20230109163848957.png]]
 $$\Sigma{e} - \Sigma{e'}=\Sigma{R}\times I$$
-<!--SR:!2024-02-04,89,220-->
+<!--SR:!2024-03-20,45,200-->
 
 ## Circuit avec des nœuds comportant des générateurs
 

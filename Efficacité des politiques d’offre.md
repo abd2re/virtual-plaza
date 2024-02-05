@@ -29,7 +29,7 @@ Points forts des politiques d’offre fondées sur le marché (2):
 Point fort des politiques interventionnistes du côté de l’offre (1):
 ?
 - Soutien direct aux secteurs importants pour la croissance
-<!--SR:!2024-02-04,18,190-->
+<!--SR:!2024-03-10,35,190-->
 
 ### Forces et limites dans la promotion de la croissance, d’un faible taux de chômage et d’un faible taux d’inflation stable
 

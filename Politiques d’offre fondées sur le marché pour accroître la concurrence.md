@@ -24,6 +24,6 @@ La privatisation fait référence au moment où:: la propriété d'une entrepris
 
 ## 3. Libéralisation du commerce
 La libéralisation du commerce fait référence à:: la diminution des obstacles au commerce avec d’autres pays.
-<!--SR:!2024-02-04,26,226-->
+<!--SR:!2024-04-02,58,226-->
 
 ## 4. Réglementation anti-monopole
