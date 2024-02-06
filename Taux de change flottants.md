@@ -10,7 +10,7 @@ Un taux de change est:: la valeur d’une monnaie exprimée par rapport à une a
 <!--SR:!2024-02-06,2,190-->
 
 Un taux de change flottant (ou taux de change flexible) est:: un système dans lequel la valeur de la monnaie est déterminée par les forces de l'offre et de la demande de cette monnaie sur le marché des changes.
-<!--SR:!2024-02-05,2,210-->
+<!--SR:!2024-02-09,4,210-->
 
 Graphique (marché de la livre sterling exprimée en USD):
 ?
@@ -34,7 +34,7 @@ L'offre d'une monnaie provient de (5) (britannique pour ce cas):
 - Personnes du Royaume-Uni qui voyagent à l'étranger
 - Spéculateurs
 - Banques centrales
-<!--SR:!2024-02-05,1,210-->
+<!--SR:!2024-02-07,2,210-->
 
 Dans un système de taux de change flottants, une augmentation de la valeur d'une monnaie par rapport à une autre est appelée:: appréciation.
 <!--SR:!2024-02-13,9,250-->

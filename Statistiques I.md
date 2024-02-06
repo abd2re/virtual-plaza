@@ -39,7 +39,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 
 ## Transformations linéaires des données
 - Si l'on ajoute ou soustrait une constante a à toutes les valeurs, la variance et l'écart-type:: restent les mêmes.
-<!--SR:!2024-02-05,21,242-->
+<!--SR:!2024-03-26,50,242-->
 - $\text{E}(aX+b)=$::$a\text{E}(X)+b$
 <!--SR:!2024-02-12,13,182-->
 - $\text{Var}(aX+b)=$::$a^{2}\text{Var}(x)$

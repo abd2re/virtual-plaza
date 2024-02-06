@@ -33,7 +33,7 @@ Les trois méthodes de calculer le PIB sont:
 Les gouvernements peuvent comptabiliser le revenu national en additionnant toutes les catégories de revenus (loyers, salaires, intérêts et bénéfices), la valeur ajoutée de chaque catégorie de production (des industries primaires, secondaires et tertiaires) ou les catégories de dépenses d'une économie. En d'autres termes:
 ?
 Revenu = Production = Dépenses
-<!--SR:!2024-02-05,30,181-->
+<!--SR:!2024-02-19,14,161-->
 
 ## PIB nominal et PIB réel
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation

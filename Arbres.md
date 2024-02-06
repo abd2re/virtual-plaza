@@ -26,8 +26,8 @@ Created: 2024-01-27
 
 ## Traversée d'un arbre
 - Préfixe:: Traiter le nœud, visiter le nœud gauche, visiter le nœud droit.
-<!--SR:!2024-02-05,6,250-->
+<!--SR:!2024-02-19,14,250-->
 - Infixe:: Visite du nœud gauche, traitement du nœud, visite du nœud droit.
 <!--SR:!2024-02-07,8,250-->
 - Suffixe:: Visite du nœud gauche, visite du nœud droit, traitement du nœud.
-<!--SR:!2024-02-05,6,250-->
+<!--SR:!2024-02-22,17,250-->

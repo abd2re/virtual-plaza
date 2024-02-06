@@ -30,7 +30,7 @@ $$\large{m=\frac{h_{i}}{h_{o}}=-\frac{v}{u}}$$
 - $h_{o}$ = hauteur de l'objet
 - $v$ = distance de l'image de la lentille
 - $u$ = distance de l'objet de la lentille
-<!--SR:!2024-02-05,5,230-->
+<!--SR:!2024-02-18,13,230-->
 
 (convexe) Un grossissement positif implique que l'image est:: droite.
 <!--SR:!2024-02-09,9,250-->

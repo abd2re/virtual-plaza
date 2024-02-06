@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 27",
+      "path": "Untitled 27.md"
+    },
+    {
+      "basename": "Interférence",
+      "path": "Interférence.md"
+    },
+    {
       "basename": "Puissance d'une force",
       "path": "Puissance d'une force.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "article",
       "path": "Excalidraw/article.md"
-    },
-    {
-      "basename": "Réflexion",
-      "path": "Réflexion.md"
-    },
-    {
-      "basename": "Loupe",
-      "path": "Loupe.md"
     }
   ],
   "omittedPaths": [],

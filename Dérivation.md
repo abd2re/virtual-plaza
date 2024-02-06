@@ -63,7 +63,7 @@ Tangente et normale pour une fonction représente:
 - $g(x)=c\cdot f(x)\rightarrow g'(x)=$::$c\cdot f'(x)$
 <!--SR:!2024-05-08,97,250-->
 - $h(x)=f(x)\pm g(x)\rightarrow h'(x)=$::$f'(x)\pm g'(x)$
-<!--SR:!2024-02-05,41,250-->
+<!--SR:!2024-05-17,102,250-->
 - $h(x)=f(x)g(x)\rightarrow h'(x)=$::$f'(x)g(x)+f(x)g'(x)$
 <!--SR:!2024-05-03,94,250-->
 - $h(x)=\frac{f(x)}{g(x)}\rightarrow h'(x)=$::$\frac{f'(x)g(x)-f(x)g'(x)}{g(x)^{2}}$

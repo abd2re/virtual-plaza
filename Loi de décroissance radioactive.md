@@ -24,7 +24,7 @@ $$\lambda=\frac{\ln\left(\frac{A_{0}}{A}\right)}{t}=\frac{\ln2}{T_{1/2}}$$
 - $t$ =  temps passé
 - $\lambda$ = Constante de désintégration d'un noyau, probabilité de désintégration par unite de temps
 - $T_{1/2}$ = période radioactive de la substance (constant)
-<!--SR:!2024-02-05,12,230-->
+<!--SR:!2024-02-10,5,210-->
 
 Graphe de période radioactive:
 ?

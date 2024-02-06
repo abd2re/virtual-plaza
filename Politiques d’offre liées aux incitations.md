@@ -16,7 +16,7 @@ Les politiques liées aux incitations comprennent (2):
 - Les réductions de l’impôt sur le revenu des particuliers encouragent les individus à:: travailler plus d’heures.
 <!--SR:!2024-03-04,40,226-->
 - Ils inciteront également les chômeurs à trouver un emploi plus rapidement, car:: le coût d'opportunité du chômage est plus élevé.
-<!--SR:!2024-02-05,32,230-->
+<!--SR:!2024-04-18,73,230-->
 - Si ces réductions d'impôts sont permanentes et que les individus maintiennent des heures de travail supplémentaires, l'offre globale à long terme:: augmentera.
 <!--SR:!2024-03-03,49,250-->
 

@@ -30,5 +30,5 @@ Les tarifs sont plus efficaces si un substitut proche est:: produit sur le march
 - Gouvernement:: En mettant en place la taxe, le gouvernement se donne la possibilité de générer des recettes fiscales.
 <!--SR:!2024-02-21,23,250-->
 - Société:: Un tarif crée une perte de bien-être car les consommateurs paient plus et consomment moins.
-<!--SR:!2024-02-05,11,230-->
+<!--SR:!2024-02-29,24,230-->
 

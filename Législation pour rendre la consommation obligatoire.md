@@ -13,4 +13,4 @@ Le gouvernement pourrait adopter des lois pour rendre la consommation de ces bie
 -   Cette solution a moins de chances de réussir à moins que le gouvernement ne fournisse les biens et services gratuitement.
 -   Certaines personnes pourraient être mécontentes des lois de ce type si elles les considèrent comme une atteinte à leurs libertés civiles.
 -   Il y a le coût supplémentaire de l'application de la loi.
-<!--SR:!2024-02-05,80,210-->
+<!--SR:!2024-03-15,39,190-->

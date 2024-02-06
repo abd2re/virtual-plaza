@@ -38,4 +38,4 @@ Pour $\cos(2a)$, les 3 formules sont:
 
 ## Autres
 - $\cos(\arcsin x)=\sin(\arccos x)=$::$\sqrt{1-x^{2}}$
-<!--SR:!2024-02-05,11,244-->
+<!--SR:!2024-03-02,26,244-->

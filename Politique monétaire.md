@@ -30,7 +30,7 @@ Ils sont 5:
 3. Prêteur de dernier recours
 4. Émet des obligations et d’autres instruments financiers
 5. Régule le système bancaire
-<!--SR:!2024-02-05,31,170-->
+<!--SR:!2024-03-28,52,170-->
 
 
 ### 1. Détermine la masse monétaire et le taux d’intérêt
