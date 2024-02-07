@@ -22,7 +22,7 @@ Nous décrivons la nature d'une image selon qu'elle est :
 Une image réelle est:: une image formée par des rayons lumineux et peut être projetée sur un écran.
 <!--SR:!2024-02-08,6,230-->
 Une image virtuelle est:: une image formée par une extension des rayons lumineux et ne peut pas être projetée sur un écran.
-<!--SR:!2024-02-06,3,170-->
+<!--SR:!2024-02-12,6,170-->
 
 
 

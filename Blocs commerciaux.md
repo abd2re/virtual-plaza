@@ -14,11 +14,11 @@ Il existe quatre types de blocs commerciaux:
 - Unions douanières
 - Marchés communs
 - Unions monétaires
-<!--SR:!2024-02-07,4,170-->
+<!--SR:!2024-02-15,8,170-->
 
 ## Zones de libre-échange
 Zones de libre-échange (ZLE) sont formés par un bloc commercial de pays signant des accords commerciaux pour:: éliminer la plupart ou la totalité des obstacles au commerce avec les autres pays impliqués dans l'accord.
-<!--SR:!2024-02-06,10,230-->
+<!--SR:!2024-02-28,22,230-->
 ![[image-20240120162714043.png]]
 
 
@@ -39,7 +39,7 @@ Un bon exemple de marché commun est:: l'UE.
 
 ## Unions monétaires
 Une union monétaire est créée lorsque:: des pays forment un bloc commercial dans lequel existent le libre-échange, une politique extérieure commune, la libre circulation des facteurs de production et une **monnaie partagée**
-<!--SR:!2024-02-06,7,210-->
+<!--SR:!2024-02-20,14,210-->
 
 Une union monétaire en activité aujourd'hui est:: la zone euro ou Union monétaire européenne,
 <!--SR:!2024-02-18,19,250-->

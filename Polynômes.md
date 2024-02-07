@@ -61,7 +61,7 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 - $ax^{2}+bx+c$ est le diviseur ($\deg 2$)
 - $Q(x)$ est le quotient ($\deg n-2$)
 - $ex+f$ est le reste ($\deg <2$)
-<!--SR:!2024-02-07,23,230-->
+<!--SR:!2024-03-30,52,230-->
 
 ### Résolution d'équations polynomiales
 - Tout polynôme réel peut être exprimé comme un produit:: de facteurs linéaires réels et de facteurs quadratiques irréductibles réels.

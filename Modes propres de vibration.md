@@ -36,9 +36,9 @@ Représentation:
 
 ### Nième harmonique
 - Longueur d'onde $\lambda=$::$\frac{2L}{n}$
-<!--SR:!2024-02-06,2,230-->
+<!--SR:!2024-02-12,6,230-->
 - Fréquence $f=$::$\frac{nv}{2L}=nf_{1}$
-<!--SR:!2024-02-07,2,210-->
+<!--SR:!2024-02-11,4,210-->
 
 ## Tube ouvert à ses deux extrémités
 
@@ -54,7 +54,7 @@ Représentation de $\lambda_{1}$, $\lambda_{3}$ et $\lambda_{5}$ avec leurs form
 <!--SR:!2024-02-11,7,250-->
 
 $\lambda_{n}$ avec $n$ impair =:: $\frac{4L}{n}$
-<!--SR:!2024-02-06,1,150-->
+<!--SR:!2024-02-08,2,150-->
 $f_{n}$ avec $n$ impair =:: $\frac{nv}{4L}=nf_{1}$
 <!--SR:!2024-02-08,4,230-->
 

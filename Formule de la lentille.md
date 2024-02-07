@@ -12,10 +12,10 @@ $$\large{\frac{1}{f}=\frac{1}{u}+\frac{1}{v}}$$
 - $f$ = longueur focale
 - $u$ = distance de l'objet de la lentille
 - $v$ = distance de l'image de la lentille
-<!--SR:!2024-02-07,7,250-->
+<!--SR:!2024-02-23,16,250-->
 
 (convexe) Si la distance de l'image de la lentille $v$ est positive alors l'image est:: réelle.
-<!--SR:!2024-02-06,3,230-->
+<!--SR:!2024-02-08,2,210-->
 (convexe) Si la distance de l'image de la lentille $v$ est négative alors l'image est:: virtuelle.
 <!--SR:!2024-02-10,10,250-->
 Pour une lentille concave, l'image est toujours:: virtuelle.

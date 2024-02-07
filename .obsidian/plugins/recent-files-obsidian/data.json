@@ -1,12 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled 27",
-      "path": "Untitled 27.md"
+      "basename": "Impôts indirects",
+      "path": "Impôts indirects.md"
+    },
+    {
+      "basename": "Théorie cinétique des gaz parfaits",
+      "path": "Théorie cinétique des gaz parfaits.md"
+    },
+    {
+      "basename": "Désintégration radioactive",
+      "path": "Désintégration radioactive.md"
+    },
+    {
+      "basename": "Theme 7-Physique nucléaire",
+      "path": "Theme 7-Physique nucléaire.md"
+    },
+    {
+      "basename": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes",
+      "path": "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md"
+    },
+    {
+      "basename": "Energie de liaison du noyau",
+      "path": "Energie de liaison du noyau.md"
+    },
+    {
+      "basename": "Conservation masse-énergie",
+      "path": "Conservation masse-énergie.md"
+    },
+    {
+      "basename": "Loi de décroissance radioactive",
+      "path": "Loi de décroissance radioactive.md"
+    },
+    {
+      "basename": "Subventions",
+      "path": "Subventions.md"
+    },
+    {
+      "basename": "Contrôles des prix planchers",
+      "path": "Contrôles des prix planchers.md"
+    },
+    {
+      "basename": "Mobilité (flexibilité) et coût des facteurs de production",
+      "path": "Mobilité (flexibilité) et coût des facteurs de production.md"
+    },
+    {
+      "basename": "Déterminants de l'élasticité-prix de l'offre",
+      "path": "Déterminants de l'élasticité-prix de l'offre.md"
+    },
+    {
+      "basename": "Capacité inutilisée",
+      "path": "Capacité inutilisée.md"
+    },
+    {
+      "basename": "Elasticités de l'offre",
+      "path": "Elasticités de l'offre.md"
+    },
+    {
+      "basename": "Elasticité prix de la demande",
+      "path": "Elasticité prix de la demande.md"
+    },
+    {
+      "basename": "Chapitre 5 - Elasticités de la demande",
+      "path": "Chapitre 5 - Elasticités de la demande.md"
+    },
+    {
+      "basename": "Fourchette des valeurs de l'élasticité-prix de la demande",
+      "path": "Fourchette des valeurs de l'élasticité-prix de la demande.md"
+    },
+    {
+      "basename": "Chapitre 7 - Role du gouvernement en micro-économie",
+      "path": "Chapitre 7 - Role du gouvernement en micro-économie.md"
+    },
+    {
+      "basename": "Revenu total des entreprises",
+      "path": "Revenu total des entreprises.md"
+    },
+    {
+      "basename": "Taux de change gérés",
+      "path": "Taux de change gérés.md"
+    },
+    {
+      "basename": "Chapitre 5 - Taux d'échange",
+      "path": "Chapitre 5 - Taux d'échange.md"
+    },
+    {
+      "basename": "Taux de change fixes",
+      "path": "Taux de change fixes.md"
+    },
+    {
+      "basename": "Taux de change flottants",
+      "path": "Taux de change flottants.md"
+    },
+    {
+      "basename": "Surplus du producteur",
+      "path": "Surplus du producteur.md"
+    },
+    {
+      "basename": "Forces magnétiques",
+      "path": "Forces magnétiques.md"
+    },
+    {
+      "basename": "Conséquences des changements du taux de change",
+      "path": "Conséquences des changements du taux de change.md"
+    },
+    {
+      "basename": "_economy",
+      "path": "_economy.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "_english",
+      "path": "_english.md"
     },
     {
       "basename": "Interférence",
       "path": "Interférence.md"
+    },
+    {
+      "basename": "Untitled 27",
+      "path": "Untitled 27.md"
     },
     {
       "basename": "Puissance d'une force",
@@ -27,18 +143,6 @@
     {
       "basename": "Travail d'une force constante",
       "path": "Travail d'une force constante.md"
-    },
-    {
-      "basename": "Désintégration radioactive",
-      "path": "Désintégration radioactive.md"
-    },
-    {
-      "basename": "Forces magnétiques",
-      "path": "Forces magnétiques.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
     },
     {
       "basename": "Intensité du courant électrique",
@@ -95,110 +199,6 @@
     {
       "basename": "Piles électriques",
       "path": "Piles électriques.md"
-    },
-    {
-      "basename": "Fronts d'onde et rayons",
-      "path": "Fronts d'onde et rayons.md"
-    },
-    {
-      "basename": "Théorème de superposition",
-      "path": "Théorème de superposition.md"
-    },
-    {
-      "basename": "Theme 6-Mouvement circulaire uniforme et Gravitation",
-      "path": "Theme 6-Mouvement circulaire uniforme et Gravitation.md"
-    },
-    {
-      "basename": "Champ de gravitation",
-      "path": "Champ de gravitation.md"
-    },
-    {
-      "basename": "Loi de gravitation de Newton",
-      "path": "Loi de gravitation de Newton.md"
-    },
-    {
-      "basename": "Mouvement circulaire uniforme",
-      "path": "Mouvement circulaire uniforme.md"
-    },
-    {
-      "basename": "Résistance électrique",
-      "path": "Résistance électrique.md"
-    },
-    {
-      "basename": "Chapitre 5 - Ondes stationnaires",
-      "path": "Chapitre 5 - Ondes stationnaires.md"
-    },
-    {
-      "basename": "Ondes stationnaires",
-      "path": "Ondes stationnaires.md"
-    },
-    {
-      "basename": "exo economie 2",
-      "path": "exo economie 2.md"
-    },
-    {
-      "basename": "Analyse",
-      "path": "Analyse.md"
-    },
-    {
-      "basename": "op",
-      "path": "op.md"
-    },
-    {
-      "basename": "Untitled 26",
-      "path": "Untitled 26.md"
-    },
-    {
-      "basename": "Taux de change flottants",
-      "path": "Taux de change flottants.md"
-    },
-    {
-      "basename": "image-20240127152845275",
-      "path": "assets/Taux de change flottants/image-20240127152845275.png"
-    },
-    {
-      "basename": "Chapitre 5 - Taux d'échange",
-      "path": "Chapitre 5 - Taux d'échange.md"
-    },
-    {
-      "basename": "_economy",
-      "path": "_economy.md"
-    },
-    {
-      "basename": "Intégration",
-      "path": "Intégration.md"
-    },
-    {
-      "basename": "image-20230512074941565",
-      "path": "assets/exo economie/image-20230512074941565.png"
-    },
-    {
-      "basename": "Untitled 24",
-      "path": "Untitled 24.md"
-    },
-    {
-      "basename": "Cinématique",
-      "path": "Cinématique.md"
-    },
-    {
-      "basename": "__dashboard",
-      "path": "__dashboard.md"
-    },
-    {
-      "basename": "Dérivation",
-      "path": "Dérivation.md"
-    },
-    {
-      "basename": "Séries et Séquences",
-      "path": "Séries et Séquences.md"
-    },
-    {
-      "basename": "Changements dans la demande et l'offre d'une monnaie",
-      "path": "Changements dans la demande et l'offre d'une monnaie.md"
-    },
-    {
-      "basename": "article",
-      "path": "Excalidraw/article.md"
     }
   ],
   "omittedPaths": [],

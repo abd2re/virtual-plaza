@@ -7,7 +7,7 @@ Created: 2023-11-09
 # Autres politiques visant à réduire la pauvreté, les inégalités de revenus et les inégalités de richesse
 
 L'inégalité des chances peut être combattue en:: augmentant les opportunités disponibles pour une bonne éducation.
-<!--SR:!2024-02-06,54,250-->
+<!--SR:!2024-06-21,136,250-->
 
 Des solutions sont (5):
 ?

@@ -33,12 +33,12 @@ Une particule chargée $q$ se déplace a la vitesse $\vec{v}$ dans un champ magn
 La formule de l'accélération $a$ d'une particle dans un champ magnétique si le poids est négligeable.
 ?
 $$\Large{a=\frac{|q|vB\sin\theta}{m}}$$
-<!--SR:!2024-02-07,37,162-->
+<!--SR:!2024-04-05,58,162-->
 
 La formule du rayon d'une particule est égale:
 ?
 $$\Large{r=\frac{mv}{|q|B}}$$
-<!--SR:!2024-02-07,44,202-->
+<!--SR:!2024-03-01,23,182-->
 
 
 ## Force magnétique s'exerçcant sur un courant électrique placée dans un champ magnétique (loi de Laplace)
@@ -50,4 +50,4 @@ $$\large{F_{m}=BIL\sin\theta}$$
 - $I$ = intensité
 - $L$ = longueur du fil
 - $\theta$ = $\angle(\vec{L},\vec{B})$ (aigu)
-<!--SR:!2024-02-06,2,220-->
+<!--SR:!2024-02-10,4,220-->

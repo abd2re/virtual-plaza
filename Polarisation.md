@@ -38,7 +38,7 @@ $$\large{I=I_{0}\cos^{2}\theta}$$
 Représentation
 ?
 ![[image-20231204103105556.png|center|500]]
-<!--SR:!2024-02-07,31,196-->
+<!--SR:!2024-04-10,63,196-->
 
 Cet angle incident $\theta_{1}$ est égale à::$$\theta_{1}=\tan^{-1}\left(\frac{n_{2}}{n_{1}}\right)$$
 <!--SR:!2024-02-10,21,196-->

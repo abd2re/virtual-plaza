@@ -45,9 +45,9 @@ $$
 
 ## Les lois de l'intensité
 - **Loi de l'unicité de l'intensité**:: Lorsque des dipoles sont branchés en série, ils sont parcourus par un courant de meme intensité
-<!--SR:!2024-02-06,9,250-->
+<!--SR:!2024-03-11,34,270-->
 - **Loi des nœuds ou de Kirchhoff pour l'intensité**:: Dans un nœud la somme des courants entrants est égale a la somme des courants sortants.
-<!--SR:!2024-02-06,9,250-->
+<!--SR:!2024-03-09,32,270-->
 - Un nœud est:: le point de rencontre de plus de deux fils de connexion
 <!--SR:!2024-02-16,14,230-->
 

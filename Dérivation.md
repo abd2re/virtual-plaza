@@ -20,7 +20,7 @@ Tangente et normale pour une fonction représente:
 - Formule de la tangente $T:y$=:: $f'(a)(x-a)+f(a)$
 <!--SR:!2024-04-14,75,230-->
 - Formule de la normale $N:y$=:: $\frac{-1}{f'(a)}(x-a)+f(a)$
-<!--SR:!2024-02-07,38,230-->
+<!--SR:!2024-05-02,85,230-->
 
 
 ## Identités
@@ -38,7 +38,7 @@ Tangente et normale pour une fonction représente:
 - $f(x)=e^{x}\rightarrow f'(x)=$::$e^{x}$
 <!--SR:!2024-03-03,59,250-->
 - $f(x)=\log_{a}(x)\rightarrow f'(x)=$::$\frac{1}{\ln(a)x}$
-<!--SR:!2024-02-07,3,130-->
+<!--SR:!2024-02-11,4,130-->
 - $f(x)=\ln(x)\rightarrow f'(x)=$::$\frac{1}{x}$
 <!--SR:!2024-05-13,99,250-->
 - $f(x)=\sin(x)\rightarrow f'(x)=$::$\cos(x)$
@@ -50,9 +50,9 @@ Tangente et normale pour une fonction représente:
 - $f(x)=\sec(x)\rightarrow f'(x)=$::$\sec(x)\tan(x)$
 <!--SR:!2024-02-10,8,177-->
 - $f(x)=\csc(x)\rightarrow f'(x)=$::$-\csc(x)\cot(x)$
-<!--SR:!2024-02-06,3,157-->
+<!--SR:!2024-02-10,4,157-->
 - $f(x)=\cot(x)\rightarrow f'(x)=$::$-\csc^{2}(x)$
-<!--SR:!2024-02-06,2,137-->
+<!--SR:!2024-02-09,3,137-->
 - $f(x)=\sin^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{1}{\sqrt{a-x^{2}}}$
 <!--SR:!2024-02-14,13,237-->
 - $f(x)=\cos^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{-1}{\sqrt{a-x^{2}}}$

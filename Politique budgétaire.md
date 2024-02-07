@@ -25,11 +25,11 @@ Sources de revenus (3):
 - Fiscalité directe et indirecte
 - Vente de biens et services d'entreprises publiques
 - Vente d'actifs gouvernementaux
-<!--SR:!2024-02-06,9,130-->
+<!--SR:!2024-02-18,12,130-->
 
 Dépenses publiques (3):
 ?
 - Dépenses courantes (salaire, fournitures, etc...)
 - Dépenses en capital (infrastructure, grands projets)
 - Paiements de transfert (pensions)
-<!--SR:!2024-02-07,22,190-->
+<!--SR:!2024-03-21,43,190-->

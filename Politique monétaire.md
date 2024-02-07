@@ -17,7 +17,7 @@ La politique monétaire fait référence à la banque centrale qui utilise le re
 <!--SR:!2024-02-21,31,210-->
 
 - Définition de **taux d’intérêt**:: **Coût d’emprunt de l’argent.**
-<!--SR:!2024-02-07,45,210-->
+<!--SR:!2024-05-11,94,210-->
 - Définition de la **masse monétaire**:: **La quantité totale de monnaie en circulation** ; il se compose de toutes les pièces, billets et soldes bancaires.
 <!--SR:!2024-02-13,35,170-->
 

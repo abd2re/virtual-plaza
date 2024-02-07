@@ -9,4 +9,4 @@ Le point le plus proche sur lequel l'œil humain peut faire la mise au point (ac
 <!--SR:!2024-02-14,10,250-->
 
 Le ponctum proximum (point le plus proche de l'œil) est:: la distance minimale de vision nette ($D$).
-<!--SR:!2024-02-06,2,230-->
+<!--SR:!2024-02-11,5,230-->

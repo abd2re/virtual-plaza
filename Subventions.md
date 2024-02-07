@@ -21,7 +21,7 @@ Les objectifs des subventions pour le gouvernement sont généralement :
 ## L'effet des subventions sur le [[marché]]
 (graphe)
 ?
-![[image-20230124133701027.png]]
+![[image-20230124133701027.png|475]]
 <!--SR:!2024-09-17,363,250-->
 
 ## Effet sur la société dans son ensemble

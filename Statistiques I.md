@@ -25,7 +25,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - $S^{2}=$::$$\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}^{2}}{\sum\limits_{i=1}^{k}f_{i}}-\mu^{2}$$
 <!--SR:!2024-03-06,33,202-->
 - $S=$::$$\sqrt{\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}^{2}}{\sum\limits_{i=1}^{k}f_{i}}-\mu^{2}}$$
-<!--SR:!2024-02-06,13,202-->
+<!--SR:!2024-03-02,25,202-->
 
 ## Données groupées
 - La classe modale est:: la classe dont la fréquence est la plus élevée. (Il s'agit uniquement d'intervalles de la classe de qualification)
@@ -35,7 +35,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - La moyenne exacte ne peut être calculée car:: on ne dispose pas des données de base.
 <!--SR:!2024-02-15,26,242-->
 - Pour les données groupées, $x_{i}$ est:: la valeur du milieu de l'intervalle (point médian) pour chaque classe.
-<!--SR:!2024-02-07,19,222-->
+<!--SR:!2024-03-19,41,222-->
 
 ## Transformations linéaires des données
 - Si l'on ajoute ou soustrait une constante a à toutes les valeurs, la variance et l'écart-type:: restent les mêmes.

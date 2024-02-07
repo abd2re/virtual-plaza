@@ -17,7 +17,7 @@ Les fonctions de l'organisation sont les suivantes (6):
 - Surveiller les politiques commerciales nationales
 - Fournir une assistance technique et une formation aux pays en développement
 - Coopérer avec d'autres organisations internationales
-<!--SR:!2024-02-06,4,210-->
+<!--SR:!2024-02-14,8,210-->
 
 L'OMC est guidée par l'ensemble de principes suivant (6):
 ?
