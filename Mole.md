@@ -4,8 +4,10 @@ tags: [physics]
 Created: 2022-11-15
 
 # Mole
-?
-Une mole est un ensemble de $N_{A}$ entités identiques.
+
+
+Une mole (mol) est:: la quantité de matière d'un système contenant autant d'entités élémentaires qu'il y a d'atomes dans 0,012 kilogramme de carbone 12.
+
 $N_A$ représente le nombre d'Avogardo =:: $6.02 \cdot 10^{23}$
 <!--SR:!2024-02-11,6,130-->
 

@@ -4,18 +4,89 @@
     "type": "split",
     "children": [
       {
-        "id": "020cd0976d414647",
+        "id": "b49c699138cf08d0",
         "type": "tabs",
         "children": [
           {
-            "id": "b5ce7ea50bfd90e9",
+            "id": "53b3d956285bc875",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Equations différentielles.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25d3100aea5bf802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dérivation.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25dad8527b277a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Théorème Binomial.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7410ef21293a9a4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polarisation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18d5922d7087f0b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interférence.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "45ad84c095a0ad1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mole.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Interférence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Interférence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,6 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Interférence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -190,7 +264,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Interférence.md"
+              }
             }
           },
           {
@@ -206,7 +282,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Interférence.md"
+              }
             }
           },
           {
@@ -258,6 +336,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Interférence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -336,8 +415,25 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "b5ce7ea50bfd90e9",
+  "active": "18d5922d7087f0b9",
   "lastOpenFiles": [
+    "Théorème Binomial.md",
+    "Untitled 27.md",
+    "Interférence.md",
+    "Chapitre 4 - Comportement des ondes.md",
+    "Diffraction.md",
+    "Polarisation.md",
+    "Mole.md",
+    "assets/Polarisation/image-20231120115211923.png",
+    "assets/Polarisation/image-20231204103105556.png",
+    "Intégration.md",
+    "Untitled 28.md",
+    "Equations différentielles.md",
+    "_math.md",
+    "Cinématique.md",
+    "Série Maclaurin.md",
+    "Dérivation.md",
+    "Probabilité discrètes.md",
     "Impôts indirects.md",
     "Théorie cinétique des gaz parfaits.md",
     "Désintégration radioactive.md",
@@ -350,31 +446,14 @@
     "assets/Impôts indirects/image-20230118083024563.png",
     "Contrôles des prix planchers.md",
     "Mobilité (flexibilité) et coût des facteurs de production.md",
-    "Déterminants de l'élasticité-prix de l'offre.md",
-    "Capacité inutilisée.md",
-    "Elasticités de l'offre.md",
-    "Elasticité prix de la demande.md",
-    "Chapitre 5 - Elasticités de la demande.md",
-    "Fourchette des valeurs de l'élasticité-prix de la demande.md",
-    "Chapitre 7 - Role du gouvernement en micro-économie.md",
-    "Contrôles des prix plafonds.md",
-    "Conséquences possibles de l'imposition d'un prix plafond.md",
-    "Revenu total des entreprises.md",
     "assets/Revenu total des entreprises/Revenu total des entreprises.png",
-    "Taux de change gérés.md",
     "assets/Taux de change gérés/image-20240206202215628.png",
     "assets/Taux de change gérés",
-    "Chapitre 5 - Taux d'échange.md",
-    "Taux de change fixes.md",
-    "Taux de change flottants.md",
-    "Conséquences des changements du taux de change.md",
     "assets/Forces magnétiques/image-20231011081124820.png",
     "assets/Interférence/image-20231217084846194.png",
     "assets/Travail du poids d'un corps/image-20230615082435878.png",
     "assets/Travail d'une force variable/image-20230908104112418.png",
     "assets/Désintégration radioactive/image-20230214112623193.png",
-    "assets/Modes propres de vibration/image-20240129120323144.png",
-    "assets/Modes propres de vibration/image-20240129115330389.png",
     "Excalidraw/assets/article",
     "assets/Modes propres de vibration",
     "assets/Ondes stationnaires",

@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "Interférence",
+      "path": "Interférence.md"
+    },
+    {
+      "basename": "Théorème Binomial",
+      "path": "Théorème Binomial.md"
+    },
+    {
+      "basename": "Untitled 27",
+      "path": "Untitled 27.md"
+    },
+    {
+      "basename": "Chapitre 4 - Comportement des ondes",
+      "path": "Chapitre 4 - Comportement des ondes.md"
+    },
+    {
+      "basename": "Diffraction",
+      "path": "Diffraction.md"
+    },
+    {
+      "basename": "Polarisation",
+      "path": "Polarisation.md"
+    },
+    {
+      "basename": "Mole",
+      "path": "Mole.md"
+    },
+    {
+      "basename": "Intégration",
+      "path": "Intégration.md"
+    },
+    {
+      "basename": "Untitled 28",
+      "path": "Untitled 28.md"
+    },
+    {
+      "basename": "Equations différentielles",
+      "path": "Equations différentielles.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Série Maclaurin",
+      "path": "Série Maclaurin.md"
+    },
+    {
+      "basename": "Dérivation",
+      "path": "Dérivation.md"
+    },
+    {
+      "basename": "Probabilité discrètes",
+      "path": "Probabilité discrètes.md"
+    },
+    {
       "basename": "Impôts indirects",
       "path": "Impôts indirects.md"
     },
@@ -117,14 +173,6 @@
       "path": "_english.md"
     },
     {
-      "basename": "Interférence",
-      "path": "Interférence.md"
-    },
-    {
-      "basename": "Untitled 27",
-      "path": "Untitled 27.md"
-    },
-    {
       "basename": "Puissance d'une force",
       "path": "Puissance d'une force.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "Champ électrique",
       "path": "Champ électrique.md"
-    },
-    {
-      "basename": "Loi de Coulomb",
-      "path": "Loi de Coulomb.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage",
-      "path": "Incertitudes absolues, incertitudes fractionnaires et incertitudes en pourcentage.md"
-    },
-    {
-      "basename": "Chapitre 2 - Incertitudes et erreurs",
-      "path": "Chapitre 2 - Incertitudes et erreurs.md"
-    },
-    {
-      "basename": "Equations différentielles",
-      "path": "Equations différentielles.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "Untitled 25",
-      "path": "Untitled 25.md"
-    },
-    {
-      "basename": "Theme 5-Electricité et Magnétisme",
-      "path": "Theme 5-Electricité et Magnétisme.md"
-    },
-    {
-      "basename": "Theme 4-Oscillations et ondes",
-      "path": "Theme 4-Oscillations et ondes.md"
-    },
-    {
-      "basename": "Modes propres de vibration",
-      "path": "Modes propres de vibration.md"
-    },
-    {
-      "basename": "Polarisation",
-      "path": "Polarisation.md"
-    },
-    {
-      "basename": "Piles électriques",
-      "path": "Piles électriques.md"
     }
   ],
   "omittedPaths": [],

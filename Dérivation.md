@@ -57,7 +57,7 @@ Tangente et normale pour une fonction représente:
 <!--SR:!2024-02-14,13,237-->
 - $f(x)=\cos^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{-1}{\sqrt{a-x^{2}}}$
 <!--SR:!2024-02-15,14,237-->
-- $f(x)=\tan^{-1}(x)\rightarrow f'(x)=$::$\frac{1}{1+x^{2}}$
+- $f(x)=\tan^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{1}{a^{2}+x^{2}}$
 <!--SR:!2024-02-16,15,237-->
 ### Opérations
 - $g(x)=c\cdot f(x)\rightarrow g'(x)=$::$c\cdot f'(x)$

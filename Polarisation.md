@@ -33,6 +33,7 @@ $$\large{I=I_{0}\cos^{2}\theta}$$
 - Quand une lumière non-polarisée passe par un polariseur alors son intensité est:: divisée par 2.
 <!--SR:!2024-04-15,84,238-->
 
+Les polariseurs croisés ne transmettent pas de lumière de sorte que l'endroit où ils se chevauchent apparaît en noir.
 ## Polarisation par réflexion (angle de Brewster)
 
 Représentation
@@ -42,3 +43,13 @@ Représentation
 
 Cet angle incident $\theta_{1}$ est égale à::$$\theta_{1}=\tan^{-1}\left(\frac{n_{2}}{n_{1}}\right)$$
 <!--SR:!2024-02-10,21,196-->
+
+Une lumière partiellement polarisée signifie que la lumière reflétée a:: plusieurs composantes du champ électrique de magnitude inégale.
+
+La composante la plus importante se trouve dans le plan parallèle à la surface, on dit que la lumière est partiellement polarisée dans ce plan. Le plan de polarisation est parallèle à la surface réfléchissante. 
+
+L'éblouissement dû aux réflections de la surface de l'eau, comme celles des lacs ou de la mer, est partiellement polarisé horizontalement. 
+
+L'éblouissement peut être réduit en portant des lunettes de soleil Polaroid (dont l'axe de transmission est vertical), ce qui permet de voir ce qui se trouve sous la surface de l'eau.
+
+La réflection a lieu lorsque la surface de réflection est suffisamment lisse. Cela signifie que la longueur d'onde de l'onde incidente doit être plus grande que la taille des irrégularités de la surface.
