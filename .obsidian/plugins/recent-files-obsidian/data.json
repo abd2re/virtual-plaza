@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Theme 7-Physique nucléaire",
+      "path": "Theme 7-Physique nucléaire.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
       "basename": "_economy",
       "path": "_economy.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Politiques monétaires expansionnistes et restrictives",
       "path": "Politiques monétaires expansionnistes et restrictives.md"
-    },
-    {
-      "basename": "Contrôles des prix plafonds",
-      "path": "Contrôles des prix plafonds.md"
-    },
-    {
-      "basename": "Taux de change flottants",
-      "path": "Taux de change flottants.md"
     }
   ],
   "omittedPaths": [],

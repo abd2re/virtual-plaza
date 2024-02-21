@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "533248dca1bce815",
+        "id": "9e15d96cf62e2a70",
         "type": "tabs",
         "children": [
           {
-            "id": "2a61b7629a8857b9",
+            "id": "9c7af5dc06e26450",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,7 +158,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5546433433128576,
+                  "scale": 0.5555978139006917,
                   "close": true
                 }
               }
@@ -337,8 +337,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "2a61b7629a8857b9",
+  "active": "9c7af5dc06e26450",
   "lastOpenFiles": [
+    "Theme 7-Physique nucléaire.md",
+    "_physics.md",
+    "_phy.md",
     "_economy.md",
     "Interdépendance entre les comptes.md",
     "Chapitre 6 - Balance des paiements.md",
@@ -363,9 +366,6 @@
     "_math.md",
     "Probabilité discrètes.md",
     "Distribution discrètes.md",
-    "_english.md",
-    "_computer science.md",
-    "Theme 3-Réseaux.md",
     "assets/Dérivation/image-20231128163111952.png",
     "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
     "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
