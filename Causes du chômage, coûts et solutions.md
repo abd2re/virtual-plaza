@@ -16,7 +16,7 @@ Au total, il existe quatre types de chômage qui se répartissent en deux grande
 ### Cyclique (demande insuffisante)
 ?
 Dans le cas d'une récession, une réduction de la [[demande globale]] entraînerait une baisse de la production nationale, une baisse des revenus des entreprises et des particuliers, une augmentation du chômage et, potentiellement, une baisse du niveau général des prix également. Ce type de chômage est connu sous le nom de chômage cyclique ou un **chômage insuffisant par rapport à la demande**.
-<!--SR:!2024-02-08,14,190-->
+<!--SR:!2024-02-23,6,150-->
 
 Les récessions peuvent également provoquer un [[choc d'offre]] lorsque l'[[offre]] globale diminue, entraînant une hausse des [[coûts de production]] et entraînant ce que l'on appelle:: une baisse de l'offre globale (stagflation).
 <!--SR:!2024-03-12,35,210-->
@@ -30,7 +30,7 @@ La demande totale de main-d'œuvre passe de AD L à AD L1 . Au taux de sala
 ### Chômage réel
 ?
 Un salaire minimum imposé par le gouvernement peut également accroître le chômage, c'est ce qu'on appelle chômage au salaire réel, où il existe un écart entre le nombre d'emplois disponibles et le nombre de personnes désireuses et capables de travailler au taux de salaire en vigueur.
-<!--SR:!2024-02-09,10,190-->
+<!--SR:!2024-02-29,20,190-->
 
 Graphique avec axes et explication du nombre de chômeurs
 ?
@@ -74,13 +74,13 @@ Quels sont les coûts économiques du chômage (5) ?:
 3. Augmentation du coût des allocations de chômage
 4. Perte de revenus pour les particuliers
 5. De plus grandes disparités dans la répartition des revenus
-<!--SR:!2024-02-17,16,130-->
+<!--SR:!2024-02-27,10,130-->
 
 Quels sont les coûts personnels du chômage (2) ?:
 ?
 1. Augmentation de l’endettement, du sans-abrisme et de l’éclatement des famille
 2. Niveaux de stress accrus
-<!--SR:!2024-02-13,34,222-->
+<!--SR:!2024-02-28,15,202-->
 
 Quels sont les coûts sociaux du chômage (2) ?:
 ?

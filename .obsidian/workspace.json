@@ -4,89 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b49c699138cf08d0",
+        "id": "533248dca1bce815",
         "type": "tabs",
         "children": [
           {
-            "id": "53b3d956285bc875",
+            "id": "2a61b7629a8857b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equations différentielles.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25d3100aea5bf802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dérivation.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25dad8527b277a25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Théorème Binomial.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7410ef21293a9a4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polarisation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18d5922d7087f0b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interférence.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "45ad84c095a0ad1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mole.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "81af70492d6955ac",
@@ -161,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interférence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +107,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Interférence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +158,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2934186103572993,
+                  "scale": 0.5546433433128576,
                   "close": true
                 }
               }
@@ -242,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interférence.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -264,9 +191,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Interférence.md"
-              }
+              "state": {}
             }
           },
           {
@@ -282,9 +207,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Interférence.md"
-              }
+              "state": {}
             }
           },
           {
@@ -336,7 +259,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Interférence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -388,7 +310,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6244827106711427,
+                  "scale": 0.4203257350656543,
                   "close": true
                 }
               }
@@ -415,45 +337,46 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "18d5922d7087f0b9",
+  "active": "2a61b7629a8857b9",
   "lastOpenFiles": [
-    "Théorème Binomial.md",
-    "Untitled 27.md",
-    "Interférence.md",
-    "Chapitre 4 - Comportement des ondes.md",
-    "Diffraction.md",
-    "Polarisation.md",
-    "Mole.md",
-    "assets/Polarisation/image-20231120115211923.png",
-    "assets/Polarisation/image-20231204103105556.png",
-    "Intégration.md",
-    "Untitled 28.md",
-    "Equations différentielles.md",
+    "_economy.md",
+    "Interdépendance entre les comptes.md",
+    "Chapitre 6 - Balance des paiements.md",
+    "Composantes de la balance des paiements.md",
+    "Balance des paiements.md",
+    "Taux de change gérés.md",
+    "Taux de change fixes.md",
+    "Conséquences des changements du taux de change.md",
+    "Changements dans la demande et l'offre d'une monnaie.md",
+    "Blocs commerciaux.md",
+    "assets/Blocs commerciaux/image-20240120162714043.png",
+    "Arguments contre la protection commerciale.md",
+    "Avantages et inconvénients des blocs commerciaux.md",
+    "Subventions (protection commerciale).md",
+    "Theme 3-Économie Mondiale.md",
+    "Chapitre 2 - Types de protection commerciale.md",
+    "Chapitre 5 - Taux d'échange.md",
+    "__dashboard.md",
+    "Distribution binomiale.md",
+    "Distribution normale.md",
+    "Raisonnement logique.md",
     "_math.md",
-    "Cinématique.md",
-    "Série Maclaurin.md",
-    "Dérivation.md",
     "Probabilité discrètes.md",
-    "Impôts indirects.md",
-    "Théorie cinétique des gaz parfaits.md",
-    "Désintégration radioactive.md",
-    "Theme 7-Physique nucléaire.md",
-    "Niveau d'énergie atomique et transformation d'énergie au sain des atomes.md",
-    "Energie de liaison du noyau.md",
-    "Conservation masse-énergie.md",
-    "Loi de décroissance radioactive.md",
-    "Subventions.md",
-    "assets/Impôts indirects/image-20230118083024563.png",
-    "Contrôles des prix planchers.md",
-    "Mobilité (flexibilité) et coût des facteurs de production.md",
-    "assets/Revenu total des entreprises/Revenu total des entreprises.png",
-    "assets/Taux de change gérés/image-20240206202215628.png",
+    "Distribution discrètes.md",
+    "_english.md",
+    "_computer science.md",
+    "Theme 3-Réseaux.md",
+    "assets/Dérivation/image-20231128163111952.png",
+    "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
+    "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
+    "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
+    "assets/Externalité de la production/image-20230203083115173.png",
+    "assets/Causes du chômage, coûts et solutions/image-20230913103815676.png",
+    "assets/Causes du chômage, coûts et solutions/image-20230908090941045.png",
+    "assets/Inflation et ses causes/image-20230921081541285.png",
+    "assets/Activité économique/image-20230328182846041.png",
+    "Excalidraw/assets/Drawing 2024-02-10 16.37.17.excalidraw",
     "assets/Taux de change gérés",
-    "assets/Forces magnétiques/image-20231011081124820.png",
-    "assets/Interférence/image-20231217084846194.png",
-    "assets/Travail du poids d'un corps/image-20230615082435878.png",
-    "assets/Travail d'une force variable/image-20230908104112418.png",
-    "assets/Désintégration radioactive/image-20230214112623193.png",
     "Excalidraw/assets/article",
     "assets/Modes propres de vibration",
     "assets/Ondes stationnaires",
@@ -463,7 +386,6 @@
     "assets/Formation de l'image dans les lentilles concaves",
     "Untitled.canvas",
     "assets/Formation de l'image dans les lentilles convexes",
-    "assets/Objets et images",
     "2.7 m.canvas"
   ]
 }

@@ -16,11 +16,11 @@ Les politiques interventionnistes comprennent (5):
 - Recherche et développement
 - Provision d'infrastructure
 - Politiques industrielles
-<!--SR:!2024-02-08,8,150-->
+<!--SR:!2024-02-26,8,130-->
 
 ## 1. Éducation et formation
 Les dépenses publiques en matière d’éducation et de formation pourraient améliorer:: le capital humain.
-<!--SR:!2024-02-10,31,244-->
+<!--SR:!2024-04-25,75,244-->
 
 ## 2. Améliorer la qualité, la quantité et l’accès aux soins de santé
 L’accès à des soins de santé de qualité garantit que la main-d’œuvre est en bonne santé, énergique et plus capable de:: se concentrer et de travailler dur.
@@ -28,7 +28,7 @@ L’accès à des soins de santé de qualité garantit que la main-d’œuvre es
 
 ## 3. Recherche et développement
 À plus long terme, l’innovation a la capacité d’améliorer:: l’efficacité.
-<!--SR:!2024-02-13,33,244-->
+<!--SR:!2024-05-03,80,244-->
 
 ## 4. Mise à disposition d'infrastructures
 Une infrastructure solide facilite grandement:: le transport des matières premières et des produits finis et des services, ce qui réduit les coûts de production.

@@ -7,10 +7,10 @@ Created: 2023-10-18
 # Signification de la pauvreté et comment la mesurer
 ## Pauvreté absolue et relative
 La pauvreté absolue fait référence:: à des niveaux de pauvreté définis au niveau international, où les personnes pauvres gagnent en dessous d'un certain niveau de revenu et ont un niveau de vie inacceptable.
-<!--SR:!2024-02-12,66,230-->
+<!--SR:!2024-07-12,151,230-->
 
 Les pays qui ne souffrent pas de pauvreté absolue devront définir un niveau de revenu différent en dessous duquel leurs citoyens se retrouveraient en difficulté. C'est ce qu'on appelle:: pauvreté relative.
-<!--SR:!2024-02-20,70,230-->
+<!--SR:!2024-03-25,34,210-->
 
 ## Mesurer la pauvreté
 Les deux types d'indicateurs sont:: les indicateurs uniques et composites.
@@ -24,7 +24,7 @@ Ils sont (5):
 - [[Dépendance à l’égard du secteur primaire]]
 - [[Grande économie informelle]]
 - Normes de revenu minimum
-<!--SR:!2024-02-17,17,130-->
+<!--SR:!2024-03-09,21,130-->
 
 ### Indicateurs composites
 ?

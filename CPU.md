@@ -7,7 +7,7 @@ Created: 2023-01-06
 ?
 L'unité centrale de traitement (CPU) est un composant matériel d'un système informatique et peut effectuer des opérations arithmétiques, logiques ou d'entrée/sortie de base, afin de transformer les données provenant des dispositifs d'entrée en informations utiles.
 Le CPU peut également être appelé processeur ou puce.
-<!--SR:!2024-02-19,19,130-->
+<!--SR:!2024-02-28,9,130-->
 
 *C'est quoi le role du CPU ?*
 ?
@@ -32,7 +32,7 @@ Son rôle est de récupérer, de décoder et d'exécuter des instructions de pro
 Le "machine cycle" dans le CPU:
 ?
 ![[CPU.png]]
-<!--SR:!2024-02-10,228,230-->
+<!--SR:!2025-07-17,523,230-->
 
 
 ## Registres
@@ -45,4 +45,4 @@ Il existe de nombreux registres, mais les trois plus importants sont les suivant
 - Registre d'adresses mémoire(MAR)
 - Registre des données en mémoire (MDR)
 - Accumulateur
-<!--SR:!2024-02-14,142,230-->
+<!--SR:!2025-01-05,326,230-->

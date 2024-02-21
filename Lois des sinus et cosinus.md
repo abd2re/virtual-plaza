@@ -12,3 +12,6 @@ Created: 2023-05-08
 - Air d'un triangle avec sinus=::$$\Large{\text{aire}=\frac{1}{2}bc\sin A}$$
 <!--SR:!2024-04-30,130,230-->
 
+
+- $\cos A=$::$\frac{b^{2}+c^{2}-a^{2}}{2bc}$
+<!--SR:!2024-02-23,4,224-->

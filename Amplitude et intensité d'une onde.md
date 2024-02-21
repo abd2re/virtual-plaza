@@ -20,7 +20,7 @@ Formule de l'intensité pour une onde circulaire::$$\large{I=\frac{\text{puissan
 <!--SR:!2024-02-23,22,230-->
 
 Formule de l'intensité pour une onde sphérique::$$\large{I=\frac{\text{puissance}}{4\pi r^{2}}}$$
-<!--SR:!2024-02-14,39,210-->
+<!--SR:!2024-05-05,81,210-->
 
 ## Variation de l'intensité en fonction de l'amplitude
 

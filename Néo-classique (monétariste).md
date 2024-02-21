@@ -9,7 +9,7 @@ La nouvelle école classique suppose que si les prix sont totalement flexibles �
 <!--SR:!2024-06-05,161,190-->
 
 Graphe::![[image-20230505092449721.png]]
-<!--SR:!2024-02-13,173,250-->
+<!--SR:!2025-04-20,432,250-->
 
 
 La courbe du OGLT ($Y_{fe}$) représente ![[image-20230505092449721.png]]::la production de plein emploi.

@@ -17,7 +17,7 @@ Les objectifs de impôts indirects sont généralement de (4):
 <!--SR:!2024-03-25,91,217-->
 
 Les impôts indirects sont aussi appelés :: taxes d'accise.
-<!--SR:!2024-02-18,83,190-->
+<!--SR:!2024-04-01,43,170-->
 
 Il y a deux types d'impots indirects à considérer:
 ?
@@ -47,7 +47,7 @@ Le prix net pour les producteurs=>::Diminue
 Le revenu total des producteurs=>::Diminue
 <!--SR:!2024-11-01,385,244-->
 Les dépenses totales des consommateurs=>::Dépend du DEP
-<!--SR:!2024-02-10,215,224-->
+<!--SR:!2024-05-27,107,204-->
 Recettes du gouvernement=>::Augmente
 <!--SR:!2024-12-31,422,244-->
 Excédent communautaire=>::Diminue

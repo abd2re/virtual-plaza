@@ -9,7 +9,7 @@ Created: 2023-10-04
 - Une baisse du chômage cause:: une hausse de l'inflation.
 <!--SR:!2024-06-16,154,250-->
 - Une hausse de chômage cause:: une baisse de l'inflation.
-<!--SR:!2024-02-20,96,270-->
+<!--SR:!2024-11-06,260,270-->
 - Une hausse de l'inflation cause:: une baisse de chômage.
 <!--SR:!2024-07-07,167,250-->
 - Une baisse de l'inflation cause:: une hausse du chômage.
@@ -28,4 +28,4 @@ Les conflits potentiel entre les objectifs macroéconomiques sont (4):
 - Croissance économique élevée et inflation faible
 - Croissance économique élevée et durabilité environnementale
 - Croissance économique élevée et répartition équitable des revenus
-<!--SR:!2024-02-15,49,210-->
+<!--SR:!2024-05-27,102,210-->

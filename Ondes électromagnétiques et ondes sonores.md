@@ -17,7 +17,7 @@ Une onde électromagnétique est générée par:: l'oscillation combinée d'un c
 ## Ondes sonores
 
 Les ondes sonores sont des ondes longitudinales ou transversales ?:: longitudinales.
-<!--SR:!2024-02-08,50,250-->
+<!--SR:!2024-06-11,124,250-->
 
 Les ondes sonores nécessitent:: un support dans lequel elles se propagent.
-<!--SR:!2024-02-16,54,250-->
+<!--SR:!2024-06-29,134,250-->

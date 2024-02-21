@@ -6,7 +6,7 @@ Created: 2023-10-13
 
 # Distribution binomiale
 - Notation:: $X\sim B(n,P)$
-<!--SR:!2024-02-15,70,230-->
+<!--SR:!2024-07-24,160,230-->
 - $P(X=x)$=::${\binom n x}p^{x}(1-p)^{n-x}$
 <!--SR:!2024-04-20,85,190-->
 - $E(x)$=::$np$

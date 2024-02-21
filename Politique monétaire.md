@@ -7,10 +7,10 @@ Created: 2023-11-08
 # Politique monétaire
 ?
 La politique monétaire fait référence à la banque centrale qui utilise le rentrée d'argent et les taux d’intérêt pour gérer l’économie.
-<!--SR:!2024-02-08,12,130-->
+<!--SR:!2024-02-24,16,130-->
 
 - La politique monétaire permet aux pays de stimuler leur économie tout en évitant de:: s’endetter.
-<!--SR:!2024-02-17,54,230-->
+<!--SR:!2024-06-19,123,230-->
 - La politique monétaire est un moyen pour les gouvernements de:: gérer l’économie.
 <!--SR:!2024-03-03,76,270-->
 - La banque centrale détermine la politique monétaire en:: contrôlant la masse monétaire et en fixant le taux d’intérêt.
@@ -19,7 +19,7 @@ La politique monétaire fait référence à la banque centrale qui utilise le re
 - Définition de **taux d’intérêt**:: **Coût d’emprunt de l’argent.**
 <!--SR:!2024-05-11,94,210-->
 - Définition de la **masse monétaire**:: **La quantité totale de monnaie en circulation** ; il se compose de toutes les pièces, billets et soldes bancaires.
-<!--SR:!2024-02-13,35,170-->
+<!--SR:!2024-04-12,59,170-->
 
 
 ## Les fonctions d'une banque centrale
@@ -38,14 +38,14 @@ Ils sont 5:
 <!--SR:!2024-04-10,77,210-->
 
 Lorsque la banque centrale augmente la masse monétaire, alors en conséquence le taux d'intérêt:: diminue.
-<!--SR:!2024-02-14,57,250-->
+<!--SR:!2024-07-05,142,250-->
 Graphique
 ?
 ![[image-20231108093526578.png]]
 <!--SR:!2024-03-17,70,230-->
 
 Si l'économie est dans un écart de recession, alors pour le combler il faut:: baisser les taux d'intérêts pour augmenter la demande et ramener la production d'équilibre au plein emploi.![[image-20231108093711743.png]]
-<!--SR:!2024-02-17,25,170-->
+<!--SR:!2024-03-02,14,150-->
 
 ### 2. Imprime de l'argent physique et frappe des pièces de monnaie
 La banque centrale imprime des billets et frappe des pièces pour (2) :
@@ -55,7 +55,7 @@ La banque centrale imprime des billets et frappe des pièces pour (2) :
 <!--SR:!2024-02-24,47,190-->
 
 Les banques centrales veillent à inclure des éléments de sécurité pour:: garantir l'intégrité de la monnaie et pour rendre billets de banque contrefaits moins probable.
-<!--SR:!2024-02-19,54,230-->
+<!--SR:!2024-06-21,123,230-->
 
 ### 3. Prêteur de dernier recours
 En cas de crise financière, les consommateurs peuvent perdre confiance dans leur banque et se précipiter pour retirer leur argent. C'est ce qu'on appelle un:: courir sur la banque.
@@ -69,4 +69,4 @@ La Banque centrale peut émettre obligations pour:: lever des fonds pour finance
 - Un rôle important de la banque centrale est de réglementer banques commerciales pour s’assurer:: qu’elles ne prennent pas trop de risques.
 <!--SR:!2024-03-10,66,230-->
 - Le pouvoir de régulation le plus important d’une banque centrale est de:: fixer des réserves obligatoires.
-<!--SR:!2024-02-15,19,150-->
+<!--SR:!2024-03-12,26,150-->

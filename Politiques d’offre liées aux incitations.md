@@ -23,7 +23,7 @@ Les politiques liées aux incitations comprennent (2):
 Représentation de la courbe de Laffer:
 ?
 ![[image-20231207140020679.png]]
-<!--SR:!2024-02-15,15,217-->
+<!--SR:!2024-03-18,32,217-->
 
 ## 2. Baisse de l'impôt sur les sociétés et de l'impôt sur les plus-values
 

@@ -12,7 +12,7 @@ Un mouvement harmonique simple a les caractéristiques suivantes (5):
 - La période est constante
 - L'accélération est proportionnel à l'opposé du déplacement $x$
 - Il y a une force de rappel dirigée vers la position d'équilibre
-<!--SR:!2024-02-20,61,250-->
+<!--SR:!2024-03-23,32,230-->
 
 La période est indépendante de:: l'amplitude.
 <!--SR:!2024-03-11,60,210-->

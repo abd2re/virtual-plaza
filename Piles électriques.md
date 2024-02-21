@@ -37,14 +37,14 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 - Un pile idéale est une pile qui:: n'a pas de résistance interne $r=0$ (le graphe intensité-tension est constante en $e$)
 <!--SR:!2024-02-24,98,226-->
 - $I_{cc}=$::$\frac{e}{r}$
-<!--SR:!2024-02-11,6,246-->
+<!--SR:!2024-02-27,16,246-->
 
 circuit équivalent d'une pile réel::![[equivalent e;r]]
 <!--SR:!2024-03-19,79,206-->
 
 ## Circuits avec des piles
 formule emf::$$e=(r+R)I$$
-<!--SR:!2024-02-20,13,130-->
+<!--SR:!2024-03-09,18,130-->
 
 
 ## Circuits simples comportant des piles, récepteurs et resistors
@@ -53,7 +53,7 @@ formule emf::$$e=(r+R)I$$
 ?
 Un récepteur (ex un moteur, un électrolyseur) est un appareil qui consomme plus d'énergie que n'a besoin l'effet joule.
 Le récepteur est caractérisé oar 1 fcem $e'$ (force contre électromotrice) et par sa résistance interne.
-<!--SR:!2024-02-16,92,220-->
+<!--SR:!2024-03-31,44,200-->
 
 Formule de la tension  d'un récepteur::$$U_{recept}=e'+rI$$
 <!--SR:!2024-05-19,114,220-->
@@ -90,7 +90,7 @@ Pour avoir plus d'intensité
 ![[image-20230110093433182.png]]
 $$U_{PN}=e-r\frac{I}{n}=e-r\frac{I}{n}=e-r\frac{I}{n}$$
 $$e_{//}=e,\;r_{//}=\frac{r}{n}$$
-<!--SR:!2024-02-17,92,220-->
+<!--SR:!2024-04-03,46,200-->
 
 
 

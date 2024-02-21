@@ -15,4 +15,4 @@ Représentation:
 ?
 ![[image-20230509102514804.png]]
 (Noter que y a une deuxième tension  $\vec{T}$ qui pointe vers le bas sur le plafond opposé a une réaction du support $\vec{R}$)
-<!--SR:!2024-02-12,173,250-->
+<!--SR:!2025-04-19,432,250-->

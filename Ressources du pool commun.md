@@ -8,7 +8,7 @@ Qu'est-ce qu'un pool commun ou des ressources d'accès commun ?
 ?
 Les ressources communes font référence aux ressources naturelles qui sont librement accessibles à tous, à un prix nul.
 Les poissons dans l'océan, l'air que nous respirons et les pâturages ouverts sont tous des exemples de ressources du pool commun ou **des ressources d'accès commun.**
-<!--SR:!2024-02-20,34,130-->
+<!--SR:!2024-04-03,43,130-->
 
 - Les ressources du pool commun sont à la fois:: **rivale et non-exclusif**.
 <!--SR:!2024-07-07,182,210-->
@@ -23,7 +23,7 @@ Les poissons dans l'océan, l'air que nous respirons et les pâturages ouverts s
 - Les ressources d'accès commun sont un cas de **défaillance du marché** parce que:: les avantages individuels de la consommation ou de l'utilisation de la ressource sont bien supérieurs au coût privé de cette consommation, ce qui incite l'individu à continuer à la consommer. Il y a donc une surconsommation par rapport à ce qui est optimal pour la société.
 <!--SR:!2024-02-27,66,170-->
 - La **surutilisation** des ressources d'accès commun pourrait être considérée comme une :: **externalité intergénérationnelle négative de la consommation.**
-<!--SR:!2024-02-13,68,136-->
+<!--SR:!2024-05-14,91,136-->
 
 Réponses du gouvernement aux menaces à  la durabilité:
 ?
@@ -31,4 +31,4 @@ Réponses du gouvernement aux menaces à  la durabilité:
 -   [[Subventions]] pour promotion d'énergie renouvelables
 -   [[Législation]]
 -   Auto-gouvernance collective
-<!--SR:!2024-02-17,15,130-->
+<!--SR:!2024-03-07,19,130-->

@@ -13,11 +13,11 @@ $$\LARGE{z=a+bi}$$
 - Im($z$) =:: $b$
 <!--SR:!2025-03-02,407,250-->
 
---- 
+---
 $(a+bi)(c+di)$=
 ?
 $$\Large{(ac-bd)+i(ad+bc)}$$
-<!--SR:!2024-02-15,136,230-->
+<!--SR:!2024-12-23,312,230-->
 
 $(a+bi)^{2}$=
 ?
@@ -60,17 +60,17 @@ $$\Large{a^{2}+b^{2}}$$
 $|z|$=
 ?
 $$\Large{\sqrt{a^{2}+b^{2}}}$$
-<!--SR:!2024-02-16,87,210-->
+<!--SR:!2024-08-16,182,210-->
 
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
-<!--SR:!2024-02-12,13,130-->
+<!--SR:!2024-02-21,9,130-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
 ![[image-20230504104418313.png|299]]
-<!--SR:!2024-02-08,172,250-->
+<!--SR:!2025-04-12,429,250-->
 
 ## Forme polaire
 
@@ -84,9 +84,9 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $|zw|$=::$|z||w|$
 <!--SR:!2024-03-16,98,276-->
 - $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
-<!--SR:!2024-02-12,65,236-->
+<!--SR:!2024-07-11,150,236-->
 - $zw$=::$|z||w|[\cos(\theta+\alpha)+i\sin(\theta+\alpha)]$
-<!--SR:!2024-02-11,57,216-->
+<!--SR:!2024-03-11,29,196-->
 - $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$
 <!--SR:!2024-03-20,88,236-->
 - $z^{n}$=::$|z|^{n}(\cos n\theta+i\sin n\theta)$
@@ -94,7 +94,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $\theta$=::$\tan^{-1}(\frac{b}{a})$
 <!--SR:!2024-03-15,84,236-->
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
-<!--SR:!2024-02-14,10,156-->
+<!--SR:!2024-02-22,3,130-->
 - $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
 <!--SR:!2024-02-21,16,174-->
 
@@ -105,7 +105,7 @@ $e^{i\pi}$=::$-1$
 <!--SR:!2024-03-10,81,234-->
 
 - $z^{n}+z^{-n}$=::$2\cos(n\theta)$
-<!--SR:!2024-02-17,67,234-->
+<!--SR:!2024-07-20,154,234-->
 - $z^{n}-z^{-n}$=::$2i\sin(n\theta)$
 <!--SR:!2024-03-08,79,234-->
 - $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$

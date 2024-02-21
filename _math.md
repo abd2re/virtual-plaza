@@ -26,6 +26,7 @@ tags: [M]
 3. [[Distribution binomiale]]
 4. [[Distribution normale]]
 5. [[Statistiques I]]
+6. 
 
 # Theme 5: Etude du fonction
 1. [[Dérivation]]
@@ -33,3 +34,4 @@ tags: [M]
 3. [[Cinématique]]
 4. [[Equations différentielles]]
 5. [[Série Maclaurin]]
+6. [[Règle de l'Hôpital]]

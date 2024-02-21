@@ -6,7 +6,7 @@ Created: 2023-05-09
 # Tension d'un ressort
 
 - Chaque ressort a une constante qui montre sa capacité de déformation notée:: $k$.
-<!--SR:!2024-02-17,174,250-->
+<!--SR:!2025-04-26,434,250-->
 - La tension d'un ressort s'oppose a:: sa déformation.
 <!--SR:!2024-02-26,59,170-->
 
@@ -22,7 +22,7 @@ $$\Large{T=kx=-k|l_{0}-l|}$$
 Représentations
 ?
 ![[image-20230604182649685.png|500|center]]
-<!--SR:!2024-02-16,25,184-->
+<!--SR:!2024-04-01,45,184-->
 
 Formule du travail d'un ressort
 ?

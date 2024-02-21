@@ -29,7 +29,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement certain:: toutes les issues
 <!--SR:!2024-03-26,112,250-->
 - Evénement impossible:: aucune issue
-<!--SR:!2024-02-11,91,270-->
+<!--SR:!2024-10-13,245,270-->
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
@@ -66,13 +66,13 @@ Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
 
 ## Probabilité conditionnelle
 Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}$
-<!--SR:!2024-02-11,31,232-->
+<!--SR:!2024-04-22,71,232-->
 
 Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
-<!--SR:!2024-02-11,33,232-->
+<!--SR:!2024-04-29,78,232-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
-<!--SR:!2024-02-18,16,212-->
+<!--SR:!2024-02-24,6,192-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
 <!--SR:!2024-02-29,32,211-->

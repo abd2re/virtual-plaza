@@ -10,5 +10,5 @@ Ils sont:
 2. [[Mobilité (flexibilité) et coût des facteurs de production]]
 3. [[Capacité inutilisée]]
 4. [[Possibilité de stocker des stocks]]
-<!--SR:!2024-02-09,38,170-->
+<!--SR:!2024-04-13,64,170-->
 

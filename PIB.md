@@ -21,7 +21,7 @@ Inconvénients du PIB (4):
 - **Ne tient pas compte de la disparité dans la répartition des revenus**
 - **Contient des inexactitudes**
 - **Ne tient pas compte des améliorations de la qualité de la production**
-<!--SR:!2024-02-16,173,210-->
+<!--SR:!2025-02-12,362,210-->
 
 Les trois méthodes de calculer le PIB sont:
 ?
@@ -33,7 +33,7 @@ Les trois méthodes de calculer le PIB sont:
 Les gouvernements peuvent comptabiliser le revenu national en additionnant toutes les catégories de revenus (loyers, salaires, intérêts et bénéfices), la valeur ajoutée de chaque catégorie de production (des industries primaires, secondaires et tertiaires) ou les catégories de dépenses d'une économie. En d'autres termes:
 ?
 Revenu = Production = Dépenses
-<!--SR:!2024-02-19,14,161-->
+<!--SR:!2024-03-12,22,161-->
 
 ## PIB nominal et PIB réel
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation
@@ -49,7 +49,7 @@ Revenu = Production = Dépenses
 ## PNB
 ?
 Le PNB/RNB est la **valeur** des biens et services **produits** par les **nationaux** au cours d'une **période donnée**.
-<!--SR:!2024-02-15,27,161-->
+<!--SR:!2024-02-27,12,141-->
 
 Différence entre PIB et PNB:
 ?

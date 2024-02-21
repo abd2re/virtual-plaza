@@ -32,4 +32,4 @@ Du fait de l'interaction électrique les protons dans un noyau se repousse dans 
 - Lorsque l'atome se trouve sur un niveau d'énergie il n'émet pas de rayonnement.
 - L'atome émet ou absorbe un rayonnement quand il passe d'un niveau a l'autre
 - La fréquence de la lumière absorbée ou émise est proportionnelle a la différence d'énergie entre deux niveaux
-<!--SR:!2024-02-14,11,130-->
+<!--SR:!2024-03-01,16,130-->

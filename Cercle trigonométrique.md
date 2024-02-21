@@ -38,9 +38,9 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(\pi-\theta)$=::$-\cos\theta$
 <!--SR:!2024-08-17,274,250-->
 - $\sin(\pi-\theta)$=::$\sin\theta$
-<!--SR:!2024-02-15,165,250-->
+<!--SR:!2025-04-04,414,250-->
 - $\cos(\pi+\theta)$=::$-\cos\theta$
-<!--SR:!2024-02-18,166,250-->
+<!--SR:!2025-04-07,414,250-->
 - $\sin(\pi+\theta)$=::$-\sin\theta$
 <!--SR:!2024-04-12,202,250-->
 - $\cos(2\pi-\theta)$=::$\cos\theta$
@@ -59,7 +59,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2024-05-24,126,230-->
 ## Périodicité
 - $\cos(x+2k\pi)=$::$\cos(x)$
-<!--SR:!2024-02-12,160,250-->
+<!--SR:!2025-03-17,399,250-->
 - $\sin(x+2k\pi)=$::$\sin(x)$
 <!--SR:!2025-02-16,382,250-->
 - $\tan(x+k\pi)=$::$\tan(x)$
@@ -68,7 +68,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\cos(-\theta)=$::$\cos(\theta)$
 <!--SR:!2024-04-04,72,230-->
 - $\sin(-\theta)=$::$-\sin(\theta)$
-<!--SR:!2024-02-19,164,250-->
+<!--SR:!2025-04-03,409,250-->
 - $\tan(-\theta)=$::$-\tan(\theta)$
 <!--SR:!2025-02-17,382,250-->
 ## Equations trigonométriques fondamentales

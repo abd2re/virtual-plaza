@@ -23,4 +23,4 @@ Created: 2023-04-10
 ## Sous processus
 ?
 Un sous-processus ou sous-procédure est une partie nommée d'un processus plus large. Ce sous-processus peut être appelé plusieurs fois, comme une fonction. Un sous-processus accepte des données d'entrée, les traite et renvoie un résultat.
-<!--SR:!2024-02-18,179,230-->
+<!--SR:!2025-04-04,411,230-->

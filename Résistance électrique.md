@@ -34,7 +34,7 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 - Association en série formule::$$R_{eqs}=R_1+R_2+\text{...}$$ l'association en série de plusieurs résistors est équivalent a un résistor $R_{eqs}$ dont la résistance est égale a la somme des résistances
 <!--SR:!2025-02-28,476,242-->
 - Association en parallèle formule::$$\frac{1}{R_{eqp}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\text{...}$$ $$R_{eqp}=\frac{R_{1}R_{2}}{R_{1}+R_{2}}$$
-<!--SR:!2024-02-16,20,181-->
+<!--SR:!2024-03-23,36,181-->
 
 ## Dissipation d'énergie électrique dans un resistor (effet joule)
 ?
@@ -43,7 +43,7 @@ Pour lutter contre l'effet joule on prévoit des dispositifs d'aération ou de v
 <!--SR:!2024-03-19,101,202-->
 
 La puissance dissipé par effet joule est proportionnelle:: au carré de l'intensité.
-<!--SR:!2024-02-18,116,182-->
+<!--SR:!2024-09-15,210,182-->
 
 3 formules de puissance dissipé::$$P=UI=RI^2=\frac{U^{2}}{R}$$
 <!--SR:!2025-03-05,478,242-->
@@ -68,11 +68,11 @@ On sait que
 $$U_{1}=R_{1}\times I$$
 donc
 $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U}$$
-<!--SR:!2024-02-19,18,180-->
+<!--SR:!2024-02-28,9,160-->
 
 ## Montage potentiométrique
 Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe. ![[image-20230116161558430.png|400]]
-<!--SR:!2024-02-09,12,183-->
+<!--SR:!2024-03-01,21,183-->
 
 
 ### Rhéostat

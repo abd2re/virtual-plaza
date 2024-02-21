@@ -12,14 +12,14 @@ Qu’est-ce qui empêche la politique monétaire d’être efficace (4)?:
 - Faible confiance des consommateurs et des entreprises (expansionniste)
 - Inflation (expansionniste)
 - Chômage (restrictive)
-<!--SR:!2024-02-15,8,170-->
+<!--SR:!2024-02-28,13,170-->
 
 Quels sont les atouts de la politique monétaire (3)?:
 ?
 - Graduel, flexible et facilement réversible (les deux)
 - Délais courts (les deux)
 - Croissance à long-terme (plein potentiel) (expansionniste)
-<!--SR:!2024-02-08,6,130-->
+<!--SR:!2024-02-26,11,130-->
 
 Il est très difficile pour le gouvernement d’atteindre simultanément les objectifs de (3):: croissance économique, de faible taux de chômage et de faible inflation.
 <!--SR:!2024-04-17,73,210-->

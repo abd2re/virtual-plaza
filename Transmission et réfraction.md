@@ -26,7 +26,7 @@ La période depend pas du milieu ? Vrai ou faux ?:: Vrai, elle dépend de l'impu
 - Lorsque la lumière passe d'un milieu moins dense à un milieu plus dense, comme de l'air au verre, la lumière réfractée a une vitesse plus faible et une longueur d'onde plus courte que la lumière incidente. Vrai ou faux ?:: Vrai.
 <!--SR:!2024-03-09,62,250-->
 - Lorsque la lumière passe d'un milieu plus dense à un milieu moins dense, comme du verre à l'air, la lumière réfractée a une vitesse plus faible et une longueur d'onde plus courte que la lumière incidente. Vrai ou faux ?:: Faux, la lumière réfractée a une vitesse plus élevée et une longueur d'onde plus longue que la lumière incidente.
-<!--SR:!2024-02-12,46,250-->
+<!--SR:!2024-06-05,114,250-->
 
 
 Formule d'indice de réfraction absolue d'un milieu:
@@ -35,7 +35,7 @@ $$\large{n=\frac{c}{v}}$$
 - $n$ = indice de réfraction absolu du milieu
 - $c$ = vitesse de la lumière dans le vide en mètres par seconde
 - $v$ = vitesse de la lumière dans le milieu en mètres par seconde
-<!--SR:!2024-02-18,31,230-->
+<!--SR:!2024-04-28,70,230-->
 
 Formules de la loi de Snell Descartes (4):
 ?
@@ -43,12 +43,12 @@ $$\large{\frac{n_{1}}{n_{2}}=\frac{\sin\theta_{2}}{\sin\theta_{1}}=\frac{v_{2}}{
 - $n$ = indice de réfraction absolu
 - $\theta$ = angles d'incidence et de réfraction
 - $v$ = vitesse de la lumière dans le milieu
-<!--SR:!2024-02-14,41,210-->
+<!--SR:!2024-05-09,85,210-->
 
 Représentation (avec éléments):
 ?
 ![[image-20231201144322670.png|center|700]]
-<!--SR:!2024-02-11,27,230-->
+<!--SR:!2024-04-12,61,230-->
 
 Un angle critique est:: un angle incident au delà duquel l'angle réfracté n'existe plus, il n'ya plus de réfraction: on a une réflexion totale.
 <!--SR:!2024-02-21,44,223-->

@@ -12,13 +12,13 @@ Contraintes des politiques d’offre fondées sur le marché. Ils sont (4):
 - Décalages temporels
 - Droits acquis
 - Impacts environnementaux
-<!--SR:!2024-02-20,14,153-->
+<!--SR:!2024-02-28,8,133-->
 
 Contraintes des politiques interventionnistes du côté de l’offre comprennent (2):
 ?
 - Frais
 - Décalages temporels
-<!--SR:!2024-02-13,26,193-->
+<!--SR:!2024-04-02,49,193-->
 
 Points forts des politiques d’offre fondées sur le marché (2):
 ?

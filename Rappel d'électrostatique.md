@@ -18,9 +18,9 @@ Formule de la charge électrique pour ce cas:
 ?
 $$q=-ne$$
 - $q$ = charge en coulomb (C)
-- $e$ = $1.6\cdot 10^{-19}C$ (coulomb) 
+- $e$ = $1.6\cdot 10^{-19}C$ (coulomb)
 - $n$ = nombre d'$e^{-}$(electrons) gagnés
-<!--SR:!2024-02-10,154,230-->
+<!--SR:!2024-04-28,78,210-->
 
 Un corps chargé positivement perd des electrons
 Formule de la charge électrique pour ce cas:

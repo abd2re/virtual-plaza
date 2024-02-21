@@ -7,10 +7,10 @@ Created: 2023-12-20
 # Tarifs
 
 Le protectionnisme fait référence à:: des outils politiques, tels que les tarifs douaniers, les quotas et les subventions, conçus pour restreindre le commerce.
-<!--SR:!2024-02-14,11,190-->
+<!--SR:!2024-03-05,20,190-->
 
 Un tarif fait référence à:: une taxe prélevée par unité sur le prix des biens et services importés. Un pays peut choisir d'imposer un droit de douane pour protéger une industrie nationale.
-<!--SR:!2024-02-08,6,150-->
+<!--SR:!2024-02-29,13,150-->
 
 Graphique de l'effet des tarifs sur les importations (tout les éléments):
 ?
@@ -18,11 +18,11 @@ Graphique de l'effet des tarifs sur les importations (tout les éléments):
 <!--SR:!2024-02-28,24,230-->
 
 Les tarifs sont plus efficaces si un substitut proche est:: produit sur le marché intérieur et que la demande est donc élastique.
-<!--SR:!2024-02-14,17,250-->
+<!--SR:!2024-03-27,42,250-->
 
 ### Effets des tarifs sur les parties prenantes
 - Producteurs nationaux:: Les producteurs nationaux bénéficieront globalement de ce tarif.
-<!--SR:!2024-02-09,14,250-->
+<!--SR:!2024-03-13,33,250-->
 - Producteurs étrangers:: Les producteurs à l’étranger souffriront des droits de douane.
 <!--SR:!2024-02-27,28,250-->
 - Consommateurs:: Les consommateurs seront également affectés négativement par le tarif.

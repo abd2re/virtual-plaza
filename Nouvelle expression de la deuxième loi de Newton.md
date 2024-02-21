@@ -9,7 +9,7 @@ Created: 2023-10-12
 Formule de la force résultante dut a la quantité de mouvement:
 ?
 $$\Large{\sum \vec{F}_{ext}=\frac{\Delta p}{\Delta t}}$$
-<!--SR:!2024-02-09,47,250-->
+<!--SR:!2024-06-04,116,250-->
 
 
 Formule de l'impulsion:

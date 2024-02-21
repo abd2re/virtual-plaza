@@ -31,7 +31,7 @@ Les deux vues alternatives de l'offre globale:
 Qu'est-ce qui déplace la courbe OGCT ?
 ?
 Le changement les coûts de production.
-<!--SR:!2024-02-19,56,202-->
+<!--SR:!2024-06-10,112,202-->
 
 ---
 [[exo economie]]

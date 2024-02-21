@@ -12,11 +12,11 @@ Des politiques pour encourager la concurrence sont (4):
 - Privatisation
 - Libéralisation du commerce
 - Réglementation anti-monopole
-<!--SR:!2024-02-09,9,170-->
+<!--SR:!2024-02-24,15,170-->
 
 ## 1. Déréglementation
 C'est:: enlever toutes les lois qui gênent le bon fonctionnement des entreprises.
-<!--SR:!2024-02-16,30,210-->
+<!--SR:!2024-04-18,62,210-->
 
 ## 2. Privatisation
 La privatisation fait référence au moment où:: la propriété d'une entreprise est transférée du secteur public au secteur privé.

@@ -32,6 +32,6 @@ Formule::$$\large{\frac{\text{incertitude absolue}}{\text{mesure}}\times100=\fra
 - Addition ou soustraction:: Somme des incertitudes absolues $$\Large{\Delta y =\Delta a+\Delta b}$$
 <!--SR:!2024-04-03,124,250-->
 - Multiplication ou division:: Somme des incertitudes fractionnaires $$\Large{\frac{\Delta y}{y} =\frac{\Delta a}{a}+\frac{\Delta b}{b}}$$
-<!--SR:!2024-02-17,77,230-->
+<!--SR:!2024-08-13,178,230-->
 - Exposant $y=a^{n}$:: Multiplier l'incertitude fractionnaire par $n$ $$\Large{\frac{\Delta y}{y} =\bigg|n\frac{\Delta a}{a}\bigg|}$$
 <!--SR:!2024-06-04,153,230-->

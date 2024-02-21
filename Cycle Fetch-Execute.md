@@ -17,7 +17,7 @@ Fetch-execute cycle des 4 étapes (representation stv):
 2. [[Décoder l'instruction]]
 3. [[Exécution de l'instruction]]
 4. [[Stocker le résultat de l'exécution]]
-<!--SR:!2024-02-13,136,228-->
+<!--SR:!2024-12-18,309,228-->
 
 Représentation supplémentaires du Fetch-execute cycle:
 ?

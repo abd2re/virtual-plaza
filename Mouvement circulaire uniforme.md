@@ -11,7 +11,7 @@ On appelle mouvement circulaire uniforme un mouvement circulaire dont le module 
 - Dans un mouvement circulaire uniforme, l'[[accélération]] est:: centripète et constante. (+perpendiculaire au vecteur vitesse)
 <!--SR:!2024-03-09,172,250-->
 - Le mouvement circulaire uniforme est:: périodique.
-<!--SR:!2024-02-11,28,130-->
+<!--SR:!2024-03-19,37,130-->
 
 Vitesses angulaire $\omega$ est égale a
 ?
@@ -29,7 +29,7 @@ $$\Large{a_{n}=\frac{v^{2}}{r}=\omega^{2}r=\frac{4\pi^{2}r}{T^{2}}}$$
 - $v=$ vecteur vitesse
 - $\omega=$ vitesse angulaire
 - $T=$ Période
-<!--SR:!2024-02-18,81,190-->
+<!--SR:!2024-07-20,153,190-->
 
 En utilisant la formule $F=ma$, dans le mouvement circulaire uniforme, la force centripète $F$ est égale a(2)::$$\Large{F=\frac{mv^{2}}{r}=m\omega^2r}$$
 <!--SR:!2024-02-24,62,230-->
@@ -40,4 +40,4 @@ Représentation de ses éléments
 <!--SR:!2024-05-27,212,244-->
 
 Le travail de la force est nulle, ce qui explique pourquoi la vitesse est:: constante.
-<!--SR:!2024-02-10,4,225-->
+<!--SR:!2024-02-24,14,245-->

@@ -12,7 +12,7 @@ Created: 2023-10-13
 - Mode de $X$ est:: la valeur de $x$ pour laquelle $f(x)$ est maximum.
 <!--SR:!2024-02-23,33,230-->
 - Médiane de $X$ est:: la valeur de $x_{i}$ pour laquelle $P_{1}+P_{2}...+P_{i}\geq \frac{1}{2}$ pour la première fois.
-<!--SR:!2024-02-18,13,170-->
+<!--SR:!2024-03-10,21,170-->
 - Moyenne peut être aussi appelé:: Espérance.
 <!--SR:!2024-06-15,139,230-->
 - $u$ peut être écrit:: $E(x)$
@@ -20,4 +20,4 @@ Created: 2023-10-13
 - $u=E(x)$=::$\sum xf(x)$ avec $E(x)$ comprise entre les valeurs extrêmes de $X$.
 <!--SR:!2024-03-29,87,210-->
 - $\text{var}(x)$=::$\sigma^{2}$=$E(x^2)-E(x)^2$=$\sum x^{2}f(x)-E(x)^{2}$
-<!--SR:!2024-02-11,12,130-->
+<!--SR:!2024-02-22,4,130-->

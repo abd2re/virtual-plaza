@@ -21,5 +21,5 @@ Quelles sont les sept couches du modèle OSI:
 - [[Couche Liaison des Données]]
 - [[Couche Physique]]
 ![[image-20230312205020631.png]]
-<!--SR:!2024-02-14,193,230-->
+<!--SR:!2025-05-02,443,230-->
 

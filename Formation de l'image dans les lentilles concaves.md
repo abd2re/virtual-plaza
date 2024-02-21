@@ -15,7 +15,7 @@ Quel que soit l'endroit où l'objet est placé, la nature de limage est toujours
 Représentation:
 ?
 ![[image-20240126180520227.png|center|600]]
-<!--SR:!2024-02-08,6,230-->
+<!--SR:!2024-02-23,15,230-->
 
 
 

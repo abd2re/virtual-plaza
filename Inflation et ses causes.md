@@ -9,7 +9,7 @@ Created: 2023-09-13
 Définition de l'inflation:
 ?
 L'inflation est une augmentation durable du niveau des prix dans une économie.
-<!--SR:!2024-02-13,73,190-->
+<!--SR:!2024-03-20,36,170-->
 
 - Lorsque l'argent perd de la valeur, les prix:: augmentent en conséquence.
 <!--SR:!2024-06-17,169,250-->
@@ -23,7 +23,7 @@ Le calcul du IPC implique:: la sélection d'un panier de biens et services typiq
 <!--SR:!2024-03-29,104,210-->
 
 Formule IPC::$$\large{\text{IPC}_{n}=\frac{\text{valeur du panier de l'année }n}{\text{valeur de panier de l'année de base}}\times100}$$
-<!--SR:!2024-02-11,18,210-->
+<!--SR:!2024-03-09,18,190-->
 
 Formule du taux d'inflation avec IPC::$$\large{T_{i}=\frac{\text{IPC}_{f}-\text{IPC}_{d}}{\text{IPC}_{d}}\times100}$$
 <!--SR:!2024-06-06,162,250-->
@@ -35,7 +35,7 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2024-02-08,15,130-->
+<!--SR:!2024-02-27,19,130-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2024-07-04,180,263-->
@@ -51,7 +51,7 @@ Les deux principaux types d’inflation sont:
 ?
 - Inflation attisée par la demande (augmentation)
 - Inflation par les coûts de production
-<!--SR:!2024-02-20,82,223-->
+<!--SR:!2024-08-20,182,223-->
 
 ### Inflation attisée par la demande
 ?
@@ -92,7 +92,7 @@ Graphique avec explications
 - Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs.
 <!--SR:!2024-03-14,109,263-->
 - Étant donné que des salaires plus élevés entraînent des coûts de production plus élevés pour les entreprises, il en résulte:: une baisse de l’offre globale à court terme.
-<!--SR:!2024-02-20,91,243-->
+<!--SR:!2024-09-27,220,243-->
 
 Graphique
 ?
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2024-02-16,17,130-->
+<!--SR:!2024-02-24,8,130-->
 

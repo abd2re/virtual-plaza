@@ -13,8 +13,8 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 *Rags to Riches*=> :: The protagonist achieves something they lack, loses what they’ve gained, and then gets it back again. 
 <!--SR:!2024-03-12,248,250-->
 
-*The Quest*=> :: The protagonist must set out in pursuit of a treasure, place, or other goal, overcoming challenges along the way. 
-<!--SR:!2024-02-15,232,250-->
+*The Quest*=> :: The protagonist must set out in pursuit of a treasure, place, or other goal, overcoming challenges along the way.
+<!--SR:!2025-09-18,581,250-->
 
 *Voyage and Return*=> :: The protagonist travels to a strange new place, experiences hardships and makes discoveries, and then returns home with the lessons they have learned. 
 <!--SR:!2024-11-15,400,250-->

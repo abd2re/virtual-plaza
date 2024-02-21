@@ -8,3 +8,4 @@ tags:
 ![[Chapitre 3 - Arguments pour et contre le contrôle et la protection des échanges]]
 ![[Chapitre 4 - Intégration économique]]
 ![[Chapitre 5 - Taux d'échange]]
+![[Chapitre 6 - Balance des paiements]]

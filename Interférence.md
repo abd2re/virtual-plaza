@@ -43,6 +43,7 @@ $$\large{s=\frac{n\lambda D}{d}}$$
 Représentation:
 ?
 ![[image-20231217084846194.png|center|525]]
-<!--SR:!2024-02-14,21,187-->
+<!--SR:!2024-03-23,38,187-->
 
 Une plus grande séparation des franges (interfrange) peut être obtenue avec:: une plus grande longueur d'onde.
+<!--SR:!2024-03-03,15,238-->

@@ -8,7 +8,7 @@ Created: 2023-11-20
 - La polarisation ne se produit que pour les ondes:: transversales.
 <!--SR:!2024-03-22,49,208-->
 - La polarisation de la lumière fait référence à:: l'orientation de l'oscillation dans le champ électrique sous-jacent.
-<!--SR:!2024-02-13,25,150-->
+<!--SR:!2024-03-25,41,150-->
 
 Représentation d'une lumière non-polarisée à une lumière polarisée:
 ?
@@ -20,7 +20,7 @@ Différence entre lumière polarisée et lumière non-polarisée:
 ?
 - Pour une lumière non-polarisée le vecteur champ électrique peut vibrer dans n'imprte quel plan perpendiculaire à la direction de propagation.
 - Pour une lumière polarisée le vecteur champ électrique vibre seulement dans un seul plan.
-<!--SR:!2024-02-13,30,164-->
+<!--SR:!2024-03-30,46,164-->
 
 
 Formule Loi de Malus (s'applique seulement à une lumière polarisée):
@@ -42,9 +42,10 @@ Représentation
 <!--SR:!2024-04-10,63,196-->
 
 Cet angle incident $\theta_{1}$ est égale à::$$\theta_{1}=\tan^{-1}\left(\frac{n_{2}}{n_{1}}\right)$$
-<!--SR:!2024-02-10,21,196-->
+<!--SR:!2024-03-21,40,196-->
 
 Une lumière partiellement polarisée signifie que la lumière reflétée a:: plusieurs composantes du champ électrique de magnitude inégale.
+<!--SR:!2024-02-22,5,184-->
 
 La composante la plus importante se trouve dans le plan parallèle à la surface, on dit que la lumière est partiellement polarisée dans ce plan. Le plan de polarisation est parallèle à la surface réfléchissante. 
 

@@ -7,7 +7,7 @@ Created: 2023-02-03
 Définition:
 ?
 L'effet de l'acte d'un agent économique sur un tiers ou sur la société sans que l'agent ne prenne en compte la participation de la société.
-<!--SR:!2024-02-08,19,130-->
+<!--SR:!2024-03-03,24,130-->
 
 Il y a deux types d'externalité:
 ?
@@ -21,7 +21,7 @@ Il y a deux types d'externalité:
 - BMP:: Bénéfice marginal privée
 <!--SR:!2024-12-26,418,250-->
 - CMS:: Coût marginal social
-<!--SR:!2024-02-20,242,270-->
+<!--SR:!2025-12-03,652,270-->
 - BMS:: Bénéfice marginal social
 <!--SR:!2024-10-05,269,290-->
 

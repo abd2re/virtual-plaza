@@ -18,7 +18,7 @@ $$\Large{F_{m}=|q|vB\sin\theta}$$
 - $v$ = vitesse de la particule
 - $B$ = champ magnétique
 - $\theta$ = $\angle(\vec{v},\vec{B})$ (aigu), si $\sin(\theta)<0$ alors on prend sa valeur absolue
-<!--SR:!2024-02-08,49,170-->
+<!--SR:!2024-04-30,82,170-->
 
 Règle de la paume de la main droite.
 ?
@@ -50,4 +50,4 @@ $$\large{F_{m}=BIL\sin\theta}$$
 - $I$ = intensité
 - $L$ = longueur du fil
 - $\theta$ = $\angle(\vec{L},\vec{B})$ (aigu)
-<!--SR:!2024-02-10,4,220-->
+<!--SR:!2024-03-06,17,220-->

@@ -8,12 +8,12 @@ Created: 2023-01-11
 Le schema de la memoire primaire:
 ?
 ![[image-20230111153141125.png]]
-<!--SR:!2024-02-09,237,250-->
+<!--SR:!2025-09-23,592,250-->
 
 Représentation du modèle de traitement des ordinateurs avec mémoire primaire:
 ?
 ![[image-20230111154541748.png]]
-<!--SR:!2024-02-20,110,190-->
+<!--SR:!2024-04-14,54,170-->
 
 Le schema de la memoire primaire/secondaire:
 ?

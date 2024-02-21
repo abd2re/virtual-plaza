@@ -10,7 +10,7 @@ Une onde est dite progressive si elle correspond à la propagation _dans l'espa
 <!--SR:!2023-11-29,1,147-->
  
 La propagation d'une onde progressive s’effectue:: sans transport de matière mais avec un transport d’énergie.
-<!--SR:!2024-02-14,23,160-->
+<!--SR:!2024-03-26,41,160-->
 
 
 - L'énergie est transférée par les ondes, mais la matière:: ne l'est pas
@@ -23,13 +23,13 @@ Il existe deux types d'ondes progressives (avec définition):
 <!--SR:!2024-03-13,57,207-->
 
 La longueur d'onde est (2):: la distance entre deux crêtes ou deux creux de deux ondes consécutives (transversale), la distance entre deux points de compression ou deux points de raréfaction (longitudinale).
-<!--SR:!2024-02-09,39,218-->
+<!--SR:!2024-05-03,84,218-->
 
 La longueur d'onde $\lambda$ est égale à (2):: $\frac{v}{f}=vT$
 <!--SR:!2024-03-08,69,250-->
 
 La vitesse d'une onde dépend du:: milieu de propagation.
-<!--SR:!2024-02-20,47,238-->
+<!--SR:!2024-06-10,111,238-->
 
 ## Dimensions de la propagation
 Les ondes mécaniques progressives ont la propriété de pouvoir se propager dans toutes les directions qui lui sont offertes et à partir de leur source. Ainsi, on distingue (3):: les ondes progressives à une, deux ou trois dimensions.
@@ -41,12 +41,12 @@ Une onde transversale est:: une onde dans laquelle les particules oscillent perp
 - Les ondes transversales présentent des zones de:: pics et de creux
 <!--SR:!2024-03-17,68,230-->
 - Exemples d'ondes transversales:: Ondes électromagnétiques, par exemple radio, lumière visible, UV. Vibrations sur une corde de guitare
-<!--SR:!2024-02-10,50,250-->
+<!--SR:!2024-06-13,124,250-->
 - Une onde transversale peut voyager dans le vide, oui ou non ?:: oui
-<!--SR:!2024-02-10,52,267-->
+<!--SR:!2024-06-27,138,267-->
 
 Représentation d'une onde transversale::![[image-20231117200324111.png]]
-<!--SR:!2024-02-11,50,250-->
+<!--SR:!2024-06-14,124,250-->
 
 
 Une onde longitudinale est:: une onde dans laquelle les particules oscillent parallèlement à la direction de propagation de l'onde et le transfert d'énergie se fait dans la même direction.

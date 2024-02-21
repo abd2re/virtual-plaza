@@ -8,12 +8,12 @@ CPP (PPC) veut dire::Courbe des Possibilités de Production
 <!--SR:!2024-03-28,167,230-->
 
 Le CCP représente la taille de l'économie si toutes les ressources sont pleinement employées. La qualité et la quantité des facteurs de production déterminent le niveau de production du plein emploi. Il existe deux façons de décrire la croissance économique à l'aide du PPC->:: l'augmentation de la production réelle (à court terme) et l'augmentation de la production potentielle (à long terme).
-<!--SR:!2024-02-09,56,210-->
+<!--SR:!2024-03-10,30,190-->
 
 Représentation du CPP avec noms:
 ?
 ![[image-20230614104233991.png|center|400]]
-<!--SR:!2024-02-08,145,250-->
+<!--SR:!2025-02-04,362,250-->
 
 Quel type de croissance économique est préférable?:: Croissance économique a long terme
 <!--SR:!2024-10-29,302,250-->
@@ -45,7 +45,7 @@ Quelques conséquences positives et négative de la croissance économique sont 
 - L'impact sur le niveau de vie
 - L'impact sur l'environment
 - L'impact sur la répartition des revenus
-<!--SR:!2024-02-10,12,150-->
+<!--SR:!2024-02-27,17,150-->
 
 ---
 - La richesse et le revenu ne sont pas des termes interchangeables. Le revenu est un flux et fait référence aux gains d'une semaine à l'autre ou d'un mois à l'autre. Alors que la richesse est:: un stock et se réfère à une accumulation d'argent et d'actifs. Les individus ayant des revenus élevés et des niveaux de consommation élevés ne disposent pas nécessairement d'un stock de richesse important !
