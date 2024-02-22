@@ -15,7 +15,7 @@ $$\large{\frac{1}{f}=\frac{1}{u}+\frac{1}{v}}$$
 <!--SR:!2024-02-23,16,250-->
 
 (convexe) Si la distance de l'image de la lentille $v$ est positive alors l'image est:: réelle.
-<!--SR:!2024-02-21,9,210-->
+<!--SR:!2024-03-12,20,210-->
 (convexe) Si la distance de l'image de la lentille $v$ est négative alors l'image est:: virtuelle.
 <!--SR:!2024-03-03,22,250-->
 Pour une lentille concave, l'image est toujours:: virtuelle.

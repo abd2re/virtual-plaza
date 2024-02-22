@@ -41,7 +41,7 @@ Les spectres atomiques montrent le spectre des longueurs d'onde discrètes émis
 **Representation de niveaux d'énergie d'un spectre (hydrogène):**
 ?
 ![[image-20230214110458766.png|500]]
-<!--SR:!2024-02-21,83,214-->
+<!--SR:!2024-04-02,41,194-->
 
 
 Types de spectres de lumières et représentations:

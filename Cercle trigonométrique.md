@@ -63,7 +63,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\sin(x+2k\pi)=$::$\sin(x)$
 <!--SR:!2025-02-16,382,250-->
 - $\tan(x+k\pi)=$::$\tan(x)$
-<!--SR:!2024-02-21,166,250-->
+<!--SR:!2025-04-10,414,250-->
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
 <!--SR:!2024-04-04,72,230-->

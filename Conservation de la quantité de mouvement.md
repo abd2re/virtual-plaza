@@ -26,7 +26,7 @@ Pour une collision élastique, si les masses des deux objets sont identiques, la
 
 ## Conservation de la quantité de mouvement et de l'[[Energie cinétique|énergie cinétique]]
 - Pour un choc élastique, on a:: conservation de la quantité de mouvement et de l'énergie cinétique.
-<!--SR:!2024-02-21,70,230-->
+<!--SR:!2024-07-30,160,230-->
 - Pour un choc inélastique, on a:: conservation de la quantité de mouvement mais pas de l'énergie cinétique.
 <!--SR:!2024-03-13,84,230-->
 

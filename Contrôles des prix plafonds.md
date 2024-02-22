@@ -15,11 +15,11 @@ Les objectifs des prix plafonds sont généralement de:
 - empêcher l'exploitation par des monopoles
 <!--SR:!2024-10-07,338,210-->
 
-Deux situations courantes où **contrôles des prix maximaux** sont utilisés pour assurer la disponibilité de: 
+Deux situations courantes où **contrôles des prix maximaux** sont utilisés pour assurer la disponibilité de:
 ?
-- des aliments bon marché pour les personnes à faible revenu. 
+- des aliments bon marché pour les personnes à faible revenu.
 - logements abordables pour les familles à faible revenu.
-<!--SR:!2024-02-21,236,230-->
+<!--SR:!2024-06-17,117,210-->
 
 Figure de contrôles des prix maximaux:
 ?

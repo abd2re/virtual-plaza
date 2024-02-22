@@ -6,7 +6,7 @@ Created: 2024-01-11
 
 # Intégration
 Autre notation de $\int f(x)\,dx$=::$F(x)$
-<!--SR:!2024-02-21,26,250-->
+<!--SR:!2024-03-06,14,230-->
 Si $g(x)$ = $u$ alors $g'(x)\,dx$=::$u'dx=du$
 <!--SR:!2024-03-05,29,227-->
 ## Identités
@@ -22,7 +22,7 @@ Si $g(x)$ = $u$ alors $g'(x)\,dx$=::$u'dx=du$
 - $\int x^{-1}\,dx=\int \frac{1}{x}\,dx=$::$\ln|x|+C$
 <!--SR:!2024-02-29,17,210-->
 - $\int a^{x}\,dx=$::$\frac{a^{x}}{\ln(a)}+C$
-<!--SR:!2024-02-21,3,130-->
+<!--SR:!2024-02-25,4,130-->
 - $\int e^{x}\,dx=$::$e^{x}+C$
 <!--SR:!2024-03-23,44,250-->
 - $\int \log_{a}(x)\,dx=$::$\frac{x}{\ln a}(\ln x-1)+C$

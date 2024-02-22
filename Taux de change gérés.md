@@ -25,6 +25,6 @@ Représentation dans un marché de change
 <!--SR:!2024-02-26,8,230-->
 
 - **Des monnaies surévaluées** rendraient les importations:: moins chères.
-<!--SR:!2024-02-21,9,250-->
+<!--SR:!2024-03-14,22,250-->
 - **Des monnaies sous-évaluées** rendraient les exportations:: moins chères.
 <!--SR:!2024-03-06,16,250-->

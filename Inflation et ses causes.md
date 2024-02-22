@@ -81,7 +81,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 - les modifications des lois sur le salaire minimum
 - l'augmentation du coût des matières premières importées
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
-<!--SR:!2024-02-21,30,163-->
+<!--SR:!2024-03-06,14,143-->
 
 Graphique avec explications
 ?

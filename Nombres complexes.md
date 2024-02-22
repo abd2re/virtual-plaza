@@ -65,7 +65,7 @@ $$\Large{\sqrt{a^{2}+b^{2}}}$$
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
-<!--SR:!2024-02-21,9,130-->
+<!--SR:!2024-03-04,12,130-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
@@ -96,7 +96,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
 <!--SR:!2024-02-22,3,130-->
 - $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
-<!--SR:!2024-02-21,16,174-->
+<!--SR:!2024-03-21,29,174-->
 
 ## Formules d'Euler (module=1)
 Si $|z|=1$ alors $z^{*}$=::$z^{-1}$

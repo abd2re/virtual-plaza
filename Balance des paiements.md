@@ -13,7 +13,7 @@ Les trois principales composantes de la balance des paiements sont:: le compte c
 La balance des paiements (BdP) =:: Compte courant + Compte capital + Compte financier = 0
 
 - Le compte courant est:: un registre des transactions d'exportation, d'importation et de flux de revenus entre un pays et le reste du monde au cours d'une période donnée.
-<!--SR:!2024-02-21,5,226-->
+<!--SR:!2024-03-03,11,226-->
 - Le compte capitale est un:: enregistrement de tous les transferts de propriété du capital et d’autres actifs entre pays. 
 - Le compte financier est:: un enregistrement de toutes les transactions financières et des investissements directs entre les pays, ainsi que des réserves de change détenues par les banques centrales.
 

@@ -12,7 +12,7 @@ $$f(x)=f(0)+xf'(0)+\frac{x^{2}}{2!}f''(0)+...$$
 <!--SR:!2024-02-22,2,150-->
 
 Pour une fonction de type $(1+x)^{n}$ on peut utiliser:: le développement en série du théorème binomial.
-<!--SR:!2024-02-21,7,250-->
+<!--SR:!2024-03-12,20,250-->
 
 
 Formule pour faire la série Maclaurin d'une fonction composée $f(g(x))$:

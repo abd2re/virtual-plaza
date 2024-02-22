@@ -14,7 +14,7 @@ La politique monétaire fait référence à la banque centrale qui utilise le re
 - La politique monétaire est un moyen pour les gouvernements de:: gérer l’économie.
 <!--SR:!2024-03-03,76,270-->
 - La banque centrale détermine la politique monétaire en:: contrôlant la masse monétaire et en fixant le taux d’intérêt.
-<!--SR:!2024-02-21,31,210-->
+<!--SR:!2024-04-25,64,210-->
 
 - Définition de **taux d’intérêt**:: **Coût d’emprunt de l’argent.**
 <!--SR:!2024-05-11,94,210-->

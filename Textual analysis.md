@@ -15,7 +15,7 @@ A text is defined as anything from which information can be extracted, and inclu
 What is textual analysis ?
 ?
 A systematic examination of a text or aspects.
-<!--SR:!2024-02-21,94,243-->
+<!--SR:!2024-10-05,227,243-->
 
 What is to analyze
 ?

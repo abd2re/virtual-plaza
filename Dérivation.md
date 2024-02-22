@@ -53,11 +53,11 @@ Tangente et normale pour une fonction représente:
 - $f(x)=\sec(x)\rightarrow f'(x)=$::$\sec(x)\tan(x)$
 <!--SR:!2024-02-22,12,177-->
 - $f(x)=\csc(x)\rightarrow f'(x)=$::$-\csc(x)\cot(x)$
-<!--SR:!2024-02-21,6,157-->
+<!--SR:!2024-02-24,3,137-->
 - $f(x)=\cot(x)\rightarrow f'(x)=$::$-\csc^{2}(x)$
 <!--SR:!2024-02-28,9,137-->
 - $f(x)=\sin^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{1}{\sqrt{a-x^{2}}}$
-<!--SR:!2024-02-21,7,217-->
+<!--SR:!2024-03-09,17,217-->
 - $f(x)=\cos^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{-1}{\sqrt{a-x^{2}}}$
 <!--SR:!2024-03-18,32,237-->
 - $f(x)=\tan^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{1}{a^{2}+x^{2}}$
@@ -109,6 +109,6 @@ $df(x)=$::$f'(x)dx$
 <!--SR:!2024-03-17,36,257-->
 
 $\frac{d(xy)}{dx}=$::$y+x\frac{dy}{dx}$
-<!--SR:!2024-02-21,13,231-->
+<!--SR:!2024-03-23,31,231-->
 
 

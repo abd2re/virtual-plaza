@@ -51,7 +51,7 @@ Représentation (avec éléments):
 <!--SR:!2024-04-12,61,230-->
 
 Un angle critique est:: un angle incident au delà duquel l'angle réfracté n'existe plus, il n'ya plus de réfraction: on a une réflexion totale.
-<!--SR:!2024-02-21,44,223-->
+<!--SR:!2024-05-28,97,223-->
 - La réflexion interne totale ne se produit que lorsque la lumière passe d'un:: indice de réfraction supérieur à un indice de réfraction inférieur ($n_{1}>n_{2}$)
 <!--SR:!2024-04-22,83,241-->
 

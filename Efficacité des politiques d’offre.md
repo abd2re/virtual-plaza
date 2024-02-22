@@ -24,7 +24,7 @@ Points forts des politiques d’offre fondées sur le marché (2):
 ?
 - Meilleure allocation des ressources
 - Pas de charge pour le budget de l'État
-<!--SR:!2024-02-21,18,150-->
+<!--SR:!2024-03-18,26,150-->
 
 Point fort des politiques interventionnistes du côté de l’offre (1):
 ?
@@ -43,4 +43,4 @@ Plus de production nécessite plus de travailleurs, donc les politiques axées s
 <!--SR:!2024-03-28,57,233-->
 
 Les politiques du côté de l'offre encouragent la concurrence, ce qui encouragera les entreprises à:: innover, à réduire leurs coûts et à faire baisser les prix.
-<!--SR:!2024-02-21,42,250-->
+<!--SR:!2024-06-04,104,250-->
