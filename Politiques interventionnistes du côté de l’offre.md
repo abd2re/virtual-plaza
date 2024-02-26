@@ -32,7 +32,7 @@ L’accès à des soins de santé de qualité garantit que la main-d’œuvre es
 
 ## 4. Mise à disposition d'infrastructures
 Une infrastructure solide facilite grandement:: le transport des matières premières et des produits finis et des services, ce qui réduit les coûts de production.
-<!--SR:!2024-02-22,38,228-->
+<!--SR:!2024-05-18,86,228-->
 
 ## 5. Politiques industrielles
 Les politiques industrielles consistent en:: des interventions gouvernementales ciblées pour stimuler le développement de secteurs économiques spécifiques.

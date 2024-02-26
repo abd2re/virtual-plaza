@@ -14,7 +14,7 @@ Il existe trois systèmes principaux d'imposition des revenus :
 <!--SR:!2024-05-21,117,250-->
 
 Les impôts ont la capacité de rediriger l’argent:: de ceux qui ont plus de moyens de se permettre un niveau de vie élevé vers ceux qui en sont empêchés pour une raison quelconque.
-<!--SR:!2024-02-25,61,230-->
+<!--SR:!2024-07-13,139,230-->
  
 - Fiscalité progressive=>::Cela fait référence au fait que les gens sont imposés à des taux d’imposition plus élevés à mesure qu’ils gagnent.
 <!--SR:!2024-03-27,82,250-->

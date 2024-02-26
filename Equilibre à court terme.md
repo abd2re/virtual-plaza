@@ -37,7 +37,7 @@ Lorsque le SRAS se déplace vers la droite en raison de changements dans l'un de
 <!--SR:!2024-03-18,176,230-->
 - Baisse de l'OGCT (Stagflation):: Inflation, Décroissance économique, Chômage augmente
 <!--SR:!2024-04-11,72,210-->
-- Augmentation de la demande globale:: Inflation, Croissance économique, Chômage diminue 
-<!--SR:!2024-02-24,177,250-->
+- Augmentation de la demande globale:: Inflation, Croissance économique, Chômage diminue
+<!--SR:!2025-05-11,442,250-->
 - Baisse de la demande globale:: Déflation, Décroissance économique, Chômage augmente
 <!--SR:!2025-02-22,392,250-->

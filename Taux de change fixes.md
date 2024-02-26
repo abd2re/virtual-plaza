@@ -15,7 +15,7 @@ Dans un système de taux de change fixe, la valeur de la monnaie ne peut pas cha
 - Une réévaluation est:: une augmentation de la valeur d’une monnaie par rapport à une autre, dans un régime de change fixe.
 <!--SR:!2024-03-04,15,250-->
 - Une dévaluation est:: une diminution de la valeur d’une monnaie par rapport à une autre, dans un régime de change fixe.
-<!--SR:!2024-02-24,7,210-->
+<!--SR:!2024-03-11,16,210-->
 
 La plus grande limitation d’une politique de taux de change fixe est:: peut-être la taille des réserves de change dont dispose un pays, en particulier dans le cas du maintien d’un taux de change plus élevé que la normale.
 <!--SR:!2024-03-02,13,230-->

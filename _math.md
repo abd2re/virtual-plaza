@@ -26,7 +26,7 @@ tags: [M]
 3. [[Distribution binomiale]]
 4. [[Distribution normale]]
 5. [[Statistiques I]]
-6. 
+6. [[Fonction de densité de probabilité]]
 
 # Theme 5: Etude du fonction
 1. [[Dérivation]]

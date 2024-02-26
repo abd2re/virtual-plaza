@@ -34,4 +34,4 @@ Par exemple, le transfert de données sur internet nécessite la décomposition 
 - L'adresse IP de destination, qui est la machine ou l'appareil auquel les données sont envoyées.
 - Le numéro de séquence des paquets, un numéro qui place les paquets dans un ordre tel qu'ils sont réassemblés de manière à retrouver les données originales telles qu'elles étaient avant la transmission.
 - Le type de service, les drapeaux et d'autres données techniques
-<!--SR:!2024-02-23,29,150-->
+<!--SR:!2024-03-08,14,130-->

@@ -12,14 +12,14 @@ $$\large{\frac{1}{f}=\frac{1}{u}+\frac{1}{v}}$$
 - $f$ = longueur focale
 - $u$ = distance de l'objet de la lentille
 - $v$ = distance de l'image de la lentille
-<!--SR:!2024-02-23,16,250-->
+<!--SR:!2024-04-02,39,250-->
 
 (convexe) Si la distance de l'image de la lentille $v$ est positive alors l'image est:: réelle.
 <!--SR:!2024-03-12,20,210-->
 (convexe) Si la distance de l'image de la lentille $v$ est négative alors l'image est:: virtuelle.
 <!--SR:!2024-03-03,22,250-->
 Pour une lentille concave, l'image est toujours:: virtuelle.
-<!--SR:!2024-02-24,16,230-->
+<!--SR:!2024-04-03,39,230-->
 
 ## Grossissement linéaire
 
@@ -33,7 +33,7 @@ $$\large{m=\frac{h_{i}}{h_{o}}=-\frac{v}{u}}$$
 <!--SR:!2024-03-22,33,230-->
 
 (convexe) Un grossissement positif implique que l'image est:: droite.
-<!--SR:!2024-02-23,9,230-->
+<!--SR:!2024-02-28,5,210-->
 (convexe) Un grossissement négatif implique que l'image est:: renversée.
 <!--SR:!2024-03-04,23,270-->
 

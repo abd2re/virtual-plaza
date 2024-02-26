@@ -15,7 +15,7 @@ L'interférence se produit lorsque:: deux ou plusieurs ondes se combinent pour p
 <!--SR:!2024-03-22,64,250-->
 
 Différence de chemin d'une interférence constructive (formule)=::$|S_{2}-S_{1}|=n\lambda$
-<!--SR:!2024-02-25,47,250-->
+<!--SR:!2024-06-21,117,250-->
 Différence de chemin d'une interférence destructive (formule)=::$|S_{2}-S_{1}|=\left(n+\frac{1}{2}\right)\lambda$
 <!--SR:!2024-03-09,55,250-->
 
@@ -29,7 +29,7 @@ $$\large{\sin\theta=\frac{n\lambda}{d}}$$
 - $\theta$ = angle entre la distance entre les deux plaques et la médiatrice
 - $n\lambda$ = déphasage des deux ondes
 - $d$ = distance entre les deux fentes
-<!--SR:!2024-02-24,28,207-->
+<!--SR:!2024-03-08,13,187-->
 
 Formule de la frange:
 ?

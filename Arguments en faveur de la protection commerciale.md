@@ -21,7 +21,7 @@ Arguments pour le protectionnisme sont (9):
 
 
 Un industrie naissante (ou en plein essor) est celui:: qui vient de s'ouvrir et n'est pas encore assez grand pour profiter de l'économie d'échelle.
-<!--SR:!2024-02-22,24,250-->
+<!--SR:!2024-03-06,13,230-->
 
 Economie d'échelle:: Capacité d'une entreprise à produire avec des coûts moyens inférieurs lorsque sa taille augmente.
 <!--SR:!2024-03-07,22,190-->

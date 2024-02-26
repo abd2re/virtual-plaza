@@ -18,4 +18,4 @@ Ils sont (7):
 <!--SR:!2024-03-14,28,210-->
 
 Une industrie en aval est une industrie qui:: utilise des intrants pour la production qui sont des biens intermédiaires.
-<!--SR:!2024-02-25,9,230-->
+<!--SR:!2024-03-16,20,230-->

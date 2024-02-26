@@ -35,7 +35,7 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 - $e$ c'est la tension aux bornes de la pile quand:: elle ne fournit pas de courant
 <!--SR:!2024-05-07,117,226-->
 - Un pile idéale est une pile qui:: n'a pas de résistance interne $r=0$ (le graphe intensité-tension est constante en $e$)
-<!--SR:!2024-02-24,98,226-->
+<!--SR:!2024-10-03,222,226-->
 - $I_{cc}=$::$\frac{e}{r}$
 <!--SR:!2024-02-27,16,246-->
 
@@ -72,7 +72,7 @@ $$\Sigma{e} - \Sigma{e'}=\Sigma{R}\times I$$
 Schema du sens de parcours (rouge) et sens du courant (bleu) pour les piles et les résistances:
 ?
 ![[image-20230109170117486.png]]
-<!--SR:!2024-02-22,242,240-->
+<!--SR:!2024-06-21,120,220-->
 
 ## Association de piles
 **En série** (Avantage, branchement et formule)

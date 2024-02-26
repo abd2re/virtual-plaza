@@ -18,7 +18,7 @@ Les inconvénients sont (2):
 ?
 - Perte de souveraineté
 - Difficultés de s’engager dans des négociations commerciales multilatérales
-<!--SR:!2024-02-22,14,190-->
+<!--SR:!2024-03-19,26,190-->
 
 Facteurs qui contribuent à la mondialisation sont (5):
 ?
@@ -27,4 +27,4 @@ Facteurs qui contribuent à la mondialisation sont (5):
 - Sociétés multinationales (MNC)
 - Nouvelle technologie
 - Fonds monétaire international (FMI) et le Banque mondiale
-<!--SR:!2024-02-23,19,230-->
+<!--SR:!2024-04-03,40,230-->

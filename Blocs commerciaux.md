@@ -6,7 +6,7 @@ Created: 2024-01-20
 
 # Blocs commerciaux
 Un bloc commercial s’agit d::’un niveau d’intégration économique plus étroit que les ACPr.
-<!--SR:!2024-02-25,16,190-->
+<!--SR:!2024-03-03,7,170-->
 
 Il existe quatre types de blocs commerciaux:
 ?
@@ -23,7 +23,7 @@ Zones de libre-échange (ZLE) sont formés par un bloc commercial de pays signan
 
 
 Les pays sont libres de:: définir leur propre politique extérieure à l’égard des pays non membres.
-<!--SR:!2024-02-23,22,250-->
+<!--SR:!2024-04-17,54,250-->
 
 ## Unions douanières
 Une union douanière est une autre forme d’intégration économique. Il ressemble beaucoup à une ZLE, mais présente une différence importante. Les pays participant à l’accord établissent:: une politique extérieure commune à l’égard des non-membres, tout en s’engageant dans le libre-échange entre eux.
@@ -35,7 +35,7 @@ Un marché commun est une autre forme d’intégration économique et constitue 
 <!--SR:!2024-04-01,44,250-->
 
 Un bon exemple de marché commun est:: l'UE.
-<!--SR:!2024-02-25,25,270-->
+<!--SR:!2024-05-02,67,270-->
 
 ## Unions monétaires
 Une union monétaire est créée lorsque:: des pays forment un bloc commercial dans lequel existent le libre-échange, une politique extérieure commune, la libre circulation des facteurs de production et une **monnaie partagée**

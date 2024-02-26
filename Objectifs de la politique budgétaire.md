@@ -14,7 +14,7 @@ Les objectifs sont (6):
 - Réduire les fluctuations du cycle économique
 - Répartition équitable des revenus
 - Solde extérieur
-<!--SR:!2024-02-24,24,206-->
+<!--SR:!2024-03-08,13,186-->
 
 ## 1. Inflation faible et stable
 La politique budgétaire peut être constamment ajustée pour créer un taux d'inflation faible et stable. La stabilité des prix donne une:: plus grande certitude aux entreprises.

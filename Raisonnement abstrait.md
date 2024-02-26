@@ -17,4 +17,4 @@ L'abstraction est le processus qui consiste à enlever ou à supprimer des carac
 ## Programmation Orientée Objet
 ?
 La programmation orientée objet utilise l'abstraction et repose sur le principe selon lequel toutes les tâches quotidiennes peuvent être considérées comme des entités. Ces entités sont soit des objets, soit des événements.
-<!--SR:!2024-02-23,176,230-->
+<!--SR:!2024-05-20,87,210-->

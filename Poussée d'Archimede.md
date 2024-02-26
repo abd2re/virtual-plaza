@@ -10,4 +10,4 @@ Lorsqu'un objet est plongé dans un fluide (gaz ou liquide), une force verticale
 <!--SR:!2024-09-04,201,170-->
 
 Formule::$$\Large{A=V_{\text{immergé}}\times\rho\times g}$$
-<!--SR:!2024-02-24,32,130-->
+<!--SR:!2024-04-04,40,130-->

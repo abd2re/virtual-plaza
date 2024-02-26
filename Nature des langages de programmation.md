@@ -50,4 +50,4 @@ Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un lang
 - Un compilateur est:: un traducteur qui n'exécute le processus de traduction qu'une seule fois. Il traduit normalement l'ensemble du programme source en programme objet.
 <!--SR:!2024-03-17,39,210-->
 - Un interprète est:: un traducteur qui effectue le processus de traduction à chaque fois que le programme est exécuté.
-<!--SR:!2024-02-23,91,230-->
+<!--SR:!2024-09-18,208,230-->

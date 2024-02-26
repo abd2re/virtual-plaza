@@ -45,7 +45,7 @@ Cet angle incident $\theta_{1}$ est égale à::$$\theta_{1}=\tan^{-1}\left(\frac
 <!--SR:!2024-03-21,40,196-->
 
 Une lumière partiellement polarisée signifie que la lumière reflétée a:: plusieurs composantes du champ électrique de magnitude inégale.
-<!--SR:!2024-02-22,5,184-->
+<!--SR:!2024-03-01,8,184-->
 
 La composante la plus importante se trouve dans le plan parallèle à la surface, on dit que la lumière est partiellement polarisée dans ce plan. Le plan de polarisation est parallèle à la surface réfléchissante. 
 

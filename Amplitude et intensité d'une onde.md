@@ -17,7 +17,7 @@ $$\large{I\propto r^{-2}}$$
 <!--SR:!2024-04-17,70,230-->
 
 Formule de l'intensité pour une onde circulaire::$$\large{I=\frac{\text{puissance}}{\text{surface}}}$$
-<!--SR:!2024-02-23,22,230-->
+<!--SR:!2024-04-13,50,230-->
 
 Formule de l'intensité pour une onde sphérique::$$\large{I=\frac{\text{puissance}}{4\pi r^{2}}}$$
 <!--SR:!2024-05-05,81,210-->

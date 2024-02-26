@@ -72,7 +72,7 @@ Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2024-04-29,78,232-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
-<!--SR:!2024-02-24,6,192-->
+<!--SR:!2024-02-27,3,172-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
 <!--SR:!2024-02-29,32,211-->

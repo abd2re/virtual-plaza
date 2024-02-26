@@ -7,7 +7,7 @@ Created: 2023-11-08
 # Politique monétaire
 ?
 La politique monétaire fait référence à la banque centrale qui utilise le rentrée d'argent et les taux d’intérêt pour gérer l’économie.
-<!--SR:!2024-02-24,16,130-->
+<!--SR:!2024-03-15,20,130-->
 
 - La politique monétaire permet aux pays de stimuler leur économie tout en évitant de:: s’endetter.
 <!--SR:!2024-06-19,123,230-->
@@ -52,7 +52,7 @@ La banque centrale imprime des billets et frappe des pièces pour (2) :
 ?
 - Permettre à l’augmentation de la masse monétaire de s’aligner sur l’augmentation du PIB
 - Remplacer les vieux billets de banque déchirés
-<!--SR:!2024-02-24,47,190-->
+<!--SR:!2024-03-18,23,170-->
 
 Les banques centrales veillent à inclure des éléments de sécurité pour:: garantir l'intégrité de la monnaie et pour rendre billets de banque contrefaits moins probable.
 <!--SR:!2024-06-21,123,230-->

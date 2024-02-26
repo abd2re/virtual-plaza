@@ -12,12 +12,12 @@ Formules du Champ électrique (scalaire et vectorielle) =
 $$\vec{E}=\frac{\vec{F}}{q}\text{ et }\vec{F}=q\vec{E}$$
 $$E=\frac{F}{|q|}=\frac{kq}{r^{2}}$$
 - $E$ = Intensité du champ électrique en $NC^{-1}$
-- $F$ = Force en Newton 
+- $F$ = Force en Newton
 - $|q|$ = Charge électrique en Coulomb
-<!--SR:!2024-02-23,237,210-->
+<!--SR:!2024-06-22,120,190-->
 
 L'intensité du champ électrique est:: la force par unité de charge qui s'exerce sur une charge ponctuelle.
-<!--SR:!2024-02-24,10,179-->
+<!--SR:!2024-03-13,18,179-->
 
 Le champ électrique ne dépend pas :: de la charge q (qui le subit) mais des charges qui le créent
 <!--SR:!2024-03-14,269,230-->

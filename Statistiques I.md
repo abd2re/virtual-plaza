@@ -45,5 +45,5 @@ En statistiques, $\sigma$ est noté:: $S$.
 - $\text{Var}(aX+b)=$::$a^{2}\text{Var}(x)$
 <!--SR:!2024-02-29,16,188-->
 - $x$ est une valeur aberrante si:: $$x\notin [Q_{1}-1.5\times\text{IQR},\,Q_{3}+1.5\times\text{IQR}]$$
-<!--SR:!2024-02-23,34,248-->
+<!--SR:!2024-05-16,83,248-->
 

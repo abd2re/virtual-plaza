@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9e15d96cf62e2a70",
+        "id": "0a8cd1bb3273fcb9",
         "type": "tabs",
         "children": [
           {
-            "id": "9c7af5dc06e26450",
+            "id": "10f0070429812520",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fonction de densité de probabilité.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -74,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "81af70492d6955ac",
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fonction de densité de probabilité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Fonction de densité de probabilité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +164,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5555978139006917,
+                  "scale": 0.4388298024242414,
                   "close": true
                 }
               }
@@ -170,6 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fonction de densité de probabilité.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -191,7 +198,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fonction de densité de probabilité.md"
+              }
             }
           },
           {
@@ -207,7 +216,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "Fonction de densité de probabilité.md"
+              }
             }
           },
           {
@@ -259,6 +270,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Fonction de densité de probabilité.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -310,7 +322,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4203257350656543,
+                  "scale": 0.5774124710726078,
                   "close": true
                 }
               }
@@ -324,57 +336,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "open-vscode:VSCode": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "open-vscode:VSCode": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9c7af5dc06e26450",
+  "active": "10f0070429812520",
   "lastOpenFiles": [
-    "Theme 7-Physique nucléaire.md",
-    "_physics.md",
-    "_phy.md",
-    "_economy.md",
-    "Interdépendance entre les comptes.md",
-    "Chapitre 6 - Balance des paiements.md",
-    "Composantes de la balance des paiements.md",
-    "Balance des paiements.md",
-    "Taux de change gérés.md",
-    "Taux de change fixes.md",
-    "Conséquences des changements du taux de change.md",
-    "Changements dans la demande et l'offre d'une monnaie.md",
-    "Blocs commerciaux.md",
-    "assets/Blocs commerciaux/image-20240120162714043.png",
-    "Arguments contre la protection commerciale.md",
-    "Avantages et inconvénients des blocs commerciaux.md",
-    "Subventions (protection commerciale).md",
-    "Theme 3-Économie Mondiale.md",
-    "Chapitre 2 - Types de protection commerciale.md",
-    "Chapitre 5 - Taux d'échange.md",
-    "__dashboard.md",
+    "Propriétés ACID d'une transaction.md",
+    "Untitled 30.md",
+    "Option - Base de données.md",
+    "Notion de transaction.md",
+    "Notion d'accès concurrent.md",
+    "Cohérence et intégrité de données.md",
+    "Fonction de densité de probabilité.md",
+    "Importance d’une base de données.md",
     "Distribution binomiale.md",
-    "Distribution normale.md",
-    "Raisonnement logique.md",
+    "Système d'information et base de données.md",
+    "Attentes futures (demande).md",
+    "_economy.md",
+    "notes_economies_bulk.md",
+    "Donnée et information.md",
+    "_computer science.md",
+    "Theme 2-Architecture des ordinateurs.md",
+    "Statistiques I.md",
     "_math.md",
-    "Probabilité discrètes.md",
     "Distribution discrètes.md",
+    "Distribution normale.md",
+    "assets/Externalité de la production/image-20230203093001379.png",
+    "Externalité de la production.md",
+    "Externalité de la consommation.md",
+    "assets/Externalité de la consommation/image-20230207165457620.png",
+    "assets/Externalité de la consommation/image-20230207161324381.png",
+    "Conceptes de base economie.md",
+    "Composantes de la balance des paiements.md",
+    "Chapitre 6 - Balance des paiements.md",
+    "Interdépendance entre les comptes.md",
+    "assets/Taux de change gérés/image-20240206202215628.png",
+    "assets/Blocs commerciaux/image-20240120162714043.png",
     "assets/Dérivation/image-20231128163111952.png",
     "assets/Mesurer les inégalités économiques/image-20231013082051866.png",
     "assets/Mesurer les inégalités économiques/image-20231013082101896.png",
     "assets/Mesurer les inégalités économiques/image-20231013082125087.png",
     "assets/Externalité de la production/image-20230203083115173.png",
-    "assets/Causes du chômage, coûts et solutions/image-20230913103815676.png",
-    "assets/Causes du chômage, coûts et solutions/image-20230908090941045.png",
-    "assets/Inflation et ses causes/image-20230921081541285.png",
-    "assets/Activité économique/image-20230328182846041.png",
     "Excalidraw/assets/Drawing 2024-02-10 16.37.17.excalidraw",
     "assets/Taux de change gérés",
     "Excalidraw/assets/article",

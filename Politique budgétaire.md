@@ -12,7 +12,7 @@ La politique fiscale fait parti de:: la politique budgétaire.
 <!--SR:!2024-03-21,54,190-->
 
 Le budget décrit la manière dont:: le gouvernement dépensera les recettes fiscales qu’il reçoit.
-<!--SR:!2024-02-23,8,170-->
+<!--SR:!2024-03-07,13,170-->
 - Un excédent budgétaire se produit lorsqu::’un gouvernement dépense moins que ce qu’il reçoit en impôts au cours d’une année.
 <!--SR:!2024-04-23,85,230-->
 - Un déficit budgétaire se produit lorsqu::’un gouvernement dépense plus que ce qu’il reçoit en impôts au cours d’une année

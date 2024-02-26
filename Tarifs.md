@@ -26,7 +26,7 @@ Les tarifs sont plus efficaces si un substitut proche est:: produit sur le march
 - Producteurs étrangers:: Les producteurs à l’étranger souffriront des droits de douane.
 <!--SR:!2024-02-27,28,250-->
 - Consommateurs:: Les consommateurs seront également affectés négativement par le tarif.
-<!--SR:!2024-02-23,25,250-->
+<!--SR:!2024-04-24,61,250-->
 - Gouvernement:: En mettant en place la taxe, le gouvernement se donne la possibilité de générer des recettes fiscales.
 <!--SR:!2024-04-18,57,250-->
 - Société:: Un tarif crée une perte de bien-être car les consommateurs paient plus et consomment moins.

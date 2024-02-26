@@ -86,7 +86,7 @@ Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. 
 - si C est en A $$R_{AC}=R_{AA}=0,\;U_{AC}=0$$
 - si C est en B $$R_{AC}=R_{AB},\;U_{AC}=\frac{R_{AB}}{R_{AB}}U_{AB}=U_{AB}$$
 - si C est entre A et B $$0<U_{S}<U_{AB}$$
-<!--SR:!2024-02-22,20,138-->
+<!--SR:!2024-03-03,10,130-->
 
 
 

@@ -9,7 +9,7 @@ Created: 2023-10-03
 - Une variable est utilisée pour:: stocker un élément de données d'un programme. La valeur stockée peut être modifiée pendant l'exécution du programme.
 <!--SR:!2024-06-05,147,250-->
 - Le type de la variable peut être:: un entier, un double, une chaîne de caractères, etc.
-<!--SR:!2024-02-25,82,230-->
+<!--SR:!2024-04-05,40,210-->
 
 - Une constante est:: un identificateur avec une valeur associée qui ne peut pas être modifiée par le programme pendant l'exécution normale : la valeur est constante.
 <!--SR:!2024-04-09,112,250-->

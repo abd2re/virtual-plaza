@@ -6,7 +6,7 @@ Created: 2023-12-14
 
 # Avantages du commerce international
 Le libre échange se produit lorsqu::’il n’y a pas d’obstacles au commerce. Il permet aux biens et services d’être échangés d’un pays à un autre sans entrave.
-<!--SR:!2024-02-24,37,210-->
+<!--SR:!2024-05-11,77,210-->
 
 Le commerce nous permet d’accéder à:: des biens difficiles, voire impossibles à produire à l’intérieur des frontières de nos propres pays, comme les noix de coco exportées d’Asie vers l’Europe.
 <!--SR:!2024-04-16,70,246-->

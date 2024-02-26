@@ -13,4 +13,4 @@ Formule:
 $$M=\large{\frac{\theta_{i}}{\theta_{o}}}$$
 - $\theta_{i}$ = angle sous-tendu par l'image au niveau de l'œil
 - $\theta_{o}$ = angle sous-tendu par l'objet à l'œil nu
-<!--SR:!2024-02-24,9,250--> 
+<!--SR:!2024-03-16,21,250--> 
