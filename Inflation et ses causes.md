@@ -35,7 +35,7 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2024-02-27,19,130-->
+<!--SR:!2024-03-21,23,130-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2024-07-04,180,263-->
@@ -44,7 +44,7 @@ IPP veut dire:: Indice prix de la production
 <!--SR:!2024-06-26,180,263-->
 
 Alors que l'IPC s'interesse au produits de la consummation, l'IPP:: s'interesse aux facteurs de production qui nous permet de prévoir une augmentation/baisse future de l'IPC.
-<!--SR:!2024-02-27,82,203-->
+<!--SR:!2024-08-10,165,203-->
 
 ## Causes de l'inflation
 Les deux principaux types d’inflation sont:

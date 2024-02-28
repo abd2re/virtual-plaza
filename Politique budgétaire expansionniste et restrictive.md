@@ -16,7 +16,7 @@ Lorsqu'il y a une politique budgétaire expansionniste, qu'est-ce qui se passe a
 <!--SR:!2024-03-16,63,248-->
 
 Lorsqu'il y a une politique budgétaire restrictives, qu'est-ce qui se passe aux dépenses gouvernementales et aux impôts ?:: dépenses gouvernementales diminuent, impôts augmentent.
-<!--SR:!2024-02-26,49,228-->
+<!--SR:!2024-06-16,111,228-->
 
 - Une politique budgétaire expansionniste peut combler:: un écart de récession.
 <!--SR:!2024-03-12,64,250-->

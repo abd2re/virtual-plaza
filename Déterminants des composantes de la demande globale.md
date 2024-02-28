@@ -20,7 +20,7 @@ Comment les déterminants affecte la courbe ? (représentation):
 5. **Impôts personnels**
 6. **Niveau d'endettement des ménages**
 7. **Attentes quant au niveau futur des prix**
-<!--SR:!2024-02-26,34,130-->
+<!--SR:!2024-04-09,43,130-->
 
 ## Déterminants de l'investissement
 (5)

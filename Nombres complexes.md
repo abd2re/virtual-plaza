@@ -94,7 +94,7 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $\theta$=::$\tan^{-1}(\frac{b}{a})$
 <!--SR:!2024-03-15,84,236-->
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
-<!--SR:!2024-02-26,4,130-->
+<!--SR:!2024-03-03,6,130-->
 - $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
 <!--SR:!2024-03-21,29,174-->
 

@@ -74,7 +74,7 @@ Quels sont les coûts économiques du chômage (5) ?:
 3. Augmentation du coût des allocations de chômage
 4. Perte de revenus pour les particuliers
 5. De plus grandes disparités dans la répartition des revenus
-<!--SR:!2024-02-27,10,130-->
+<!--SR:!2024-03-10,12,130-->
 
 Quels sont les coûts personnels du chômage (2) ?:
 ?
@@ -100,4 +100,4 @@ Graphes des deux causes principales (avec leur noms):
 - Pour chômage cyclique =>:: Le gouvernement devra s’attaquer directement à la baisse de la demande globale en stimulant la demande globale avec des politiques fiscales et monétaires.
 <!--SR:!2024-03-27,34,202-->
 - Pour chômage structurel =>:: Le chômage structurel peuvent être réduits grâce à des politiques qui améliorent la flexibilité de la main-d’œuvre (**Education**)
-<!--SR:!2024-02-27,32,182-->
+<!--SR:!2024-04-26,59,182-->

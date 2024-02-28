@@ -12,5 +12,5 @@ Elle est applicable sur un quotient $\frac{f(x)}{g(x)}$ dont la limite donnera u
 Formule:
 ?
 $$\lim_{x\rightarrow a}\frac{f(x)}{g(x)}=\lim_{x\rightarrow a}\frac{f'(x)}{g'(x)}$$
-<!--SR:!2024-02-27,8,210-->
+<!--SR:!2024-03-15,17,210-->
 

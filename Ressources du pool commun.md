@@ -21,7 +21,7 @@ Les poissons dans l'océan, l'air que nous respirons et les pâturages ouverts s
 - **Les ressources d'accès commun** sont  à la différence des [[biens publics]] en ce qu'elles:: sont **rivales** .
 <!--SR:!2024-04-20,86,190-->
 - Les ressources d'accès commun sont un cas de **défaillance du marché** parce que:: les avantages individuels de la consommation ou de l'utilisation de la ressource sont bien supérieurs au coût privé de cette consommation, ce qui incite l'individu à continuer à la consommer. Il y a donc une surconsommation par rapport à ce qui est optimal pour la société.
-<!--SR:!2024-02-27,66,170-->
+<!--SR:!2024-03-30,32,150-->
 - La **surutilisation** des ressources d'accès commun pourrait être considérée comme une :: **externalité intergénérationnelle négative de la consommation.**
 <!--SR:!2024-05-14,91,136-->
 

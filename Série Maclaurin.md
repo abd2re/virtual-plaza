@@ -9,7 +9,7 @@ Created: 2024-02-08
 Formule $f(x)$:
 ?
 $$f(x)=f(0)+xf'(0)+\frac{x^{2}}{2!}f''(0)+...$$
-<!--SR:!2024-02-26,2,150-->
+<!--SR:!2024-02-29,3,150-->
 
 Pour une fonction de type $(1+x)^{n}$ on peut utiliser:: le développement en série du théorème binomial.
 <!--SR:!2024-03-12,20,250-->

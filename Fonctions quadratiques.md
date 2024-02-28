@@ -19,4 +19,4 @@ $h$ représente l'abssice du vertex et $k$ l'ordonée du vertex c'est pour cela 
 <!--SR:!2024-10-01,497,294-->
 
 Expression sous la forme factorisé::$a(x-p)(x-q)$
-<!--SR:!2024-02-26,189,263-->
+<!--SR:!2024-05-30,94,243-->

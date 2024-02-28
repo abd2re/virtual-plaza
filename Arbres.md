@@ -20,7 +20,7 @@ Created: 2024-01-27
 - Racine:: Le nœud situé au sommet de l'arbre est appelé la racine.
 <!--SR:!2024-03-13,31,270-->
 - Profondeur d'un nœud:: La longueur du chemin menant à sa racine.
-<!--SR:!2024-02-26,19,250-->
+<!--SR:!2024-04-13,47,250-->
 - Sous-arbre:: Tout nœud peut être considéré comme la racine d'un sous-arbre sauf la racine.
 <!--SR:!2024-03-04,24,250-->
 

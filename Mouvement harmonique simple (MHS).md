@@ -20,4 +20,4 @@ Un mouvement oscillatoire qui s'effectue de part et d'autre d'une position d'éq
 <!--SR:!2024-04-03,84,250-->
 
 Formule de l'accéleration par rapport a la position (MHS)::$$a=-\frac{k}{m}x$$
-<!--SR:!2024-02-26,33,199-->
+<!--SR:!2024-05-01,65,199-->

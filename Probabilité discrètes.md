@@ -17,7 +17,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement élémentaire:: a une seule issue
 <!--SR:!2024-06-08,157,250-->
 - Evénement composé:: a plusieurs issues
-<!--SR:!2024-02-27,102,270-->
+<!--SR:!2024-11-27,274,270-->
 - Evénement A et B (conjonction d'événement):: événement constitué des issues communes aux deux événements
 <!--SR:!2024-06-29,172,250-->
 - Evénement contraire a A noté A':: événement dont les issues n'appartiennent pas a A
@@ -72,7 +72,7 @@ Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2024-04-29,78,232-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
-<!--SR:!2024-02-27,3,172-->
+<!--SR:!2024-03-04,6,172-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
 <!--SR:!2024-02-29,32,211-->

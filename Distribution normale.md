@@ -7,11 +7,11 @@ Created: 2023-11-16
 # Distribution normale
 - Une distribution normale est une distribution de probabilité continue
 - $P(X =k)$=::0 pour toute valeur $k$
-<!--SR:!2024-02-27,24,230-->
+<!--SR:!2024-04-22,55,230-->
 - $P(x\leq k)$=::$P(x<k)$
 <!--SR:!2024-04-02,82,250-->
 - Si $X$ suit une distribution normale, on note ça:: $X\sim N(\mu,\sigma^{2})$
-<!--SR:!2024-02-27,40,210-->
+<!--SR:!2024-05-22,85,210-->
 - Les trois pourcentage des écarts types dans une distribution normale sont:: 68%, 95%, et 99.7%
 <!--SR:!2024-05-07,104,250-->
 - $P(X <\mu) =P(X >\mu)$=::$0.5$

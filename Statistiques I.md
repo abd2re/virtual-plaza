@@ -17,7 +17,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - Le mode est:: la valeur qui a la fréquence la plus élevée
 <!--SR:!2024-03-07,40,242-->
 - La médiane est:: la valeur milieu
-<!--SR:!2024-02-26,33,242-->
+<!--SR:!2024-05-15,79,242-->
 - $\mu=$::$$\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}}{\sum\limits_{i=1}^{k}f_{i}}$$
 <!--SR:!2024-03-01,27,202-->
 - $\text{IQR}=$::$Q_{3}-Q_{1}$

@@ -12,7 +12,7 @@ Représentation et éléments d'un cycle économique:
 <!--SR:!2024-05-27,106,230-->
 
 Un cycle économique est:: une combinaison des expansions et des récessions.
-<!--SR:!2024-02-26,57,230-->
+<!--SR:!2024-07-05,130,230-->
 
 Les objectifs de la politique monétaire sont (3):
 ?

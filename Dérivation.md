@@ -51,7 +51,7 @@ Tangente et normale pour une fonction représente:
 - $f(x)=\tan(x)\rightarrow f'(x)=$::$\sec^{2}(x)$
 <!--SR:!2024-05-07,96,250-->
 - $f(x)=\sec(x)\rightarrow f'(x)=$::$\sec(x)\tan(x)$
-<!--SR:!2024-02-27,5,157-->
+<!--SR:!2024-03-05,7,157-->
 - $f(x)=\csc(x)\rightarrow f'(x)=$::$-\csc(x)\cot(x)$
 <!--SR:!2024-02-28,4,137-->
 - $f(x)=\cot(x)\rightarrow f'(x)=$::$-\csc^{2}(x)$
@@ -92,7 +92,7 @@ Tangente et normale pour une fonction représente:
 $\frac{df(y)}{dx}=$::$\frac{df(y)}{dy}\cdot \frac{dy}{dx}=f'(y)\frac{dy}{dx}$
 <!--SR:!2024-03-04,24,237-->
 $\frac{d}{dx}(f(x)g(y))=$::$g(y)\frac{df(x)}{dx}+f(x)\frac{dg(y)}{dx}=g(y)f'(x)+f(x)g'(y)\frac{dy}{dx}$
-<!--SR:!2024-02-26,4,197-->
+<!--SR:!2024-03-06,9,197-->
 
 Si on a $f(x,\,y)$ et on veut $\frac{dy}{dx}$ alors les étapes sont :
 ?

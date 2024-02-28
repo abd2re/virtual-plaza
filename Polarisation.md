@@ -13,7 +13,7 @@ Created: 2023-11-20
 Représentation d'une lumière non-polarisée à une lumière polarisée:
 ?
 ![[image-20231120115211923.png|center|600]]
-<!--SR:!2024-02-26,60,250-->
+<!--SR:!2024-07-24,149,250-->
 
 
 Différence entre lumière polarisée et lumière non-polarisée:

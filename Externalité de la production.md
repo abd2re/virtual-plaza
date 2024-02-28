@@ -36,7 +36,7 @@ lorsque le processus de production d'un bien ou d'un *service* génère un effet
 <!--SR:!2024-04-08,228,210-->
 
 - Lorsque une externalité positive de la production se produit,:: **le coût marginal social de production (MSC) est inférieur au coût marginal de production privé (MPC)**.
-<!--SR:!2024-02-26,232,250-->
+<!--SR:!2025-09-27,579,250-->
 
 Réponses possibles du gouvernement(2):
 ?

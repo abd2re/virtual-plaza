@@ -16,13 +16,13 @@ L’objectif principal d’un taux de change géré est:: d’éviter des fluctu
 <!--SR:!2024-02-28,11,230-->
 
 Tout comme dans le système fixe, les réserves de devises sont essentielles pour:: que la banque centrale puisse contrôler la valeur de sa propre monnaie.
-<!--SR:!2024-02-27,4,210-->
+<!--SR:!2024-03-07,9,210-->
 
 
 Représentation dans un marché de change
 ?
 ![[image-20240206202215628.png]]
-<!--SR:!2024-02-26,8,230-->
+<!--SR:!2024-03-17,20,230-->
 
 - **Des monnaies surévaluées** rendraient les importations:: moins chères.
 <!--SR:!2024-03-14,22,250-->

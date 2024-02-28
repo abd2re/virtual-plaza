@@ -21,7 +21,7 @@ Différence de chemin d'une interférence destructive (formule)=::$|S_{2}-S_{1}|
 
 ## Experience des fentes de Young
 Deux sources sont dites cohérentes lorsque:: les ondes qu'elles émettent ont la même fréquence et une différence de phase constante.
-<!--SR:!2024-02-26,29,170-->
+<!--SR:!2024-03-10,13,150-->
 
 Formule avec angle:
 ?

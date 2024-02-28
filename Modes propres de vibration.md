@@ -36,7 +36,7 @@ Représentation:
 
 ### Nième harmonique
 - Longueur d'onde $\lambda=$::$\frac{2L}{n}$
-<!--SR:!2024-02-27,15,230-->
+<!--SR:!2024-04-01,34,230-->
 - Fréquence $f=$::$\frac{nv}{2L}=nf_{1}$
 <!--SR:!2024-03-07,17,210-->
 
@@ -54,7 +54,7 @@ Représentation de $\lambda_{1}$, $\lambda_{3}$ et $\lambda_{5}$ avec leurs form
 <!--SR:!2024-02-28,17,250-->
 
 $\lambda_{n}$ avec $n$ impair =:: $\frac{4L}{n}$
-<!--SR:!2024-02-27,10,150-->
+<!--SR:!2024-03-12,14,150-->
 $f_{n}$ avec $n$ impair =:: $\frac{nv}{4L}=nf_{1}$
 <!--SR:!2024-03-02,16,230-->
 

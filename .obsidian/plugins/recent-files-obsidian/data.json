@@ -1,8 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Option - Base de données",
+      "path": "Option - Base de données.md"
+    },
+    {
+      "basename": "Chapitre 1 - Concepts de base de base de données",
+      "path": "Chapitre 1 - Concepts de base de base de données.md"
+    },
+    {
+      "basename": "Validation et vérification de données",
+      "path": "Validation et vérification de données.md"
+    },
+    {
+      "basename": "Fonctions essentielles d’une base de données",
+      "path": "Fonctions essentielles d’une base de données.md"
+    },
+    {
       "basename": "Fonction de densité de probabilité",
       "path": "Fonction de densité de probabilité.md"
+    },
+    {
+      "basename": "Composantes de la balance des paiements",
+      "path": "Composantes de la balance des paiements.md"
+    },
+    {
+      "basename": "_computer science",
+      "path": "_computer science.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Identités trigonométriques",
+      "path": "Identités trigonométriques.md"
+    },
+    {
+      "basename": "Conservation masse-énergie",
+      "path": "Conservation masse-énergie.md"
+    },
+    {
+      "basename": "Cercle trigonométrique",
+      "path": "Cercle trigonométrique.md"
     },
     {
       "basename": "Propriétés ACID d'une transaction",
@@ -11,10 +51,6 @@
     {
       "basename": "Untitled 30",
       "path": "Untitled 30.md"
-    },
-    {
-      "basename": "Option - Base de données",
-      "path": "Option - Base de données.md"
     },
     {
       "basename": "Notion de transaction",
@@ -57,16 +93,8 @@
       "path": "Donnée et information.md"
     },
     {
-      "basename": "_computer science",
-      "path": "_computer science.md"
-    },
-    {
       "basename": "Statistiques I",
       "path": "Statistiques I.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
     },
     {
       "basename": "Distribution discrètes",
@@ -87,10 +115,6 @@
     {
       "basename": "Conceptes de base economie",
       "path": "Conceptes de base economie.md"
-    },
-    {
-      "basename": "Composantes de la balance des paiements",
-      "path": "Composantes de la balance des paiements.md"
     },
     {
       "basename": "Chapitre 6 - Balance des paiements",
@@ -175,30 +199,6 @@
     {
       "basename": "Couche Transport",
       "path": "Couche Transport.md"
-    },
-    {
-      "basename": "fbwork",
-      "path": "fbwork.md"
-    },
-    {
-      "basename": "Polynômes",
-      "path": "Polynômes.md"
-    },
-    {
-      "basename": "Dérivation",
-      "path": "Dérivation.md"
-    },
-    {
-      "basename": "Série Maclaurin",
-      "path": "Série Maclaurin.md"
-    },
-    {
-      "basename": "Nombres complexes",
-      "path": "Nombres complexes.md"
-    },
-    {
-      "basename": "Identités trigonométriques",
-      "path": "Identités trigonométriques.md"
     }
   ],
   "omittedPaths": [],

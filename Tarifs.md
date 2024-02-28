@@ -24,7 +24,7 @@ Les tarifs sont plus efficaces si un substitut proche est:: produit sur le march
 - Producteurs nationaux:: Les producteurs nationaux bénéficieront globalement de ce tarif.
 <!--SR:!2024-03-13,33,250-->
 - Producteurs étrangers:: Les producteurs à l’étranger souffriront des droits de douane.
-<!--SR:!2024-02-27,28,250-->
+<!--SR:!2024-05-06,69,250-->
 - Consommateurs:: Les consommateurs seront également affectés négativement par le tarif.
 <!--SR:!2024-04-24,61,250-->
 - Gouvernement:: En mettant en place la taxe, le gouvernement se donne la possibilité de générer des recettes fiscales.

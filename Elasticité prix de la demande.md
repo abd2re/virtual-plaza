@@ -11,4 +11,4 @@ L'élasticité de la demande est une mesure de la réactivité de la quantité d
 ## Elasticité prix de la demande (EPD)
 ?
 L'elasticité prix de la demande est une mesure de combien la quantité demandée d'un bien change quand t-il y a un changement de son propre prix.
-<!--SR:!2024-02-27,104,210-->
+<!--SR:!2024-04-20,53,190-->

@@ -10,7 +10,7 @@ Les politiques de l'offre sont conçues pour (2):
 ?
 - Encourager les forces du marché et accroître la concurrence
 - Accroître la qualité et la quantité des facteurs de production
-<!--SR:!2024-02-26,14,130-->
+<!--SR:!2024-03-16,19,130-->
 
 Le gouvernement mène des politiques axées sur l’offre pour contribuer à la croissance de l’économie. Les objectifs des politiques du côté de l’offre comprennent (5):
 ?

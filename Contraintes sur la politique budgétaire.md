@@ -16,7 +16,7 @@ Les contraintes sont (3):
 ## 1. Pression politique
 ?
 Les gouvernements démocratiques sont généralement composés de différents partis politiques qui ne sont pas toujours d’accord sur l’outil de politique budgétaire à utiliser. Différents partis politiques peuvent avoir des convictions philosophiques différentes.
-<!--SR:!2024-02-27,54,250-->
+<!--SR:!2024-07-10,134,250-->
 
 ## 2. Décalages temporels
 ?
