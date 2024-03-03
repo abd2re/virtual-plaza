@@ -15,7 +15,7 @@ Created: 2023-06-05
 - $\cos(a-b)=$::$\cos a\cos b+\sin a\sin b$
 <!--SR:!2024-04-01,40,190-->
 - $\sin(a+b)=$::$\sin a\cos b+\sin b\cos a$
-<!--SR:!2024-02-28,62,230-->
+<!--SR:!2024-07-21,144,230-->
 - $\sin(a-b)=$::$\sin a\cos b-\sin b\cos a$
 <!--SR:!2024-04-15,73,230-->
 - $\tan(a+b)=$::$\frac{\tan a+\tan b}{1-\tan a\tan b}$
@@ -38,4 +38,4 @@ Pour $\cos(2a)$, les 3 formules sont:
 
 ## Autres
 - $\cos(\arcsin x)=\sin(\arccos x)=$::$\sqrt{1-x^{2}}$
-<!--SR:!2024-03-02,26,244-->
+<!--SR:!2024-05-01,60,244-->

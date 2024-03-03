@@ -16,7 +16,7 @@ Created: 2024-01-27
 - Niveau:: Le niveau d'un nœud particulier correspond au nombre de générations du nœud à partir de la racine. Si nous supposons que la racine est de niveau 1, ses enfants seront de niveau 2, ses petits-enfants de niveau 3, etc.
 <!--SR:!2024-04-09,44,250-->
 - Hauteur:: Nombre d'arêtes entre le nœud supérieur et la feuille la plus profonde (c'est-à-dire la plus éloignée).
-<!--SR:!2024-02-28,17,230-->
+<!--SR:!2024-04-08,40,230-->
 - Racine:: Le nœud situé au sommet de l'arbre est appelé la racine.
 <!--SR:!2024-03-13,31,270-->
 - Profondeur d'un nœud:: La longueur du chemin menant à sa racine.

@@ -26,7 +26,7 @@ C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain
 - S =:: Epargnes
 <!--SR:!2025-09-09,613,310-->
 - M =:: Importations
-<!--SR:!2024-02-28,257,330-->
+<!--SR:!2027-05-11,1168,350-->
 - G =:: Dépenses gouvernementales
 <!--SR:!2025-03-26,498,310-->
 - I =:: Investissements

@@ -9,7 +9,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 <!--SR:!2024-03-03,37,242-->
 
 - $Q_{2}$ si $n$ est impair =:: $$\frac{x_{n+1}}{2}$$
-<!--SR:!2024-03-01,18,190-->
+<!--SR:!2024-04-03,33,190-->
 - $Q_{2}$ si $n$ est pair =::$$\frac{x_{n/2}+x_{1+n/2}}{2}$$
 <!--SR:!2024-03-10,35,210-->
 
@@ -19,13 +19,13 @@ En statistiques, $\sigma$ est noté:: $S$.
 - La médiane est:: la valeur milieu
 <!--SR:!2024-05-15,79,242-->
 - $\mu=$::$$\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}}{\sum\limits_{i=1}^{k}f_{i}}$$
-<!--SR:!2024-03-01,27,202-->
+<!--SR:!2024-04-23,53,202-->
 - $\text{IQR}=$::$Q_{3}-Q_{1}$
-<!--SR:!2024-02-29,35,242-->
+<!--SR:!2024-05-23,84,242-->
 - $S^{2}=$::$$\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}^{2}}{\sum\limits_{i=1}^{k}f_{i}}-\mu^{2}$$
 <!--SR:!2024-03-06,33,202-->
 - $S=$::$$\sqrt{\frac{\sum\limits_{i=1}^{k}f_{i}x_{i}^{2}}{\sum\limits_{i=1}^{k}f_{i}}-\mu^{2}}$$
-<!--SR:!2024-03-02,25,202-->
+<!--SR:!2024-04-21,50,202-->
 
 ## Données groupées
 - La classe modale est:: la classe dont la fréquence est la plus élevée. (Il s'agit uniquement d'intervalles de la classe de qualification)
@@ -43,7 +43,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 - $\text{E}(aX+b)=$::$a\text{E}(X)+b$
 <!--SR:!2024-03-05,22,182-->
 - $\text{Var}(aX+b)=$::$a^{2}\text{Var}(x)$
-<!--SR:!2024-02-29,16,188-->
+<!--SR:!2024-03-29,29,188-->
 - $x$ est une valeur aberrante si:: $$x\notin [Q_{1}-1.5\times\text{IQR},\,Q_{3}+1.5\times\text{IQR}]$$
 <!--SR:!2024-05-16,83,248-->
 

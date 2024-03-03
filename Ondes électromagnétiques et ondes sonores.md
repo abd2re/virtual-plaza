@@ -12,7 +12,7 @@ Une onde électromagnétique est générée par:: l'oscillation combinée d'un c
 <!--SR:!2024-03-04,52,210-->
 
 - Quelle que soit leur fréquence, les ondes électromagnétiques se déplacent à la vitesse de:: la lumière dans le vide.
-<!--SR:!2024-03-01,63,250-->
+<!--SR:!2024-08-04,156,250-->
 
 ## Ondes sonores
 

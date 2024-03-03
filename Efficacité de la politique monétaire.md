@@ -12,7 +12,7 @@ Qu’est-ce qui empêche la politique monétaire d’être efficace (4)?:
 - Faible confiance des consommateurs et des entreprises (expansionniste)
 - Inflation (expansionniste)
 - Chômage (restrictive)
-<!--SR:!2024-02-28,13,170-->
+<!--SR:!2024-03-20,21,170-->
 
 Quels sont les atouts de la politique monétaire (3)?:
 ?

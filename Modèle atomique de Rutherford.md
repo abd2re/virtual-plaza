@@ -19,7 +19,7 @@ D'apres Ruthford, un atome positif est constitué:: d'un noyau positif contenant
 Inconvenient du modèle de Rutherford:
 ?
 Toute particule électrisée animé d'un mouvement circulaire devrait perdre de l'énergie sous forme de rayonnement électro-magnétique et l'électron devrait tomber sur le noyau.
-<!--SR:!2024-03-02,59,130-->
+<!--SR:!2024-04-03,32,130-->
 
 ### Interaction forte 
 ?
@@ -32,4 +32,4 @@ Du fait de l'interaction électrique les protons dans un noyau se repousse dans 
 - Lorsque l'atome se trouve sur un niveau d'énergie il n'émet pas de rayonnement.
 - L'atome émet ou absorbe un rayonnement quand il passe d'un niveau a l'autre
 - La fréquence de la lumière absorbée ou émise est proportionnelle a la différence d'énergie entre deux niveaux
-<!--SR:!2024-03-01,16,130-->
+<!--SR:!2024-03-07,6,130-->

@@ -10,7 +10,7 @@ Les politiques liées aux incitations comprennent (2):
 ?
 - Réductions de l'impôt sur le revenu des personnes physiques
 - Réduction de l'impôt sur les sociétés et sur les plus-values
-<!--SR:!2024-02-28,26,166-->
+<!--SR:!2024-04-12,44,166-->
 
 ## 1. Réductions de l'impôt sur le revenu des personnes physiques
 - Les réductions de l’impôt sur le revenu des particuliers encouragent les individus à:: travailler plus d’heures.

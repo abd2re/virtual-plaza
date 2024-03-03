@@ -9,7 +9,7 @@ Souvent la longueur du déplacement est différent de la distance parcourue. Dif
 - Déplacement est un vecteur
 - Distance parcouru est la trajectoire du mobile
 ![[image-20230328084223874.png]]
-<!--SR:!2024-03-01,192,228-->
+<!--SR:!2024-06-04,95,208-->
 
 Définition de trajectoire=:: L'ensemble des positions prises par le mobile au cours du temps.
 <!--SR:!2024-04-24,87,210-->

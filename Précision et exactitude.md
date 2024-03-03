@@ -13,4 +13,4 @@ La précision d'une expérience montre comment cette expérience est reproductib
 ## Exactitude
 ?
 L'exactitude d'une expérience ou d'une mesure est une mesure de la manière dont les résultats expérimentaux sont confus a la valeur vraie admise.
-<!--SR:!2024-03-01,36,190-->
+<!--SR:!2024-03-19,18,170-->

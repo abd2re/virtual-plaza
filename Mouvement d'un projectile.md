@@ -32,4 +32,4 @@ $\theta$=::angle de projection
 - Equation de fleche (H):: $$\large{H=\frac{v_{0}^{2}\sin^2(\theta)}{2g}}$$
 <!--SR:!2024-05-05,79,210-->
 - Equation de portée (R):: $$\large{R=\frac{v_{0}^{2}\sin^{2}(2\theta)}{g}}$$
-<!--SR:!2024-03-01,20,130-->
+<!--SR:!2024-03-26,25,130-->

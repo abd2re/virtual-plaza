@@ -61,7 +61,7 @@ L’inflation tirée par la demande se produit lorsqu’il y a une augmentation 
 - Selon la nouvelle théorie classique, l’augmentation de la demande globale est suivie:: d’une pression à la hausse sur les salaires, de sorte qu’il n’y aura pas d’augmentation de la production à long terme.![[image-20230921081541285.png]]
 <!--SR:!2024-06-05,129,203-->
 - Selon la théorie keynésienne, toutes les augmentations de la demande globale ::n’entraînent pas une hausse des prix.![[image-20230921081748401.png]]
-<!--SR:!2024-02-29,96,243-->
+<!--SR:!2024-10-18,232,243-->
 
 
 - Selon la théorie keynésienne, si l’économie fonctionne à un équilibre inférieur au plein emploi, il existe alors des capacités inutilisées dans l’économie et les prix:: n’auront pas besoin d’augmenter.

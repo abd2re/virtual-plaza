@@ -25,7 +25,7 @@ Réponses possibles du gouvernement (3):
 Effets des réponses possibles du gouvernement sur la courbe BMP:
 ?
 ![[image-20230207165457620.png|500]]
-<!--SR:!2024-03-01,31,190-->
+<!--SR:!2024-04-28,58,190-->
 
 ## Externalité positive de la consommation
 Définition et graphe:

@@ -23,7 +23,7 @@ L'équation différentielle $I\frac{dy}{dx}+IP(x)y=IQ(x)$ où $I=e^{\int P(x)\,d
 ?
 $$\int\left(I\frac{dy}{dx}+IP(x)y\right)\,dx=\int IQ(x)\,dx$$
 $$Iy=\int IQ\,dx$$
-<!--SR:!2024-03-01,9,228-->
+<!--SR:!2024-03-21,20,228-->
 
 
 Etapes pour utiliser la méthode d'Euler avec une équation différentielle du premier ordre:

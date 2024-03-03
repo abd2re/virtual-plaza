@@ -34,13 +34,13 @@ L'offre d'une monnaie provient de (5) (britannique pour ce cas):
 - Personnes du Royaume-Uni qui voyagent à l'étranger
 - Spéculateurs
 - Banques centrales
-<!--SR:!2024-03-01,13,210-->
+<!--SR:!2024-03-29,28,210-->
 
 Dans un système de taux de change flottants, une augmentation de la valeur d'une monnaie par rapport à une autre est appelée:: appréciation.
 <!--SR:!2024-03-05,21,250-->
 
 Dans un système de taux de change flottants, une diminution de la valeur d’une monnaie par rapport à une autre est appelée:: dépréciation.
-<!--SR:!2024-02-29,7,210-->
+<!--SR:!2024-03-14,14,210-->
 
 
 ### Graphiques

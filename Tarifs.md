@@ -10,12 +10,12 @@ Le protectionnisme fait référence à:: des outils politiques, tels que les tar
 <!--SR:!2024-03-05,20,190-->
 
 Un tarif fait référence à:: une taxe prélevée par unité sur le prix des biens et services importés. Un pays peut choisir d'imposer un droit de douane pour protéger une industrie nationale.
-<!--SR:!2024-02-29,13,150-->
+<!--SR:!2024-03-18,18,150-->
 
 Graphique de l'effet des tarifs sur les importations (tout les éléments):
 ?
 ![[image-20231220095125824.png]]
-<!--SR:!2024-02-28,24,230-->
+<!--SR:!2024-04-24,56,230-->
 
 Les tarifs sont plus efficaces si un substitut proche est:: produit sur le marché intérieur et que la demande est donc élastique.
 <!--SR:!2024-03-27,42,250-->
@@ -30,5 +30,5 @@ Les tarifs sont plus efficaces si un substitut proche est:: produit sur le march
 - Gouvernement:: En mettant en place la taxe, le gouvernement se donne la possibilité de générer des recettes fiscales.
 <!--SR:!2024-04-18,57,250-->
 - Société:: Un tarif crée une perte de bien-être car les consommateurs paient plus et consomment moins.
-<!--SR:!2024-02-29,24,230-->
+<!--SR:!2024-04-23,54,230-->
 

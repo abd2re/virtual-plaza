@@ -30,7 +30,7 @@ La demande totale de main-d'œuvre passe de AD L à AD L1 . Au taux de sala
 ### Chômage réel
 ?
 Un salaire minimum imposé par le gouvernement peut également accroître le chômage, c'est ce qu'on appelle chômage au salaire réel, où il existe un écart entre le nombre d'emplois disponibles et le nombre de personnes désireuses et capables de travailler au taux de salaire en vigueur.
-<!--SR:!2024-02-29,20,190-->
+<!--SR:!2024-04-06,37,190-->
 
 Graphique avec axes et explication du nombre de chômeurs
 ?
@@ -58,7 +58,7 @@ Il y a deux causes principales du chômage structurel:
 ?
 - Lorsqu’une **industrie déménage dans un pays ou dans un autre pays**, il est peu probable que les gens déménagent avec l’industrie.
 - Les **rigidités du marché du travail**, telles que la difficulté pour les gens de changer d'emploi et de type d'emploi, et la législation du travail qui empêche le licenciement facile des travailleurs inefficaces, réduiront l'offre de main-d'œuvre disponible
-<!--SR:!2024-03-02,52,202-->
+<!--SR:!2024-03-27,25,182-->
 
 3 étapes lorsqu'il y a un chômage structurel (graphiques):
 ?
@@ -80,7 +80,7 @@ Quels sont les coûts personnels du chômage (2) ?:
 ?
 1. Augmentation de l’endettement, du sans-abrisme et de l’éclatement des famille
 2. Niveaux de stress accrus
-<!--SR:!2024-02-28,15,202-->
+<!--SR:!2024-03-28,29,202-->
 
 Quels sont les coûts sociaux du chômage (2) ?:
 ?

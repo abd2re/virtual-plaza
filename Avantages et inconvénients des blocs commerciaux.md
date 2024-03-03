@@ -12,7 +12,7 @@ Les avantages sont (4):
 - De meilleures opportunités d’emploi grâce à la mobilité de la main-d’œuvre
 - Pouvoir de négociation plus fort dans les négociations multilatérales
 - Plus grande stabilité politique et une plus grande coopération
-<!--SR:!2024-02-28,11,150-->
+<!--SR:!2024-03-15,16,150-->
 
 Les inconvénients sont (2):
 ?

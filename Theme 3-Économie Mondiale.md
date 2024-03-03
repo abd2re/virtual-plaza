@@ -9,3 +9,4 @@ tags:
 ![[Chapitre 4 - Intégration économique]]
 ![[Chapitre 5 - Taux d'échange]]
 ![[Chapitre 6 - Balance des paiements]]
+![[Chapitre 7 - Développement durable]]

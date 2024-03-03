@@ -25,7 +25,7 @@ Le gouvernement mène des politiques axées sur l’offre pour contribuer à l
 - La capacité productive comprend toutes les ressources par exemple::, la terre, la main-d'œuvre, les moteurs, les machines, la technologie, le savoir-faire et le stock de capital de l'économie.
 <!--SR:!2024-05-09,82,230-->
 - L’augmentation du stock de main-d’œuvre et du nombre de machines augmentera:: la capacité de production, et donc la production.
-<!--SR:!2024-03-02,42,224-->
+<!--SR:!2024-06-05,95,224-->
 
 La population active peut être augmentée en (4):
 ?
@@ -39,11 +39,11 @@ Le facteur capital peut être augmenté en (2):
 ?
 - Abaissant les taux d'intérêt et rendre moins coûteux pour les entreprises d'emprunter de l'argent pour acheter des machines (augmente l'investissement)
 - Donnant des allégements fiscaux aux entreprises qui investissent dans de nouvelles machines
-<!--SR:!2024-02-28,10,130-->
+<!--SR:!2024-03-14,15,130-->
 
 ## 2. Améliorer la concurrence et l’efficacité
 - La concurrence oblige:: les entreprises à s’améliorer.
-<!--SR:!2024-02-29,47,250-->
+<!--SR:!2024-06-25,117,250-->
 - La concurrence oblige également les entreprises à baisser:: leurs prix.
 <!--SR:!2024-03-04,49,250-->
 - Une concurrence accrue fera:: baisser les prix et augmentera la production à long-terme.

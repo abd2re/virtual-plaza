@@ -41,21 +41,21 @@ Tangente et normale pour une fonction représente:
 - $f(x)=e^{x}\rightarrow f'(x)=$::$e^{x}$
 <!--SR:!2024-03-03,59,250-->
 - $f(x)=\log_{a}(x)\rightarrow f'(x)=$::$\frac{1}{\ln(a)x}$
-<!--SR:!2024-02-29,7,130-->
+<!--SR:!2024-03-09,9,130-->
 - $f(x)=\ln(x)\rightarrow f'(x)=$::$\frac{1}{x}$
 <!--SR:!2024-05-13,99,250-->
 - $f(x)=\sin(x)\rightarrow f'(x)=$::$\cos(x)$
 <!--SR:!2024-05-14,102,250-->
 - $f(x)=\cos(x)\rightarrow f'(x)=$::$-\sin(x)$
-<!--SR:!2024-03-01,57,250-->
+<!--SR:!2024-07-21,142,250-->
 - $f(x)=\tan(x)\rightarrow f'(x)=$::$\sec^{2}(x)$
 <!--SR:!2024-05-07,96,250-->
 - $f(x)=\sec(x)\rightarrow f'(x)=$::$\sec(x)\tan(x)$
 <!--SR:!2024-03-05,7,157-->
 - $f(x)=\csc(x)\rightarrow f'(x)=$::$-\csc(x)\cot(x)$
-<!--SR:!2024-02-28,4,137-->
+<!--SR:!2024-03-03,4,137-->
 - $f(x)=\cot(x)\rightarrow f'(x)=$::$-\csc^{2}(x)$
-<!--SR:!2024-02-28,9,137-->
+<!--SR:!2024-03-12,13,137-->
 - $f(x)=\sin^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{1}{\sqrt{a-x^{2}}}$
 <!--SR:!2024-03-09,17,217-->
 - $f(x)=\cos^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{-1}{\sqrt{a-x^{2}}}$
@@ -80,7 +80,7 @@ Tangente et normale pour une fonction représente:
 - Si $f''(x)=0$ alors ce point est:: un point d'inflexion
 <!--SR:!2024-05-15,88,240-->
 - Si $f'(x)=0$ et $f''(x)<0$ alors ce point est:: un maximum local
-<!--SR:!2024-03-01,42,240-->
+<!--SR:!2024-03-21,20,220-->
 - Si $f'(x)=0$ et $f''(x)>0$ alors ce point est:: un minimum local
 <!--SR:!2024-05-08,85,240-->
 - $f$ est concave haut si $f''(x)$::$>0$

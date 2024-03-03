@@ -26,7 +26,7 @@ Le champ électrique ne dépend pas :: de la charge q (qui le subit) mais des ch
 ?
 ![[Champ électrique-1.png]]![[image-20221129092354879.png]]![[image-20221129092504068.png]]
 ![[image-20221201164013884.png]]
-<!--SR:!2024-02-28,101,210-->
+<!--SR:!2024-04-17,49,190-->
 
 
 - Champ crée pas plusieurs charges c'est:: la somme vectorielle de chacun des champs
@@ -35,6 +35,6 @@ Le champ électrique ne dépend pas :: de la charge q (qui le subit) mais des ch
 ## Lignes de champ
 ?
 Ce sont des courbes tangentes au vecteur champ électrique en chacun de ses points.
-<!--SR:!2024-03-01,100,210-->
+<!--SR:!2024-04-21,51,190-->
 
 

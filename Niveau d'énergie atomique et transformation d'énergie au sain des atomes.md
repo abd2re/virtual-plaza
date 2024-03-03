@@ -17,7 +17,7 @@ $$E=hf=\frac{hc}{\lambda}$$
 - $\lambda$ = longueur d'onde en $m$
 - $h$ = La constante de Planck ($6.62\times 10^{−34}Js$)
 - $c$ = Célérité ($3\times 10^{8} ms^{-2}$)
-<!--SR:!2024-02-28,23,130-->
+<!--SR:!2024-03-13,14,130-->
 
 
 - Une lumière qui est constitué de plusieurs couleurs est appelé:: **lumière polychromatique**
@@ -56,5 +56,5 @@ Types de spectres de lumières et représentations:
 ?
 (représentation)
 ![[image-20230323084755508.png]]
-<!--SR:!2024-03-01,84,166-->
+<!--SR:!2024-04-11,41,146-->
 

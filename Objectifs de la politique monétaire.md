@@ -26,4 +26,4 @@ Le gouvernement peut augmenter ou diminuer la masse monétaire en (2):
 ?
 - Achetant ou vendant des obligations
 - Contrôlant la reserve obligatoire
-<!--SR:!2024-02-29,58,228-->
+<!--SR:!2024-03-30,30,208-->

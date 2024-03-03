@@ -45,7 +45,7 @@ Graphique
 <!--SR:!2024-03-17,70,230-->
 
 Si l'économie est dans un écart de recession, alors pour le combler il faut:: baisser les taux d'intérêts pour augmenter la demande et ramener la production d'équilibre au plein emploi.![[image-20231108093711743.png]]
-<!--SR:!2024-03-02,14,150-->
+<!--SR:!2024-03-07,5,130-->
 
 ### 2. Imprime de l'argent physique et frappe des pièces de monnaie
 La banque centrale imprime des billets et frappe des pièces pour (2) :

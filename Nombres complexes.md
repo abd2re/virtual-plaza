@@ -111,7 +111,7 @@ $e^{i\pi}$=::$-1$
 - $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
 <!--SR:!2024-03-14,83,234-->
 - $e^{in\theta}-e^{-in\theta}$=::$2i\sin(n\theta)$
-<!--SR:!2024-02-28,74,234-->
+<!--SR:!2024-08-18,172,234-->
 
 
 ## Fresnel formule complexe

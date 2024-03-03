@@ -10,7 +10,7 @@ L'interférence se produit lorsque:: deux ou plusieurs ondes se combinent pour p
 - Les ondes se combinent selon le principe de:: superposition
 <!--SR:!2024-03-26,67,270-->
 - L'interférence constructive se produit lorsque:: l'onde résultante a un déplacement plus important que n'importe lequel des déplacements individuels.
-<!--SR:!2024-02-28,49,250-->
+<!--SR:!2024-03-22,23,230-->
 - L'interférence destructive se produit lorsque:: le déplacement positif d'une onde et le déplacement négatif d'une autre onde s'annulent exactement, ce qui donne un déplacement résultant de zéro.
 <!--SR:!2024-03-22,64,250-->
 

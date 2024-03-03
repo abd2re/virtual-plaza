@@ -11,7 +11,7 @@ Les contraintes sont (3):
 - Pression politique
 - Décalages temporels
 - Dette viable
-<!--SR:!2024-02-29,15,210-->
+<!--SR:!2024-04-03,34,210-->
 
 ## 1. Pression politique
 ?

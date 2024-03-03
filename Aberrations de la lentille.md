@@ -9,7 +9,7 @@ Created: 2024-01-29
 Représentation de l'aberration sphérique et solution :
 ?
 ![[image-20240129100632114.png|center|600]]
-<!--SR:!2024-02-28,8,210-->
+<!--SR:!2024-03-18,19,210-->
 
 Représentation de l'aberration chromatique et solution :
 ?

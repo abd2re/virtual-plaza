@@ -26,4 +26,7 @@ Une image virtuelle est:: une image formée par une extension des rayons lumineu
 
 
 
+Image de rayons parallèles formant un angle avec la lentille convergente:
+?
+![[image-20240301105721672.png|center]]
 

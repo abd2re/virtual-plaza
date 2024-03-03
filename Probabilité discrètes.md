@@ -43,7 +43,7 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - $P(U)$=::1
 <!--SR:!2024-05-07,139,250-->
 - $P(0)$=::0
-<!--SR:!2024-03-01,104,270-->
+<!--SR:!2025-03-27,391,290-->
 - $P(A)+P(A')$=::1
 <!--SR:!2024-05-14,142,250-->
 - $P(A\cup B)$ (2)=::$P(A)+P(B)-P(A\cap B)=P(A\cap B')+P(A\cap B)+P(A'\cap B)$
@@ -62,7 +62,7 @@ Deux événements sont dépendants si:: la survenance de l'un d'entre eux affect
 <!--SR:!2024-07-08,173,252-->
 
 Pour les événements dépendants A et B, $P(A\cap B)$=::$P(A)\times P(B/A)$
-<!--SR:!2024-03-01,89,232-->
+<!--SR:!2024-04-14,44,212-->
 
 ## Probabilité conditionnelle
 Pour deux événements A et B, $A/B$ représente l'événement "A sachant B", et $P(A/B)$=::$\frac{P(A\cap B)}{P(B)}$
@@ -75,5 +75,5 @@ Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap
 <!--SR:!2024-03-04,6,172-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
-<!--SR:!2024-02-29,32,211-->
+<!--SR:!2024-05-06,67,211-->
 
