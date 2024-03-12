@@ -6,7 +6,7 @@ Created: 2024-01-20
 
 # Blocs commerciaux
 Un bloc commercial s’agit d::’un niveau d’intégration économique plus étroit que les ACPr.
-<!--SR:!2024-03-03,7,170-->
+<!--SR:!2024-03-16,13,170-->
 
 Il existe quatre types de blocs commerciaux:
 ?

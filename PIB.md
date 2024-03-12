@@ -6,7 +6,7 @@ Created: 2023-03-31
 # PIB
 ?
 Le PIB est la **valeur** des biens et des services **produits** dans un pays au cours d'une **période donnée**.
-<!--SR:!2024-03-03,31,130-->
+<!--SR:!2024-04-11,39,130-->
 
 Avantages du PIB (3):
 ?
@@ -28,12 +28,12 @@ Les trois méthodes de calculer le PIB sont:
 - [[Méthode de sortie (production)]]
 - [[Méthode du revenu]]
 - [[Méthode des dépenses (demande)]]
-<!--SR:!2024-03-08,52,201-->
+<!--SR:!2024-04-01,24,181-->
 
 Les gouvernements peuvent comptabiliser le revenu national en additionnant toutes les catégories de revenus (loyers, salaires, intérêts et bénéfices), la valeur ajoutée de chaque catégorie de production (des industries primaires, secondaires et tertiaires) ou les catégories de dépenses d'une économie. En d'autres termes:
 ?
 Revenu = Production = Dépenses
-<!--SR:!2024-03-12,22,161-->
+<!--SR:!2024-04-15,34,161-->
 
 ## PIB nominal et PIB réel
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation

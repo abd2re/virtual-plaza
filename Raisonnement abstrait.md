@@ -6,7 +6,7 @@ Created: 2023-04-12
 # Raisonnement abstrait
 ?
 En informatique, l'abstraction est une technique permettant de gérer la complexité des systèmes informatiques.
-<!--SR:!2024-03-04,69,210-->
+<!--SR:!2024-07-26,144,210-->
 
 C'est quoi l'abstraction ?
 ?

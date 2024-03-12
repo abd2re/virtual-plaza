@@ -19,7 +19,7 @@ Lorsqu'il y a une politique budgétaire restrictives, qu'est-ce qui se passe aux
 <!--SR:!2024-06-16,111,228-->
 
 - Une politique budgétaire expansionniste peut combler:: un écart de récession.
-<!--SR:!2024-03-12,64,250-->
+<!--SR:!2024-08-18,159,250-->
 - Une politique budgétaire restrictive peut combler:: un écart inflationniste.
 <!--SR:!2024-07-12,141,268-->
 

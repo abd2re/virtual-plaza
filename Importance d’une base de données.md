@@ -16,3 +16,4 @@ Created: 2024-02-26
 - Données incomplètes
 
 Pour éviter les problèmes liés au stockage des données dans des fichiers texte ou des feuilles de calcul, une base de données est:: nécessaire.
+<!--SR:!2024-03-22,14,290-->

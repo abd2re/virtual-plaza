@@ -54,7 +54,7 @@ $$\Large{2bi}$$
 $zz^{*}$=
 ?
 $$\Large{a^{2}+b^{2}}$$
-<!--SR:!2024-03-08,31,150-->
+<!--SR:!2024-04-25,48,150-->
 
 ---
 $|z|$=
@@ -65,7 +65,7 @@ $$\Large{\sqrt{a^{2}+b^{2}}}$$
 $|z|^{2}$=
 ?
 $$\Large{zz^{*}}$$
-<!--SR:!2024-03-04,12,130-->
+<!--SR:!2024-03-16,7,130-->
 
 Propriétés des sommes, soustractions, multiplication et division de deux conjuguées:
 ?
@@ -86,15 +86,15 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $|\frac{z}{w}|$=::$\frac{|z|}{|w|}$
 <!--SR:!2024-07-11,150,236-->
 - $zw$=::$|z||w|[\cos(\theta+\alpha)+i\sin(\theta+\alpha)]$
-<!--SR:!2024-03-11,29,196-->
+<!--SR:!2024-03-24,13,176-->
 - $\frac{z}{w}$=::$\frac{|z|}{|w|}[\cos(\theta-\alpha)+i\sin(\theta-\alpha)]$
 <!--SR:!2024-03-20,88,236-->
 - $z^{n}$=::$|z|^{n}(\cos n\theta+i\sin n\theta)$
-<!--SR:!2024-03-08,15,176-->
+<!--SR:!2024-04-03,26,176-->
 - $\theta$=::$\tan^{-1}(\frac{b}{a})$
 <!--SR:!2024-03-15,84,236-->
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
-<!--SR:!2024-03-03,6,130-->
+<!--SR:!2024-03-15,6,130-->
 - $(z-w)(z-w^{*})$=::$z^{2}-z\text{Re}(w)+|w|^{2}$
 <!--SR:!2024-03-21,29,174-->
 
@@ -102,12 +102,12 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 Si $|z|=1$ alors $z^{*}$=::$z^{-1}$
 <!--SR:!2024-06-02,128,234-->
 $e^{i\pi}$=::$-1$
-<!--SR:!2024-03-10,81,234-->
+<!--SR:!2024-09-15,189,234-->
 
 - $z^{n}+z^{-n}$=::$2\cos(n\theta)$
 <!--SR:!2024-07-20,154,234-->
 - $z^{n}-z^{-n}$=::$2i\sin(n\theta)$
-<!--SR:!2024-03-08,79,234-->
+<!--SR:!2024-09-08,184,234-->
 - $e^{in\theta}+e^{-in\theta}$=::$2\cos(n\theta)$
 <!--SR:!2024-03-14,83,234-->
 - $e^{in\theta}-e^{-in\theta}$=::$2i\sin(n\theta)$
@@ -116,5 +116,5 @@ $e^{i\pi}$=::$-1$
 
 ## Fresnel formule complexe
 $a\cos\theta+b\sin\theta$=::$\text{Re}[(a-ib)e^{i\theta}]$
-<!--SR:!2024-03-05,36,150-->
+<!--SR:!2024-03-23,18,130-->
 

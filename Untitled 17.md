@@ -26,5 +26,5 @@ Mbene: MADEMBA2
 **Groupe 4**
 Binta: CID1
 Breal: CID2
-Abdoul: CID2
+Abdoul: CID3
 Mbarrick: CID1

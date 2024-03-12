@@ -24,7 +24,7 @@ La période depend pas du milieu ? Vrai ou faux ?:: Vrai, elle dépend de l'impu
 - Lors du passage dans la direction normale (perpendiculaire), la lumière ne se plie pas du tout. Cela serait décrit comme:: une transmission.
 <!--SR:!2024-05-06,74,210-->
 - Lorsque la lumière passe d'un milieu moins dense à un milieu plus dense, comme de l'air au verre, la lumière réfractée a une vitesse plus faible et une longueur d'onde plus courte que la lumière incidente. Vrai ou faux ?:: Vrai.
-<!--SR:!2024-03-09,62,250-->
+<!--SR:!2024-08-10,154,250-->
 - Lorsque la lumière passe d'un milieu plus dense à un milieu moins dense, comme du verre à l'air, la lumière réfractée a une vitesse plus faible et une longueur d'onde plus courte que la lumière incidente. Vrai ou faux ?:: Faux, la lumière réfractée a une vitesse plus élevée et une longueur d'onde plus longue que la lumière incidente.
 <!--SR:!2024-06-05,114,250-->
 

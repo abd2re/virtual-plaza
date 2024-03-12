@@ -10,8 +10,8 @@ Here are seven basic types of **PLOT** as outline by Christopher Booker. If you 
 *Overcoming the Monster*=> :: The protagonist must defeat an antagonist (usually an individual, force, or entity) that threatens them and the wider world. 
 <!--SR:!2024-06-30,318,250-->
 
-*Rags to Riches*=> :: The protagonist achieves something they lack, loses what they’ve gained, and then gets it back again. 
-<!--SR:!2024-03-12,248,250-->
+*Rags to Riches*=> :: The protagonist achieves something they lack, loses what they’ve gained, and then gets it back again.
+<!--SR:!2025-11-21,619,250-->
 
 *The Quest*=> :: The protagonist must set out in pursuit of a treasure, place, or other goal, overcoming challenges along the way.
 <!--SR:!2025-09-18,581,250-->

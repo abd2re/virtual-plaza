@@ -8,7 +8,7 @@ Représentation:
 ?
 ![[image-20230612165341015.png]]
 Le travail d'une force constante $\vec{F}$ dont le point d'application se déplace de A a B est $W_{A\rightarrow B}(\vec{F})$.
-<!--SR:!2024-03-03,39,170-->
+<!--SR:!2024-05-09,67,170-->
 
 - Le travail est un changement d::'énergie.
 <!--SR:!2024-07-30,185,238-->
@@ -22,4 +22,4 @@ $$\Large{W_{A\rightarrow B}(\vec{F})=\vec{F}\cdot\vec{AB}=F\times AB\times \cos\
 <!--SR:!2024-04-20,123,221-->
 - Si $W<0$ alors le travail est un travail résistant.
 - Si $W=0$ alors forcément:: $F=0$ ou $\theta=90$
-<!--SR:!2024-03-10,39,201-->
+<!--SR:!2024-05-29,80,201-->

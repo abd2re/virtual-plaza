@@ -18,6 +18,6 @@ $$EPC_{j/i}=\frac{\% \Delta Q_{j}}{\% \Delta P_{i}}$$
 - Si EPC est négatif:: les biens sont complémentaires
 <!--SR:!2024-05-31,148,210-->
 - Si EPC est positif:: les biens sont substituables
-<!--SR:!2024-03-05,63,190-->
+<!--SR:!2024-07-02,119,190-->
 - Si EPC est nulle:: les biens sont indépendants
 <!--SR:!2024-06-30,204,230-->

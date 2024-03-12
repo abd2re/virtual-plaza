@@ -17,14 +17,14 @@ Arguments pour le protectionnisme sont (9):
 - Correction de la balance des paiements
 - Sources de revenus du gouvernement
 - Protection des emplois
-<!--SR:!2024-03-07,24,210-->
+<!--SR:!2024-03-20,13,190-->
 
 
 Un industrie naissante (ou en plein essor) est celui:: qui vient de s'ouvrir et n'est pas encore assez grand pour profiter de l'économie d'échelle.
-<!--SR:!2024-03-06,13,230-->
+<!--SR:!2024-04-03,28,230-->
 
 Economie d'échelle:: Capacité d'une entreprise à produire avec des coûts moyens inférieurs lorsque sa taille augmente.
-<!--SR:!2024-03-07,22,190-->
+<!--SR:!2024-04-16,40,190-->
 
 Graphique de l'économie d'échelle:
 ?

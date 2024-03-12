@@ -7,15 +7,15 @@ Created: 2024-01-27
 # Taux de change flottants
 
 Un taux de change est:: la valeur d’une monnaie exprimée par rapport à une autre monnaie.
-<!--SR:!2024-03-05,16,190-->
+<!--SR:!2024-04-03,29,190-->
 
 Un taux de change flottant (ou taux de change flexible) est:: un système dans lequel la valeur de la monnaie est déterminée par les forces de l'offre et de la demande de cette monnaie sur le marché des changes.
-<!--SR:!2024-03-09,13,190-->
+<!--SR:!2024-03-16,7,170-->
 
 Graphique (marché de la livre sterling exprimée en USD):
 ?
 ![[image-20240127144909450.png]]
-<!--SR:!2024-03-06,22,250-->
+<!--SR:!2024-04-28,53,250-->
 
 
 La demande d'une monnaie provient de (5) (britannique pour ce cas):
@@ -37,7 +37,7 @@ L'offre d'une monnaie provient de (5) (britannique pour ce cas):
 <!--SR:!2024-03-29,28,210-->
 
 Dans un système de taux de change flottants, une augmentation de la valeur d'une monnaie par rapport à une autre est appelée:: appréciation.
-<!--SR:!2024-03-05,21,250-->
+<!--SR:!2024-05-17,73,270-->
 
 Dans un système de taux de change flottants, une diminution de la valeur d’une monnaie par rapport à une autre est appelée:: dépréciation.
 <!--SR:!2024-03-14,14,210-->
@@ -45,14 +45,14 @@ Dans un système de taux de change flottants, une diminution de la valeur d’un
 
 ### Graphiques
 Appréciation provoquée par une augmentation de la demande::![[image-20240127152825962.png]]
-<!--SR:!2024-03-03,20,250-->
+<!--SR:!2024-04-21,49,250-->
 
 Appréciation causée par une diminution de l’offre::![[image-20240127152845275.png]]
-<!--SR:!2024-03-06,22,250-->
+<!--SR:!2024-04-29,54,250-->
 
 Dépréciation causée par une diminution de la demande::![[image-20240127152902331.png]]
 <!--SR:!2024-03-19,34,270-->
 
 Dépréciation causée par une augmentation de l’offre::![[image-20240127152920087.png]]
-<!--SR:!2024-03-04,21,250-->
+<!--SR:!2024-05-16,73,270-->
 

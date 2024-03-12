@@ -27,7 +27,7 @@ Caractéristique intensité-tension d'une pile (graphe)::![[Piles électriques.p
 <!--SR:!2024-03-24,105,226-->
 
 On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circuit caractéristique d'une pile]]
-<!--SR:!2024-03-11,103,226-->
+<!--SR:!2024-10-29,232,226-->
 
 
 - $U=e$ si:: $I=0$
@@ -44,7 +44,7 @@ circuit équivalent d'une pile réel::![[equivalent e;r]]
 
 ## Circuits avec des piles
 formule emf::$$e=(r+R)I$$
-<!--SR:!2024-03-09,18,130-->
+<!--SR:!2024-03-31,22,130-->
 
 
 ## Circuits simples comportant des piles, récepteurs et resistors

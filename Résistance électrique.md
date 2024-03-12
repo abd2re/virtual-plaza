@@ -22,7 +22,7 @@ $$R=\frac{\rho l}{A}$$
 Caractéristique intensité-tension du resistor a comme graphe::![[Résistance électrique.png]]
 <!--SR:!2024-04-12,154,210-->
 - Formule de la loi d'Ohm::$$U=RI$$ car $U$ et $I$ sont proportionnelles.
-<!--SR:!2024-03-04,44,190-->
+<!--SR:!2024-05-28,85,190-->
 
 - Loi d'Ohm:: A [[température]] constante la tension et l'intensité aux bornes d'un conducteurs sont proportionnelles
 <!--SR:!2024-04-06,104,243-->
@@ -68,11 +68,11 @@ On sait que
 $$U_{1}=R_{1}\times I$$
 donc
 $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U}$$
-<!--SR:!2024-03-04,5,140-->
+<!--SR:!2024-03-16,5,130-->
 
 ## Montage potentiométrique
 Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe. ![[image-20230116161558430.png|400]]
-<!--SR:!2024-03-12,11,163-->
+<!--SR:!2024-03-31,19,163-->
 
 
 ### Rhéostat
@@ -86,7 +86,7 @@ Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. 
 - si C est en A $$R_{AC}=R_{AA}=0,\;U_{AC}=0$$
 - si C est en B $$R_{AC}=R_{AB},\;U_{AC}=\frac{R_{AB}}{R_{AB}}U_{AB}=U_{AB}$$
 - si C est entre A et B $$0<U_{S}<U_{AB}$$
-<!--SR:!2024-03-03,10,130-->
+<!--SR:!2024-03-14,2,130-->
 
 
 

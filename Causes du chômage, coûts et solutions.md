@@ -10,16 +10,16 @@ Au total, il existe quatre types de chômage qui se répartissent en deux grande
 - **Chômage de déséquilibre** inclut:: le chômage cyclique (déficit de la demande) et le chômage réel.
 <!--SR:!2024-03-14,112,250-->
 - **Taux de chômage naturel** comprend:: le chômage frictionnel, saisonnier et structurel.
-<!--SR:!2024-03-08,12,150-->
+<!--SR:!2024-03-13,5,130-->
 
 ## Causes du chômage
 ### Cyclique (demande insuffisante)
 ?
 Dans le cas d'une récession, une réduction de la [[demande globale]] entraînerait une baisse de la production nationale, une baisse des revenus des entreprises et des particuliers, une augmentation du chômage et, potentiellement, une baisse du niveau général des prix également. Ce type de chômage est connu sous le nom de chômage cyclique ou un **chômage insuffisant par rapport à la demande**.
-<!--SR:!2024-03-04,10,150-->
+<!--SR:!2024-03-20,16,150-->
 
 Les récessions peuvent également provoquer un [[choc d'offre]] lorsque l'[[offre]] globale diminue, entraînant une hausse des [[coûts de production]] et entraînant ce que l'on appelle:: une baisse de l'offre globale (stagflation).
-<!--SR:!2024-03-12,35,210-->
+<!--SR:!2024-03-29,17,190-->
 
 Graphique avec axes et explication du nombre de chômeurs
 ?
@@ -74,7 +74,7 @@ Quels sont les coûts économiques du chômage (5) ?:
 3. Augmentation du coût des allocations de chômage
 4. Perte de revenus pour les particuliers
 5. De plus grandes disparités dans la répartition des revenus
-<!--SR:!2024-03-10,12,130-->
+<!--SR:!2024-03-15,5,130-->
 
 Quels sont les coûts personnels du chômage (2) ?:
 ?

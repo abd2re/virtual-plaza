@@ -7,7 +7,7 @@ Created: 2022-09-30
 ## Excèdent d'offre (surplus)
 ?
 ![[image-20220930085002578.png]]
-<!--SR:!2024-03-07,125,250-->
+<!--SR:!2025-01-13,312,250-->
 
 ## Pénurie de produits
 ?

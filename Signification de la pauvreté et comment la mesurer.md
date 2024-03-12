@@ -24,7 +24,7 @@ Ils sont (5):
 - [[Dépendance à l’égard du secteur primaire]]
 - [[Grande économie informelle]]
 - Normes de revenu minimum
-<!--SR:!2024-03-09,21,130-->
+<!--SR:!2024-04-08,30,130-->
 
 ### Indicateurs composites
 ?
@@ -44,4 +44,4 @@ Ils sont (4):
 - Pauvreté au sein du ménage
 - Pauvreté urbaine
 - Données ventilées sur la pauvreté (démographie)
-<!--SR:!2024-03-05,29,130-->
+<!--SR:!2024-04-13,39,130-->

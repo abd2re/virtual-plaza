@@ -24,7 +24,7 @@ $$\lambda=\frac{\ln\left(\frac{A_{0}}{A}\right)}{t}=\frac{\ln2}{T_{1/2}}$$
 - $t$ =  temps passé
 - $\lambda$ = Constante de désintégration d'un noyau, probabilité de désintégration par unite de temps
 - $T_{1/2}$ = période radioactive de la substance (constant)
-<!--SR:!2024-03-06,15,190-->
+<!--SR:!2024-04-04,29,190-->
 
 Graphe de période radioactive:
 ?
@@ -36,7 +36,7 @@ Graphe de période radioactive:
 ## Détection de la radioactivité
 
 On peut détecter un rayonnement radioactif avec:: **un compteur Ceiger-Muller** ou un [[champ électrique]] ou magnétique.  ![[image-20230307091645899.png]]
-<!--SR:!2024-03-07,72,168-->
+<!--SR:!2024-07-05,120,168-->
 
 
 Formule Activité radioactives-Nombre de noyaux:

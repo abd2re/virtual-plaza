@@ -14,4 +14,6 @@ Par définition, une transaction de base de données doit être (4):: atomique, 
 
 
 - Si aucune erreur ne s'est produite pendant l'exécution de la transaction, le système valide la transaction et la termine. Une opération de validation de transaction applique toutes les manipulations de données dans le cadre de la transaction et persiste les résultats dans la base de données. Cette opération est communément appelée:: Commit.
+<!--SR:!2024-03-17,10,270-->
 - Si une erreur survient au cours de la transaction, ou si l'utilisateur spécifie une opération de retour en arrière, les manipulations de données effectuées dans le cadre de la transaction ne sont pas conservées dans la base de données. Une opération est effectuée pour remettre la base de données à son état avant l’exécution de la transaction. Cette opération est communément appelée:: Rollback.
+<!--SR:!2024-03-19,12,270-->

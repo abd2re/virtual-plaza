@@ -47,7 +47,7 @@ Les spectres atomiques montrent le spectre des longueurs d'onde discrètes émis
 Types de spectres de lumières et représentations:
 ?
 ![[image-20230222120641551.png]]
-<!--SR:!2024-03-04,204,214-->
+<!--SR:!2025-05-14,436,214-->
 
 - Le spectre d'absorption est:: un spectre de la lumière blanche ou il ne figure pas les longueurs d'ondes absorbés pas un élément.
 <!--SR:!2024-04-15,53,130-->

@@ -8,7 +8,7 @@ CPP (PPC) veut dire::Courbe des Possibilités de Production
 <!--SR:!2024-03-28,167,230-->
 
 Le CCP représente la taille de l'économie si toutes les ressources sont pleinement employées. La qualité et la quantité des facteurs de production déterminent le niveau de production du plein emploi. Il existe deux façons de décrire la croissance économique à l'aide du PPC->:: l'augmentation de la production réelle (à court terme) et l'augmentation de la production potentielle (à long terme).
-<!--SR:!2024-03-10,30,190-->
+<!--SR:!2024-05-05,56,190-->
 
 Représentation du CPP avec noms:
 ?
@@ -19,7 +19,7 @@ Quel type de croissance économique est préférable?:: Croissance économique a
 <!--SR:!2024-10-29,302,250-->
 ## Croissance à court terme
 - La croissance économique à court terme est:: une augmentation de la production réelle causée par la réduction du chômage et des inefficacités de la production.
-<!--SR:!2024-03-06,86,150-->
+<!--SR:!2024-04-17,42,130-->
 - La croissance économique à court terme est limité par:: les possibilités de production de l'économie.
 <!--SR:!2024-05-27,120,170-->
 
@@ -32,7 +32,7 @@ Représentation de la croissance a long terme avec le modèle AD/AS:
 ![[image-20230614105613958.png]]
 ### Changements du modèle PPC (croissance des possibilités de production)
 - Une autre façon d'utiliser le PPC est de montrer ce qui se passe lorsqu'il y a:: une amélioration de la qualité ou de la quantité des facteurs de production.
-<!--SR:!2024-03-03,35,130-->
+<!--SR:!2024-04-17,45,130-->
 - Les facteurs de production comprennent la terre, le travail, le capital et l'esprit d'entreprise.
 
 ## Mesure de la croissance économique

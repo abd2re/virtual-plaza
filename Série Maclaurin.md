@@ -9,10 +9,10 @@ Created: 2024-02-08
 Formule $f(x)$:
 ?
 $$f(x)=f(0)+xf'(0)+\frac{x^{2}}{2!}f''(0)+...$$
-<!--SR:!2024-03-06,6,150-->
+<!--SR:!2024-03-15,9,150-->
 
 Pour une fonction de type $(1+x)^{n}$ on peut utiliser:: le développement en série du théorème binomial.
-<!--SR:!2024-03-12,20,250-->
+<!--SR:!2024-04-30,49,250-->
 
 
 Formule pour faire la série Maclaurin d'une fonction composée $f(g(x))$:

@@ -26,7 +26,7 @@ La longueur d'onde est (2):: la distance entre deux crêtes ou deux creux de deu
 <!--SR:!2024-05-03,84,218-->
 
 La longueur d'onde $\lambda$ est égale à (2):: $\frac{v}{f}=vT$
-<!--SR:!2024-03-08,69,250-->
+<!--SR:!2024-08-27,172,250-->
 
 La vitesse d'une onde dépend du:: milieu de propagation.
 <!--SR:!2024-06-10,111,238-->
@@ -37,7 +37,7 @@ Les ondes mécaniques progressives ont la propriété de pouvoir se propager dan
 
 ## Ondes transversales et longitudinales
 Une onde transversale est:: une onde dans laquelle les particules oscillent perpendiculairement à la direction du mouvement et où le transfert d'énergie se fait perpendiculairement aussi.
-<!--SR:!2024-03-12,19,130-->
+<!--SR:!2024-04-05,24,130-->
 - Les ondes transversales présentent des zones de:: pics et de creux
 <!--SR:!2024-03-17,68,230-->
 - Exemples d'ondes transversales:: Ondes électromagnétiques, par exemple radio, lumière visible, UV. Vibrations sur une corde de guitare

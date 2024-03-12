@@ -7,7 +7,7 @@ Created: 2024-01-30
 # Equations différentielles
 
 Une équation homogène s'écrit sous la forme::$$\frac{dy}{dx}=f\left(\frac{y}{x}\right)$$
-<!--SR:!2024-03-03,13,190-->
+<!--SR:!2024-03-27,24,190-->
 Une équation homogène peut être résolu par la substitution suivante:: $v=\frac{y}{x}\Leftrightarrow y=vx$
 <!--SR:!2024-03-21,30,248-->
 
@@ -15,7 +15,7 @@ Dans ce contexte, on entend par homogène une fonction de $x$ et $y$ ($f(x,y)$) 
 <!--SR:!2024-03-25,32,248-->
 
 Un facteur d'intégration peut être utilisé pour résoudre une équation différentielle qui peut être écrite sous la forme::$$\frac{dy}{dx}+P(x)y=Q(x)$$
-<!--SR:!2024-03-08,12,208-->
+<!--SR:!2024-03-31,23,208-->
 Le facteur d'intégration est $I$:: $I=e^{\int P(x)\,dx}$
 <!--SR:!2024-03-21,31,248-->
 

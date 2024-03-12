@@ -13,7 +13,7 @@ Si on néglige la résistance de l'air, le projectile n'est soumis qu'a son poid
 <!--SR:!2024-05-01,221,249-->
 
 $a_{x}$=::0
-<!--SR:!2024-03-08,72,230-->
+<!--SR:!2024-08-20,165,230-->
 $a_{y}$=::-g
 <!--SR:!2024-04-15,81,230-->
 $v_{0}$=::vitesse initiale

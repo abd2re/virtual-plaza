@@ -36,4 +36,4 @@ Les ressources naturelles (la terre) peuvent être divisées en deux parties ess
 ?
 - **Terres pour la production de produits commercialisables**, tels que le bois, les minéraux et le gaz naturel
 - **Ressources écologiques**, comme les lacs, les rivières, la qualité des sols et la biodiversité
-<!--SR:!2024-03-04,78,172-->
+<!--SR:!2024-04-13,40,152-->

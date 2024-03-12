@@ -17,11 +17,11 @@ L'interférence se produit lorsque:: deux ou plusieurs ondes se combinent pour p
 Différence de chemin d'une interférence constructive (formule)=::$|S_{2}-S_{1}|=n\lambda$
 <!--SR:!2024-06-21,117,250-->
 Différence de chemin d'une interférence destructive (formule)=::$|S_{2}-S_{1}|=\left(n+\frac{1}{2}\right)\lambda$
-<!--SR:!2024-03-09,55,250-->
+<!--SR:!2024-07-24,137,250-->
 
 ## Experience des fentes de Young
 Deux sources sont dites cohérentes lorsque:: les ondes qu'elles émettent ont la même fréquence et une différence de phase constante.
-<!--SR:!2024-03-10,13,150-->
+<!--SR:!2024-03-18,8,130-->
 
 Formule avec angle:
 ?
@@ -29,7 +29,7 @@ $$\large{\sin\theta=\frac{n\lambda}{d}}$$
 - $\theta$ = angle entre la distance entre les deux plaques et la médiatrice
 - $n\lambda$ = déphasage des deux ondes
 - $d$ = distance entre les deux fentes
-<!--SR:!2024-03-08,13,187-->
+<!--SR:!2024-03-16,8,167-->
 
 Formule de la frange:
 ?
@@ -38,7 +38,7 @@ $$\large{s=\frac{n\lambda D}{d}}$$
 - $n\lambda$ = déphasage des deux ondes
 - $D$ = distance entre les deux plaques
 - $d$ = distance entre les deux fentes
-<!--SR:!2024-03-05,37,227-->
+<!--SR:!2024-05-27,83,227-->
 
 Représentation:
 ?
@@ -46,4 +46,4 @@ Représentation:
 <!--SR:!2024-03-23,38,187-->
 
 Une plus grande séparation des franges (interfrange) peut être obtenue avec:: une plus grande longueur d'onde.
-<!--SR:!2024-03-03,15,238-->
+<!--SR:!2024-04-07,35,238-->

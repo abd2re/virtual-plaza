@@ -23,7 +23,7 @@ Le calcul du IPC implique:: la sélection d'un panier de biens et services typiq
 <!--SR:!2024-03-29,104,210-->
 
 Formule IPC::$$\large{\text{IPC}_{n}=\frac{\text{valeur du panier de l'année }n}{\text{valeur de panier de l'année de base}}\times100}$$
-<!--SR:!2024-03-09,18,190-->
+<!--SR:!2024-04-09,31,190-->
 
 Formule du taux d'inflation avec IPC::$$\large{T_{i}=\frac{\text{IPC}_{f}-\text{IPC}_{d}}{\text{IPC}_{d}}\times100}$$
 <!--SR:!2024-06-06,162,250-->
@@ -81,7 +81,7 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 - les modifications des lois sur le salaire minimum
 - l'augmentation du coût des matières premières importées
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
-<!--SR:!2024-03-06,14,143-->
+<!--SR:!2024-03-24,18,143-->
 
 Graphique avec explications
 ?
@@ -100,7 +100,7 @@ Graphique
 <!--SR:!2024-06-13,157,243-->
 
 - Pour les nouveaux économistes classiques, toute tentative de stimuler la demande globale n’aboutira qu’à:: l'inflation sans aucune augmentation du revenu national.
-<!--SR:!2024-03-10,88,203-->
+<!--SR:!2024-09-04,178,203-->
 - Pour les économistes keynésiens une inflation excessive est une:: mauvaise chose lorsque la demande globale commence à augmenter le long de la partie verticale de la courbe AS.
 <!--SR:!2024-10-09,227,243-->
 
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2024-03-06,11,130-->
+<!--SR:!2024-03-13,7,130-->
 

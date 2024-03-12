@@ -17,7 +17,7 @@ Dans la nouvelle perspective classique, parce que les prix sont totalement flexi
 (Graphique qui représente les transformations)
 ?
 ![[image-20230605113715115.png]]
-<!--SR:!2024-03-05,125,228-->
+<!--SR:!2024-12-14,284,228-->
 
 ## Équilibre de long terme selon le modèle keynésien
 (Représentation)

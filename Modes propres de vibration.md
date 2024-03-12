@@ -9,9 +9,9 @@ Created: 2024-01-29
 Les conditions aux limites imposent les modes propres vibration. 
 
 Une extrémité fixe sera:: un nœud.
-<!--SR:!2024-03-11,9,230-->
+<!--SR:!2024-03-31,20,230-->
 Une extrémité libre sera:: un ventre.
-<!--SR:!2024-03-03,20,250-->
+<!--SR:!2024-04-23,51,250-->
 
 ## Corde tendu à ses deux extrémités
 Selon la fréquence on peut avoir ces différents modes de vibration.
@@ -38,14 +38,14 @@ Représentation:
 - Longueur d'onde $\lambda=$::$\frac{2L}{n}$
 <!--SR:!2024-04-01,34,230-->
 - Fréquence $f=$::$\frac{nv}{2L}=nf_{1}$
-<!--SR:!2024-03-07,17,210-->
+<!--SR:!2024-04-10,34,210-->
 
 ## Tube ouvert à ses deux extrémités
 
 Représentation de $\lambda_{1}$ à $\lambda_{n}$ (même formules que corde tendu à ses deux extrémités):
 ?
 ![[image-20240129115330389.png|center|350]]
-<!--SR:!2024-03-11,26,250-->
+<!--SR:!2024-05-14,64,250-->
 
 ## Tube fermé à une de ses extrémités
 Représentation de $\lambda_{1}$, $\lambda_{3}$ et $\lambda_{5}$ avec leurs formules:
@@ -54,7 +54,7 @@ Représentation de $\lambda_{1}$, $\lambda_{3}$ et $\lambda_{5}$ avec leurs form
 <!--SR:!2024-04-12,44,250-->
 
 $\lambda_{n}$ avec $n$ impair =:: $\frac{4L}{n}$
-<!--SR:!2024-03-12,14,150-->
+<!--SR:!2024-04-02,21,150-->
 $f_{n}$ avec $n$ impair =:: $\frac{nv}{4L}=nf_{1}$
 <!--SR:!2024-04-07,36,230-->
 

@@ -6,7 +6,7 @@ Created: 2023-02-07
 # Subventionner les entreprises (Bénéfice)
 ?
 Le gouvernement pourrait accorder des subventions aux entreprises qui fournissent, par exemple, des soins de santé, et ainsi augmenter la courbe d'offre.
-<!--SR:!2024-03-05,90,228-->
+<!--SR:!2024-09-25,204,228-->
 
 **Problèmes avec cette solution (2):**
 ?

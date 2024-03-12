@@ -10,7 +10,7 @@ Deux charges électriques s'attirent ou se repoussent selon leur signe. Les forc
 ## Loi de Coulomb
 ?
 L'intensité de la force qui s'exerce entre deux charges est proportionnelle aux charges et inversement proportionnelle au carré de la distance séparant ces deux charges.
-<!--SR:!2024-03-11,104,210-->
+<!--SR:!2024-05-01,51,190-->
 
 Formule de la loi de Coulomb:
 ?

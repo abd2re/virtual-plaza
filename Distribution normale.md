@@ -25,8 +25,8 @@ Created: 2023-11-16
 - Si $P(X<a)=P(X>b)$ alors $a+b=$::$2\mu$
 <!--SR:!2024-03-28,40,241-->
 - $Z$ suit une distribution normale standardisée, on note ça:: $Z\sim N(0,1^{2})$
-<!--SR:!2024-03-07,38,230-->
+<!--SR:!2024-06-01,86,230-->
 - $Z$=::$\frac{X-\mu}{\sigma}$
-<!--SR:!2024-03-08,17,170-->
+<!--SR:!2024-04-06,29,170-->
 - $P(a<X<b)$ en forme standardisée est:: $P(\frac{a-\mu}{\sigma}<Z<\frac{b-\mu}{\sigma})$
 <!--SR:!2024-05-04,102,250-->

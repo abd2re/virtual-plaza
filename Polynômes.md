@@ -22,7 +22,7 @@ Created: 2023-10-27
 - Remarque : lorsque $P(k) =0$, $(x - k)$ est:: un facteur de $P(x)$.
 <!--SR:!2024-03-31,92,250-->
 - $P(x)$=::$(x-k)\times Q(x)+R$ où $Q(x)$ est un polynôme
-<!--SR:!2024-03-12,66,210-->
+<!--SR:!2024-04-12,31,190-->
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
 <!--SR:!2024-03-28,38,230-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
@@ -41,7 +41,7 @@ Soit deux polynômes: $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$ qu'on 
 2. Multiplier le diviseur par ce terme. $$D(x)\times q_{m}x^{m}$$
 3. Soustraire ce résultat du polynôme d'origine. $$R(x)=P(x)-D(x)\times q_{m}x^{m}$$
 4. Répétez les étapes 1 à 3 en utilisant le nouveau polynôme $R(x)$ à la place de $P(x)$ jusqu'à ce que la soustraction aboutisse à une expression pour $R(x)$ dont le degré est inférieur à celui du diviseur.
-<!--SR:!2024-03-12,14,210-->
+<!--SR:!2024-03-18,6,190-->
 
 ### Division par des fonctions linéaires
 
@@ -75,7 +75,7 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 
 ## Somme et produit des racines
 Soit $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$, donc la forme factorisée sera dont les racines sont $r_{1}\,,r_{2}\,,\dots\,,r_{n}$::$$P(x)=a_{n}(x-r_{1})(x-r_{2})\dots(x-r_{n})$$
-<!--SR:!2024-03-10,31,230-->
+<!--SR:!2024-05-19,70,230-->
 - La somme des racines est égale à:: $$r_{1}+r_{2}+\dots+r_{n-1}+r_{n}=-\frac{a_{n-1}}{a_{n}}$$
 <!--SR:!2024-04-20,104,250-->
 - Le produit des racines est égale à::$$r_{1}\times r_{2}\times\dots\times r_{n-1}\times r_{n}=\frac{(-1)^{n}a_{0}}{a_{n}}$$

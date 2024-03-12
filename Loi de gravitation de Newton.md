@@ -7,7 +7,7 @@ Created: 2023-01-17
 ?
 Deux masses ponctuelles $m_1$ et $m_{2}$ exercent l'une sur l'autre des forces opposées. Cette force est proportionnelle au produit des deux masses et inversement proportionnelle au carré de la distance séparant ces qui les séparent.
 ![[image-20230117092558622.png]]
-<!--SR:!2024-03-12,134,210-->
+<!--SR:!2024-12-17,280,210-->
 
 
 Formule de la force de gravitation scalaire et vectorielle:
@@ -25,4 +25,4 @@ $$\vec{F}_{A/B}=-G\frac{m_{1}m_{2}}{r^{2}}\times \vec{u}=-\vec{F}_{B/A}$$
 La loi de gravitation universelle s'applique aux masses ponctuelles et aux objets sphériques. Dans ce ca son assimile une sphere de masse m et centre $O$ a une masse ponctuelle placée en $O$.
 
 Constante $G$ =:: $6.67\cdot 10^{-11}$
-<!--SR:!2024-03-03,16,130-->
+<!--SR:!2024-03-23,20,130-->

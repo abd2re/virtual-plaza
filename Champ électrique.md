@@ -30,7 +30,7 @@ Le champ électrique ne dépend pas :: de la charge q (qui le subit) mais des ch
 
 
 - Champ crée pas plusieurs charges c'est:: la somme vectorielle de chacun des champs
-<!--SR:!2024-03-09,46,156-->
+<!--SR:!2024-05-19,71,156-->
 
 ## Lignes de champ
 ?

@@ -23,7 +23,7 @@ $$\Large{F_{m}=|q|vB\sin\theta}$$
 Règle de la paume de la main droite.
 ?
 ![[image-20231011081124820.png]]
-<!--SR:!2024-03-09,89,242-->
+<!--SR:!2024-10-09,214,242-->
 
 ## Mouvement d'une particule chargée dans un champ magnétique
 ?
@@ -50,4 +50,4 @@ $$\large{F_{m}=BIL\sin\theta}$$
 - $I$ = intensité
 - $L$ = longueur du fil
 - $\theta$ = $\angle(\vec{L},\vec{B})$ (aigu)
-<!--SR:!2024-03-06,17,220-->
+<!--SR:!2024-04-11,36,220-->

@@ -12,7 +12,7 @@ Les quatre opérations les plus fondamentales:
 - COMPARE
 - LOAD (souvent appelée RETRIEVE)
 - STORE (souvent appelée SAVE)
-<!--SR:!2024-03-07,83,190-->
+<!--SR:!2024-04-17,41,170-->
 
 ## Opérations composées
 ?
@@ -42,7 +42,7 @@ Une grammaire est un méta-langage utilisé pour définir:: la syntaxe d'un lang
 - Ce processus de traduction convertira le programme dans:: le langage machine de l'ordinateur.
 <!--SR:!2024-05-22,149,250-->
 - Le programme original développé dans un langage de haut niveau sélectionné est appelé:: programme source ou code source.
-<!--SR:!2024-03-06,87,210-->
+<!--SR:!2024-09-04,182,210-->
 - Le programme traduit en langage machine est appelé:: programme objet ou programme cible.
 <!--SR:!2024-04-04,64,150-->
 - Deux méthodes sont utilisées pour la traduction:: la compilation et l'interprétation.

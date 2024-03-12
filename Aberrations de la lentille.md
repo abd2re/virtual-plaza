@@ -14,5 +14,5 @@ Représentation de l'aberration sphérique et solution :
 Représentation de l'aberration chromatique et solution :
 ?
 ![[image-20240129100731839.png|center|600]]
-<!--SR:!2024-03-12,27,250-->
+<!--SR:!2024-05-16,65,250-->
 

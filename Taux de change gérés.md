@@ -7,16 +7,16 @@ Created: 2024-02-06
 # Taux de change gérés
 
 Le système de taux de change flottant géré est:: un système dans lequel la banque centrale et le gouvernement d'un pays manipulent périodiquement sa propre monnaie pour rester dans une fourchette prédéterminée.
-<!--SR:!2024-03-11,10,170-->
+<!--SR:!2024-03-27,16,170-->
 
 Le système de taux de change flottant géré est un système intermédiaire entre:: le système de taux de change flottant et le système de taux de change fixe.
-<!--SR:!2024-03-05,11,210-->
+<!--SR:!2024-03-27,22,210-->
 
 L’objectif principal d’un taux de change géré est:: d’éviter des fluctuations importantes sur une courte période.
 <!--SR:!2024-03-25,26,230-->
 
 Tout comme dans le système fixe, les réserves de devises sont essentielles pour:: que la banque centrale puisse contrôler la valeur de sa propre monnaie.
-<!--SR:!2024-03-07,9,210-->
+<!--SR:!2024-03-24,17,210-->
 
 
 Représentation dans un marché de change
@@ -27,4 +27,4 @@ Représentation dans un marché de change
 - **Des monnaies surévaluées** rendraient les importations:: moins chères.
 <!--SR:!2024-03-14,22,250-->
 - **Des monnaies sous-évaluées** rendraient les exportations:: moins chères.
-<!--SR:!2024-03-06,16,250-->
+<!--SR:!2024-04-14,39,250-->

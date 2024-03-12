@@ -20,6 +20,6 @@ Une monnaie qui se déprécie est bonne pour les exportations ou importations?::
 <!--SR:!2024-03-16,23,250-->
 
 Une monnaie qui s'apprécie est bonne pour les exportations ou importations?:: importations
-<!--SR:!2024-03-07,17,250-->
+<!--SR:!2024-04-21,45,250-->
 
 

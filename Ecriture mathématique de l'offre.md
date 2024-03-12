@@ -9,8 +9,8 @@ Formule $Q_o$
 ?
 $$Q_o=aP+b$$
 $$P=\frac{Q_{o}-b}{a}$$
-$Q_o$ = Quantité offerte 
+$Q_o$ = Quantité offerte
 $P$ = Prix
 $a$ = [[Pente]] (exprime [[Loi de l'offre]]) (positif)
 $b$ = Constante
-<!--SR:!2024-03-03,223,230-->
+<!--SR:!2024-06-22,111,210-->
