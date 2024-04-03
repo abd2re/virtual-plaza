@@ -10,7 +10,7 @@ Formules (2):
 $$\Large{W_{A\rightarrow B}(\vec{P})=P(z_{A}-z_{B})=mg(z_{A}-z_{B})}$$
 - $z_{A}$ et $z_{B}$ sont les altitudes des points A et B
 - $P$ = poids
-<!--SR:!2024-03-16,167,250-->
+<!--SR:!2025-05-07,417,250-->
 
 Représentation:
 ?
@@ -18,7 +18,7 @@ Représentation:
 <!--SR:!2024-04-09,173,230-->
 
 - Le travail du poids est indépendant:: du chemin suivi
-<!--SR:!2024-03-31,87,170-->
+<!--SR:!2024-08-25,147,170-->
 - Le travail de poids dépend:: des altitudes initiales et finales
 <!--SR:!2024-04-12,117,210-->
 - De telles forces dont le poids qui est indépendant du chemin sont appelées:: forces conservatives.

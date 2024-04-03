@@ -9,7 +9,7 @@ Created: 2024-01-29
 Les conditions aux limites imposent les modes propres vibration. 
 
 Une extrémité fixe sera:: un nœud.
-<!--SR:!2024-03-31,20,230-->
+<!--SR:!2024-05-13,43,230-->
 Une extrémité libre sera:: un ventre.
 <!--SR:!2024-04-23,51,250-->
 
@@ -20,7 +20,7 @@ Selon la fréquence on peut avoir ces différents modes de vibration.
 Représentation:
 ?
 ![[image-20240129112744264.png|center|400]]
-<!--SR:!2024-03-21,33,270-->
+<!--SR:!2024-06-16,87,270-->
 
 ### Deuxième harmonique
 Représentation:
@@ -32,11 +32,11 @@ Représentation:
 Représentation:
 ?
 ![[image-20240129113230833.png|center|400]]
-<!--SR:!2024-03-22,34,270-->
+<!--SR:!2024-06-21,91,270-->
 
 ### Nième harmonique
 - Longueur d'onde $\lambda=$::$\frac{2L}{n}$
-<!--SR:!2024-04-01,34,230-->
+<!--SR:!2024-04-17,16,210-->
 - Fréquence $f=$::$\frac{nv}{2L}=nf_{1}$
 <!--SR:!2024-04-10,34,210-->
 
@@ -54,7 +54,7 @@ Représentation de $\lambda_{1}$, $\lambda_{3}$ et $\lambda_{5}$ avec leurs form
 <!--SR:!2024-04-12,44,250-->
 
 $\lambda_{n}$ avec $n$ impair =:: $\frac{4L}{n}$
-<!--SR:!2024-04-02,21,150-->
+<!--SR:!2024-04-14,12,130-->
 $f_{n}$ avec $n$ impair =:: $\frac{nv}{4L}=nf_{1}$
 <!--SR:!2024-04-07,36,230-->
 

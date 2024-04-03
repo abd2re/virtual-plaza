@@ -10,4 +10,4 @@ Le noyau est constitué de particules appelées "nucléons" qui sont des protons
 <!--SR:!2024-04-12,57,250-->
 
 - Des isotopes:: sont des atomes ou noyau ayant le même nombre de protons mais un nombre différent de neutrons (ou de nucléons). Ils ont les mêmes propriété chimiques mais des propriétés physiques différentes (ex: masse, la radioactivité).
-<!--SR:!2024-03-25,39,150-->
+<!--SR:!2024-05-21,57,150-->

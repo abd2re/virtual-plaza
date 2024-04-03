@@ -13,7 +13,7 @@ Le gouvernement peut gérer les hauts et les bas du cycle économique grâce à 
 <!--SR:!2024-04-29,81,228-->
 
 Lorsqu'il y a une politique budgétaire expansionniste, qu'est-ce qui se passe aux dépenses gouvernementales et aux impôts ?:: dépenses gouvernementales augmentent, impôts diminuent.
-<!--SR:!2024-03-16,63,248-->
+<!--SR:!2024-08-18,155,248-->
 
 Lorsqu'il y a une politique budgétaire restrictives, qu'est-ce qui se passe aux dépenses gouvernementales et aux impôts ?:: dépenses gouvernementales diminuent, impôts augmentent.
 <!--SR:!2024-06-16,111,228-->
@@ -27,11 +27,11 @@ La principale différence entre les keynésiens et les néo-classiques lors d'un
 ?
 Les néo-classiques  croient qu'un écart déflationniste ne se produit qu'à court terme et que l'économie reviendra naturellement au plein emploi, tandis que les keynésiens croient qu'un écart déflationniste peut se produire à court et à long terme et que l’intervention du gouvernement est nécessaire pour que l’économie revienne au plein emploi.
 ![[image-20231129091737586.png]]
-<!--SR:!2024-03-29,71,248-->
+<!--SR:!2024-09-20,175,248-->
 
 
 L’objectif d'une politique budgétaire restrictive peut être soit (2):: de réduire l’inflation tirée par la demande dans l’économie, soit de réduire un déficit budgétaire.
-<!--SR:!2024-03-22,20,170-->
+<!--SR:!2024-04-24,33,170-->
 
 La principale différence entre les keynésiens et les néo-classiques lors d'un écart inflationniste (avec graphiques):
 ?

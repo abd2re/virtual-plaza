@@ -6,7 +6,7 @@ Created: 2024-01-27
 
 # Arbres
 - Elles appartiennent à la catégorie des:: graphes
-<!--SR:!2024-03-31,38,250-->
+<!--SR:!2024-07-03,94,250-->
 - Elles se composent de:: nœuds reliés par des arêtes.
 <!--SR:!2024-04-07,44,250-->
 
@@ -18,7 +18,7 @@ Created: 2024-01-27
 - Hauteur:: Nombre d'arêtes entre le nœud supérieur et la feuille la plus profonde (c'est-à-dire la plus éloignée).
 <!--SR:!2024-04-08,40,230-->
 - Racine:: Le nœud situé au sommet de l'arbre est appelé la racine.
-<!--SR:!2024-03-13,31,270-->
+<!--SR:!2024-06-04,83,270-->
 - Profondeur d'un nœud:: La longueur du chemin menant à sa racine.
 <!--SR:!2024-04-13,47,250-->
 - Sous-arbre:: Tout nœud peut être considéré comme la racine d'un sous-arbre sauf la racine.
@@ -26,7 +26,7 @@ Created: 2024-01-27
 
 ## Traversée d'un arbre
 - Préfixe:: Traiter le nœud, visiter le nœud gauche, visiter le nœud droit.
-<!--SR:!2024-03-24,34,250-->
+<!--SR:!2024-06-16,84,250-->
 - Infixe:: Visite du nœud gauche, traitement du nœud, visite du nœud droit.
 <!--SR:!2024-04-08,44,250-->
 - Suffixe:: Visite du nœud gauche, visite du nœud droit, traitement du nœud.

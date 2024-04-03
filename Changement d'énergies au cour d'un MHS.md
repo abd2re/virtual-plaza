@@ -9,7 +9,7 @@ Created: 2023-11-08
 Graphique (masse attaché à un ressort)
 ?
 ![[image-20231108112251810.png|center|500]]
-<!--SR:!2024-03-19,66,210-->
+<!--SR:!2024-08-04,138,210-->
 
 ## Variation avec le temps
 Graphique énergie potentielle (masse attaché à un ressort)

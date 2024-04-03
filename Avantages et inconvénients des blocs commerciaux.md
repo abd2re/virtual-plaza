@@ -12,13 +12,13 @@ Les avantages sont (4):
 - De meilleures opportunités d’emploi grâce à la mobilité de la main-d’œuvre
 - Pouvoir de négociation plus fort dans les négociations multilatérales
 - Plus grande stabilité politique et une plus grande coopération
-<!--SR:!2024-03-15,16,150-->
+<!--SR:!2024-04-07,23,150-->
 
 Les inconvénients sont (2):
 ?
 - Perte de souveraineté
 - Difficultés de s’engager dans des négociations commerciales multilatérales
-<!--SR:!2024-03-19,26,190-->
+<!--SR:!2024-05-05,47,190-->
 
 Facteurs qui contribuent à la mondialisation sont (5):
 ?
@@ -27,4 +27,4 @@ Facteurs qui contribuent à la mondialisation sont (5):
 - Sociétés multinationales (MNC)
 - Nouvelle technologie
 - Fonds monétaire international (FMI) et le Banque mondiale
-<!--SR:!2024-04-03,40,230-->
+<!--SR:!2024-07-03,91,230-->

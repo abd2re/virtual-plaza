@@ -9,7 +9,7 @@ La tension électrique s'exprime en volt et on l'a mesure a l'aide d'un voltmèt
 <!--SR:!2024-06-23,108,170-->
 
 Le potentiel électrique en un point est:: égale a l'énergie potentiel électrique par unité de charge. ([[Champ électrique]])
-<!--SR:!2024-03-21,9,130-->
+<!--SR:!2024-04-04,1,130-->
 
 <!--SR:!2023-02-22,28,150-->
 ![[Tension ou différence de potentiel électrique-3.png]]
@@ -25,6 +25,6 @@ Le potentiel électrique en un point est:: égale a l'énergie potentiel électr
 
 ---
 - Un électronvolt est:: l'énergie cinétique acquise par un électron accéléré pas un potentiel de $1V$
-<!--SR:!2024-03-27,27,130-->
+<!--SR:!2024-05-02,36,130-->
 - eV =:: $1.6\cdot 10^{-19}$ J
 <!--SR:!2024-04-20,134,201-->

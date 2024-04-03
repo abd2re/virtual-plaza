@@ -7,7 +7,7 @@ Created: 2023-02-03
 Définition:
 ?
 L'effet de l'acte d'un agent économique sur un tiers ou sur la société sans que l'agent ne prenne en compte la participation de la société.
-<!--SR:!2024-04-02,30,130-->
+<!--SR:!2024-05-12,40,130-->
 
 Il y a deux types d'externalité:
 ?

@@ -17,7 +17,7 @@ $$E=hf=\frac{hc}{\lambda}$$
 - $\lambda$ = longueur d'onde en $m$
 - $h$ = La constante de Planck ($6.62\times 10^{−34}Js$)
 - $c$ = Célérité ($3\times 10^{8} ms^{-2}$)
-<!--SR:!2024-03-13,14,130-->
+<!--SR:!2024-04-20,20,130-->
 
 
 - Une lumière qui est constitué de plusieurs couleurs est appelé:: **lumière polychromatique**
@@ -28,7 +28,7 @@ $$E=hf=\frac{hc}{\lambda}$$
 ### Signification des spectres atomiques
 ?
 Les spectres atomiques montrent le spectre des longueurs d'onde discrètes émises ou absorbées par un atome spécifique.
-<!--SR:!2024-03-16,23,130-->
+<!--SR:!2024-04-14,17,130-->
 
 ### Interprétation des spectres atomiques
 ?
@@ -41,7 +41,7 @@ Les spectres atomiques montrent le spectre des longueurs d'onde discrètes émis
 **Representation de niveaux d'énergie d'un spectre (hydrogène):**
 ?
 ![[image-20230214110458766.png|500]]
-<!--SR:!2024-04-02,41,194-->
+<!--SR:!2024-06-20,79,194-->
 
 
 Types de spectres de lumières et représentations:

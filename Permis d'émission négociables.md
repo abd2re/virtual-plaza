@@ -21,5 +21,5 @@ Le gouvernement fixe le niveau de « pollution admise » par an et divise la �
 - Pour commencer, il est difficile de fixer un niveau de pollution acceptable.
 - Il est également difficile de mesurer la production de pollution d'une entreprise afin d'établir le nombre de permis par entreprise.
 - Les entreprises paient pour la pollution qu'elles créent, mais cela n'entraîne pas de réduction de la pollution une fois que la limite autorisée a été fixée.
-<!--SR:!2024-03-26,34,190-->
+<!--SR:!2024-05-29,64,190-->
 

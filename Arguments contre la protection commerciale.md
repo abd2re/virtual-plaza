@@ -15,7 +15,7 @@ Ils sont (7):
 - Moins de choix
 - Manque d’incitations pour inciter les entreprises nationales à devenir plus efficaces
 - Compétitivité réduite des exportations
-<!--SR:!2024-03-14,28,210-->
+<!--SR:!2024-05-11,58,210-->
 
 Une industrie en aval est une industrie qui:: utilise des intrants pour la production qui sont des biens intermédiaires.
-<!--SR:!2024-03-16,20,230-->
+<!--SR:!2024-04-30,45,230-->

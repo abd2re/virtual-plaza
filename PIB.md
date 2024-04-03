@@ -13,7 +13,7 @@ Avantages du PIB (3):
 - **Permet la comparaison entre les pays**
 - **Informe les décideurs**
 - **Donne une indication du revenu moyen**
-<!--SR:!2024-03-29,81,210-->
+<!--SR:!2024-09-14,169,210-->
 
 Inconvénients du PIB (4):
 ?
@@ -28,7 +28,7 @@ Les trois méthodes de calculer le PIB sont:
 - [[Méthode de sortie (production)]]
 - [[Méthode du revenu]]
 - [[Méthode des dépenses (demande)]]
-<!--SR:!2024-04-01,24,181-->
+<!--SR:!2024-05-17,46,181-->
 
 Les gouvernements peuvent comptabiliser le revenu national en additionnant toutes les catégories de revenus (loyers, salaires, intérêts et bénéfices), la valeur ajoutée de chaque catégorie de production (des industries primaires, secondaires et tertiaires) ou les catégories de dépenses d'une économie. En d'autres termes:
 ?
@@ -37,19 +37,19 @@ Revenu = Production = Dépenses
 
 ## PIB nominal et PIB réel
 - PIB nominal =:: C'est le PIB **non corrigé** de l'inflation
-<!--SR:!2024-03-22,73,181-->
+<!--SR:!2024-07-31,131,181-->
 - PIB réel =:: C'est le PIB **corrigée** de l'inflation
 <!--SR:!2024-06-14,134,201-->
 
 - Le PIB nominal est aussi appelé (3) :: PIB non-déflaté, PIB a prix courant, PIB a $ courant
 <!--SR:!2024-05-06,237,241-->
 - Le PIB réel est aussi appelé (3) :: PIB déflaté, PIB a prix constant, PIB a $ constant
-<!--SR:!2024-03-31,140,221-->
+<!--SR:!2025-02-02,308,221-->
 
 ## PNB
 ?
 Le PNB/RNB est la **valeur** des biens et services **produits** par les **nationaux** au cours d'une **période donnée**.
-<!--SR:!2024-03-16,18,141-->
+<!--SR:!2024-04-07,22,141-->
 
 Différence entre PIB et PNB:
 ?
@@ -73,7 +73,7 @@ $$\large{\text{PIB réel} = \frac{\text{PIB nominal}}{\text{Déflateur du PIB}}\
 Formule du PNB réel:
 ?
 $$\large{\text{PNB réel} = \frac{\text{PNB nominal}}{\text{Déflateur du PIB}}\cdot 100}$$
-<!--SR:!2024-03-14,77,181-->
+<!--SR:!2024-04-21,38,161-->
 
 ## PIB par habitant et PNB par habitant
 Formules:

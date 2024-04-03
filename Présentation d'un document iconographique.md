@@ -17,5 +17,5 @@ Created: 2022-10-17
 3. Ambiance (contraste, couleurs, forme, ombres et lumières)
 4. Qu'est-ce que l'auteur a voulu montrer ?
 5. Quel sentiment l'oeuvre suscite-elle chez vous ?
-<!--SR:!2024-04-01,118,150-->
+<!--SR:!2024-09-23,175,150-->
 

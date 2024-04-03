@@ -45,7 +45,7 @@ Key terms:
 - Semantic fields:: A collection of words or phrases that are related to each other in meaning and connotation, for example, safety, welcome, support, shelter, structure and warmth would all be part of the same semantic field in relation to the word home
 <!--SR:!2024-07-04,181,250-->
 - Lexical sets:: a group of words that are related to each other in meaning for example, leaf, green, trunk, bark, and branch would all be part of the same lexical set in relation to the word "tree".
-<!--SR:!2024-04-03,114,230-->
+<!--SR:!2024-12-20,261,230-->
 - Diction:: the words chosen in a text
 <!--SR:!2024-04-07,126,250-->
 - Tone:: the attitude of the writer or speaker towards his or her subject
@@ -59,7 +59,7 @@ Four forms of literary works are:
 - Prose fiction
 - Prose non-fiction
 - Drama
-<!--SR:!2024-03-28,56,191-->
+<!--SR:!2024-07-12,106,191-->
 
 [[Travel writing]]
 [[Context]]

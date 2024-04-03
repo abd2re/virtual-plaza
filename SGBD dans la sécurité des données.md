@@ -7,6 +7,7 @@ Created: 2024-03-03
 # SGBD dans la sécurité des données
 
 La sécurité des données fait référence:: aux outils, contrôles et mesures destinés à établir et protéger la confidentialité, l'intégrité et la disponibilité.
+<!--SR:!2024-04-08,12,210-->
 
 6 composantes dans la sécurité des données sont:
 ?
@@ -16,3 +17,4 @@ La sécurité des données fait référence:: aux outils, contrôles et mesures 
 - Validation
 - Cryptage
 - Sauvegardes
+<!--SR:!2024-04-10,13,210-->

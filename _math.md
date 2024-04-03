@@ -6,6 +6,7 @@ tags: [M]
 2. [[Séries et Séquences]]
 3. [[Théorème Binomial]]
 4. [[Nombres complexes]]
+5. [[Permutations et combinations]]
 
 # Theme 2: Fonctions
 1. [[Fonctions quadratiques]]
@@ -19,6 +20,7 @@ tags: [M]
 2. [[Lois des sinus et cosinus]]
 3. [[Cercle trigonométrique]]
 4. [[Identités trigonométriques]]
+5. [[Vecteurs]]
 
 # Theme 4: Statistique et Probabilité
 1. [[Probabilité discrètes]]

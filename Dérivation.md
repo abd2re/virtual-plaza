@@ -10,9 +10,9 @@ Created: 2023-11-28
 - Autre notation de $f'(x)$::$\frac{dy}{dx}$
 <!--SR:!2024-06-26,127,250-->
 - Autre notation de $f''(x)$::$\frac{d^{2}y}{dx^{2}}$
-<!--SR:!2024-03-28,47,185-->
+<!--SR:!2024-06-26,90,185-->
 - $\frac{d^{2}y}{dx^{2}}$ équivaut à:: $\frac{d\left(\frac{dy}{dx}\right)}{dx}$
-<!--SR:!2024-03-26,21,229-->
+<!--SR:!2024-05-12,47,229-->
 
 
 Tangente et normale pour une fonction représente:
@@ -35,13 +35,13 @@ Tangente et normale pour une fonction représente:
 - $f(x)=x^{-n}=\frac{1}{x^{n}}\rightarrow f'(x)=$::$\frac{-n}{x^{n+1}}$
 <!--SR:!2024-04-11,69,225-->
 - $f(x)=x^{1/n}=\sqrt[n]{x}\rightarrow f'(x)=$::$\frac{\sqrt[n]{x^{1-n}}}{n}$
-<!--SR:!2024-03-29,23,205-->
+<!--SR:!2024-04-09,11,185-->
 - $f(x)=a^{x}\rightarrow f'(x)=$::$\ln(a)a^{x}$
 <!--SR:!2024-04-17,61,190-->
 - $f(x)=e^{x}\rightarrow f'(x)=$::$e^{x}$
 <!--SR:!2024-07-28,147,250-->
 - $f(x)=\log_{a}(x)\rightarrow f'(x)=$::$\frac{1}{\ln(a)x}$
-<!--SR:!2024-03-21,12,130-->
+<!--SR:!2024-04-06,16,130-->
 - $f(x)=\ln(x)\rightarrow f'(x)=$::$\frac{1}{x}$
 <!--SR:!2024-05-13,99,250-->
 - $f(x)=\sin(x)\rightarrow f'(x)=$::$\cos(x)$
@@ -51,17 +51,17 @@ Tangente et normale pour une fonction représente:
 - $f(x)=\tan(x)\rightarrow f'(x)=$::$\sec^{2}(x)$
 <!--SR:!2024-05-07,96,250-->
 - $f(x)=\sec(x)\rightarrow f'(x)=$::$\sec(x)\tan(x)$
-<!--SR:!2024-03-14,9,157-->
+<!--SR:!2024-04-10,15,157-->
 - $f(x)=\csc(x)\rightarrow f'(x)=$::$-\csc(x)\cot(x)$
-<!--SR:!2024-03-15,8,157-->
+<!--SR:!2024-04-14,18,157-->
 - $f(x)=\cot(x)\rightarrow f'(x)=$::$-\csc^{2}(x)$
-<!--SR:!2024-04-01,20,137-->
+<!--SR:!2024-04-27,26,137-->
 - $f(x)=\sin^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{1}{\sqrt{a-x^{2}}}$
 <!--SR:!2024-04-14,36,217-->
 - $f(x)=\cos^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{-1}{\sqrt{a-x^{2}}}$
-<!--SR:!2024-03-18,32,237-->
+<!--SR:!2024-06-01,75,237-->
 - $f(x)=\tan^{-1}(\frac{x}{a})\rightarrow f'(x)=$::$\frac{1}{a^{2}+x^{2}}$
-<!--SR:!2024-03-24,37,237-->
+<!--SR:!2024-06-19,87,237-->
 ### Opérations
 - $g(x)=c\cdot f(x)\rightarrow g'(x)=$::$c\cdot f'(x)$
 <!--SR:!2024-05-08,97,250-->
@@ -76,15 +76,15 @@ Tangente et normale pour une fonction représente:
 
 ### Première et seconde dérivée
 - Si $f'(x)=0$ alors ce point est:: un extremum local
-<!--SR:!2024-03-21,56,240-->
+<!--SR:!2024-08-01,133,240-->
 - Si $f''(x)=0$ alors ce point est:: un point d'inflexion
 <!--SR:!2024-05-15,88,240-->
 - Si $f'(x)=0$ et $f''(x)<0$ alors ce point est:: un maximum local
-<!--SR:!2024-03-21,20,220-->
+<!--SR:!2024-05-03,43,220-->
 - Si $f'(x)=0$ et $f''(x)>0$ alors ce point est:: un minimum local
 <!--SR:!2024-05-08,85,240-->
 - $f$ est concave haut si $f''(x)$::$>0$
-<!--SR:!2024-03-13,33,199-->
+<!--SR:!2024-05-17,65,199-->
 - $f$ est concave bas si $f''(x)$::$<0$
 <!--SR:!2024-05-03,71,239-->
 
@@ -92,7 +92,7 @@ Tangente et normale pour une fonction représente:
 $\frac{df(y)}{dx}=$::$\frac{df(y)}{dy}\cdot \frac{dy}{dx}=f'(y)\frac{dy}{dx}$
 <!--SR:!2024-04-29,56,237-->
 $\frac{d}{dx}(f(x)g(y))=$::$g(y)\frac{df(x)}{dx}+f(x)\frac{dg(y)}{dx}=g(y)f'(x)+f(x)g'(y)\frac{dy}{dx}$
-<!--SR:!2024-03-25,19,197-->
+<!--SR:!2024-04-30,36,197-->
 
 Si on a $f(x,\,y)$ et on veut $\frac{dy}{dx}$ alors les étapes sont :
 ?
@@ -106,9 +106,9 @@ ou
 <!--SR:!2024-05-10,61,237-->
 
 $df(x)=$::$f'(x)dx$
-<!--SR:!2024-03-17,36,257-->
+<!--SR:!2024-05-12,39,237-->
 
 $\frac{d(xy)}{dx}=$::$y+x\frac{dy}{dx}$
-<!--SR:!2024-03-23,31,231-->
+<!--SR:!2024-06-02,71,231-->
 
 

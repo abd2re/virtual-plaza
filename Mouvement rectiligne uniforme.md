@@ -11,7 +11,7 @@ Les 5 variables SUVAT:
 - v = vitesse finale en $ms^{-1}$
 - a = accélération en $ms^{-2}$
 - t = intervalle de temps en $s$
-<!--SR:!2024-03-17,222,270-->
+<!--SR:!2025-11-05,598,270-->
 
 4 formules SUVAT :
 ?
@@ -19,7 +19,7 @@ Les 5 variables SUVAT:
 - $$\Large{\Delta x=\frac{u+v}{2}t}$$
 - $$\Large{\Delta x=ut+\frac{1}{2}at^{2}}=ut\text{ (si a=0)}$$
 - $$\Large{v^{2}=u^{2}+2a\Delta x}$$
-<!--SR:!2024-04-03,75,190-->
+<!--SR:!2024-05-10,37,170-->
 
 Les équations SUVAT sont dérivées de ce graphe suivant:
 ?

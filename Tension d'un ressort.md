@@ -17,17 +17,17 @@ $$\Large{T=kx=-k|l_{0}-l|}$$
 - $k$ = constante
 - $l$ = longueur finale
 - $l_{0}$ = longueur initiale
-<!--SR:!2024-03-17,73,230-->
+<!--SR:!2024-04-24,38,210-->
 
 Représentations
 ?
 ![[image-20230604182649685.png|500|center]]
-<!--SR:!2024-04-01,45,184-->
+<!--SR:!2024-04-27,26,164-->
 
 Formule du travail d'un ressort
 ?
 $$\Large{W_{A\rightarrow B}(\vec{T})=\frac{k}{2}(x^{2}_{a}-x^{2}_{b})}$$
-<!--SR:!2024-03-30,112,222-->
+<!--SR:!2024-12-04,248,222-->
 
 
 Relation entre $W_{A\rightarrow B}(\vec{T})$ et $W_{A\rightarrow B}(\vec{F})$::$$\Large{W_{A\rightarrow B}(\vec{F})=-W_{A\rightarrow B}(\vec{T})}$$

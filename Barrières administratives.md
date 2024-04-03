@@ -2,7 +2,7 @@
 tags:
   - economy
 ---
-Created: 2024-01-17
+bCreated: 2024-01-17
 
 # Barrières administratives
 On appelle barrières administratives ou non tarifaires au commerce des:: barrières bureaucratiques qui peuvent empêcher les producteurs étrangers d’exporter leurs biens et services.
@@ -13,4 +13,4 @@ Des normes et des réglementations sont en place pour gérer efficacement ces bi
 - Normes de produits
 - Restrictions volontaires à l'exportation
 - Politiques d'achat national
-<!--SR:!2024-03-18,22,150-->
+<!--SR:!2024-04-19,32,150-->

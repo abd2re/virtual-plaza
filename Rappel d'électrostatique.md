@@ -35,7 +35,7 @@ $$q=ne$$
 - Un conducteur:: laisse passer le courant électrique
 <!--SR:!2024-05-11,171,210-->
 - Un isolant:: ne laisse pas passer le courant électrique
-<!--SR:!2024-03-30,151,210-->
+<!--SR:!2025-02-09,316,210-->
 Le courant électrique est:: un déplacement de charges.
 <!--SR:!2024-04-27,103,227-->
 
@@ -44,6 +44,6 @@ Les isolants ne conduisent pas l'électricité car:: les charges électriques y 
 
 
 ## Loi de la conservation de la charge électrique
-La charge électrique d'un système isolé est:: constante. 
-<!--SR:!2024-03-23,274,280-->
+La charge électrique d'un système isolé est:: constante.
+<!--SR:!2026-04-30,768,280-->
 

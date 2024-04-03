@@ -7,10 +7,10 @@ Created: 2022-11-15
 
 
 Une mole (mol) est:: la quantité de matière d'un système contenant autant d'entités élémentaires qu'il y a d'atomes dans 0,012 kilogramme de carbone 12.
-<!--SR:!2024-03-25,17,168-->
+<!--SR:!2024-04-22,28,168-->
 
 $N_A$ représente le nombre d'Avogardo =:: $6.02 \cdot 10^{23}$
-<!--SR:!2024-03-27,15,130-->
+<!--SR:!2024-04-19,23,130-->
 
 Formule nombre de moles=
 ?
@@ -26,4 +26,4 @@ $$M=\frac{m}{n}$$
 $M$ = masse molaire
 $m$ = masse
 $n$ = nombre de moles
-<!--SR:!2024-03-31,25,188-->
+<!--SR:!2024-04-14,14,168-->

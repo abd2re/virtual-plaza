@@ -20,13 +20,13 @@ Created: 2023-10-27
 - Lorsqu'un polynôme quelconque $P(x)$ est divisé par une fonction linéaire quelconque $(x - k)$, la valeur du reste $R$ est donnée par:: $P(k) =R$
 <!--SR:!2024-08-06,172,250-->
 - Remarque : lorsque $P(k) =0$, $(x - k)$ est:: un facteur de $P(x)$.
-<!--SR:!2024-03-31,92,250-->
+<!--SR:!2024-11-15,229,250-->
 - $P(x)$=::$(x-k)\times Q(x)+R$ où $Q(x)$ est un polynôme
 <!--SR:!2024-04-12,31,190-->
 - $\frac{P(x)}{x-k}$=::$Q(x)+\frac{R}{x-k}$ où $R$ est le reste
-<!--SR:!2024-03-28,38,230-->
+<!--SR:!2024-06-21,85,230-->
 - Si le facteur linéaire est $(ax-b)=a\left(x-\frac{b}{a}\right)$, alors $P\left(\frac{b}{a}\right)$=::$R$
-<!--SR:!2024-03-28,39,170-->
+<!--SR:!2024-06-01,65,170-->
 
 ## Division polynomiale
 Formule générale::$$\frac{P(x)}{D(x)}=Q(x)+\frac{R(x)}{D(x)}$$
@@ -41,7 +41,7 @@ Soit deux polynômes: $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$ qu'on 
 2. Multiplier le diviseur par ce terme. $$D(x)\times q_{m}x^{m}$$
 3. Soustraire ce résultat du polynôme d'origine. $$R(x)=P(x)-D(x)\times q_{m}x^{m}$$
 4. Répétez les étapes 1 à 3 en utilisant le nouveau polynôme $R(x)$ à la place de $P(x)$ jusqu'à ce que la soustraction aboutisse à une expression pour $R(x)$ dont le degré est inférieur à celui du diviseur.
-<!--SR:!2024-03-18,6,190-->
+<!--SR:!2024-04-04,1,130-->
 
 ### Division par des fonctions linéaires
 
@@ -51,7 +51,7 @@ $$Q(x)+\frac{R}{ax+b}$$
 - $ax+b$ est le diviseur ($\deg 1$)
 - $Q(x)$ est le quotient ($\deg n-1$)
 - $R$ est le reste ($\deg 0$)
-<!--SR:!2024-03-17,50,230-->
+<!--SR:!2024-04-10,24,210-->
 
 ### Division par des fonctions quadratiques
 
@@ -61,7 +61,7 @@ $$Q(x)+\frac{ex+f}{ax^{2}+bx+c}$$
 - $ax^{2}+bx+c$ est le diviseur ($\deg 2$)
 - $Q(x)$ est le quotient ($\deg n-2$)
 - $ex+f$ est le reste ($\deg <2$)
-<!--SR:!2024-03-30,52,230-->
+<!--SR:!2024-07-29,121,230-->
 
 ### Résolution d'équations polynomiales
 - Tout polynôme réel peut être exprimé comme un produit:: de facteurs linéaires réels et de facteurs quadratiques irréductibles réels.

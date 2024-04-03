@@ -7,7 +7,7 @@ Created: 2023-11-08
 # Politique monétaire
 ?
 La politique monétaire fait référence à la banque centrale qui utilise le rentrée d'argent et les taux d’intérêt pour gérer l’économie.
-<!--SR:!2024-03-15,20,130-->
+<!--SR:!2024-04-09,25,130-->
 
 - La politique monétaire permet aux pays de stimuler leur économie tout en évitant de:: s’endetter.
 <!--SR:!2024-06-19,123,230-->
@@ -30,7 +30,7 @@ Ils sont 5:
 3. Prêteur de dernier recours
 4. Émet des obligations et d’autres instruments financiers
 5. Régule le système bancaire
-<!--SR:!2024-03-28,52,170-->
+<!--SR:!2024-06-23,87,170-->
 
 
 ### 1. Détermine la masse monétaire et le taux d’intérêt
@@ -42,17 +42,17 @@ Lorsque la banque centrale augmente la masse monétaire, alors en conséquence l
 Graphique
 ?
 ![[image-20231108093526578.png]]
-<!--SR:!2024-03-17,70,230-->
+<!--SR:!2024-04-23,37,210-->
 
 Si l'économie est dans un écart de recession, alors pour le combler il faut:: baisser les taux d'intérêts pour augmenter la demande et ramener la production d'équilibre au plein emploi.![[image-20231108093711743.png]]
-<!--SR:!2024-03-16,9,130-->
+<!--SR:!2024-04-07,5,130-->
 
 ### 2. Imprime de l'argent physique et frappe des pièces de monnaie
 La banque centrale imprime des billets et frappe des pièces pour (2) :
 ?
 - Permettre à l’augmentation de la masse monétaire de s’aligner sur l’augmentation du PIB
 - Remplacer les vieux billets de banque déchirés
-<!--SR:!2024-03-18,23,170-->
+<!--SR:!2024-04-23,36,170-->
 
 Les banques centrales veillent à inclure des éléments de sécurité pour:: garantir l'intégrité de la monnaie et pour rendre billets de banque contrefaits moins probable.
 <!--SR:!2024-06-21,123,230-->
@@ -69,4 +69,4 @@ La Banque centrale peut émettre obligations pour:: lever des fonds pour finance
 - Un rôle important de la banque centrale est de réglementer banques commerciales pour s’assurer:: qu’elles ne prennent pas trop de risques.
 <!--SR:!2024-08-08,151,230-->
 - Le pouvoir de régulation le plus important d’une banque centrale est de:: fixer des réserves obligatoires.
-<!--SR:!2024-03-24,12,130-->
+<!--SR:!2024-04-07,14,130-->

@@ -7,11 +7,11 @@ Created: 2023-09-23
 # Probabilité discrètes
 ## Experience aléatoire-événements
 Une expérience aléatoire est une expérience dont l'issue dépend du:: hasard.
-<!--SR:!2024-03-31,130,290-->
+<!--SR:!2025-09-05,523,310-->
 L'ensemble des résultats possibles d'une expérience aléatoire est appelé:: univers.
 <!--SR:!2024-05-15,144,250-->
 On appelle événement:: toute partie de l'univers (sous-ensemble)
-<!--SR:!2024-03-22,57,190-->
+<!--SR:!2024-07-07,107,190-->
 
 ### Définitions
 - Evénement élémentaire:: a une seule issue
@@ -27,13 +27,13 @@ On appelle événement:: toute partie de l'univers (sous-ensemble)
 - Evénement incompatible (mutuellement exclusif):: conjonction des deux événements avec aucune issue
 <!--SR:!2024-07-04,174,250-->
 - Evénement certain:: toutes les issues
-<!--SR:!2024-03-26,112,250-->
+<!--SR:!2024-12-30,279,250-->
 - Evénement impossible:: aucune issue
 <!--SR:!2024-10-13,245,270-->
 
 ## Calcul de probabilité
 - La probabilité d'un événement est la somme:: des éléments élémentaires qui le compose.
-<!--SR:!2024-03-15,82,230-->
+<!--SR:!2024-09-19,188,230-->
 - Lorsque les événements élémentaires ont meme probabilité, on dit qu'il y a:: équiprobabilité ou équi-répartition.
 <!--SR:!2024-05-08,139,250-->
 
@@ -72,8 +72,15 @@ Pour des événements indépendants, $P(A)$=::$P(A/B)=P(A/B')$
 <!--SR:!2024-04-29,78,232-->
 
 Axiom des probabilités totales, pour événement secondaire : $P(B)$=::$P(A\cap B)+P(A'\cap B)$
-<!--SR:!2024-03-13,9,172-->
+<!--SR:!2024-05-01,32,172-->
 
 $P(A\cap B')$=::$P(A)-P(A\cap B)$
 <!--SR:!2024-05-06,67,211-->
+
+
+Arbre de probabilité conditionnelle avec $P(A)$ et $P(B)$:
+?
+![[image-20240326090516255.png|center]]
+<!--SR:!2024-04-11,8,224-->
+
 

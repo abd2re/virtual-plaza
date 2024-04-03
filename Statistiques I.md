@@ -9,7 +9,7 @@ En statistiques, $\sigma$ est noté:: $S$.
 <!--SR:!2024-05-31,89,242-->
 
 - $Q_{2}$ si $n$ est impair =:: $$\frac{x_{n+1}}{2}$$
-<!--SR:!2024-04-03,33,190-->
+<!--SR:!2024-06-03,61,190-->
 - $Q_{2}$ si $n$ est pair =::$$\frac{x_{n/2}+x_{1+n/2}}{2}$$
 <!--SR:!2024-05-21,72,210-->
 
@@ -29,21 +29,21 @@ En statistiques, $\sigma$ est noté:: $S$.
 
 ## Données groupées
 - La classe modale est:: la classe dont la fréquence est la plus élevée. (Il s'agit uniquement d'intervalles de la classe de qualification)
-<!--SR:!2024-03-27,23,182-->
+<!--SR:!2024-05-07,41,182-->
 - La médiane est la valeur milieu. La valeur exacte ne peut pas être calculée mais peut être estimée à l'aide d::'un graphique de fréquence cumulée.
-<!--SR:!2024-04-03,45,202-->
+<!--SR:!2024-06-30,88,202-->
 - La moyenne exacte ne peut être calculée car:: on ne dispose pas des données de base.
 <!--SR:!2024-04-19,64,242-->
 - Pour les données groupées, $x_{i}$ est:: la valeur du milieu de l'intervalle (point médian) pour chaque classe.
-<!--SR:!2024-03-19,41,222-->
+<!--SR:!2024-06-16,89,222-->
 
 ## Transformations linéaires des données
 - Si l'on ajoute ou soustrait une constante a à toutes les valeurs, la variance et l'écart-type:: restent les mêmes.
-<!--SR:!2024-03-26,50,242-->
+<!--SR:!2024-07-24,120,242-->
 - $\text{E}(aX+b)=$::$a\text{E}(X)+b$
 <!--SR:!2024-04-11,37,182-->
 - $\text{Var}(aX+b)=$::$a^{2}\text{Var}(x)$
-<!--SR:!2024-03-29,29,188-->
+<!--SR:!2024-05-22,54,188-->
 - $x$ est une valeur aberrante si:: $$x\notin [Q_{1}-1.5\times\text{IQR},\,Q_{3}+1.5\times\text{IQR}]$$
 <!--SR:!2024-05-16,83,248-->
 

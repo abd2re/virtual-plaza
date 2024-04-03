@@ -6,7 +6,7 @@ Created: 2023-05-09
 # Tension d'un fil
 ?
 C'est la force que l'on exerce aux deux extrémités d'un fil.
-<!--SR:!2024-03-20,12,130-->
+<!--SR:!2024-04-07,18,130-->
 
 Formule::$$\Large{\vec{T}=-\vec{P}}$$
 <!--SR:!2024-05-22,172,230-->

@@ -6,7 +6,7 @@ Created: 2023-03-28
 # Activité économique
 ?
 C'est l'ensemble des actes posés par l'ensemble des agents économiques au sain d'un pays.
-<!--SR:!2024-03-17,27,130-->
+<!--SR:!2024-04-20,34,130-->
 
 - L'économie fait intervenir:: les agents (acteurs) et les secteurs
 <!--SR:!2024-06-26,136,210-->
@@ -42,9 +42,9 @@ Injection =:: Dépenses gouvernementales(G) + Investissements(I) + Exportations(
 
 ### Fuites et injections
 - Si fuites = injections alors :: on est dans une économie équilibrée
-<!--SR:!2024-03-25,231,270-->
+<!--SR:!2025-12-08,623,270-->
 - Si fuites < injections alors:: on est dans une économie prospère
-<!--SR:!2024-03-27,231,270-->
+<!--SR:!2024-07-20,115,250-->
 
 ### Conditions
 - Si T < G $\rightarrow$:: Défaut budgétaire

@@ -11,5 +11,5 @@ Représentation graphique d'une subvention sur l'économie:
 ?
 ![[image-20240111123109352.png]]
 Explique les éléments
-<!--SR:!2024-04-03,47,250-->
+<!--SR:!2024-04-26,23,230-->
 

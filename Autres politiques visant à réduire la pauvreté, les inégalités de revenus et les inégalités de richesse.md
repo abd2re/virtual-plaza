@@ -16,4 +16,4 @@ Des solutions sont (5):
 - Revenu de base universel (UBI)
 - Politiques pour réduire la discrimination
 - Le salaire minimum
-<!--SR:!2024-03-19,28,150-->
+<!--SR:!2024-04-29,41,150-->

@@ -6,7 +6,7 @@ Created: 2023-10-12
 
 # Conservation de la quantité de mouvement
 La loi de la conservation de quantité de mouvement dit que:: lorsque deux objets appliquent une force l'un sur l'autre, la quantité de mouvement de chacun change **mais la quantité totale de quantité de mouvement des deux objets reste pareil**.
-<!--SR:!2024-03-27,47,160-->
+<!--SR:!2024-06-12,77,160-->
 
 Formules(2):
 ?
@@ -22,11 +22,11 @@ $$\Large{\vec{p}_{i}=\vec{p}_{f}}$$
 
 
 Pour une collision élastique, si les masses des deux objets sont identiques, la vitesse finale de chacun d'eux sera:: échangée.
-<!--SR:!2024-03-21,38,254-->
+<!--SR:!2024-06-25,96,254-->
 
 ## Conservation de la quantité de mouvement et de l'[[Energie cinétique|énergie cinétique]]
 - Pour un choc élastique, on a:: conservation de la quantité de mouvement et de l'énergie cinétique.
 <!--SR:!2024-07-30,160,230-->
 - Pour un choc inélastique, on a:: conservation de la quantité de mouvement mais pas de l'énergie cinétique.
-<!--SR:!2024-03-13,84,230-->
+<!--SR:!2024-09-21,192,230-->
 

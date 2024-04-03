@@ -10,3 +10,5 @@ tags:
 ![[Chapitre 5 - Taux d'échange]]
 ![[Chapitre 6 - Balance des paiements]]
 ![[Chapitre 7 - Développement durable]]
+![[Chapitre 8 - Mesurer le développement]]
+![[Chapitre 9 - Obstacles à la croissance économique et au développement économique]]

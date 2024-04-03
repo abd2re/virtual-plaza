@@ -9,7 +9,7 @@ Created: 2023-09-13
 Définition de l'inflation:
 ?
 L'inflation est une augmentation durable du niveau des prix dans une économie.
-<!--SR:!2024-03-20,36,170-->
+<!--SR:!2024-04-08,19,150-->
 
 - Lorsque l'argent perd de la valeur, les prix:: augmentent en conséquence.
 <!--SR:!2024-06-17,169,250-->
@@ -20,7 +20,7 @@ Quel outil les gouvernements utilisent pour calculer l'inflation ?:: indice des 
 <!--SR:!2024-04-07,124,250-->
 
 Le calcul du IPC implique:: la sélection d'un panier de biens et services typiques achetés dans l'économie par la famille type (généralement deux adultes et deux enfants).
-<!--SR:!2024-03-29,104,210-->
+<!--SR:!2024-11-01,217,210-->
 
 Formule IPC::$$\large{\text{IPC}_{n}=\frac{\text{valeur du panier de l'année }n}{\text{valeur de panier de l'année de base}}\times100}$$
 <!--SR:!2024-04-09,31,190-->
@@ -35,7 +35,7 @@ Ils sont (4):
 - Différences dans la répartition des revenus
 - Changements dans les modes de consommation
 - Changements de qualité au fil du temps
-<!--SR:!2024-03-21,23,130-->
+<!--SR:!2024-04-19,29,130-->
 
 Taux d'inflation sous-jacente:: Taux d'inflation qui ne prend généralement pas en compte les prix des produits alimentaires et de l'énergie, car ceux-ci ont tendance à connaître le plus de fluctuations.
 <!--SR:!2024-07-04,180,263-->
@@ -81,16 +81,16 @@ De nombreux facteurs peuvent provoquer une inflation poussée par les coûts tel
 - les modifications des lois sur le salaire minimum
 - l'augmentation du coût des matières premières importées
 - les réglementations commerciales qui s'appliquent à toutes les entreprises d'un pays.
-<!--SR:!2024-03-24,18,143-->
+<!--SR:!2024-04-13,11,130-->
 
 Graphique avec explications
 ?
 ![[image-20230921082031502.png]]
-<!--SR:!2024-03-16,62,203-->
+<!--SR:!2024-07-19,125,203-->
 
 ### Spirale inflationniste salaires-prix
 - Lorsqu’une hausse de la demande globale exerce une pression à la hausse sur le niveau des prix des biens et des services, les travailleurs commencent:: à exiger des salaires plus élevés de la part de leurs employeurs.
-<!--SR:!2024-03-14,109,263-->
+<!--SR:!2024-12-25,286,263-->
 - Étant donné que des salaires plus élevés entraînent des coûts de production plus élevés pour les entreprises, il en résulte:: une baisse de l’offre globale à court terme.
 <!--SR:!2024-09-27,220,243-->
 
@@ -113,5 +113,5 @@ Un taux d’inflation élevé crée un environnement incertain pour l’activit�
 - Dommages à la compétitivité des exportations (choc de la balance commerciale)
 - Impact sur la croissance économique
 - Allocation inefficace des ressources (pour les producteurs)
-<!--SR:!2024-03-13,7,130-->
+<!--SR:!2024-04-09,10,130-->
 

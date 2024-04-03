@@ -6,7 +6,7 @@ Created: 2023-02-14
 # Loi de décroissance radioactive
 
 - La décroissance radioactive est un phénomène qui est:: aléatoire.
-<!--SR:!2024-03-26,139,230-->
+<!--SR:!2025-02-08,319,230-->
 
 
 ## Désintégration $T_{1/2}$ ou période radioactive (demie-vie)
@@ -45,4 +45,4 @@ $$A=\lambda N$$
 - $A$ = Activité radioactive en Bq
 - $N$ = Nombre de noyaux/masse
 - $\lambda$ = Constante de désintégration d'un noyau,
-<!--SR:!2024-03-25,36,183-->
+<!--SR:!2024-05-31,67,183-->

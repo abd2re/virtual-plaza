@@ -12,7 +12,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 ### Angles remarquables
 
 - $\Large{\sin 0}=$::$0$
-<!--SR:!2024-03-23,175,230-->
+<!--SR:!2025-04-29,402,230-->
 - $\Large{\sin 30}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2025-02-11,382,250-->
 - $\Large{\sin 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
@@ -24,9 +24,9 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 - $\Large{\cos 0}=$::$\Large{1}$
 <!--SR:!2024-09-11,287,250-->
 - $\Large{\cos 30}=$::$\Large{\frac{\sqrt{3}}{2}}$
-<!--SR:!2024-04-02,193,250-->
+<!--SR:!2025-07-28,482,250-->
 - $\Large{\cos 45}=$::$\Large{\frac{\sqrt{2}}{2}}$
-<!--SR:!2024-03-13,180,250-->
+<!--SR:!2025-06-05,449,250-->
 - $\Large{\cos 60}=$::$\Large{\frac{1}{2}}$
 <!--SR:!2024-11-23,332,250-->
 - $\Large{\cos 90}=$::$0$
@@ -50,11 +50,11 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 
 ### Autour de $\frac{\pi}{2}$
 - $\cos(\frac{\pi}{2}-\theta)$=::$\sin\theta$
-<!--SR:!2024-04-01,177,230-->
+<!--SR:!2024-06-28,88,210-->
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 <!--SR:!2024-05-27,128,230-->
 - $\cos(\frac{\pi}{2}+\theta)$=::$-\cos\theta$
-<!--SR:!2024-03-21,175,230-->
+<!--SR:!2025-04-27,402,230-->
 - $\sin(\frac{\pi}{2}-\theta)$=::$\cos\theta$
 <!--SR:!2024-05-24,126,230-->
 ## Périodicité
@@ -80,4 +80,4 @@ Pour $\cos x=m$ ou $\sin x=m$ , si $|m|>1$ , alors:: il n'y a pas de solutions
 - Si $\sin x=\sin\theta$, alors $x=$::$\theta+2k\pi$ ou $\pi-\theta+2k\pi$
 <!--SR:!2024-04-10,80,208-->
 - Si $\tan x=\tan\theta$, alors $x=$::$\theta+k\pi$
-<!--SR:!2024-03-26,177,248-->
+<!--SR:!2025-06-07,438,248-->

@@ -6,7 +6,7 @@ Created: 2024-01-20
 
 # Blocs commerciaux
 Un bloc commercial s’agit d::’un niveau d’intégration économique plus étroit que les ACPr.
-<!--SR:!2024-03-16,13,170-->
+<!--SR:!2024-04-06,21,170-->
 
 Il existe quatre types de blocs commerciaux:
 ?
@@ -14,7 +14,7 @@ Il existe quatre types de blocs commerciaux:
 - Unions douanières
 - Marchés communs
 - Unions monétaires
-<!--SR:!2024-03-27,27,170-->
+<!--SR:!2024-05-10,44,170-->
 
 ## Zones de libre-échange
 Zones de libre-échange (ZLE) sont formés par un bloc commercial de pays signant des accords commerciaux pour:: éliminer la plupart ou la totalité des obstacles au commerce avec les autres pays impliqués dans l'accord.
@@ -32,14 +32,14 @@ Une union douanière est une autre forme d’intégration économique. Il resse
 
 ## Marchés communs
 Un marché commun est une autre forme d’intégration économique et constitue la première étape majeure vers la création d’un marché ou d’une économie unique (union douanière). Dans un marché commun, il doit également y avoir:: une union douanière qui permette la libre circulation des **facteurs de production** tels que la terre, la main-d'œuvre, les talents d'entrepreneur et les ressources en capital.
-<!--SR:!2024-04-01,44,250-->
+<!--SR:!2024-07-19,109,250-->
 
 Un bon exemple de marché commun est:: l'UE.
 <!--SR:!2024-05-02,67,270-->
 
 ## Unions monétaires
 Une union monétaire est créée lorsque:: des pays forment un bloc commercial dans lequel existent le libre-échange, une politique extérieure commune, la libre circulation des facteurs de production et une **monnaie partagée**
-<!--SR:!2024-03-22,31,210-->
+<!--SR:!2024-05-25,64,210-->
 
 Une union monétaire en activité aujourd'hui est:: la zone euro ou Union monétaire européenne,
 <!--SR:!2024-04-04,46,250-->

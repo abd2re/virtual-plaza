@@ -19,5 +19,5 @@ Types de compressions (2):
 - Compression de données avec pertes
 - Compression de données sans pertes
 ![[image-20230323174214650.png]]
-<!--SR:!2024-03-22,232,270-->
+<!--SR:!2024-07-15,115,250-->
 

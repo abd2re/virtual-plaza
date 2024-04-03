@@ -6,7 +6,7 @@ Created: 2023-09-08
 
 # Erreurs et incertitudes
 Une mesure n'est jamais:: exacte (si on devait mesurer des grandeurs, on va trouver des valeurs différentes).
-<!--SR:!2024-03-20,109,230-->
+<!--SR:!2024-11-25,250,230-->
 
 On distingue deux types d'erreurs:: les erreurs **aléatoires** et **systématiques**.
 <!--SR:!2024-09-07,188,230-->

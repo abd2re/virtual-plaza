@@ -7,7 +7,7 @@ Created: 2023-06-21
 Définition d'une personne au chômage:
 ?
 Toute personne en âge de travailler qui cherche du travail mais qui n'en trouve pas.
-<!--SR:!2024-03-25,156,230-->
+<!--SR:!2025-03-18,358,230-->
 
 ## Mesure du chômage
 - Lors de la publication de statistiques sur le chômage, il est plus simple d'exprimer le nombre de chômeurs en pourcentage de:: la **population active**.
@@ -15,7 +15,7 @@ Toute personne en âge de travailler qui cherche du travail mais qui n'en trouve
 - La population active est:: l'ensemble des personnes en âge de travailler (environ entre 18 et 65 ans) qui sont soit en emploi, soit au chômage et à la recherche d'un emploi.
 <!--SR:!2024-05-03,55,170-->
 - Le taux de chômage est:: le pourcentage de la population active qui recherche activement du travail mais qui est sans emploi.
-<!--SR:!2024-03-19,21,150-->
+<!--SR:!2024-04-20,32,150-->
 
 Formule du taux de chômage::$\Large{\text{Taux de chômage}=\frac{\text{Nombre de chômeurs}}{\text{Population active totale}}\times100}$
 <!--SR:!2024-09-05,258,242-->
@@ -33,4 +33,4 @@ Les raisons de l'apparition d'erreurs d'échantillonnage et d'inexactitudes dan
 - Travailleurs découragés
 - Disparités régionales, ethniques, d'âge et de sexe
 - Économie informelle
-<!--SR:!2024-03-15,30,150-->
+<!--SR:!2024-04-28,44,150-->

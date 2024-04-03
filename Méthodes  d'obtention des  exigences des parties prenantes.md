@@ -8,7 +8,7 @@ Created: 2022-11-18
 ## Partie prenante
 ?
 Les parties prenantes sont des individus, des équipes, des groupes ou des organisations qui ont un intérêt dans la réalisation d'un projet ou qui pourraient être affectés par le résultat d'un projet".
-<!--SR:!2024-03-31,300,250-->
+<!--SR:!2026-04-19,749,250-->
 
 ## Méthodes d'obtention des exigences des parties prenantes
 ?
@@ -16,4 +16,4 @@ La collecte de divers détails sur un système existant et l'obtention des exige
 - Interviewer les parties prenantes
 - L'utilisation de questionnaires
 - L'observation directe
-<!--SR:!2024-03-30,140,210-->
+<!--SR:!2025-01-17,293,210-->

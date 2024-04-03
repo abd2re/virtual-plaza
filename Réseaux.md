@@ -7,7 +7,7 @@ Created: 2022-10-05
 ?
 - Un réseau informatique est un ensembles de systèmes informatiques et de d'autres dispositifs matériels informatiques qui sont reliés entre eux par des canaux de communication pour faciliter la communication et le partage des ressources entre un certain nombre d'utilisateurs.
 - Ces systèmes informatiques sont connectés à l'aide d'un câble ou d'un support sans fil.
-<!--SR:!2024-03-27,33,150-->
+<!--SR:!2024-04-12,16,130-->
 
 **Types de réseaux avec acronyme (10)**:
 ?

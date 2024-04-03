@@ -10,7 +10,7 @@ La pauvreté absolue fait référence:: à des niveaux de pauvreté définis au 
 <!--SR:!2024-07-12,151,230-->
 
 Les pays qui ne souffrent pas de pauvreté absolue devront définir un niveau de revenu différent en dessous duquel leurs citoyens se retrouveraient en difficulté. C'est ce qu'on appelle:: pauvreté relative.
-<!--SR:!2024-03-25,34,210-->
+<!--SR:!2024-06-03,70,210-->
 
 ## Mesurer la pauvreté
 Les deux types d'indicateurs sont:: les indicateurs uniques et composites.

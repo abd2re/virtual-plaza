@@ -14,8 +14,8 @@ Toutes les interactions entre particules doivent respecter un ensemble de lois d
 - l'étrangeté, S
 - Énergie (ou énergie de masse)
 - Momentum
-<!--SR:!2024-03-14,2,230-->
+<!--SR:!2024-04-27,27,230-->
 
 
 Cependant, l'étrangeté n'a pas besoin d'être conservée dans les interactions:: faibles.
-<!--SR:!2024-03-13,1,210-->
+<!--SR:!2024-04-15,18,210-->

@@ -11,7 +11,7 @@ Les contraintes sont (3):
 - Pression politique
 - Décalages temporels
 - Dette viable
-<!--SR:!2024-04-03,34,210-->
+<!--SR:!2024-04-19,16,190-->
 
 ## 1. Pression politique
 ?
@@ -27,7 +27,7 @@ Une fois qu’une nouvelle politique est débattue au Parlement et adoptée en l
 ## 3. Dette viable
 ?
 Si le gouvernement souhaite stimuler l’économie, il doit opérer un déficit budgétaire. Le déficit ou la perte de revenus doit être financé par l’emprunt.
-<!--SR:!2024-03-13,23,230-->
+<!--SR:!2024-05-04,52,230-->
 
 Si un gouvernement continue d’enregistrer un déficit budgétaire et d’emprunter de l’argent, le montant total emprunté augmentera. Le montant total emprunté est appelé:: la dette du secteur public ou la dette nationale.
 <!--SR:!2024-07-08,123,230-->

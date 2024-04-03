@@ -11,7 +11,7 @@ On peut retenir **4** hypotheses qui sont derriere la loi de la demande:
 - [[Effet de revenu]]
 - [[Effet de substitution]]
 - **[[Loi d'utilité marginale décroissante]]**
-<!--SR:!2024-04-01,28,130-->
+<!--SR:!2024-05-11,40,130-->
 
 ## Graphe
 

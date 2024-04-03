@@ -18,7 +18,7 @@ $$\LARGE{E=mc^{2}}$$
 
 Le joule est une unité d'énergie inadaptée à l'échelle microscopique. On utilise plutôt à cette échelle l'électron volt (noté eV).
 - Valeur de MeV =:: $10^{6}eV$ = $1.60\cdot 10^{-13}J$
-<!--SR:!2024-03-19,31,130-->
+<!--SR:!2024-04-27,39,130-->
 
 L'énergie d'une mass atomique en MeV est:: 931.5 MeV
 <!--SR:!2024-04-09,35,237-->

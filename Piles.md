@@ -6,4 +6,4 @@ Created: 2023-12-21
 
 # Piles
 Une pile est:: une structure de donnée qui stocke un ensemble d'éléments dans un ordre particulier et n'autorise l'accès qu'au dernier élément inséré. Les éléments sont récupérés dans l'ordre inverse de leur insertion.
-<!--SR:!2024-03-13,7,130-->
+<!--SR:!2024-04-11,11,130-->

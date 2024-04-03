@@ -9,7 +9,7 @@ Created: 2023-11-29
 La transmission c'est:: le passage d'une onde d'un milieu à un autre sans changement de direction de propagation.
 <!--SR:!2024-04-30,59,170-->
 - L'onde transmise aura une amplitude:: plus faible si une certaine absorption s'est produite
-<!--SR:!2024-03-22,28,230-->
+<!--SR:!2024-05-24,63,230-->
 - L'onde transmise aura une période/fréquence différente. Vrai ou faux ?:: faux, elle reste pareil.
 <!--SR:!2024-04-09,76,241-->
 
@@ -20,7 +20,7 @@ Représentation:
 
 ## Réfraction
 La période depend pas du milieu ? Vrai ou faux ?:: Vrai, elle dépend de l'impulsion ($T_{1}=T_{2}=T$).
-<!--SR:!2024-03-29,60,210-->
+<!--SR:!2024-08-01,125,210-->
 - Lors du passage dans la direction normale (perpendiculaire), la lumière ne se plie pas du tout. Cela serait décrit comme:: une transmission.
 <!--SR:!2024-05-06,74,210-->
 - Lorsque la lumière passe d'un milieu moins dense à un milieu plus dense, comme de l'air au verre, la lumière réfractée a une vitesse plus faible et une longueur d'onde plus courte que la lumière incidente. Vrai ou faux ?:: Vrai.

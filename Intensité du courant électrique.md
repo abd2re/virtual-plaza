@@ -6,7 +6,7 @@ Created: 2022-12-05
 # Intensité du courant électrique
 
 L'intensité du courant électrique est une grandeur physique qui mesure la quantité d'électricité qui traverse une section d'un circuit par unité de temps. On l'a mesure a l'aide d'un:: ampèremètre branché en série avec le dipole dont un veut connaître l'intensité.
-<!--SR:!2024-03-13,31,288-->
+<!--SR:!2024-06-08,87,288-->
 
 
 
@@ -18,7 +18,7 @@ $$
 - $I$ = intensité du courant électrique en ampère
 - $q$ = charge en coulomb
 - $t$ = en secondes
-<!--SR:!2024-03-14,31,288-->
+<!--SR:!2024-06-10,88,288-->
 
 
 ## Nature du courant électrique
@@ -26,7 +26,7 @@ $$
 ?
 Dans les métaux le courant électrique est dut a un déplacement d'électrons libres qui se déplacent du pole moins vers le pole plus. Le sens conventionnel a l'exterieur du générateur est de plus vers le moins.
 Dans les liquides qui conduisent l'eletricité, le courant électrique est dut a un déplacement des ions positifs (cations) et des ions négatifs (anions).
-<!--SR:!2024-03-23,43,303-->
+<!--SR:!2024-07-30,129,303-->
 
 
 ## Vitesse de dérive des porteurs de charges
@@ -49,5 +49,5 @@ $$
 - **Loi des nœuds ou de Kirchhoff pour l'intensité**:: Dans un nœud la somme des courants entrants est égale a la somme des courants sortants.
 <!--SR:!2024-06-01,84,270-->
 - Un nœud est:: le point de rencontre de plus de deux fils de connexion
-<!--SR:!2024-03-19,32,230-->
+<!--SR:!2024-05-31,73,230-->
 

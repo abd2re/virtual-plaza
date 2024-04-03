@@ -10,7 +10,7 @@ Définition et graphe:
 ?
 Lorsque le processus de production d'un bien ou d'un *service* génère un effet **négatif** sur un **tiers** ou sur la **société** dans son ensemble, on dit qu'il y a une externalité négative de la production.
 ![[image-20230203083115173.png]]
-<!--SR:!2024-03-29,221,210-->
+<!--SR:!2025-07-05,463,210-->
 
 - Lorsqu'une externalité négative de la production se produit,:: **le coût social marginal de production (CSM) est supérieur au coût de production privé (CMP)** , car les entreprises ne tiennent pas compte de ces coûts supplémentaires lorsqu'elles décident de la quantité à fournir à chaque niveau de prix.
 <!--SR:!2024-06-20,138,210-->

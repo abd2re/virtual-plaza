@@ -12,4 +12,4 @@ Un quota est:: une limite physique imposée au volume d'un produit particulier e
 Représentation  graphique d'un quota sur le libre échange (explique après):
 ?
 ![[image-20240110084154805.png]]
-<!--SR:!2024-03-22,13,150-->
+<!--SR:!2024-04-09,18,150-->

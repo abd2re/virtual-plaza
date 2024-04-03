@@ -6,7 +6,7 @@ Created: 2022-12-20
 # Piles électriques
 ?
 Une pile convertit l'énergie chimique en énergie électrique avec dissipation/perte d'énergie sous forme de [[chaleur]].
-<!--SR:!2024-03-19,42,130-->
+<!--SR:!2024-05-12,54,130-->
 
 - Une pile est caractérisée par:: sa fem $e$ et sa résistance interne $r$. $e$ en volt et $r$ en ohm.
 <!--SR:!2024-06-05,326,286-->
@@ -24,7 +24,7 @@ $$U=e-rI$$- $U$ = tension dans la puissance électrique
 <!--SR:!2024-05-23,112,206-->
 
 Caractéristique intensité-tension d'une pile (graphe)::![[Piles électriques.png]]
-<!--SR:!2024-03-24,105,226-->
+<!--SR:!2024-05-13,50,206-->
 
 On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circuit caractéristique d'une pile]]
 <!--SR:!2024-10-29,232,226-->
@@ -40,11 +40,11 @@ On peut retrouver la formule $U=e-rI$ en effectuant le montage suivant::![[circu
 <!--SR:!2024-04-09,42,246-->
 
 circuit équivalent d'une pile réel::![[equivalent e;r]]
-<!--SR:!2024-03-19,79,206-->
+<!--SR:!2024-08-28,162,206-->
 
 ## Circuits avec des piles
 formule emf::$$e=(r+R)I$$
-<!--SR:!2024-03-31,22,130-->
+<!--SR:!2024-04-11,11,130-->
 
 
 ## Circuits simples comportant des piles, récepteurs et resistors
@@ -53,7 +53,7 @@ formule emf::$$e=(r+R)I$$
 ?
 Un récepteur (ex un moteur, un électrolyseur) est un appareil qui consomme plus d'énergie que n'a besoin l'effet joule.
 Le récepteur est caractérisé oar 1 fcem $e'$ (force contre électromotrice) et par sa résistance interne.
-<!--SR:!2024-03-31,44,200-->
+<!--SR:!2024-06-26,87,200-->
 
 Formule de la tension  d'un récepteur::$$U_{recept}=e'+rI$$
 <!--SR:!2024-05-19,114,220-->
@@ -65,7 +65,7 @@ Formule des fem et fcem dans un circuit avec piles et récepteurs (+branchement)
 ?
 ![[image-20230109163848957.png]]
 $$\Sigma{e} - \Sigma{e'}=\Sigma{R}\times I$$
-<!--SR:!2024-03-20,45,200-->
+<!--SR:!2024-04-12,23,180-->
 
 ## Circuit avec des nœuds comportant des générateurs
 
@@ -82,7 +82,7 @@ Pour avoir plus de tension.
 $$V_{PN}=e_{1}-r_{1}I+e_{2}-r_{2}I+e_{3}-r_{3}I$$
 $$V_{PN}=e_{1}+e_{2}+e_{3}-(r_{1}+r_{2}+r_{3})I$$
 $$e_s=\sum{e}$$$$r_s=\sum\limits{r}$$
-<!--SR:!2024-03-28,100,220-->
+<!--SR:!2024-05-16,49,200-->
 
 **En parallèle** (Avantage, branchement et formule)
 ?
@@ -90,7 +90,7 @@ Pour avoir plus d'intensité
 ![[image-20230110093433182.png]]
 $$U_{PN}=e-r\frac{I}{n}=e-r\frac{I}{n}=e-r\frac{I}{n}$$
 $$e_{//}=e,\;r_{//}=\frac{r}{n}$$
-<!--SR:!2024-04-03,46,200-->
+<!--SR:!2024-04-26,23,180-->
 
 
 

@@ -12,7 +12,7 @@ Un mouvement harmonique simple a les caractéristiques suivantes (5):
 - La période est constante
 - L'accélération est proportionnel à l'opposé du déplacement $x$
 - Il y a une force de rappel dirigée vers la position d'équilibre
-<!--SR:!2024-03-23,32,230-->
+<!--SR:!2024-04-07,15,210-->
 
 La période est indépendante de:: l'amplitude.
 <!--SR:!2024-07-14,125,210-->
@@ -30,7 +30,7 @@ Période et amplitude dans un graphe déplacement-temps:
 Longueur d'onde et amplitude dans un graphe déplacement-distance:
 ?
 ![[image-20231117193925638.png|center|600]]
-<!--SR:!2024-03-17,70,244-->
+<!--SR:!2024-09-03,170,244-->
 
 Distance parcouru durant une période est égale à:: $4A$.
-<!--SR:!2024-03-16,38,244-->
+<!--SR:!2024-06-16,92,244-->

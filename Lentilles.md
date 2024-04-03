@@ -7,7 +7,7 @@ Created: 2024-01-26
 # Lentilles 
 
 Le passage des rayons lumineux à travers les lentilles est déterminé par:: la loi de la réfraction.
-<!--SR:!2024-03-27,41,290-->
+<!--SR:!2024-07-23,118,290-->
 
 Lentille convergente/convexe représentation générale:
 ![[image-20240126135839487.png|center|500]]

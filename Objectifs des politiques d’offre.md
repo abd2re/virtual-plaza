@@ -10,7 +10,7 @@ Les politiques de l'offre sont conçues pour (2):
 ?
 - Encourager les forces du marché et accroître la concurrence
 - Accroître la qualité et la quantité des facteurs de production
-<!--SR:!2024-03-16,19,130-->
+<!--SR:!2024-04-09,24,130-->
 
 Le gouvernement mène des politiques axées sur l’offre pour contribuer à la croissance de l’économie. Les objectifs des politiques du côté de l’offre comprennent (5):
 ?
@@ -19,7 +19,7 @@ Le gouvernement mène des politiques axées sur l’offre pour contribuer à l
 - Réduire les coûts du travail et le chômage grâce à la flexibilité du marché du travail
 - Réduire l'inflation pour améliorer la compétitivité internationale
 - Accroître les incitations des entreprises à investir dans l'innovation en réduisant les coûts.
-<!--SR:!2024-03-15,4,130-->
+<!--SR:!2024-04-07,8,130-->
 
 ## 1. Augmenter la capacité productive de l’économie pour parvenir à une croissance à long terme
 - La capacité productive comprend toutes les ressources par exemple::, la terre, la main-d'œuvre, les moteurs, les machines, la technologie, le savoir-faire et le stock de capital de l'économie.
@@ -39,7 +39,7 @@ Le facteur capital peut être augmenté en (2):
 ?
 - Abaissant les taux d'intérêt et rendre moins coûteux pour les entreprises d'emprunter de l'argent pour acheter des machines (augmente l'investissement)
 - Donnant des allégements fiscaux aux entreprises qui investissent dans de nouvelles machines
-<!--SR:!2024-03-14,15,130-->
+<!--SR:!2024-04-07,14,130-->
 
 ## 2. Améliorer la concurrence et l’efficacité
 - La concurrence oblige:: les entreprises à s’améliorer.
@@ -59,10 +59,10 @@ Un marché du travail plus flexible permet aux entreprises d’ajuster les salai
 - Réduire ou supprimer le salaire minimum
 - Réduire le bien-être pour augmenter le coût d'opportunité d'être au chômage
 - Augmenter le nombre d'agences pour l'emploi pour mettre en relation les chômeurs avec des postes vacants appropriés
-<!--SR:!2024-03-23,35,210-->
+<!--SR:!2024-04-11,19,190-->
 
 ## 4. Réduire l’inflation pour améliorer la compétitivité internationale
 Si le taux d’inflation d’un pays est inférieur à celui du reste du monde, cela signifie que:: les prix intérieurs augmentent plus lentement que dans le reste du monde. En conséquence, ses exportations seront relativement compétitives.
-<!--SR:!2024-03-29,62,244-->
+<!--SR:!2024-08-26,150,244-->
 
 ## 5. Accroître les incitations des entreprises à investir dans l'innovation en réduisant les coûts

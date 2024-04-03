@@ -34,13 +34,13 @@ Caractéristique intensité-tension du resistor a comme graphe::![[Résistance �
 - Association en série formule::$$R_{eqs}=R_1+R_2+\text{...}$$ l'association en série de plusieurs résistors est équivalent a un résistor $R_{eqs}$ dont la résistance est égale a la somme des résistances
 <!--SR:!2025-02-28,476,242-->
 - Association en parallèle formule::$$\frac{1}{R_{eqp}}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\text{...}$$ $$R_{eqp}=\frac{R_{1}R_{2}}{R_{1}+R_{2}}$$
-<!--SR:!2024-03-23,36,181-->
+<!--SR:!2024-05-26,64,181-->
 
 ## Dissipation d'énergie électrique dans un resistor (effet joule)
 ?
 Lorsque qu'un conducteur est parcouru par un courant électrique il y a un dégagement de [[chaleur]]: c'est l'effet joule.
 Pour lutter contre l'effet joule on prévoit des dispositifs d'aération ou de ventilation. L'effet joule est utilisé avantageusement dans les plaques chauffantes, les fusibles, les chauffe-eau.
-<!--SR:!2024-03-19,101,202-->
+<!--SR:!2024-10-11,206,202-->
 
 La puissance dissipé par effet joule est proportionnelle:: au carré de l'intensité.
 <!--SR:!2024-09-15,210,182-->
@@ -52,10 +52,10 @@ La puissance dissipé par effet joule est proportionnelle:: au carré de l'inten
 Un appareil de mesure modifie le circuit et a un effet sur la mesure. 
 
 - Utilisation d'un ampèremètre: un ampèremètre idéal:: a une résistance interne nulle
-<!--SR:!2024-04-01,103,243-->
+<!--SR:!2024-12-08,251,243-->
 
 - Utilisation d'un voltmètre: un voltmètre idéal:: a une résistance interne infinie
-<!--SR:!2024-03-15,104,222-->
+<!--SR:!2024-11-02,232,222-->
 
 ## Diviseur de tension et montage potentiométrique
 Formule et circuit
@@ -68,11 +68,11 @@ On sait que
 $$U_{1}=R_{1}\times I$$
 donc
 $$U_{1}=R_{1}\times \frac{U}{R_{1}+R_{2}}=\boxed{\frac{R_1}{R_{1}+R_{2}}\times U}$$
-<!--SR:!2024-03-16,5,130-->
+<!--SR:!2024-04-08,9,130-->
 
 ## Montage potentiométrique
 Un potentiomètre est:: un conducteur ohmique ayant trois bornes, deux bornes fixe A et B et une borne mobile C appelé curseur. Si l'on branche le potentiomètre par les deux bornes fixes A et B, ce dernier se comporte comme une résistance fixe. ![[image-20230116161558430.png|400]]
-<!--SR:!2024-03-31,19,163-->
+<!--SR:!2024-04-30,30,163-->
 
 
 ### Rhéostat
@@ -86,7 +86,7 @@ Le rhéostat est:: un potentiomètre branché avec les bornes A et C ou C et B. 
 - si C est en A $$R_{AC}=R_{AA}=0,\;U_{AC}=0$$
 - si C est en B $$R_{AC}=R_{AB},\;U_{AC}=\frac{R_{AB}}{R_{AB}}U_{AB}=U_{AB}$$
 - si C est entre A et B $$0<U_{S}<U_{AB}$$
-<!--SR:!2024-03-14,2,130-->
+<!--SR:!2024-04-04,4,130-->
 
 
 

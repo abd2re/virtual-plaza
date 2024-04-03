@@ -18,11 +18,11 @@ $$g=\frac{F_{g}}{m}=\frac{GM}{r^{2}}$$
 - $G$ = constante gravitationnelle
 - $M$ = masse qui exerce le champ
 - $r$ = distance
-<!--SR:!2024-03-20,259,250-->
+<!--SR:!2024-07-29,131,230-->
 
 Une masse $M$ distant de $r$ d'un point exerce un champ de gravitation $\vec{g}$ radiale et centipède dont l'intensité est $\frac{GM}{r^{2}}$. 
 
 L'intensité du champ de gravitation est:: la force gravitationnelle par unité de masse qui s'exerce sur une masse ponctuelle.
-<!--SR:!2024-03-27,24,206-->
+<!--SR:!2024-05-18,52,206-->
 
 ## Champ de gravitation exercé par plusieurs masses

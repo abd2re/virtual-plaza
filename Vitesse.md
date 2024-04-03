@@ -11,19 +11,19 @@ $$\LARGE{v=\frac{d}{t}}$$
 - $v$ = vitesse en $ms^{-1}$
 - $d$ = distance en $m$
 - $t$ = temps en $s$
-<!--SR:!2024-03-25,84,230-->
+<!--SR:!2024-05-07,43,210-->
 
 ## Vecteur vitesse moyenne (velocity)
 Formule:
 ?
 $$\Large{\vec{v}=\frac{\vec{D}}{\Delta t}}$$$$\large{\vec{v}_{1\rightarrow2}=\frac{\vec{M_{1}M_{2}}}{t_{2}-t_{1}}}$$
 ($M_{1}$ et $M_{2}$ positions aux dates $t_1$ et $t_{2}$ )
-<!--SR:!2024-03-30,215,230-->
+<!--SR:!2025-08-06,494,230-->
 
 ## Vitesse instantanée
 ?
 C'est le vecteur vitesse moyen pour deux positions très proches. **Pente de la tangente a la trajectoire a la date donnée**.
-<!--SR:!2024-04-03,98,170-->
+<!--SR:!2024-09-16,166,170-->
 
 Formule:
 ?
