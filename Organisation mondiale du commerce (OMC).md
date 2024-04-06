@@ -27,4 +27,4 @@ L'OMC est guidée par l'ensemble de principes suivant (6):
 - **Promotion d’une concurrence loyale** : ce principe tente d’évaluer l’équité des transactions commerciales et d’orienter les réponses
 - **Privilégier les pays les moins développés** : cela vise à améliorer l’équité entre les pays plus développés (PMD) et les pays les moins développés (PMA)
 - **Protection de l'environnement** : les initiatives doivent avoir l'environnement au cœur, y compris la santé publique, la santé animale et la santé des plantes.
-<!--SR:!2024-04-05,23,190-->
+<!--SR:!2024-05-18,43,190-->

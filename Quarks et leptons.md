@@ -19,10 +19,10 @@ Diagramme des charges des quarks:
 Les six leptons sont :
 ?
 ![[image-20240302185400359.png|center|450]]
-<!--SR:!2024-04-05,16,230-->
+<!--SR:!2024-05-16,41,230-->
 
 - Les leptons interagissent avec:: l'interaction faible, les forces électromagnétiques et gravitationnelles.
-<!--SR:!2024-04-04,10,190-->
+<!--SR:!2024-04-22,18,190-->
 
 ## Protons et neutrons
 - Les protons sont constitués de:: deux quarks up et d'un quark down.

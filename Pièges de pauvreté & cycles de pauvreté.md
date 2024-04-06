@@ -7,7 +7,7 @@ Created: 2024-03-21
 # Pièges de pauvreté & cycles de pauvreté
 
 Un piège/cycle de pauvreté est:: toute combinaison d’obstacles à la croissance et au développement qui forme un cycle qui s’auto-entretient à moins que le cercle ne puisse être brisé.
-<!--SR:!2024-04-04,7,250-->
+<!--SR:!2024-04-21,17,250-->
 
 Figure du piège/cycle de pauvreté
 ?
@@ -26,7 +26,7 @@ Les types de barrières sont (5):
 - politiques
 - institutionnelles
 - socioculturelles
-<!--SR:!2024-04-04,7,250-->
+<!--SR:!2024-04-23,19,250-->
 
 ## Barrières économiques
 

@@ -5,7 +5,7 @@ tags: [math]
 ## Lignes trigonométriques
 
 $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
-<!--SR:!2024-04-04,74,230-->
+<!--SR:!2024-09-20,169,230-->
 
 ---
 
@@ -66,7 +66,7 @@ $\Large{\tan(\theta)=}$::$\LARGE{\frac{\sin(\theta)}{\cos(\theta)}}$
 <!--SR:!2025-04-10,414,250-->
 ## Propriétés angles opposés
 - $\cos(-\theta)=$::$\cos(\theta)$
-<!--SR:!2024-04-04,72,230-->
+<!--SR:!2024-09-16,165,230-->
 - $\sin(-\theta)=$::$-\sin(\theta)$
 <!--SR:!2025-04-03,409,250-->
 - $\tan(-\theta)=$::$-\tan(\theta)$

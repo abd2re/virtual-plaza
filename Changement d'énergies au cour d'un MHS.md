@@ -15,7 +15,7 @@ Graphique (masse attaché à un ressort)
 Graphique énergie potentielle (masse attaché à un ressort)
 ?
 ![[image-20231108113249059.png|center]]
-<!--SR:!2024-04-05,57,210-->
+<!--SR:!2024-05-04,29,190-->
 
 
 

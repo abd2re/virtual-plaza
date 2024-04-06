@@ -14,7 +14,7 @@ Created: 2023-04-10
 - **Le prefetching ou la préfixation** consiste à:: placer des données ou des instructions de la mémoire dans la mémoire cache avant qu'elles ne soient réellement nécessaires
 <!--SR:!2024-06-29,250,230-->
 - **Une bibliothèque logicielle(module)** consiste:: en un code pré-écrit, des classes, des procédures, des méthodes, etc. qu'un programmeur peut utiliser pour ajouter plus de fonctionnalités à ses programmes, sans avoir à réécrire le code équivalent.
-<!--SR:!2024-04-05,35,190-->
+<!--SR:!2024-06-10,66,190-->
 
 Exemple de Diagramme de Gant:
 ?

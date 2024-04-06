@@ -42,4 +42,4 @@ Une union monétaire est créée lorsque:: des pays forment un bloc commercial d
 <!--SR:!2024-05-25,64,210-->
 
 Une union monétaire en activité aujourd'hui est:: la zone euro ou Union monétaire européenne,
-<!--SR:!2024-04-04,46,250-->
+<!--SR:!2024-07-27,114,250-->

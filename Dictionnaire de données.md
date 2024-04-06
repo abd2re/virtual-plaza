@@ -18,10 +18,10 @@ Cela inclut:
 - Noms des champs
 - Types de données et longueur des champs
 - Relations entre les tables
-<!--SR:!2024-04-04,13,230-->
+<!--SR:!2024-05-03,29,230-->
 
 Représentation:
 ?
 ![[image-20240303173259922.png|center]]
-<!--SR:!2024-04-06,8,230-->
+<!--SR:!2024-04-23,17,230-->
 

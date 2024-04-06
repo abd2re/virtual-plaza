@@ -31,7 +31,7 @@ Pouvoir de penetration des 3 radioactivités:
 <!--SR:!2024-10-05,362,250-->
 
 - **Un noyau radioactif est**:: un isotope instable d’un élément chimique. Il va naturellement se désintégrer pour chercher à atteindre une composition stable. Lors de la désintégration, le noyau radioactif émet une particule et de l’énergie.
-<!--SR:!2024-04-04,25,130-->
+<!--SR:!2024-05-06,32,130-->
 
 #### Stabilité des noyaux
 ?
@@ -46,4 +46,4 @@ Le **diagramme (Z;N)** représente l’ensemble des noyaux connus en fonction de
 <!--SR:!2024-08-24,150,210-->
 
 - Rayonnement de fond=:: c'est la radioactivité propre a un endroit qui s'ajoute a la radioactivité d'une source.
-<!--SR:!2024-04-05,32,155-->
+<!--SR:!2024-04-20,15,135-->

@@ -10,10 +10,10 @@ Avantages (2):
 ?
 - Des vitesses d'accès aux données plus rapides
 - Meilleure protection des données
-<!--SR:!2024-04-04,3,250-->
+<!--SR:!2024-04-13,9,250-->
 
 Inconvénients (2):
 ?
 - Incohérence des données
 - Plus d'espace de stockage nécessaire
-<!--SR:!2024-04-04,3,250-->
+<!--SR:!2024-04-13,9,250-->

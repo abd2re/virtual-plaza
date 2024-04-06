@@ -81,7 +81,7 @@ Argument d'une multiplication/division de deux nombre complexes, argument d'un c
 ## Forme polaire
 
 Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\theta)=re^{i\theta}}$$
-<!--SR:!2024-04-05,67,141-->
+<!--SR:!2024-07-07,93,141-->
 
 - $\cos\theta$=::$\frac{a}{|z|}$
 <!--SR:!2024-06-05,131,236-->

@@ -13,6 +13,6 @@ Il est impossible de garder a l'esprit l'etendue et les limites des nouveaux sys
 - Temps de mise en place
 - Remplacement du matériel
 - Formation & accompagnement
-<!--SR:!2024-04-04,11,130-->
+<!--SR:!2024-04-19,15,130-->
 
 Avec une installation d'un système on aura des [[Changements dans un environment]].

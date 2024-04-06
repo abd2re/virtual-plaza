@@ -16,4 +16,4 @@ Les 8 différents types de tests sont:
 6. [[User acceptance testing]]
 7. [[Debugging]]
 8. [[AB testing]]
-<!--SR:!2024-04-03,338,250-->
+<!--SR:!2026-07-27,844,250-->

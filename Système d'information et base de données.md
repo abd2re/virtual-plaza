@@ -10,4 +10,4 @@ Un système d'information (SI) est:: un système organisé de collecte, d'organi
 <!--SR:!2024-04-07,4,130-->
 
 Les systèmes d'information sont constitués de six éléments:: le matériel, les logiciels, les données, les personnes, le réseau et les processus.
-<!--SR:!2024-04-05,7,200-->
+<!--SR:!2024-04-18,13,200-->

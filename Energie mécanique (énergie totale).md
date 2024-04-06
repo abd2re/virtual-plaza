@@ -27,3 +27,10 @@ La variation d'énergie mécanique entre deux instants d'un solide soumis a des 
 
 Formule::$$\Large{\Delta E_{M}=E_{M_{2}}-E_{M_{1}}=\sum W_{1\rightarrow2}(\vec{f}_{\text{non-conservatives}})}$$
 <!--SR:!2024-07-02,165,237-->
+
+
+Formule énergies du travail des forces net, forces conservatives, et forces non-conservatives:
+?
+- $$W_{\text{net}}=\Delta E_{c}$$
+- $$W_{\text{c}}=-\Delta E_{p}$$
+- $$W_{\text{nc}}=\Delta E_{m}$$

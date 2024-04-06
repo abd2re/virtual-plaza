@@ -7,7 +7,7 @@ Created: 2024-03-12
 # Permutations et combinations
 ## Principes de comptage
 - Le principe fondamental de comptage stipule que s'il y a $m$ façons de faire une chose et $n$ façons d'en faire une autre, alors pour faire les deux choses il y a:: $m\times n$ façons.
-<!--SR:!2024-04-04,14,290-->
+<!--SR:!2024-05-14,40,290-->
 - Si une question demande de choisir un élément d'une liste ET un élément d'une autre liste, on doit:: multiplier le nombre d'options dans chaque liste.
 <!--SR:!2024-04-19,21,250-->
 - Si une question demande de choisir un élément d'une liste OU un élément d'une autre liste, on doit:: additionner le nombre d'options dans chaque liste.

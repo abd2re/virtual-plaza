@@ -34,7 +34,7 @@ Point fort des politiques interventionnistes du côté de l’offre (1):
 ### Forces et limites dans la promotion de la croissance, d’un faible taux de chômage et d’un faible taux d’inflation stable
 
 Les nouveaux économistes classiques croient fermement que la clé pour débloquer la croissance économique est de:: se concentrer sur l’offre de l’économie.
-<!--SR:!2024-04-05,22,193-->
+<!--SR:!2024-04-14,9,173-->
 
 À mesure que la production potentielle et la productivité augmentent, les pays peuvent augmenter leur PIB réel en augmentant:: l'offre globale à long-terme tout en utilisant moins de ressources pour ce faire, et augmenteront ainsi leur production
 <!--SR:!2024-04-23,50,166-->

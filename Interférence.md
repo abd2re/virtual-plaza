@@ -10,7 +10,7 @@ L'interférence se produit lorsque:: deux ou plusieurs ondes se combinent pour p
 - Les ondes se combinent selon le principe de:: superposition
 <!--SR:!2024-09-22,180,270-->
 - L'interférence constructive se produit lorsque:: l'onde résultante a un déplacement plus important que n'importe lequel des déplacements individuels.
-<!--SR:!2024-04-04,13,210-->
+<!--SR:!2024-04-10,6,190-->
 - L'interférence destructive se produit lorsque:: le déplacement positif d'une onde et le déplacement négatif d'une autre onde s'annulent exactement, ce qui donne un déplacement résultant de zéro.
 <!--SR:!2024-04-22,31,230-->
 
@@ -21,7 +21,7 @@ Différence de chemin d'une interférence destructive (formule)=::$|S_{2}-S_{1}|
 
 ## Experience des fentes de Young
 Deux sources sont dites cohérentes lorsque:: les ondes qu'elles émettent ont la même fréquence et une différence de phase constante.
-<!--SR:!2024-04-05,5,130-->
+<!--SR:!2024-04-12,7,130-->
 
 Formule avec angle:
 ?

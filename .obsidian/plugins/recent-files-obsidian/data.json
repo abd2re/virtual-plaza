@@ -1,28 +1,152 @@
 {
   "recentFiles": [
     {
-      "basename": "Vecteurs",
-      "path": "Vecteurs.md"
+      "basename": "Force conservative",
+      "path": "Force conservative.md"
     },
     {
-      "basename": "Identités trigonométriques",
-      "path": "Identités trigonométriques.md"
+      "basename": "Politiques d’offre fondées sur le marché pour accroître la concurrence",
+      "path": "Politiques d’offre fondées sur le marché pour accroître la concurrence.md"
+    },
+    {
+      "basename": "Energie mécanique (énergie totale)",
+      "path": "Energie mécanique (énergie totale).md"
+    },
+    {
+      "basename": "Chapitre 3 - Travail d'une force",
+      "path": "Chapitre 3 - Travail d'une force.md"
+    },
+    {
+      "basename": "Energie cinétique",
+      "path": "Energie cinétique.md"
+    },
+    {
+      "basename": "Energies potentielles",
+      "path": "Energies potentielles.md"
+    },
+    {
+      "basename": "physics past papers",
+      "path": "physics past papers.md"
+    },
+    {
+      "basename": "Intégration",
+      "path": "Intégration.md"
+    },
+    {
+      "basename": "Externalité de la production",
+      "path": "Externalité de la production.md"
+    },
+    {
+      "basename": "Chapitre 8 - Défaillance du marché – externalités et ressources communes",
+      "path": "Chapitre 8 - Défaillance du marché – externalités et ressources communes.md"
+    },
+    {
+      "basename": "Externalité de la consommation",
+      "path": "Externalité de la consommation.md"
+    },
+    {
+      "basename": "_math",
+      "path": "_math.md"
+    },
+    {
+      "basename": "Fonction de densité de probabilité",
+      "path": "Fonction de densité de probabilité.md"
+    },
+    {
+      "basename": "Statistiques I",
+      "path": "Statistiques I.md"
+    },
+    {
+      "basename": "Lois des sinus et cosinus",
+      "path": "Lois des sinus et cosinus.md"
+    },
+    {
+      "basename": "Position relative parabole et droite",
+      "path": "Position relative parabole et droite.md"
+    },
+    {
+      "basename": "Formules de Viète",
+      "path": "Formules de Viète.md"
+    },
+    {
+      "basename": "Séries et Séquences",
+      "path": "Séries et Séquences.md"
+    },
+    {
+      "basename": "Fonctions quadratiques",
+      "path": "Fonctions quadratiques.md"
+    },
+    {
+      "basename": "Cohérence et intégrité de données",
+      "path": "Cohérence et intégrité de données.md"
+    },
+    {
+      "basename": "Onde progressive",
+      "path": "Onde progressive.md"
+    },
+    {
+      "basename": "_physics",
+      "path": "_physics.md"
+    },
+    {
+      "basename": "Chapitre 2 - Ondes progressives périodiques",
+      "path": "Chapitre 2 - Ondes progressives périodiques.md"
     },
     {
       "basename": "Dérivation",
       "path": "Dérivation.md"
     },
     {
-      "basename": "Amplitude et intensité d'une onde",
-      "path": "Amplitude et intensité d'une onde.md"
+      "basename": "Vecteurs",
+      "path": "Vecteurs.md"
+    },
+    {
+      "basename": "Polynômes",
+      "path": "Polynômes.md"
+    },
+    {
+      "basename": "Distribution discrètes",
+      "path": "Distribution discrètes.md"
+    },
+    {
+      "basename": "Equations différentielles",
+      "path": "Equations différentielles.md"
+    },
+    {
+      "basename": "Identités trigonométriques",
+      "path": "Identités trigonométriques.md"
+    },
+    {
+      "basename": "Modes propres de vibration",
+      "path": "Modes propres de vibration.md"
+    },
+    {
+      "basename": "Chapitre 5 - Ondes stationnaires",
+      "path": "Chapitre 5 - Ondes stationnaires.md"
     },
     {
       "basename": "Theme 4-Oscillations et ondes",
       "path": "Theme 4-Oscillations et ondes.md"
     },
     {
-      "basename": "Equations différentielles",
-      "path": "Equations différentielles.md"
+      "basename": "Chapitre 4 - Comportement des ondes",
+      "path": "Chapitre 4 - Comportement des ondes.md"
+    },
+    {
+      "basename": "Transmission et réfraction",
+      "path": "Transmission et réfraction.md"
+    },
+    {
+      "basename": "Ondes stationnaires",
+      "path": "Ondes stationnaires.md"
+    },
+    {
+      "basename": "Probabilité discrètes",
+      "path": "Probabilité discrètes.md"
+    },
+    {
+      "basename": "Amplitude et intensité d'une onde",
+      "path": "Amplitude et intensité d'une onde.md"
     },
     {
       "basename": "Organisation mondiale du commerce (OMC)",
@@ -39,10 +163,6 @@
     {
       "basename": "Chapitre 7 - Politiques du côté de l'Offre",
       "path": "Chapitre 7 - Politiques du côté de l'Offre.md"
-    },
-    {
-      "basename": "Transmission et réfraction",
-      "path": "Transmission et réfraction.md"
     },
     {
       "basename": "Frottement cinétique",
@@ -79,126 +199,6 @@
     {
       "basename": "Formation de l'image dans les lentilles convexes",
       "path": "Formation de l'image dans les lentilles convexes.md"
-    },
-    {
-      "basename": "Theme 7-Physique nucléaire",
-      "path": "Theme 7-Physique nucléaire.md"
-    },
-    {
-      "basename": "Lentilles",
-      "path": "Lentilles.md"
-    },
-    {
-      "basename": "Télescope",
-      "path": "Télescope.md"
-    },
-    {
-      "basename": "Politique budgétaire",
-      "path": "Politique budgétaire.md"
-    },
-    {
-      "basename": "Blocs commerciaux",
-      "path": "Blocs commerciaux.md"
-    },
-    {
-      "basename": "Chômage faible",
-      "path": "Chômage faible.md"
-    },
-    {
-      "basename": "Chapitre 4 - Intégration économique",
-      "path": "Chapitre 4 - Intégration économique.md"
-    },
-    {
-      "basename": "Accords commerciaux préférentiels",
-      "path": "Accords commerciaux préférentiels.md"
-    },
-    {
-      "basename": "Forces magnétiques",
-      "path": "Forces magnétiques.md"
-    },
-    {
-      "basename": "Champ magnétique",
-      "path": "Champ magnétique.md"
-    },
-    {
-      "basename": "Politiques interventionnistes du côté de l’offre",
-      "path": "Politiques interventionnistes du côté de l’offre.md"
-    },
-    {
-      "basename": "Revenu total des entreprises",
-      "path": "Revenu total des entreprises.md"
-    },
-    {
-      "basename": "Chapitre 5 - Elasticités de la demande",
-      "path": "Chapitre 5 - Elasticités de la demande.md"
-    },
-    {
-      "basename": "Elasticité prix de la demande",
-      "path": "Elasticité prix de la demande.md"
-    },
-    {
-      "basename": "Elasticités de l'offre",
-      "path": "Elasticités de l'offre.md"
-    },
-    {
-      "basename": "Biens publics",
-      "path": "Biens publics.md"
-    },
-    {
-      "basename": "Externalité de la consommation",
-      "path": "Externalité de la consommation.md"
-    },
-    {
-      "basename": "Externalité de la production",
-      "path": "Externalité de la production.md"
-    },
-    {
-      "basename": "Probabilité discrètes",
-      "path": "Probabilité discrètes.md"
-    },
-    {
-      "basename": "exos fr4",
-      "path": "exos fr4.md"
-    },
-    {
-      "basename": "_french B",
-      "path": "_french B.md"
-    },
-    {
-      "basename": "exos francais",
-      "path": "exos francais.md"
-    },
-    {
-      "basename": "Untitled 31",
-      "path": "Untitled 31.md"
-    },
-    {
-      "basename": "Intégration",
-      "path": "Intégration.md"
-    },
-    {
-      "basename": "_math",
-      "path": "_math.md"
-    },
-    {
-      "basename": "_physics",
-      "path": "_physics.md"
-    },
-    {
-      "basename": "Miroirs sphériques",
-      "path": "Miroirs sphériques.md"
-    },
-    {
-      "basename": "Fibres optiques",
-      "path": "Fibres optiques.md"
-    },
-    {
-      "basename": "Option - Imagerie",
-      "path": "Option - Imagerie.md"
-    },
-    {
-      "basename": "Pièges de pauvreté & cycles de pauvreté",
-      "path": "Pièges de pauvreté & cycles de pauvreté.md"
     }
   ],
   "omittedPaths": [],

@@ -20,5 +20,5 @@ Représentation d'un télescope réfléchi Newtonien:
 Représentation d'un télescope réfléchi Cassegrain:
 ?
 ![[image-20240301114130095.png|center|550]]
-<!--SR:!2024-04-04,20,250-->
+<!--SR:!2024-05-23,49,250-->
 

@@ -37,7 +37,7 @@ Représentation de la croissance a long terme avec le modèle AD/AS:
 
 ## Mesure de la croissance économique
 Le taux de croissance économique peut être calculé en utilisant la formule suivante ::$$\Large{\frac{\text{PIB}_{2}-\text{PIB}_{1}}{\text{PIB}_{1}}\times100}$$(PIB réel)
-<!--SR:!2024-04-04,68,230-->
+<!--SR:!2024-09-06,155,230-->
 
 ## Conséquences de la croissance économique
 Quelques conséquences positives et négative de la croissance économique sont (3):

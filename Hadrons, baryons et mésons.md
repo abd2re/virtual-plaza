@@ -17,12 +17,12 @@ Les deux types d'hadrons sont:
 Les baryons sont composées de:: 3 quarks (ex: proton et neutron)
 <!--SR:!2024-04-24,26,230-->
 Les mésons/anti-mésons sont composées de:: 1 quark et 1 anti-quark (ex: pions et kaons)
-<!--SR:!2024-04-04,15,230-->
+<!--SR:!2024-05-08,34,230-->
 Les anti-baryons sont composées de:: 3 anti-quarks
 <!--SR:!2024-04-09,16,244-->
 
 - Les baryons ont un nombre de baryons B=::+1
-<!--SR:!2024-04-05,16,250-->
+<!--SR:!2024-05-14,39,250-->
 - Les anti-baryons ont un nombre de baryons B=::-1
 <!--SR:!2024-04-25,31,284-->
 - Les particules qui ne sont pas des baryons (comme les mésons) ont un nombre de baryons B=:: 0

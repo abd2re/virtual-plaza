@@ -12,7 +12,7 @@ Created: 2023-02-14
 ## Désintégration $T_{1/2}$ ou période radioactive (demie-vie)
 ?
 C'est le temps au bout duquel la moitié des noyaux radioactifs d'un échantillon s'est désintégré.
-<!--SR:!2024-04-04,39,190-->
+<!--SR:!2024-06-16,73,190-->
 
 Formule de la masse finale d'une substance radioactive:
 ?
@@ -24,7 +24,7 @@ $$\lambda=\frac{\ln\left(\frac{A_{0}}{A}\right)}{t}=\frac{\ln2}{T_{1/2}}$$
 - $t$ =  temps passé
 - $\lambda$ = Constante de désintégration d'un noyau, probabilité de désintégration par unite de temps
 - $T_{1/2}$ = période radioactive de la substance (constant)
-<!--SR:!2024-04-04,29,190-->
+<!--SR:!2024-04-18,14,170-->
 
 Graphe de période radioactive:
 ?

@@ -12,5 +12,5 @@ Un schéma de données définit:: la manière dont les données sont organisées
 Représentation:
 ?
 ![[image-20240303172235364.png]]
-<!--SR:!2024-04-05,11,248-->
+<!--SR:!2024-05-01,26,248-->
 

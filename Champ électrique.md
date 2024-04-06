@@ -5,7 +5,7 @@ Created: 2022-11-24
 
 # Champ électrique
 On appelle champ électrique:: toute région de l'espace où une charge est soumis a une force électrique.
-<!--SR:!2024-04-04,84,150-->
+<!--SR:!2024-08-08,125,150-->
 
 Formules du Champ électrique (scalaire et vectorielle) =
 ?

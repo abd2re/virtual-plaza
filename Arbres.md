@@ -30,4 +30,4 @@ Created: 2024-01-27
 - Infixe:: Visite du nœud gauche, traitement du nœud, visite du nœud droit.
 <!--SR:!2024-04-08,44,250-->
 - Suffixe:: Visite du nœud gauche, visite du nœud droit, traitement du nœud.
-<!--SR:!2024-04-04,42,250-->
+<!--SR:!2024-07-17,104,250-->

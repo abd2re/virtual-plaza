@@ -6,7 +6,7 @@ Created: 2023-03-21
 # Energie de liaison du noyau
 
 - Les protons se repoussent a cause de :: l'intéraction électrostatique.
-<!--SR:!2024-04-04,171,230-->
+<!--SR:!2025-05-01,392,230-->
 - Les neutrons et les protons s'attirent a cause de :: l'intéraction forte.
 <!--SR:!2024-10-06,201,230-->
 
@@ -47,7 +47,7 @@ Représente la Courbe d'Aston
 ?
 La courbe d'Aston est la courbe $E_{A}$=f(A). Cette courbe permet de visualiser facilement les noyaux les plus stable puisque ceux-ci se trouvent en haut du graphe.
 ![[image-20230323182347196.png]]
-<!--SR:!2024-04-05,20,190-->
+<!--SR:!2024-05-12,37,190-->
 
 
 La courte portée de la force implique qu'un nucléon donné ne peut interagir avec ses voisins immédiats et non avec tous les nucléons du noyau. Ainsi, pour les gros noyaux (c'est-à-dire approximativement A > 20), chaque nucléon est entouré du même nombre de voisins immédiats et l'énergie nécessaire pour retirer ce nucléon du noyau est la même. C'est pourquoi, la nature à courte portée de la force nucléaire explique pourquoi l'énergie de liaison par nucléon est à peu près constante au-delà d'une certaine valeur de A.

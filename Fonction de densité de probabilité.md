@@ -7,7 +7,7 @@ Created: 2024-02-23
 # Fonction de densité de probabilité
 
 - Pour toute valeur de $x$, $f(x)$::$\geq 0$
-<!--SR:!2024-04-05,8,230-->
+<!--SR:!2024-04-09,4,210-->
 - L'aire en dessous du graphe est égale à:: 1.$$\int_{-\infty}^{\infty}f(x)\,dx=1$$
 <!--SR:!2024-04-14,24,230-->
 - $P(a\leq X\leq B)=P(a<X<b)=$::$$\int_{b}^{a}f(x)\,dx$$

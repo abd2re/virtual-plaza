@@ -7,7 +7,7 @@ Created: 2024-03-01
 # Développement
 
 C'est:: **une amélioration du niveau de vie général des personnes**, y compris la réduction de la pauvreté, un meilleur accès aux biens et services qui satisfont les besoins fondamentaux (nourriture, logement, soins de santé, éducation et assainissement), l'augmentation des possibilités d'emploi et la réduction des graves inégalités dans la répartition des revenus.
-<!--SR:!2024-04-05,15,210-->
+<!--SR:!2024-05-08,33,210-->
 
 ## Dimension matérielle du développement
 La croissance économique et la hausse des revenus qui en découle ne garantissent pas:: des améliorations équitables ou durables du bien-être humain.

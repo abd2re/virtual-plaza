@@ -18,4 +18,4 @@ De nombreux facteurs peuvent avoir un impact sur les taux de change, notamment (
 - Taux d'intérêt relatifs
 - Taux de croissance relatifs
 - Intervention de la banque centrale
-<!--SR:!2024-04-04,9,130-->
+<!--SR:!2024-04-17,13,130-->

@@ -19,7 +19,7 @@ C'est:: la force qui maintient le noyau (composées de quarks) ensemble.
 <!--SR:!2024-04-20,18,185-->
 
 L'interaction forte n'affecte que:: les hadrons.
-<!--SR:!2024-04-05,8,190-->
+<!--SR:!2024-04-18,13,190-->
 
 La particule d'échange de l'interaction forte est soit :
 ?

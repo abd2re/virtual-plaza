@@ -47,4 +47,4 @@ Réponses possibles du gouvernement(2):
 Effets des réponses possibles du gouvernement sur la courbe CMP:
 ?
 <iframe src="https://www.geogebra.org/material/iframe/id/kdvkd48v/width/586/height/515/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/true" allow="fullscreen" allowfullscreen="" style="height: 100%; width: 100%; aspect-ratio: 16 / 9;"></iframe>
-<!--SR:!2024-04-05,75,210-->
+<!--SR:!2024-09-09,157,210-->

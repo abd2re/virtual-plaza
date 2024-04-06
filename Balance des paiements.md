@@ -16,7 +16,7 @@ La balance des paiements (BdP) =:: Compte courant + Compte capital + Compte fina
 <!--SR:!2024-04-12,30,260-->
 
 - Le compte courant est:: un registre des transactions d'exportation, d'importation et de flux de revenus entre un pays et le reste du monde au cours d'une période donnée.
-<!--SR:!2024-04-04,18,206-->
+<!--SR:!2024-05-10,36,206-->
 - Le compte capitale est un:: enregistrement de tous les transferts de propriété du capital et d’autres actifs entre pays.
 <!--SR:!2024-04-13,10,148-->
 - Le compte financier est:: un enregistrement de toutes les transactions financières et des investissements directs entre les pays, ainsi que des réserves de change détenues par les banques centrales.

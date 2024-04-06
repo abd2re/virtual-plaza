@@ -86,7 +86,7 @@ Deux indicateurs sont:
 - Indice de développement humain ajusté aux inégalités (IDHI)
 - Indice d’inégalité de genre (IIG)
 - Indice Planète Heureuse (IPH)
-<!--SR:!2024-04-04,10,230-->
+<!--SR:!2024-04-28,24,230-->
 
 
 L'Indice d'inégalité de genre (IIG) tente de saisir les inégalités de genre en les mesurant dans trois aspects importants du développement humain :
@@ -94,7 +94,7 @@ L'Indice d'inégalité de genre (IIG) tente de saisir les inégalités de genre 
 - **santé reproductive** , indiquée par le taux de mortalité maternelle et les taux de natalité des adolescentes
 - **l'autonomisation** , indiquée par la proportion de sièges parlementaires occupés par des femmes et les proportions de femmes et d'hommes âgés de 25 ans et plus ayant fait des études secondaires
 - **statut économique** , indiqué par le taux d'activité des hommes et des femmes âgés de 15 ans et plus
-<!--SR:!2024-04-05,10,190-->
+<!--SR:!2024-04-22,17,190-->
 
 L'IPH comprend quatre dimensions et leurs indicateurs :
 ?
