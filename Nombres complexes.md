@@ -102,9 +102,9 @@ Nombre complexe forme polaire et exponentielle::$$\large{z=r(\cos\theta+i\sin\th
 - $z_{k}$=::$\sqrt[n]{|z|}\text{cis}\left(\frac{\theta}{n}+\frac{2k\pi}{n}\right)=\sqrt[n]{|z|}\exp\left(\frac{i(\theta +2k\pi)}{n}\right),\,k=0,1,2,...,n-1$
 <!--SR:!2024-04-12,11,130-->
 - $z+z^{*}=$::$2\text{Re}(z)$
-<!--SR:!2024-04-06,9,220-->
+<!--SR:!2024-04-27,21,220-->
 - $z-z^{*}=$::$2\text{Im}(z)$
-<!--SR:!2024-04-06,7,180-->
+<!--SR:!2024-04-18,12,180-->
 - $(z-w)(z-w^{*})$=::$z^{2}-2z\text{Re}(w)+|w|^{2}$
 <!--SR:!2024-05-09,49,174-->
 

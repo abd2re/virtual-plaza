@@ -28,6 +28,6 @@ La longueur d'onde $\lambda$ d'une onde stationnaire c'est deux fois la distance
 - Energie:: Pour une onde progressive il y a transport d'énergie mais pour une onde stationnaire il n'y a pas transport d'énergie et l'énergie est confinée.
 <!--SR:!2024-05-04,59,250-->
 - Différence de phase:: Comprise entre $0$ et $2\pi$ pour une onde progressive et pour une onde stationnaire tous les points d'un fuseau ont la meme phase et les points de fuseaux consécutifs ont un déphasage de $\pi$
-<!--SR:!2024-04-06,9,130-->
+<!--SR:!2024-04-17,11,130-->
 - Fréquence:: Tous les points oscillent avec la même fréquence (les deux) mais toutes les fréquences ne sont pas possibles avec les ondes stationnaires.
-<!--SR:!2024-04-06,8,130-->
+<!--SR:!2024-04-15,9,130-->

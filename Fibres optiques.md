@@ -9,7 +9,7 @@ Created: 2024-03-18
 Représentation générale avec angle d'acceptance et angle critique:
 ?
 ![[image-20240323185800999.png]]
-<!--SR:!2024-04-06,9,250-->
+<!--SR:!2024-04-28,22,250-->
 
 
 Formule angle critique $c$ par rapport à l'angle d'acceptance $\alpha$:

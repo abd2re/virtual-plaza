@@ -8,7 +8,7 @@ Created: 2024-01-27
 - Elles appartiennent à la catégorie des:: graphes
 <!--SR:!2024-07-03,94,250-->
 - Elles se composent de:: nœuds reliés par des arêtes.
-<!--SR:!2024-04-07,44,250-->
+<!--SR:!2024-07-25,109,250-->
 
 ## Terminologie relative à l'arbre binaire
 - Feuille:: Un nœud qui n'a pas d'enfant est appelé feuille.

@@ -11,7 +11,7 @@ Le développement durable est:: un développement qui répond aux besoins du pr�
 ## Importance de la résilience et de la culture pour le développement durable
 
 La résilience est:: la capacité d’un individu ou d’un système à faire face au changement et à continuer à se développer.
-<!--SR:!2024-04-06,21,250-->
+<!--SR:!2024-05-28,52,250-->
 
 Les 3 types de résilience sont:
 ?

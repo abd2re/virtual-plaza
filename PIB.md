@@ -49,7 +49,7 @@ Revenu = Production = Dépenses
 ## PNB
 ?
 Le PNB/RNB est la **valeur** des biens et services **produits** par les **nationaux** au cours d'une **période donnée**.
-<!--SR:!2024-04-07,22,141-->
+<!--SR:!2024-05-09,32,141-->
 
 Différence entre PIB et PNB:
 ?

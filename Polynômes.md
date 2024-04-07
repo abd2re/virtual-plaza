@@ -9,7 +9,7 @@ Created: 2023-10-27
 - $(x - k)$ est un facteur de $P(x)$ si:: $P(k)= 0$
 <!--SR:!2024-05-27,129,250-->
 - $P(k)=0$ si:: $(x-k)$ est un facteur de $P(x)$
-<!--SR:!2024-04-06,49,170-->
+<!--SR:!2024-06-27,82,170-->
 - $P(x)$=::$(x-k)\times Q(x)$, où $Q(x)$ est un polynôme qui est un facteur de $P(x)$
 <!--SR:!2024-05-07,114,250-->
 - $\frac{P(x)}{x-k}$=::$Q(x)$
@@ -41,7 +41,7 @@ Soit deux polynômes: $P(x)=a_{n}x^{n}+a_{n-1}x^{n-1}+\dots+a_{1}x+a_{0}$ qu'on 
 2. Multiplier le diviseur par ce terme. $$D(x)\times q_{m}x^{m}$$
 3. Soustraire ce résultat du polynôme d'origine. $$R(x)=P(x)-D(x)\times q_{m}x^{m}$$
 4. Répétez les étapes 1 à 3 en utilisant le nouveau polynôme $R(x)$ à la place de $P(x)$ jusqu'à ce que la soustraction aboutisse à une expression pour $R(x)$ dont le degré est inférieur à celui du diviseur.
-<!--SR:!2024-04-06,1,130-->
+<!--SR:!2024-04-07,1,130-->
 
 ### Division par des fonctions linéaires
 

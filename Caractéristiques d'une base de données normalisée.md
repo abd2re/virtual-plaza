@@ -13,4 +13,4 @@ Ils sont (5):
 - Sécurité accrue des données
 - Mises à jour plus efficaces
 - Meilleure organisation des tables
-<!--SR:!2024-04-07,1,170-->
+<!--SR:!2024-04-09,2,170-->

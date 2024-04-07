@@ -7,7 +7,7 @@ Created: 2024-03-22
 # Vecteurs
 ## Introduction aux vecteurs
 - Deux vecteurs sont parallèles si:: l'un est un multiple scalaire de l'autre.
-<!--SR:!2024-04-06,7,250-->
+<!--SR:!2024-04-23,17,250-->
 - Le vecteur position du point A s'écrit avec la notation $\vec{a}=$::$\overrightarrow{OA}$
 <!--SR:!2024-04-10,11,270-->
 - La magnitude d'un vecteur $|\vec{v}|=$::$\sqrt{v_{x}^{2}+v_{y}^{2}+v_{z}^{2}}$
@@ -37,13 +37,13 @@ Le produit scalaire de deux vecteurs donne des informations sur:: l'angle entre 
 - Si deux vecteurs sont perpendiculaires, le produit scalaire est:: nul.
 <!--SR:!2024-04-08,9,270-->
 - L'angle angle entre $\vec{v}$ et $\vec{w}$, $\theta=$::$$\large{\cos^{-1}\left(\frac{v_{x}w_{x}+v_{y}w_{y}+v_{z}w_{z}}{|\vec{v}||\vec{w}|}\right)}$$
-<!--SR:!2024-04-06,7,250-->
+<!--SR:!2024-04-23,17,250-->
 - Si un point $X$ divise un segment de droite $AB$ dans le rapport $p:q$, alors $\overrightarrow{AX}=$::$\frac{p}{p+q}\overrightarrow{AB}$
 <!--SR:!2024-04-08,9,270-->
 - Si le point $A$ a pour vecteur position $\vec{a}$ et le point $B$ a pour vecteur position $\vec{b}$, alors le vecteur position du milieu de $\overrightarrow{AB}$, $\overrightarrow{OM}=$::$\frac{1}{2}(\vec{a}+\vec{b})$
 <!--SR:!2024-04-10,11,270-->
 - Si le point $A$ a pour vecteur position $\vec{a}$ et le point $B$ a pour vecteur position $\vec{b}$, alors le vecteur de déplacement $\overrightarrow{AB}=$::$\vec{b}-\vec{a}$
-<!--SR:!2024-04-06,5,230-->
+<!--SR:!2024-04-16,10,230-->
 
 ## Equations vectorielles des droites
 La formule permettant de trouver l'équation vectorielle d'une droite est la suivante (2) (avec explications des variables):
@@ -89,7 +89,7 @@ Le produit vectoriel est un vecteur dans un plan qui est:: perpendiculaire aux d
 <!--SR:!2024-04-07,3,255-->
 
 Le produit vectoriel des deux vecteurs $\vec{v}\times\vec{w}$ peut être écrit sous forme de composantes comme suit::$$\large{\vec{v}\times\vec{w}=\begin{pmatrix}v_{2}w_{3}-v_{3}w_{2} \\ v_{3}w_{1}-v_{1}w_{3} \\ v_{1}w_{2}-v_{2}w_{1}\end{pmatrix}}$$
-<!--SR:!2024-04-06,1,215-->
+<!--SR:!2024-04-08,2,215-->
 La magnitude du produit vectoriel $|\vec{v}\times\vec{w}|$ est égale à::$$\large{|\vec{v}\times\vec{w}|=|\vec{v}||\vec{w}|\sin\theta}$$
 <!--SR:!2024-04-07,3,255-->
 

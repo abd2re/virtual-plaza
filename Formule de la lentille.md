@@ -33,7 +33,7 @@ $$\large{m=\frac{h_{i}}{h_{o}}=-\frac{v}{u}}$$
 <!--SR:!2024-04-07,16,210-->
 
 (convexe) Un grossissement positif implique que l'image est:: droite.
-<!--SR:!2024-04-06,19,190-->
+<!--SR:!2024-04-16,10,170-->
 (convexe) Un grossissement négatif implique que l'image est:: renversée.
 <!--SR:!2024-05-07,64,270-->
 

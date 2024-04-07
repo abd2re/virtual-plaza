@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Force conservative.md",
-                "mode": "source",
+                "file": "Inflation et ses causes.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Force conservative.md",
+                "file": "Inflation et ses causes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Force conservative.md",
+                "file": "Inflation et ses causes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Force conservative.md",
+                "file": "Inflation et ses causes.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Force conservative.md"
+                "file": "Inflation et ses causes.md"
               }
             }
           },
@@ -232,7 +232,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Force conservative.md"
+                "file": "Inflation et ses causes.md"
               }
             }
           },
@@ -285,7 +285,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Force conservative.md",
+                "file": "Inflation et ses causes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -366,12 +366,12 @@
   },
   "active": "6144cb01edf05946",
   "lastOpenFiles": [
+    "Force conservative.md",
     "Politiques d’offre fondées sur le marché pour accroître la concurrence.md",
     "Energie mécanique (énergie totale).md",
     "Chapitre 3 - Travail d'une force.md",
     "Energie cinétique.md",
     "Energies potentielles.md",
-    "Force conservative.md",
     "physics past papers.md",
     "Intégration.md",
     "Externalité de la production.md",

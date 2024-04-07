@@ -41,7 +41,7 @@ Tangente et normale pour une fonction représente:
 - $f(x)=e^{x}\rightarrow f'(x)=$::$e^{x}$
 <!--SR:!2024-07-28,147,250-->
 - $f(x)=\log_{a}(x)\rightarrow f'(x)=$::$\frac{1}{\ln(a)x}$
-<!--SR:!2024-04-06,16,130-->
+<!--SR:!2024-04-26,20,130-->
 - $f(x)=\ln(x)\rightarrow f'(x)=$::$\frac{1}{x}$
 <!--SR:!2024-05-13,99,250-->
 - $f(x)=\sin(x)\rightarrow f'(x)=$::$\cos(x)$

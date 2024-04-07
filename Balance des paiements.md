@@ -10,7 +10,7 @@ C'est:: un enregistrement de toutes les entrées et sorties monétaires d’un p
 <!--SR:!2024-04-09,16,168-->
 
 Les trois principales composantes de la balance des paiements sont:: le compte courant, le compte de capital et le compte financier.
-<!--SR:!2024-04-06,27,276-->
+<!--SR:!2024-06-21,76,276-->
 
 La balance des paiements (BdP) =:: Compte courant + Compte capital + Compte financier = 0
 <!--SR:!2024-04-12,30,260-->

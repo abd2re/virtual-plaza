@@ -45,7 +45,7 @@ Graphique
 <!--SR:!2024-04-23,37,210-->
 
 Si l'économie est dans un écart de recession, alors pour le combler il faut:: baisser les taux d'intérêts pour augmenter la demande et ramener la production d'équilibre au plein emploi.![[image-20231108093711743.png]]
-<!--SR:!2024-04-07,5,130-->
+<!--SR:!2024-04-14,7,130-->
 
 ### 2. Imprime de l'argent physique et frappe des pièces de monnaie
 La banque centrale imprime des billets et frappe des pièces pour (2) :
@@ -69,4 +69,4 @@ La Banque centrale peut émettre obligations pour:: lever des fonds pour finance
 - Un rôle important de la banque centrale est de réglementer banques commerciales pour s’assurer:: qu’elles ne prennent pas trop de risques.
 <!--SR:!2024-08-08,151,230-->
 - Le pouvoir de régulation le plus important d’une banque centrale est de:: fixer des réserves obligatoires.
-<!--SR:!2024-04-07,14,130-->
+<!--SR:!2024-04-23,16,130-->

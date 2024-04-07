@@ -56,10 +56,10 @@ Les inégalités économiques sont le plus souvent évaluées à travers:: l’i
 
 ### Indicateurs d'inégalité sociale
  Les indicateurs d’inégalité sociale mesurent:: les différences d’accès aux ressources, aux services et aux institutions selon les groupes démographiques.
-<!--SR:!2024-04-07,13,230-->
+<!--SR:!2024-05-06,29,230-->
  
 La discrimination fondée sur l'âge, le sexe, la caste, la religion, la race, le handicap et l'orientation sexuelle réduit l'accès de certains groupes aux:: outils dont ils ont besoin pour améliorer leur qualité de vie.
-<!--SR:!2024-04-06,13,250-->
+<!--SR:!2024-05-08,32,250-->
 
 ## Indicateurs uniques : énergie
 
